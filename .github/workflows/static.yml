@@ -32,7 +32,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: commit
-        if: ${{ steps.check_git_status.outputs.git_status != '' }}
         run: |
           cp -v /home/sotong/test/* ./docs/
       - name: Setup Pages
