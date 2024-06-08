@@ -31,13 +31,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: commit
+        if: ${{ steps.check_git_status.outputs.git_status != '' }}
+        run: |
+          cp -v /home/sotong/test/* ./docs/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'docs/'
+          path: './docs/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
