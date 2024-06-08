@@ -31,9 +31,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: commit
+      - name: RUN - Pull records
         run: |
-          cp -v /home/sotong/test/* ./docs/
+          cp -rv /home/sotong/test ./docs
+      - name: record
+        run: |
+          date >`date +%b%d_%Y_%H%M`.txt
+      - name: RUN - Save changes
+        run: |
+          cp -rv ./docs /home/sotong/test 
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
