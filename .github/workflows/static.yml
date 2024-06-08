@@ -34,6 +34,7 @@ jobs:
       - name: RUN - Pull records
         run: |
           rm -rvf ./docs
+          mkdir ./docs
           cp -rv /home/sotong/test/* ./docs/
       - name: record
         run: |
