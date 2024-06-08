@@ -35,13 +35,13 @@ jobs:
         run: |
           rm -rvf ./docs
           mkdir ./docs
-          cp -rv /home/sotong/test/* ./docs/
+          cp -rv /home/sotong/record/escu.ch/docs ./
       - name: record
         run: |
           date >./docs/`date +%b%d_%Y_%H%M`.txt
       - name: RUN - Save changes
         run: |
-          cp -rv ./docs/* /home/sotong/test/ 
+          cp -rv ./docs /home/sotong/record/escu.ch/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
