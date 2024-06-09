@@ -1,0 +1,59 @@
+{
+"background_color": "#000000",
+"description": "klo.lt @CuttleCity",
+"dir": "ltr",
+"display": "fullscreen",
+"name": "klo.lt",
+"orientation": "any",
+"scope": "/",
+"short_name": "Redirect",
+"start_url": "/",
+"theme_color": "#000000",
+"categories": [],
+"screenshots": [],
+"icons": [
+{
+"src": "/r/512.png",
+"type": "image/png",
+"sizes": "512x512",
+"purpose": "any"
+},
+{
+"src": "/r/maskable-512.png",
+"type": "image/png",
+"sizes": "512x512",
+"purpose": "maskable"
+},
+{
+"src": "/r/192.png",
+"type": "image/png",
+"sizes": "192x192",
+"purpose": "any"
+},
+{
+"src": "/r/180.png",
+"type": "image/png",
+"sizes": "180x180",
+"purpose": "any"
+},
+{
+"src": "/favicon.ico",
+"type": "image/x-icon",
+"sizes": "64x64",
+"purpose": "any"
+},
+{
+"src": "/r/32.png",
+"type": "image/png",
+"sizes": "32x32",
+"purpose": "any"
+},
+{
+"src": "/r/16.png",
+"type": "image/png",
+"sizes": "16x16",
+"purpose": "any"
+}
+],
+"shortcuts": []
+}

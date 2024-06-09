@@ -1,0 +1,5 @@
+# Make changes for all web spiders
+User-agent: *
+Allow: /$
+Allow: /index.html
+Disallow: /
