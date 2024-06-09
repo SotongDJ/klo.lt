@@ -45,7 +45,7 @@ def do_job(target_str,configing):
     print("    Start collection: Feed")
     print("        Feed: grab rss feed")
     headers = {'User-Agent': random.choice(user_agents)} 
-    print(headers)
+    print("            Header: {}".format(headers['User-Agent']))
     rss_req = requests.get(configing.rss,timeout=60,headers=headers)
     rss_req.encoding = 'utf-8'
     print("        Feed: convert XML and update dictionary")
@@ -92,7 +92,7 @@ def do_job(target_str,configing):
             safe_img_url = F"{path_name_str}-{file_name_str}"
             if safe_img_url not in url_to_file_dict:
                 print(F"request: {img_url} for '{name}'")
-                cover_img_r = requests.get(img_url,stream=True,timeout=60)
+                cover_img_r = requests.get(img_url,stream=True,timeout=60,headers=headers)
                 # content_type = cover_img_r.headers.get('Content-Type')
                 time.sleep(1)
                 if cover_img_r.text[:5] != "<?xml":
