@@ -95,14 +95,14 @@ def do_job(target_str,configing):
                 cover_img_r = requests.get(img_url,stream=True,timeout=60,headers=headers)
                 # content_type = cover_img_r.headers.get('Content-Type')
                 time.sleep(1)
-                if cover_img_r.text[:5] != "<?xml":
+                try:
                     cover_img_r.raw.decode_content = True
                     img_file = BytesIO(cover_img_r.content)
                     cover_img = Image.open(img_file)
                     h_name = hashlib.new('sha256')
                     h_name.update(cover_img.tobytes())
                     img_name = h_name.hexdigest()
-                else:
+                except:
                     print("            Access Denied to the file")
                     print("            Use default img instead")
                     img_name = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
