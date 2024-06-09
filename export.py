@@ -13,11 +13,11 @@ def do_job(target_str):
     print("----\nStart export")
     print("    ----")
     print("    load data")
-    title_fn_str = f"record/{target_str}/mid/annotation.toml"
+    title_fn_str = target_str+"/mid/annotation.toml"
     title_doc = rtoml.load(open(title_fn_str,encoding="utf8"))
-    keyword_fn_str = f"record/{target_str}/mid/keyword.toml"
+    keyword_fn_str = target_str+"/mid/keyword.toml"
     keyword_doc = rtoml.load(open(keyword_fn_str,encoding="utf8"))
-    month_fn_str = f"record/{target_str}/record/feedPodcast-month.toml"
+    month_fn_str = target_str+"/record/feedPodcast-month.toml"
     month_doc = rtoml.load(open(month_fn_str,encoding="utf8"))
     month_dict = {m:datetime.strptime(m,"%b %Y").strftime("%Y") for m in month_doc.values()}
     rvs_m_dict = {} # reverse_month_dict
@@ -43,7 +43,7 @@ def do_job(target_str):
     # title_list = []
     # total_int = len(title_doc.keys())
     print("    ----")
-    print(f"    export docs/{target_str}-playlist")
+    print("    export docs/"+target_str+"-playlist")
     playlist_dict = {}
     for key_str, value_dict in title_doc.items():
         value_inner_dict = {x:value_dict.get(x,y) for x,y in header_dict.items()}
@@ -60,11 +60,11 @@ def do_job(target_str):
 
     # with open("docs/blg-playlist.json","w") as target_handler:
     #     json.dump(playlist_dict,target_handler,indent=0,sort_keys=True)
-    with open(f"docs/{target_str}-playlist.toml","w",encoding="utf8") as target_handler:
+    with open("docs/"+target_str+"-playlist.toml","w",encoding="utf8") as target_handler:
         rtoml.dump(playlist_dict,target_handler)
 
     print("    ----")
-    print(f"    export docs/{target_str}-tag_class")
+    print("    export docs/"+target_str+"-tag_class")
     tag_to_class_dict = {x: [str(n) for n in y["category"]] for x, y in keyword_doc.items()}
     tag_to_class_dict.update({m: [F"{y}"] for m,y in month_dict.items()})
     tag_to_class_list = [F"\"{x}\": {y}" for x, y in tag_to_class_dict.items()]
@@ -76,7 +76,7 @@ def do_job(target_str):
     #     rtoml.dump(tag_to_class_dict,target_handler)
 
     print("    ----")
-    print(f"    export docs/{target_str}-class_tag")
+    print("    export docs/"+target_str+"-class_tag")
     class_to_tag_dict = {}
     class_to_tag_dict.update({F"{y}":m for y,m in reverse_dict.items()})
     for tag_name, entry_detail in keyword_doc.items():
@@ -94,7 +94,7 @@ def do_job(target_str):
     # with open("docs/blg-class_tag.toml","w") as target_handler:
     #     rtoml.dump(class_to_tag_dict,target_handler)
 
-    with open(f"docs/{target_str}-playlist.js","w",encoding="utf8") as target_handler:
+    with open("docs/"+target_str+"-playlist.js","w",encoding="utf8") as target_handler:
         target_handler.write(outer_str)
         target_handler.write(tag_to_class_str)
         target_handler.write(class_to_tag_str)

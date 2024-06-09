@@ -7,12 +7,12 @@ import configdo
 def do_job(target_str,configing):
     """Main thread"""
     print("----\nStart merge")
-    result_doc = rtoml.load(open(f"record/{target_str}/mid/history.toml",encoding="utf8"))
-    month_doc = rtoml.load(open(f"record/{target_str}/record/feedPodcast-month.toml",encoding="utf8"))
-    dscri_doc = rtoml.load(open(f"record/{target_str}/record/description.toml",encoding="utf8"))
+    result_doc = rtoml.load(open(target_str+"/mid/history.toml",encoding="utf8"))
+    month_doc = rtoml.load(open(target_str+"/record/feedPodcast-month.toml",encoding="utf8"))
+    dscri_doc = rtoml.load(open(target_str+"/record/description.toml",encoding="utf8"))
     name2id_dict = {}
-    alias_doc = rtoml.load(open(f"record/{target_str}/alias.toml",encoding="utf8"))
-    img_doc = rtoml.load(open(f"record/{target_str}/record/image.toml",encoding="utf8"))
+    alias_doc = rtoml.load(open(target_str+"/alias.toml",encoding="utf8"))
+    img_doc = rtoml.load(open(target_str+"/record/image.toml",encoding="utf8"))
     name2url_dict = img_doc["name2url"]
     url2file_dict = img_doc["url2file"]
     def adjust(input_str):

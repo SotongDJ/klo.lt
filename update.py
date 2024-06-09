@@ -55,14 +55,14 @@ def do_job(target_str,configing):
     month_dict = {}
     name2url_dict = {}
     url_to_file_dict = {}
-    if pathlib.Path(f"record/{target_str}/record/image.toml").exists():
-        img_doc = rtoml.load(open(f"record/{target_str}/record/image.toml",encoding="utf8"))
+    if pathlib.Path(target_str+"/record/image.toml").exists():
+        img_doc = rtoml.load(open(target_str+"/record/image.toml",encoding="utf8"))
         name2url_dict.update(img_doc["name2url"])
         url_to_file_dict.update(img_doc["url2file"])
     channel_cover_str = rss_feed.find("image").url.contents[0]  # type: ignore
     img_size_list = [96,128,192,256,384,512]
-    if pathlib.Path(f"record/{target_str}/record/description.toml").exists():
-        description_path = f"record/{target_str}/record/description.toml"
+    if pathlib.Path(target_str+"/record/description.toml").exists():
+        description_path = target_str+"/record/description.toml"
         description_dict.update(rtoml.load(open(description_path,encoding="utf8")))
     for unit in rss_feed.find_all('item'):
         name = unit.title.contents[0]
@@ -124,8 +124,8 @@ def do_job(target_str,configing):
         apple_req.encoding = 'utf-8'
         print("        Feed: convert HTML and update dictionary")
         apple_track = bs(apple_req.content,"lxml").find('ol',{'class':'tracks tracks--linear-show'})
-        if pathlib.Path(f"record/{target_str}/record/ApplePodcast.toml").exists():
-            apple_doc = rtoml.load(open(f"record/{target_str}/record/ApplePodcast.toml",encoding="utf8"))
+        if pathlib.Path(target_str+"/record/ApplePodcast.toml").exists():
+            apple_doc = rtoml.load(open(target_str+"/record/ApplePodcast.toml",encoding="utf8"))
             apple_record = {str(x):str(y) for x,y in apple_doc.items()}
         else:
             apple_record = {}
@@ -155,8 +155,8 @@ def do_job(target_str,configing):
         google_req.encoding = 'utf-8'
         google_track = bs(google_req.content,"lxml").find('div',{'jsname':'quCAxd'})
         print("        Feed: convert HTML and update dictionary")
-        if pathlib.Path(f"record/{target_str}/record/GooglePodcast.toml").exists():
-            google_doc = rtoml.load(open(f"record/{target_str}/record/GooglePodcast.toml",encoding="utf8"))
+        if pathlib.Path(target_str+"/record/GooglePodcast.toml").exists():
+            google_doc = rtoml.load(open(target_str+"/record/GooglePodcast.toml",encoding="utf8"))
             google_record = {str(x):str(y) for x,y in google_doc.items()}
         else:
             google_record = {}
@@ -178,7 +178,7 @@ def do_job(target_str,configing):
     if configing.spotify != "":
         print("    ----")
         print("    Start collection: Spotify")
-        spotify_toml_name = f"record/{target_str}/record/SpotifyPodcast.toml"
+        spotify_toml_name = target_str+"/record/SpotifyPodcast.toml"
         if pathlib.Path("secret.toml").exists():
             print("        Feed: grab rss feed")
             secret_docs = rtoml.load(open("secret.toml",encoding="utf8"))
@@ -246,8 +246,8 @@ def do_job(target_str,configing):
         youtube_req.encoding = 'utf-8'
         youtube_track = bs(youtube_req.content,"xml")
         print("        Feed: convert XML and update dictionary")
-        if pathlib.Path(f"record/{target_str}/record/YouTube.toml").exists():
-            youtube_doc = rtoml.load(open(f"record/{target_str}/record/YouTube.toml",encoding="utf8"))
+        if pathlib.Path(target_str+"/record/YouTube.toml").exists():
+            youtube_doc = rtoml.load(open(target_str+"/record/YouTube.toml",encoding="utf8"))
             youtube_record = {str(x):str(y) for x,y in youtube_doc.items()}
         else:
             youtube_record = {}
