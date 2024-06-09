@@ -34,14 +34,18 @@ jobs:
       - name: RUN - Pull records
         run: |
           rm -rvf ./docs
+          rm -rvf ./record
           mkdir ./docs
-          cp -rv /home/sotong/record/klo.lt/* ./
+          mkdir ./record
+          cp -rv /mnt/sd3/record/klo.lt/docs ./
+          cp -rv /mnt/sd3/record/klo.lt/record ./
       - name: record
         run: |
           cp -rv ./static_files/* ./docs/
       - name: RUN - Save changes
         run: |
-          cp -rv ./* /home/sotong/record/klo.lt/
+          cp -rv ./docs /mnt/sd3/record/klo.lt/
+          cp -rv ./record /mnt/sd3/record/klo.lt/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
