@@ -1,23 +1,12 @@
 var reverseShortDict = {
 "CFP2ASC": {
-"en": [
-"ASC",
-"CFP2ASC",
-"SST",
-"CFP2SST"
-],
+"en": ["ASC","CFP2ASC","SST","CFP2SST"],
 "hant": [
 "%E7%A5%9E%E4%BB%99%E8%A3%9C%E7%BF%92%E7%8F%AD"
 ]
 },
 "CFP2BLG": {
-"en": [
-"BLG",
-"BAILINGGUO",
-"CFP2BLG",
-"PSB",
-"PSBLG"
-],
+"en": ["BLG","BAILINGGUO","CFP2BLG","PSB","PSBLG"],
 "hant": [
 "%E7%99%BE%E9%9D%88%E6%9E%9C",
 "%E7%99%BE%E6%92%AD",
@@ -26,12 +15,7 @@ var reverseShortDict = {
 ]
 },
 "CFP2EXR": {
-"en": [
-"EXR",
-"EYE",
-"EYEXRADIO",
-"CFP2EXR"
-],
+"en": ["EXR","EYE","EYEXRADIO","CFP2EXR"],
 "hant": [
 "%E7%9C%BC%E7%90%83",
 "%0A%E7%9C%BC%E7%90%83%E5%9C%B0%E4%B8%8B%E9%9B%BB%E5%8F%B0",
@@ -40,44 +24,26 @@ var reverseShortDict = {
 ]
 },
 "CFP2JST": {
-"en": [
-"JST",
-"CFP2JST"
-],
+"en": ["JST","CFP2JST"],
 "hant": [
 "%E5%94%90%E9%99%BD%E9%9B%9E%E9%85%92%E5%B1%8B"
 ]
 },
 "ME": {
 "en": [
-"ME",
-"ABOUT",
-"ABOUT_ME"
-],
+"ME","ABOUT","ABOUT_ME"],
 "hant": [
 "%E9%97%9C%E6%96%BC",
 "%E9%97%9C%E6%96%BC%E6%88%91"
 ]
 },
 "PEAZIP": {
-"en": [
-"PEAZIP",
-"PEA",
-"PZ"
-],
-"hant": [
-"PEAZIP",
-"PEA",
-"PZ"
-]
+"en": ["PEAZIP","PEA","PZ"],
+"hant": ["PEAZIP","PEA","PZ"]
 },
 "WHITE": {
-"en": [
-"WHITE"
-],
-"hant": [
-"WHITE"
-]
+"en": ["WHITE"],
+"hant": ["WHITE"]
 }
 }
 var jumpDict = {
