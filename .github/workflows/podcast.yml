@@ -35,11 +35,8 @@ jobs:
       - name: RUN - Pull records
         run: |
           rm -rvf ./docs
-          rm -rvf ./record
           mkdir ./docs
-          mkdir ./record
           rsync -Pru /mnt/sd3/record/klo.lt/docs ./
-          rsync -Pru /mnt/sd3/record/klo.lt/record ./
       - name: record
         run: |
           rsync -Pru ./static_files/* ./docs/
@@ -126,7 +123,6 @@ jobs:
       - name: RUN - Save changes
         run: |
           rsync -Pru ./docs /mnt/sd3/record/klo.lt/
-          rsync -Pru ./record /mnt/sd3/record/klo.lt/
       - name: Setup Pages
         if: ${{ steps.check_git_status.outputs.git_status != '' }}
         uses: actions/configure-pages@v5
