@@ -7,10 +7,10 @@ import rtoml
 def do_job(target_str):
     """Main thread"""
     print("----\nStart annotation")
-    structure_doc = rtoml.load(open(target_str+"/mid/structure.toml",encoding="utf8"))
+    structure_doc = rtoml.load(open(f"record/{target_str}/mid/structure.toml",encoding="utf8"))
     keyword_dict = {}
     keyword_list = []
-    for keyword_path in sorted(list(pathlib.Path(target_str).glob('keyword-*.toml'))):
+    for keyword_path in sorted(list(pathlib.Path(f"record/{target_str}").glob('keyword-*.toml'))):
         print(f"Process: {keyword_path}")
         keyword_doc = rtoml.load(open(keyword_path,encoding="utf8"))
         unique_list = [n for n in keyword_doc.keys() if n not in keyword_list]
@@ -61,11 +61,11 @@ def do_job(target_str):
             episode_tag_list.extend(ent_de["category"])
             episode_table["category"] = episode_tag_list
             structure_doc[episode_str] = episode_table
-    with open(target_str+"/mid/keyword.toml","w",encoding="utf8") as target_handler:
+    with open(f"record/{target_str}/mid/keyword.toml","w",encoding="utf8") as target_handler:
         rtoml.dump(keyword_dict,target_handler)
-    with open(target_str+"/mid/annotation.toml","w",encoding="utf8") as target_handler:
+    with open(f"record/{target_str}/mid/annotation.toml","w",encoding="utf8") as target_handler:
         target_handler.write("# Add your own tag to each episode\n\n")
-    with open(target_str+"/mid/annotation.toml","a",encoding="utf8") as target_handler:
+    with open(f"record/{target_str}/mid/annotation.toml","a",encoding="utf8") as target_handler:
         rtoml.dump(structure_doc,target_handler)
     print("    ----\nEnd annotation")
 

@@ -109,12 +109,6 @@ jobs:
       - name: RUN - Save changes
         run: |
           cp -rv ./* /home/sotong/record/klo.lt/
-      - name: Checkout
-        if: ${{ steps.check_git_status.outputs.git_status != '' }}
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: main
       - name: Setup Pages
         if: ${{ steps.check_git_status.outputs.git_status != '' }}
         uses: actions/configure-pages@v5
