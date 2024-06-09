@@ -1,0 +1,118 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Update podcast content to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  # push:
+  #   branches: ["main"]
+
+  schedule:
+    - cron: "5 * * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: self-hosted
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: RUN - Pull records
+        run: |
+          rm -rvf ./docs
+          mkdir ./docs
+          cp -rv /home/sotong/record/klo.lt/* ./
+      - name: record
+        run: |
+          cp -rv ./static_files/* ./docs/
+      - name: check py requirements
+        run: |
+          pip3 install -r requirements.txt
+      - name: update rss feed source
+        env:
+          SPT_ID: ${{ secrets.spotify_client_id }}
+          SPT_SC: ${{ secrets.spotify_client_secret }}
+        run: |
+          python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
+          python3 update.py blg
+          sleep 10
+          python3 update.py exr
+          python3 update.py jst
+          sleep 9
+          python3 update.py sst
+      - name: merge feed source
+        run: |
+          python3 merge.py blg
+          python3 merge.py exr
+          python3 merge.py jst
+          python3 merge.py sst
+      - name: annotate feed with various info
+        run: |
+          python3 annotate.py blg > blg/filter.txt
+          python3 annotate.py exr > exr/filter.txt
+          python3 annotate.py jst > jst/filter.txt
+          python3 annotate.py sst > sst/filter.txt
+      - name: export feed into js file
+        run: |
+          python3 export.py blg
+          python3 export.py exr
+          python3 export.py jst
+          python3 export.py sst
+      - name: setup git config
+        env:
+          EMAIL: ${{ secrets.email }}
+          KEY: ${{ secrets.key }}
+        run: |
+          git config user.name "RSS Update Bot"
+          git config user.email "$EMAIL"
+      - name: check
+        id: check_git_status
+        run: |
+          echo "git_status="`git status --porcelain`
+          echo "git_status="`git status --porcelain` >> $GITHUB_OUTPUT
+      - name: commit
+        if: ${{ steps.check_git_status.outputs.git_status != '' }}
+        run: |
+          echo git_status: ${{ steps.check_git_status.outputs.git_status }}
+          git add -A
+          git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" [bot action]" && git push
+      - name: Echo
+        run: |
+          echo ${{ needs.build.outputs.git_status }}
+      - name: RUN - Save changes
+        run: |
+          cp -rv ./* /home/sotong/record/klo.lt/
+      - name: Checkout
+        if: ${{ steps.check_git_status.outputs.git_status != '' }}
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+      - name: Setup Pages
+        if: ${{ steps.check_git_status.outputs.git_status != '' }}
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        if: ${{ steps.check_git_status.outputs.git_status != '' }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './docs/'
+      - name: Deploy to GitHub Pages
+        if: ${{ steps.check_git_status.outputs.git_status != '' }}
+        id: deployment
+        uses: actions/deploy-pages@v4

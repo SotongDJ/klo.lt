@@ -3,8 +3,8 @@ name: Deploy static content to Pages
 
 on:
   # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
+  # push:
+  #   branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,13 +35,13 @@ jobs:
         run: |
           rm -rvf ./docs
           mkdir ./docs
-          cp -rv /home/sotong/record/klo.lt/docs ./
+          cp -rv /home/sotong/record/klo.lt/* ./
       - name: record
         run: |
           cp -rv ./static_files/* ./docs/
       - name: RUN - Save changes
         run: |
-          cp -rv ./docs /home/sotong/record/klo.lt/
+          cp -rv ./* /home/sotong/record/klo.lt/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

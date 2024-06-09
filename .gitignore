@@ -2,6 +2,15 @@
 docs/
 static_files/f
 
+# Exclude Requests
+*/record/*Requests.*
+
+# Exclude secret
+secret.toml
+
+# Exclude system files
+*.DS_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
