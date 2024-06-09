@@ -24,8 +24,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Single deploy job since we're just deploying
-  Update:
+  Initial:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -53,6 +52,12 @@ jobs:
           SPT_SC: ${{ secrets.spotify_client_secret }}
         run: |
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
+  Update:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: self-hosted
+    steps:
       - name: Update rss - update BLG
         run: |
           python3 update.py blg
@@ -77,16 +82,22 @@ jobs:
           python3 merge.py sst
       - name: Annotate feed with various info
         run: |
-          python3 annotate.py blg > blg/filter.txt
-          python3 annotate.py exr > exr/filter.txt
-          python3 annotate.py jst > jst/filter.txt
-          python3 annotate.py sst > sst/filter.txt
+          python3 annotate.py blg > record/blg/filter.txt
+          python3 annotate.py exr > record/exr/filter.txt
+          python3 annotate.py jst > record/jst/filter.txt
+          python3 annotate.py sst > record/sst/filter.txt
       - name: Export feed into js file
         run: |
           python3 export.py blg
           python3 export.py exr
           python3 export.py jst
           python3 export.py sst
+  Deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: self-hosted
+    steps:
       - name: Setup git config
         env:
           EMAIL: ${{ secrets.email }}
