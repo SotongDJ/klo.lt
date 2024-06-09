@@ -53,6 +53,7 @@ jobs:
         run: |
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
   Update:
+    needs: Initial
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -93,6 +94,7 @@ jobs:
           python3 export.py jst
           python3 export.py sst
   Deploy:
+    needs: Update
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
