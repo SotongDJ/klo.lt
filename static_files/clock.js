@@ -23,37 +23,10 @@ async function wake(){
   }
 }
 
-// source: https://github.com/sensor-js/sensor-js.github.io/blob/master/demo.html
-function handleOrientation(event) {
-  updateFieldIfNotNull('Orientation_a', event.alpha);
-  updateFieldIfNotNull('Orientation_b', event.beta);
-  updateFieldIfNotNull('Orientation_g', event.gamma);
-}
-
 function updateFieldIfNotNull(fieldName, value, precision=1){
   if (value != null)
     document.getElementById(fieldName).innerHTML = value.toFixed(precision);
 }
-
-let is_running = false;
-function orientationDetector() {
-  if (
-    DeviceMotionEvent &&
-    typeof DeviceMotionEvent.requestPermission === "function"
-  ) {
-    DeviceMotionEvent.requestPermission();
-  }
-  
-  if (is_running){
-    window.removeEventListener("deviceorientation", handleOrientation);
-    document.getElementById("orient").style.display = "none";
-    is_running = false;
-  }else{
-    window.addEventListener("deviceorientation", handleOrientation);
-    document.getElementById("orient").style.display = "block";
-    is_running = true;
-  }
-};
 
 function currentTime(precision=1) {
   let date_class = new Date();
@@ -116,14 +89,6 @@ function currentTime(precision=1) {
       document.getElementById("power").append(battery_str);
       document.getElementById("power").append(" ");
 
-      let orient = document.createElement("a");
-      orient.href = "javascript: void(orientationDetector())";
-      if (is_running){
-        orient.appendChild(fontAwe("fa-solid fa-pen-ruler fa-fw"));
-      } else {
-        orient.appendChild(fontAwe("fa-solid fa-ruler fa-fw"));
-      }
-      document.getElementById("power").appendChild(orient);
     };
   });
 
