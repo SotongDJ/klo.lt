@@ -32,7 +32,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: RUN - Pull records
+      - name: Pull records
         run: |
           rsync -Pru /mnt/sd3/record/klo.lt/docs ./
           rsync -Pru /mnt/sd3/record/klo.lt/record/blg/record ./record/blg/
@@ -122,13 +122,20 @@ jobs:
       - name: Echo status
         run: |
           echo ${{ needs.build.outputs.git_status }}
-      - name: RUN - Save changes
+      - name: Save changes
         run: |
           rsync -Pru ./docs /mnt/sd3/record/klo.lt/
           rsync -Pru ./record/blg/record /mnt/sd3/record/klo.lt/record/blg/
           rsync -Pru ./record/exr/record /mnt/sd3/record/klo.lt/record/exr/
           rsync -Pru ./record/jst/record /mnt/sd3/record/klo.lt/record/jst/
           rsync -Pru ./record/sst/record /mnt/sd3/record/klo.lt/record/sst/
+      - name: Backup changes
+        run: |
+          if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b_%Y.7z'` ]; then
+              echo "Creating baseline archive: "`TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt_%b-%Y.7z'`
+              7z a `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt
+          fi
+          7z d `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt -o`TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b_%Y-%H%M.7z'`
       - name: Setup Pages
         if: ${{ steps.check_git_status.outputs.git_status != '' }}
         uses: actions/configure-pages@v5
