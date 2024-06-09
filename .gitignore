@@ -1,6 +1,6 @@
 # Exclude
 docs/
-record/
+record/*/record/
 static_files/f
 
 # Exclude Requests
