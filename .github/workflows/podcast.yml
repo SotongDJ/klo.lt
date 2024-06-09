@@ -38,11 +38,11 @@ jobs:
           rm -rvf ./record
           mkdir ./docs
           mkdir ./record
-          cp -rv /mnt/sd3/record/klo.lt/docs ./
-          cp -rv /mnt/sd3/record/klo.lt/record ./
+          rsync -Pru /mnt/sd3/record/klo.lt/docs ./
+          rsync -Pru /mnt/sd3/record/klo.lt/record ./
       - name: record
         run: |
-          cp -rv ./static_files/* ./docs/
+          rsync -Pru ./static_files/* ./docs/
       - name: check py requirements
         run: |
           pip3 install -r requirements.txt
@@ -124,8 +124,8 @@ jobs:
           echo ${{ needs.build.outputs.git_status }}
       - name: RUN - Save changes
         run: |
-          cp -rv ./docs /mnt/sd3/record/klo.lt/
-          cp -rv ./record /mnt/sd3/record/klo.lt/
+          rsync -Pru ./docs /mnt/sd3/record/klo.lt/
+          rsync -Pru ./record /mnt/sd3/record/klo.lt/
       - name: Setup Pages
         if: ${{ steps.check_git_status.outputs.git_status != '' }}
         uses: actions/configure-pages@v5
