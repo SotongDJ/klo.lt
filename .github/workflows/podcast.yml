@@ -24,7 +24,8 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  Initial:
+  # Single deploy job since we're just deploying
+  Update:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -49,9 +50,6 @@ jobs:
           SPT_SC: ${{ secrets.spotify_client_secret }}
         run: |
           python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
-  Update:
-    runs-on: self-hosted
-    steps:
       - name: Update rss - update BLG
         run: |
           python3 update.py blg
@@ -86,12 +84,6 @@ jobs:
           python3 export.py exr
           python3 export.py jst
           python3 export.py sst
-  Deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: self-hosted
-    steps:
       - name: Setup git config
         env:
           EMAIL: ${{ secrets.email }}
