@@ -46,8 +46,8 @@ jobs:
               echo "Creating baseline archive: "`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt_%b-%Y.7z'`
               7z a -r `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt
           fi
-          echo 7z u `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt -u- -\"up1q1r3x1y1z0w1"!"\"`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%d_%Y-%H.7z'`
-          7z u `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt -u- -"up1q1r3x1y1z0w1!"`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%d_%Y-%H.7z'`
+          echo 7z u `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt -u- -\"up1q1r3x1y1z0w1"!"\"`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%d_%Y-%H%M.7z'`
+          7z u `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt -u- -"up1q1r3x1y1z0w1!"`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%d_%Y-%H%M.7z'`
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
