@@ -91,7 +91,7 @@ function currentTime(precision=1) {
       document.getElementById("power").append("·");
       let blgemoji = document.createElement("span");
       blgemoji.className = "mirror";
-      innerText = "👌";
+      blgemoji.innerText = "👌";
       let blg = document.createElement("a");
       blg.className = "podbtn";
       blg.href = "/blg/";
