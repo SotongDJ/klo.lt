@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="color-scheme" content="dark light" />
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
+<!-- Summary -->
+<title>klo.lt - BLG 百靈果播放室</title>
+<link rel="stylesheet" href="/blg/blg.css?v=8" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@klolt_podcast">
+<meta name="twitter:creator" content="@klolt_podcast">
+<meta property="og:url" content="https://klo.lt/blg/">
+<meta property="og:title" content="BLG 百靈果播放室">
+<meta property="og:description" content="klo.lt - BLG 百靈果播放室">
+<meta property="og:image" content="https://klo.lt/r/maskable-512.png">
+<meta property="og:image:alt" content="百靈果">
+<meta property="og:site_name" content="klo.lt">
+<meta property="og:type" content="profile">
+<meta property="profile:username" content="klo.lt">
+<!-- Resource -->
+<link rel="stylesheet" href="/f/icon.css?v=8" />
+<link rel="stylesheet" href="/f/font.css?v=8" />
+<link rel="stylesheet" href="/podcast/main.css?v=8" />
+<!-- Favicon -->
+<link rel="manifest" href="/site.webmanifest" />
+<link rel="apple-touch-icon" sizes="180x180" href="/r/180.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/r/32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/r/16.png" />
+<link rel="icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico" />
+</head>
+<body onload="resizeDiv()" class="neutral highContrast">
+<div id="contentdiv" class="centerise" 
+ style="grid-template-rows:min-content 0px 0px 0px 1fr 0px min-content 0px;">
+<div class="tittlebar">
+<h1 id="titleH1" class="titleH1">
+<a href="https://klo.lt/" target="info" title="All klo.lt 所有播放室">klo.lt</a>　
+<a id="titleSec" target="info">
+<span id="titleEmoji" class="mirror"></span>　
+<span id="titleESpan"></span> <span id="titleCSpan" class="playerPost"></span>
+</a>
+<span class="playerPost">播放室</span>
+</h1>
+<div class="funcContent">
+<div class="tagBar">
+<span id="titleSpan" class="titleSpan">
+<a href="https://klo.lt/" target="info" title="All klo.lt 所有播放室" 
+ class="linkDecor activeBtn tagBorder">klo.lt</a>
+<a id="sitleSec" target="info" class="linkDecor activeBtn tagBorder">
+<span id="sitleEmoji" class="mirror"></span> <span id="sitleESpan"></span> </a>
+<span>｜</span></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javascript:void(toggleMoreOpt())" class="white">
+<i id="moreI" class="fa-solid fa-bars fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javascript:void(toggleTag())" class="white">
+<i id="tagI" class="fa-solid fa-tags fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javascript:void(toggleSort())" class="white">
+<i id="sortM" class="fa-solid fa-sort fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javascript:void(toggleColour())" class="white">
+<i id="colourM" class="fa-solid fa-cloud fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javascript:void(toggleContrast())" class="white">
+<i id="contraM" class="fa-solid fa-circle-half-stroke fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="/blg/" class="white">
+<i class="fa-solid fa-rotate fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="https://instagram.com/klolt_podcast/" class="white" target="info">
+<i class="fa-solid fa-circle-info fa-fw"></i></a></span>
+
+</div>
+</div>
+</div>
+
+<div id="morePage" class="morePage" style="visibility:hidden;">
+<div id="shareTag" class="tagBorder activeBtn buttonDiv" style="display:none;">
+<i class="fa-solid fa-share-alt fa-fw"></i>·<i class="fa-solid fa-tags fa-fw"></i>
+<a class="activeBtn" href="javascript:void(shareTags())" class="white"> 分享標籤 <span id="tagSpan"></span></a></div>
+
+<div id="shareEpi" class="tagBorder activeBtn buttonDiv" style="display:none;">
+<i class="fa-solid fa-share-alt fa-fw"></i>·<i class="fa-solid fa-file-audio fa-fw"></i>
+<a class="activeBtn" href="javascript:void(shareNow())" class="white"> 分享本集 </a></div>
+
+<div id="shareCuT" class="tagBorder activeBtn buttonDiv" style="display:none;">
+<i class="fa-solid fa-share-alt fa-fw"></i>·<i class="fa-solid fa-stopwatch fa-fw"></i>
+<a class="activeBtn" href="javascript:void(shareNow(1))" class="white"> 分享此刻 <span id="cuTSpan"></span></a></div>
+
+<div id="shareResultDiv" class="tagBorder activeBtn buttonDiv" style="display:none;">
+<i class="fa-solid fa-circle-xmark fa-fw"></i>
+<a class="activeBtn" href="javascript:void(clearShare())"><span id="shareResultA"></span></a>：<a id="shareLink">Link</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-tags fa-fw"></i>
+<a class="activeBtn" id="tagA" href="javascript:void(toggleTag())">標籤</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i id="sortI" class="fa-solid fa-sort fa-fw"></i>
+<a id="sortA" class="activeBtn" href="javascript:void(toggleSort())">排序</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i id="colourI" class="fa-solid fa-cloud fa-fw"></i>
+<a id="colourA" class="activeBtn" href="javascript:void(toggleColour())">預設晝夜</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i id="contraI" class="fa-solid fa-circle-half-stroke fa-fw"></i>
+<a id="contraA" class="activeBtn" href="javascript:void(toggleContrast())">對比</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-brands fa-instagram fa-fw"></i>
+<a class="activeBtn" href="https://instagram.com/klolt_podcast" target="info">埃居</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-trash-can fa-fw"></i>
+<a class="activeBtn" href="/blg/?do=reset">重置本站</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-rotate fa-fw"></i>
+<a class="activeBtn" href="/blg/">重新更新</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-envelope fa-fw"></i>
+<a id="emailA" class="activeBtn">回饋</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-life-ring fa-fw"></i>
+<a id="infoA" class="activeBtn" target="info">指南</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-circle-info fa-fw"></i>
+<a id="aboutA" class="activeBtn" target="info">關於</a></div>
+
+</div>
+
+<div id="tagindex" class="tagIndex">
+<div id="indexbar" class="indexSection"></div>
+</div>
+
+<div class="tagContent">
+<div id="tagbar" class="tagBar" style="visibility:hidden;">
+<span id="unionSpan" class="buttonDiv"></span>
+<span id="tagnote">標籤</span>
+<span id="taglist"></span>
+<a href="javascript:void(toggleMoreOpt())" class="linkDecor activeBtn tagBorder"><i class="fa-solid fa-share-alt fa-fw"></i></a>
+<input id="share_content" type="hidden"></input>
+</div>
+</div>
+
+<div id="playlistContain" class="container">
+<div id="playlist" class="plain"></div>
+</div>
+
+<div id="detailContain" class="container" style="visibility: hidden;"></div>
+
+<div id="playerbar" class="playerbar">
+<a id="popA" style="margin: auto;"><div id="popPiP" class="popPiP"></div></a>
+<div class="playInfoSec">
+<div class="tagBar" style="visibility:visible;overflow:auto;width:100%;">
+<span id="tracktitle"><i class="fa-solid fa-circle-minus fa-fw"></i> 未選擇集數：請點選任意集數播放</span>
+</div>
+<div id="seeker" class="seeker">
+<div id="controlBar" class="controlBar">
+<div id="currentTime" style="text-align:right;width:100%;"></div>
+<input id="slider" style="width:100%;" type="range" min="0" step="1" value="" aria-label="Audio">
+<div id="totalTimer" style="text-align:left;width:100%;"></div>
+</div>
+<span class="tagBorder" style="display:grid; grid-template-columns: repeat(5, 1fr); height: min-content; margin: auto;">
+<a href="javascript: void(doPrev())" class="linkDecor activeBtn"><i class="fa-solid fa-backward-step fa-fw"></i></a>
+<a href="javascript: void(seakBack({}))" class="linkDecor activeBtn"><i class="fa-solid fa-rotate-left fa-fw"></i></a>
+<a href="javascript: void(mixPlay())" id="playBtn" class="linkDecor activeBtn" style="display: block;"><i class="fa-solid fa-play fa-fw"></i></a>
+<a href="javascript: void(mixPause())" id="pauseBtn" class="linkDecor activeBtn" style="display: none;"><i class="fa-solid fa-pause fa-fw"></i></a>
+<a href="javascript: void(seakForw({}))" class="linkDecor activeBtn"><i class="fa-solid fa-rotate-right fa-fw"></i></a>
+<a href="javascript: void(doNext())" class="linkDecor activeBtn"><i class="fa-solid fa-forward-step fa-fw"></i></a>
+</span>
+</div>
+</div>
+</div>
+
+<div><audio id="player" preload="metadata"></audio></div>
+
+</div>
+<script src="/site.js?v=8"></script>
+<script src="/blg/blg.js?v=8"></script>
+<script src="https://klo.lt/blg-playlist.js?v=8"></script>
+<script src="/podcast/main.js?v=8"></script>
+</body>
+</html>

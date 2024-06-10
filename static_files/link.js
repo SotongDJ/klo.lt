@@ -5,8 +5,8 @@ var reverseShortDict = {
 "%E7%A5%9E%E4%BB%99%E8%A3%9C%E7%BF%92%E7%8F%AD"
 ]
 },
-"CFP2BLG": {
-"en": ["BLG","BAILINGGUO","CFP2BLG","PSB","PSBLG"],
+"KLOLTBLG": {
+"en": ["BLG","BAILINGGUO","KLOLTBLG","CFP2BLG","PSB","PSBLG"],
 "hant": [
 "%E7%99%BE%E9%9D%88%E6%9E%9C",
 "%E7%99%BE%E6%92%AD",
@@ -52,10 +52,10 @@ var jumpDict = {
 "hant": "\u975e\u5b98\u65b9\u300a\u795e\u4ed9\u88dc\u7fd2\u73ed\u300b\u64ad\u653e\u5ba4",
 "url": "https://xn--158h.xn--2os22eixx6na.xn--kpry57d/"
 },
-"CFP2BLG": {
-"en": "Cuttle Fish Podcast Player for Bailingguo",
+"KLOLTBLG": {
+"en": "klo.lt Podcast Player for Bailingguo",
 "hant": "\u975e\u5b98\u65b9\u300a\u767e\u9748\u679c\u300b\u64ad\u653e\u5ba4",
-"url": "https://xn--xp8h.xn--2os22eixx6na.xn--kpry57d/"
+"url": "https://klo.lt/blg/"
 },
 "CFP2EXR": {
 "en": "Cuttle Fish Podcast Player for Eye X Radio",
