@@ -31,7 +31,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: record
+      - name: Pull records
+        run: |
+          rsync -Pru /mnt/sd3/record/klo.lt/docs ./
+      - name: Deploy statics
         run: |
           rsync -Pru ./static_files/* ./docs/
       - name: RUN - Save changes
