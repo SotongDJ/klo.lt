@@ -131,11 +131,12 @@ jobs:
           rsync -Pru ./record/sst/record /mnt/sd3/record/klo.lt/record/sst/
       - name: Backup changes
         run: |
-          if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b.7z'` ]; then
-              echo "Creating baseline archive: "`TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt_%b-%Y.7z'`
-              7z a -r `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b.7z'` /mnt/sd3/record/klo.lt
+          if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` ]; then
+              echo "Creating baseline archive: "`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt_%b-%Y.7z'`
+              7z a -r `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt
           fi
-          7z d -r `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b.7z'` /mnt/sd3/record/klo.lt -o`TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b_%Y-%H%M.7z'`
+          echo 7z u `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt -u- -\"up1q1r3x1y1z0w1"!"\"`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%d_%Y-%H.7z'`
+          7z u `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` /mnt/sd3/record/klo.lt -u- -"up1q1r3x1y1z0w1!"`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%d_%Y-%H.7z'`
       - name: Setup Pages
         if: ${{ steps.check_git_status.outputs.git_status != '' }}
         uses: actions/configure-pages@v5
