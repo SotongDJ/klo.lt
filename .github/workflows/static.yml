@@ -40,6 +40,13 @@ jobs:
       - name: RUN - Save changes
         run: |
           rsync -Pru ./docs /mnt/sd3/record/klo.lt/
+      - name: Backup changes
+        run: |
+          if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b.7z'` ]; then
+              echo "Creating baseline archive: "`TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt_%b-%Y.7z'`
+              7z a `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b.7z'` /mnt/sd3/record/klo.lt
+          fi
+          7z d `TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b.7z'` /mnt/sd3/record/klo.lt -o`TZ='<UTC+8>-8' date +'/mnt/sd3/record/klolt-%b_%Y-%H%M.7z'`
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
