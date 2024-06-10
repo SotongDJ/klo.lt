@@ -33,13 +33,13 @@ jobs:
         uses: actions/checkout@v4
       - name: Pull records
         run: |
-          rsync -Pru /mnt/sd3/record/klo.lt/docs ./
+          rsync -Prc /mnt/sd3/record/klo.lt/docs ./
       - name: Deploy statics
         run: |
-          rsync -Pru ./static_files/* ./docs/
+          rsync -Prc ./static_files/* ./docs/
       - name: RUN - Save changes
         run: |
-          rsync -Pru ./docs /mnt/sd3/record/klo.lt/
+          rsync -Prc ./docs /mnt/sd3/record/klo.lt/
       - name: Backup changes
         run: |
           if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` ]; then

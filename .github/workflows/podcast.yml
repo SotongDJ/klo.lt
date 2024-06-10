@@ -34,14 +34,14 @@ jobs:
         uses: actions/checkout@v4
       - name: Pull records
         run: |
-          rsync -Pru /mnt/sd3/record/klo.lt/docs ./
-          rsync -Pru /mnt/sd3/record/klo.lt/record/blg/record ./record/blg/
-          rsync -Pru /mnt/sd3/record/klo.lt/record/exr/record ./record/exr/
-          rsync -Pru /mnt/sd3/record/klo.lt/record/jst/record ./record/jst/
-          rsync -Pru /mnt/sd3/record/klo.lt/record/sst/record ./record/sst/
+          rsync -Prc /mnt/sd3/record/klo.lt/docs ./
+          rsync -Prc /mnt/sd3/record/klo.lt/record/blg/record ./record/blg/
+          rsync -Prc /mnt/sd3/record/klo.lt/record/exr/record ./record/exr/
+          rsync -Prc /mnt/sd3/record/klo.lt/record/jst/record ./record/jst/
+          rsync -Prc /mnt/sd3/record/klo.lt/record/sst/record ./record/sst/
       - name: record
         run: |
-          rsync -Pru ./static_files/* ./docs/
+          rsync -Prc ./static_files/* ./docs/
       - name: check py requirements
         run: |
           pip3 install -r requirements.txt
@@ -124,11 +124,11 @@ jobs:
           echo ${{ needs.build.outputs.git_status }}
       - name: Save changes
         run: |
-          rsync -Pru ./docs /mnt/sd3/record/klo.lt/
-          rsync -Pru ./record/blg/record /mnt/sd3/record/klo.lt/record/blg/
-          rsync -Pru ./record/exr/record /mnt/sd3/record/klo.lt/record/exr/
-          rsync -Pru ./record/jst/record /mnt/sd3/record/klo.lt/record/jst/
-          rsync -Pru ./record/sst/record /mnt/sd3/record/klo.lt/record/sst/
+          rsync -Prc ./docs /mnt/sd3/record/klo.lt/
+          rsync -Prc ./record/blg/record /mnt/sd3/record/klo.lt/record/blg/
+          rsync -Prc ./record/exr/record /mnt/sd3/record/klo.lt/record/exr/
+          rsync -Prc ./record/jst/record /mnt/sd3/record/klo.lt/record/jst/
+          rsync -Prc ./record/sst/record /mnt/sd3/record/klo.lt/record/sst/
       - name: Backup changes
         run: |
           if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b_%Y.7z'` ]; then
