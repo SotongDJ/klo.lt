@@ -31,21 +31,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: RUN - Pull records
-        run: |
-          rm -rvf ./docs
-          rm -rvf ./record
-          mkdir ./docs
-          mkdir ./record
-          cp -rv /mnt/sd3/record/klo.lt/docs ./
-          cp -rv /mnt/sd3/record/klo.lt/record ./
       - name: record
         run: |
-          cp -rv ./static_files/* ./docs/
+          rsync -Pru ./static_files/* ./docs/
       - name: RUN - Save changes
         run: |
-          cp -rv ./docs /mnt/sd3/record/klo.lt/
-          cp -rv ./record /mnt/sd3/record/klo.lt/
+          rsync -Pru ./docs /mnt/sd3/record/klo.lt/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
