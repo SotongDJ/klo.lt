@@ -87,8 +87,19 @@ function currentTime(precision=1) {
         document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-empty fa-fw"));
       };
       document.getElementById("power").append(battery_str);
-      document.getElementById("power").append(" ");
+      
+      document.getElementById("power").append("·");
+      let blgemoji = document.createElement("span");
+      blgemoji.className = "mirror";
+      innerText = "👌";
+      let blg = document.createElement("a");
+      blg.className = "podbtn";
+      blg.href = "/blg/";
+      blg.appendChild(blgemoji);
+      blg.append("BLG");
+      document.getElementById("power").appendChild(blg);
 
+      document.getElementById("power").append(" ");
     };
   });
 

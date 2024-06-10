@@ -54,7 +54,14 @@ width: 55vw;
 height: 40vh;
 }
 }
-    
+
+.podbtn{ text-decoration: none; }
+.mirror{
+font-family:"Noto Emoji";
+display:inline-block;
+transform:matrix(-1, 0, 0, 1, 0, 0);
+}
+
 .bar {
 background: white;
 color: black;
