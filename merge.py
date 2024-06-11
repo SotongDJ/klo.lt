@@ -21,8 +21,8 @@ def do_job(target_str,configing):
             replace_str = replace_str.replace(from_str,to_str)
         output_str = " ".join([n for n in replace_str.split(" ") if n != ""])
         return output_str
-    def correct(input_str,max_int=0):
-        max_len_int = len(str(max_int))
+    def correct(input_str,target_title=target_str,max_int=5):
+        max_len_int = max_int # len(str(max_int))
         replace_str = adjust(input_str)
         if alias_doc.get(replace_str,"") != "":
             id_str = alias_doc[replace_str]
@@ -31,7 +31,7 @@ def do_job(target_str,configing):
             current_int = len(name2id_dict)+1
             current_len_int = len(str(current_int))
             addup_str = "0"*(max_len_int-current_len_int)
-            id_str = F"time{addup_str}{current_int}"
+            id_str = F"{target_str}{addup_str}{current_int}"
             name2id_dict[replace_str] = id_str
         else:
             id_str = name2id_dict[replace_str]
@@ -45,8 +45,8 @@ def do_job(target_str,configing):
         for index_int in range(title_list_int):
             title_str = title_list[title_list_int-index_int-1]
             link_str = podcast_dict[title_str]
-            id_str = correct(title_str,max_int=title_list_int)
-            time_str = id_str.replace("extra","time")
+            id_str = correct(title_str)
+            time_str = id_str.replace("extra",target_str)
             title_episode_dict = title_dict.get(time_str,{})
             if "extra" in id_str:
                 name_dict = title_episode_dict.get("extra",{})
