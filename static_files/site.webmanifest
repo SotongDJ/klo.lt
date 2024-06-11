@@ -10,7 +10,37 @@
 "start_url": "/",
 "theme_color": "#000000",
 "categories": [],
-"screenshots": [],
+
+"screenshots": [
+    {
+    "src": "static_files/screenshot/landscape_dark.jpg",
+    "sizes": "915x412",
+    "type": "image/jpeg",
+    "platform": "wide",
+    "label": "Landscape in dark theme"
+    },
+    {
+    "src": "static_files/screenshot/landscape_light.jpg",
+    "sizes": "915x412",
+    "type": "image/jpeg",
+    "platform": "wide",
+    "label": "Landscape in light theme"
+    },
+    {
+    "src": "static_files/screenshot/portrait_dark.jpg",
+    "sizes": "915x412",
+    "type": "image/jpeg",
+    "platform": "narrow",
+    "label": "Portrait in dark theme"
+    },
+    {
+    "src": "static_files/screenshot/portrait_light.jpg",
+    "sizes": "915x412",
+    "type": "image/jpeg",
+    "platform": "narrow",
+    "label": "Portrait in light theme"
+    }
+],
 "icons": [
 {
 "src": "/r/512.png",
