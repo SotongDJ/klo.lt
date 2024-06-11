@@ -138,7 +138,7 @@ visibility:hidden;
 .entry{
 margin:0;
 padding:.25rem .5rem;
-width:17rem;
+width:16rem;
 }
 @media (min-width:401px) {
 .tagBtn{
