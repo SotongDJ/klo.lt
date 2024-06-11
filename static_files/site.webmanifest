@@ -13,29 +13,29 @@
 
 "screenshots": [
     {
-    "src": "static_files/screenshot/landscape_dark.jpg",
+    "src": "/screenshot/landscape_dark.jpg",
     "sizes": "915x412",
     "type": "image/jpeg",
     "platform": "wide",
     "label": "Landscape in dark theme"
     },
     {
-    "src": "static_files/screenshot/landscape_light.jpg",
+    "src": "/screenshot/landscape_light.jpg",
     "sizes": "915x412",
     "type": "image/jpeg",
     "platform": "wide",
     "label": "Landscape in light theme"
     },
     {
-    "src": "static_files/screenshot/portrait_dark.jpg",
-    "sizes": "915x412",
+    "src": "/screenshot/portrait_dark.jpg",
+    "sizes": "412x915",
     "type": "image/jpeg",
     "platform": "narrow",
     "label": "Portrait in dark theme"
     },
     {
-    "src": "static_files/screenshot/portrait_light.jpg",
-    "sizes": "915x412",
+    "src": "/screenshot/portrait_light.jpg",
+    "sizes": "412x915",
     "type": "image/jpeg",
     "platform": "narrow",
     "label": "Portrait in light theme"
