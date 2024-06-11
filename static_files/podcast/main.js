@@ -390,7 +390,6 @@ if (show_spotify) {
 if (show_youtube) {
   controlSpan.appendChild(link(playlist[tar]["youtube"],[fontAwe("fa-brands fa-youtube fa-fw")],"podcast"));
 }
-controlSpan.appendChild(link(playlist[tar]["feed"],[fontAwe("fa-solid fa-file-audio fa-fw")],"podcast"));
 buttonPdom.appendChild(controlSpan);
 var shareSpan = document.createElement('span');
 shareSpan.className = "tagBorder";
@@ -803,6 +802,7 @@ if (show_spotify) {
 if (show_youtube) {
   controlSpan.appendChild(link(playlist[tar]["youtube"],[fontAwe("fa-brands fa-youtube fa-fw")],"podcast"));
 }
+controlSpan.appendChild(link(playlist[tar]["feed"],[fontAwe("fa-solid fa-file-audio fa-fw")],"podcast"));
 buttonPdom.appendChild(controlSpan);
 var shareSpan = document.createElement('span');
 shareSpan.className = "tagBorder";
