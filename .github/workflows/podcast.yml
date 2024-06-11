@@ -38,7 +38,7 @@ jobs:
           rsync -Prc /mnt/sd3/record/klo.lt/record/blg/record ./record/blg/
           rsync -Prc /mnt/sd3/record/klo.lt/record/exr/record ./record/exr/
           rsync -Prc /mnt/sd3/record/klo.lt/record/jst/record ./record/jst/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/sst/record ./record/sst/
+          rsync -Prc /mnt/sd3/record/klo.lt/record/asc/record ./record/asc/
       - name: record
         run: |
           rsync -Prc ./static_files/* ./docs/
@@ -70,28 +70,28 @@ jobs:
         run: |
           python3 update.py jst
           sleep 9
-      - name: Update rss - update SST
+      - name: Update rss - update ASC
         run: |
-          python3 update.py sst
+          python3 update.py asc
           sleep 7
       - name: Merge feed source
         run: |
           python3 merge.py blg
           python3 merge.py exr
           python3 merge.py jst
-          python3 merge.py sst
+          python3 merge.py asc
       - name: Annotate feed with various info
         run: |
           python3 annotate.py blg > record/blg/filter.txt
           python3 annotate.py exr > record/exr/filter.txt
           python3 annotate.py jst > record/jst/filter.txt
-          python3 annotate.py sst > record/sst/filter.txt
+          python3 annotate.py asc > record/asc/filter.txt
       - name: Export feed into js file
         run: |
           python3 export.py blg
           python3 export.py exr
           python3 export.py jst
-          python3 export.py sst
+          python3 export.py asc
   Deploy:
     needs: Update
     environment:
@@ -128,7 +128,7 @@ jobs:
           rsync -Prc ./record/blg/record /mnt/sd3/record/klo.lt/record/blg/
           rsync -Prc ./record/exr/record /mnt/sd3/record/klo.lt/record/exr/
           rsync -Prc ./record/jst/record /mnt/sd3/record/klo.lt/record/jst/
-          rsync -Prc ./record/sst/record /mnt/sd3/record/klo.lt/record/sst/
+          rsync -Prc ./record/asc/record /mnt/sd3/record/klo.lt/record/asc/
       - name: Backup changes
         run: |
           if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b%d_%Y.7z'` ]; then

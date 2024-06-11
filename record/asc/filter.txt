@@ -1,0 +1,33 @@
+----
+Start annotation
+Process: record/sst/keyword-0.toml
+[本週運勢]
+  found in: (24)
+    asc00058
+    asc00056
+    asc00054
+    asc00051
+    asc00049
+    asc00047
+    asc00044
+    asc00042
+    asc00040
+    asc00038
+    asc00036
+    asc00033
+    asc00031
+    asc00029
+    asc00027
+    asc00025
+    asc00023
+    asc00021
+    asc00019
+    asc00017
+    asc00014
+    asc00012
+    asc00010
+    asc00007
+  Excluded: (0)
+    
+    ----
+End annotation
