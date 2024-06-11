@@ -131,17 +131,17 @@ optionObj[key] = (key=="key")?value:value[0];
 };
 };
 
-((optionObj["now"]!="")&&(optionObj["currentTS"]=="")&&storage.getItem("currentTS"))&&storage.setItem("currentTS","");
+((optionObj["now"]!="")&&(optionObj["currentTS"]=="")&&storage.getItem(prefix+"currentTS"))&&storage.setItem(prefix+"currentTS","");
 
 for (var opt = 0; opt < optionKey.length; ++opt) {
 var key = optionKey[opt];
 if (argueObj["do"]&&argueObj["do"][0]=="reset") {
 optionObj[key]=defaultObj[key];
-storage.setItem(key,optionObj[key]);
+storage.setItem(prefix+key,optionObj[key]);
 } else {
 var optionValue = (key=="key")?optionObj[key].join(","):optionObj[key];
 var defaultValue = (key=="key")?"":defaultObj[key];
-(optionValue==defaultValue)?((storage.getItem(key))||storage.setItem(key,optionValue)):storage.setItem(key,optionValue);
+(optionValue==defaultValue)?((storage.getItem(prefix+key))||storage.setItem(prefix+key,optionValue)):storage.setItem(prefix+key,optionValue);
 };
 };
 
@@ -184,13 +184,13 @@ return bArr;
 };
 
 function getArr(inputStr) {return inputStr?inputStr.split(","):new Array();};
-var keyArr = compareLength(optionObj['key'],getArr(storage.getItem('key')));
-storage.setItem("key",keyArr.join(","));
+var keyArr = compareLength(optionObj['key'],getArr(storage.getItem(prefix+'key')));
+storage.setItem(prefix+"key",keyArr.join(","));
 
 function addTag(addStr) {
-var addKeyArr = getArr(storage.getItem('key'));
+var addKeyArr = getArr(storage.getItem(prefix+'key'));
 if (!addKeyArr.includes(addStr)) {addKeyArr.push(addStr);};
-storage.setItem("key",addKeyArr.join(","));
+storage.setItem(prefix+"key",addKeyArr.join(","));
 var targetDOM = document.getElementById(addStr);
 if (targetDOM) {
 var tagClassEachASpan = link("",[fontAwe(faTagStr)," "+addStr],'','tagBorder');
@@ -213,12 +213,12 @@ draw();
 };
 
 function removeTag(removeStr) {
-var addKeyArr = getArr(storage.getItem('key'));
+var addKeyArr = getArr(storage.getItem(prefix+'key'));
 var altKeyArr = new Array();
 for (let ka = 0; ka < addKeyArr.length; ka++) {
 if (addKeyArr[ka] != removeStr) {altKeyArr.push(addKeyArr[ka]);};
 };
-storage.setItem("key",altKeyArr.join(","));
+storage.setItem(prefix+"key",altKeyArr.join(","));
 var addTagStr = "javascript: void(addTag(\""+removeStr+"\"))";
 var targetDOM = document.getElementById(removeStr);
 if (targetDOM) {
@@ -242,7 +242,7 @@ draw();
 };
 
 function fillIndex() {
-var drawKeyArr = getArr(storage.getItem('key'));
+var drawKeyArr = getArr(storage.getItem(prefix+'key'));
 indexBarDOM.innerText = "";
 var tagClassArr = Object.keys(class_tag);
 for (let tli = 0; tli < tagClassArr.length; tli++) {
@@ -276,9 +276,9 @@ indexBarDOM.appendChild(tagClassMemberP);
 };
 
 function filter() {
-var sortStr = storage.getItem('sort');
+var sortStr = storage.getItem(prefix+'sort');
 var filtered = new Array();
-var filterKeyArr = getArr(storage.getItem('key'));
+var filterKeyArr = getArr(storage.getItem(prefix+'key'));
 var playlistKeyArr = Object.keys(playlist);
 // no filterKey (true) + "neutral":newest first (true)
 // no filterKey (true) + "newest":newest first (true)
@@ -293,7 +293,7 @@ ord = sortKeyBool?playlistKeyArr[nub] :playlistKeyArr[playlistKeyArr.length - nu
 if (filteredBool) {
 filtered.push(ord);
 } else { // if filterKeyArr.length > 0
-if (storage.getItem('union') == 'true') {
+if (storage.getItem(prefix+'union') == 'true') {
 var unionBool = false;
 for (let pot = 0; pot < playlist[ord]["tag"].length; pot++) {
 // tag key include track tag, include
@@ -310,21 +310,21 @@ if (unionBool) {filtered.push(ord);};
 };
 };
 };
-storage.setItem('filtered',filtered.join(","))
+storage.setItem(prefix+'filtered',filtered.join(","))
 };
 
 function draw() {
 filter();
 unionSDOM.innerHTML = "";
 tagListDOM.innerHTML = "";
-var drawKeyArr = getArr(storage.getItem('key'));
+var drawKeyArr = getArr(storage.getItem(prefix+'key'));
 if (drawKeyArr.length > 0) {
 toggleLayout("selected_tags","on")
 shareTagDOM.style["display"] = "block";
 tagSpanDOM.innerText = "："+drawKeyArr.join("、");
 if (drawKeyArr.length > 1) {
 tagNoteDOM.innerText = "：";
-var drawUnionStr = storage.getItem('union');
+var drawUnionStr = storage.getItem(prefix+'union');
 var unionToggleBool = (drawUnionStr == "true");
 unionSDOM.appendChild(fontAwe(unionToggleBool?unionToggleOnStr:unionToggleOffStr));
 unionSDOM.append(" ");
@@ -349,8 +349,8 @@ tagSpanDOM.innerText = "";
 };
 playlistDOM.innerHTML = "";
 var podObj = {};
-var nowStr = storage.getItem('now');
-var storedArr = getArr(storage.getItem('filtered'));
+var nowStr = storage.getItem(prefix+'now');
+var storedArr = getArr(storage.getItem(prefix+'filtered'));
 var filteredArr = (nowStr&&!storedArr.includes(nowStr))?[nowStr].concat(storedArr):storedArr;
 for (let nub = 0; nub < filteredArr.length; nub++) {
 var tar = filteredArr[nub];
@@ -412,12 +412,12 @@ tagsListSpan.appendChild(link(addTagStr,[fontAwe(faTagStr)," "+textTagStr],'','t
 buttonPdom.appendChild(tagsListSpan);
 entryPg.appendChild(buttonPdom);
 playlistDOM.appendChild(entryPg);
-storage.setItem('podcast',JSON.stringify(podObj));
+storage.setItem(prefix+'podcast',JSON.stringify(podObj));
 };
-doQueue(storage.getItem('now'));
+doQueue(storage.getItem(prefix+'now'));
 };
 
-(storage.getItem("now")=="")||initPlay(storage.getItem("now"));
+(storage.getItem(prefix+"now")=="")||initPlay(storage.getItem(prefix+"now"));
 fillIndex();
 updateTxtNBtn("sort",sortADOM,sortIDOM,sortMDOM);
 updateTheme("colour");
@@ -428,8 +428,8 @@ draw();
 
 async function doNext() {
 afterPause();
-var queueObj = JSON.parse(storage.getItem('queue')||"{}");
-var nowStr = storage.getItem('now');
+var queueObj = JSON.parse(storage.getItem(prefix+'queue')||"{}");
+var nowStr = storage.getItem(prefix+'now');
 mixPause();
 var nextStr = queueObj[nowStr];
 if (nextStr) {
@@ -442,8 +442,8 @@ afterStop();
 
 async function doPrev() {
 afterPause();
-var antiQueueObj = JSON.parse(storage.getItem('anti-queue')||"{}");
-var nowStr = storage.getItem('now');
+var antiQueueObj = JSON.parse(storage.getItem(prefix+'anti-queue')||"{}");
+var nowStr = storage.getItem(prefix+'now');
 mixPause();
 var prevStr = antiQueueObj[nowStr];
 if (prevStr) {doQueue(prevStr); await doPlay(prevStr);};
@@ -457,7 +457,7 @@ playbackRate:playerDOM.playbackRate,
 position:playerDOM.currentTime
 });
 };
-storage.setItem("currentTS",playerDOM.currentTime.toString())
+storage.setItem(prefix+"currentTS",playerDOM.currentTime.toString())
 };
 
 function changeIcon(targetName,targetValue) {
@@ -467,7 +467,7 @@ if (icoDOM) {icoDOM.className = targetValue};
 
 function afterPause() {
 navigator.mediaSession.playbackState = 'paused';
-var nowStr = storage.getItem('now')||"";
+var nowStr = storage.getItem(prefix+'now')||"";
 changeIcon("playIco"+nowStr,'fa-solid fa-play fa-fw');
 if (nowStr!="") {
 trackTitleDOM.innerHTML = "";
@@ -489,7 +489,7 @@ shareCutDOM.style["display"] = "none";
 };
 function afterPlay() {
 navigator.mediaSession.playbackState = 'playing';
-var nowStr = storage.getItem('now')||"";
+var nowStr = storage.getItem(prefix+'now')||"";
 changeIcon("playIco"+nowStr,'fa-solid fa-pause fa-fw');
 var nowDOM = document.getElementById("entry"+nowStr);
 if (nowDOM) {nowDOM.scrollIntoView({ behavior:'smooth' })};
@@ -503,12 +503,12 @@ shareCutDOM.style["display"] = "block";
 };
 playBTN.style["display"] = "none";
 pauseBTN.style["display"] = "block";
-let nameStr = playlist[storage.getItem('now')]['image'];
+let nameStr = playlist[storage.getItem(prefix+'now')]['image'];
 popPipDOM.style['background-image'] = `url("https://klo.lt/p/${nameStr}/512.png")`;
 navigator.mediaSession.metadata = new MediaMetadata({
-title:playlist[storage.getItem('now')]['name'],
+title:playlist[storage.getItem(prefix+'now')]['name'],
 artist:final_artist_str,
-album:playlist[storage.getItem('now')]['tag'].join(" "),
+album:playlist[storage.getItem(prefix+'now')]['tag'].join(" "),
 artwork:[
 { src:`https://klo.lt/p/${nameStr}/96.png`,sizes:'96x96',type:'image/png' },
 { src:`https://klo.lt/p/${nameStr}/128.png`,sizes:'128x128',type:'image/png' },
@@ -529,17 +529,17 @@ const skipTime = details.seekOffset || 10;
 playerDOM.currentTime = Math.min(playerDOM.currentTime+skipTime,playerDOM.duration);
 };
 function seakGoTo(details) {playerDOM.currentTime = details.seekTime;};
-function jumpTo() {(storage.getItem("currentTS")=="")||(playerDOM.currentTime = storage.getItem("currentTS"))};
+function jumpTo() {(storage.getItem(prefix+"currentTS")=="")||(playerDOM.currentTime = storage.getItem(prefix+"currentTS"))};
 
 async function doPlay(inputStr) {
 initPlay(inputStr);
-storage.setItem('currentTS',"");
+storage.setItem(prefix+'currentTS',"");
 await mixPlay();
 };
 
 function initPlay(inputStr) {
 playerDOM.src = playlist[inputStr]['feed'];
-storage.setItem('now',inputStr);
+storage.setItem(prefix+'now',inputStr);
 trackTitleDOM.innerHTML = "";
 trackTitleDOM.appendChild(fontAwe(selectedStr));
 trackTitleDOM.append(" 已選：");
@@ -549,7 +549,7 @@ if (nowDOM) {nowDOM.scrollIntoView({ behavior:'smooth' })};
 };
 
 function doQueue(inputStr) {
-var gpPodObj = JSON.parse(storage.getItem('podcast')||"{}");
+var gpPodObj = JSON.parse(storage.getItem(prefix+'podcast')||"{}");
 var gpPodArr = Object.keys(gpPodObj);
 var gpQueueObj = {};
 var gpAntiQueueObj = {};
@@ -564,14 +564,14 @@ for (let qa = 0; qa < targetInt; qa++) {
 gpAntiQueueObj[gpPodArr[qa+1]] = gpPodArr[qa];
 };
 };
-storage.setItem('queue',JSON.stringify(gpQueueObj));
-storage.setItem('anti-queue',JSON.stringify(gpAntiQueueObj));
+storage.setItem(prefix+'queue',JSON.stringify(gpQueueObj));
+storage.setItem(prefix+'anti-queue',JSON.stringify(gpAntiQueueObj));
 };
 
 async function goToPlay(targetStr) {
 afterPause();
 doQueue(targetStr);
-var nowStr = storage.getItem('now');
+var nowStr = storage.getItem(prefix+'now');
 if (nowStr === targetStr) {
 playerDOM.paused?await mixPlay():mixPause();
 } else {
@@ -591,8 +591,8 @@ playerDOM.addEventListener('pause',afterPause,false);
 playerDOM.addEventListener('ended',doNext,false);
 playerDOM.addEventListener('loadedmetadata',function() {
 totalDOM.innerHTML = convertTimer(playerDOM.duration);
-if(storage.getItem("currentTS")) {
-currentDOM.innerHTML = convertTimer(storage.getItem("currentTS"))
+if(storage.getItem(prefix+"currentTS")) {
+currentDOM.innerHTML = convertTimer(storage.getItem(prefix+"currentTS"))
 } else {
 currentDOM.innerHTML = convertTimer(playerDOM.currentTime);
 };
@@ -638,7 +638,7 @@ await videoDOM.requestPictureInPicture();
 
 async function updatePiP() {
 canvasDOM.getContext('2d').clearRect(0,0,512,512);
-let nameStr = playlist[storage.getItem('now')]['image'];
+let nameStr = playlist[storage.getItem(prefix+'now')]['image'];
 const image = new Image();
 image.crossOrigin = true;
 image.src = `https://klo.lt/p/${nameStr}/512.png`;
@@ -647,7 +647,7 @@ canvasDOM.getContext('2d').drawImage(image,0,0,512,512);
 };
 
 async function mixPlay() {
-let nowStr = storage.getItem('now');
+let nowStr = storage.getItem(prefix+'now');
 let nameStr = playlist[nowStr]['image'];
 popPipDOM.style['background-image'] = `url("https://klo.lt/p/${nameStr}/512.png")`;
 if (document.pictureInPictureEnabled) {popADOM.href = "javascript: void(doPiP())";};
@@ -747,7 +747,7 @@ tagIDOM.className = tagDownStr;
 toggleLayout("episode_detail","on");
 resizeDiv();
 //
-var drawKeyArr = getArr(storage.getItem('key'));
+var drawKeyArr = getArr(storage.getItem(prefix+'key'));
 var entryPg = document.createElement('div');
 entryPg.id = "entry"+tar;
 entryPg.className = "entryDetail";
@@ -836,26 +836,26 @@ detailPgDOM.appendChild(entryPg);
 };
 
 function toggleUnion() {
-var nowUnionStr = storage.getItem('union');
+var nowUnionStr = storage.getItem(prefix+'union');
 var nextUnionStr = (nowUnionStr == "true")?"false":"true";
-storage.setItem("union",nextUnionStr);
+storage.setItem(prefix+"union",nextUnionStr);
 draw();
 };
 
 function toggleBtn(sectionStr) {
-var sectionNowStr = storage.getItem(sectionStr);
+var sectionNowStr = storage.getItem(prefix+sectionStr);
 var nextStr = paramObj[sectionStr][sectionNowStr]['next'];
-storage.setItem(sectionStr,nextStr);
+storage.setItem(prefix+sectionStr,nextStr);
 };
 function updateTxtNBtn(sectionStr,targetADOM,targetIDOM,targetMDOM) {
-var sectionNowStr = storage.getItem(sectionStr);
+var sectionNowStr = storage.getItem(prefix+sectionStr);
 targetADOM.innerText = paramObj[sectionStr][sectionNowStr]["text"];
 targetIDOM.className = paramObj[sectionStr][sectionNowStr]["class"];
 targetMDOM.className = paramObj[sectionStr][sectionNowStr]["class"];
 };
 function updateTheme(sectionStr) {
 var positionInt = paramObj[sectionStr]["position"];
-var nowThemeStr = storage.getItem(sectionStr);
+var nowThemeStr = storage.getItem(prefix+sectionStr);
 var layoutArr = document.body.className.split(" ");
 layoutArr[positionInt]=nowThemeStr;
 document.body.className = layoutArr.join(" ");
@@ -899,7 +899,7 @@ resizeDiv();
 
 function shareTags() {
 if (navigator.share) {
-var drawKeyArr = getArr(storage.getItem('key'));
+var drawKeyArr = getArr(storage.getItem(prefix+'key'));
 var targetUrl_str = final_root_path+"?key="+drawKeyArr.join(",");
 var targetTitle_str = "【"+final_artist_str+"】標籤："+drawKeyArr.join("、");
 navigatorShare(targetUrl_str,targetTitle_str);
@@ -910,9 +910,9 @@ clipboardShare(targetUrl_str);
 
 function shareNow(t=0,at="") {
 if (navigator.share) {
-var drawKeyArr = getArr(storage.getItem('key'));
-var nowStr = (at=="")?storage.getItem('now'):at;
-var currentTsStr = (storage.getItem('currentTS')==""||t==0)?"":"&currentTS="+storage.getItem('currentTS');
+var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var nowStr = (at=="")?storage.getItem(prefix+'now'):at;
+var currentTsStr = (storage.getItem(prefix+'currentTS')==""||t==0)?"":"&currentTS="+storage.getItem(prefix+'currentTS');
 var targetUrl_str = final_root_path+"?key="+drawKeyArr.join(",")+"&now="+nowStr+currentTsStr;
 var targetTitle_str = "【"+final_artist_str+"】："+playlist[nowStr]['name'];
 navigatorShare(targetUrl_str,targetTitle_str);
