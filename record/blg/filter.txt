@@ -9,1518 +9,1517 @@ Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
   found in: (297)
-    time803
-    time801
-    time798
-    time795
-    time792
-    time789
-    time786
-    time783
-    time780
-    time778
-    time776
-    time774
-    time770
-    time768
-    time766
-    time763
-    time757
-    time754
-    time751
-    time749
-    time741
-    time738
-    time735
-    time731
-    time728
-    time724
-    time721
-    time717
-    time714
-    time712
-    time710
-    time707
-    time705
-    time702
-    time699
-    time696
-    time690
-    time687
-    time684
-    time681
-    time678
-    time674
-    time671
-    time667
-    time664
-    time662
-    time660
-    time657
-    time653
-    time649
-    time644
-    time642
-    time638
-    time635
-    time632
-    time630
-    time625
-    time622
-    time616
-    time613
-    time610
-    time607
-    time605
-    time590
-    time585
-    time551
-    time548
-    time544
-    time542
-    time540
-    time538
-    time536
-    time532
-    time528
-    time524
-    time520
-    time516
-    time512
-    time508
-    time505
-    time501
-    time497
-    time494
-    time490
-    time487
-    time483
-    time480
-    time477
-    time474
-    time471
-    time467
-    time464
-    time461
-    time458
-    time455
-    time452
-    time449
-    time445
-    time442
-    time439
-    time437
-    time434
-    time431
-    time428
-    time425
-    time422
-    time419
-    time416
-    time413
-    time410
-    time407
-    time404
-    time401
-    time398
-    time395
-    time392
-    time389
-    time386
-    time383
-    time380
-    time377
-    time374
-    time370
-    time366
-    time363
-    time360
-    time357
-    time354
-    time351
-    time348
-    time345
-    time342
-    time339
-    time336
-    time333
-    time330
-    time327
-    time324
-    time321
-    time315
-    time312
-    time309
-    time306
-    time303
-    time300
-    time297
-    time295
-    time292
-    time289
-    time286
-    time283
-    time280
-    time276
-    time273
-    time270
-    time267
-    time264
-    time262
-    time259
-    time256
-    time253
-    time250
-    time247
-    time245
-    time242
-    time239
-    time237
-    time234
-    time231
-    time228
-    time225
-    time222
-    time219
-    time216
-    time213
-    time210
-    time207
-    time204
-    time201
-    time197
-    time194
-    time190
-    time188
-    time185
-    time183
-    time180
-    time176
-    time172
-    time169
-    time166
-    time163
-    time160
-    time157
-    time155
-    time153
-    time151
-    time149
-    time146
-    time143
-    time141
-    time139
-    time136
-    time132
-    time128
-    time125
-    time122
-    time119
-    time116
-    time115
-    time112
-    time110
-    time108
-    time106
-    time104
-    time102
-    time100
-    time098
-    time096
-    time094
-    time092
-    time090
-    time088
-    time087
-    time085
-    time083
-    time081
-    time079
-    time078
-    time075
-    time074
-    time073
-    time071
-    time069
-    time067
-    time065
-    time063
-    time061
-    time059
-    time058
-    time057
-    time056
-    time055
-    time054
-    time053
-    time051
-    time050
-    time049
-    time047
-    time046
-    time045
-    time043
-    time042
-    time041
-    time039
-    time038
-    time037
-    time035
-    time034
-    time033
-    time031
-    time030
-    time029
-    time027
-    time026
-    time025
-    time023
-    time022
-    time021
-    time018
-    time017
-    time016
-    time014
-    time013
-    time012
-    time011
-    time010
-    time009
-    time006
-    time005
-    time004
-    time003
-    time581
-    time578
-    time575
-    time572
-    time569
-    time566
-    time563
-    time560
-    time557
-    time554
-    time135
-    time002
-    time318
-    time603
-    time597
-    time593
+    blg00803
+    blg00801
+    blg00798
+    blg00795
+    blg00792
+    blg00789
+    blg00786
+    blg00783
+    blg00780
+    blg00778
+    blg00776
+    blg00774
+    blg00770
+    blg00768
+    blg00766
+    blg00763
+    blg00757
+    blg00754
+    blg00751
+    blg00749
+    blg00741
+    blg00738
+    blg00735
+    blg00731
+    blg00728
+    blg00724
+    blg00721
+    blg00717
+    blg00714
+    blg00712
+    blg00710
+    blg00707
+    blg00705
+    blg00702
+    blg00699
+    blg00696
+    blg00690
+    blg00687
+    blg00684
+    blg00681
+    blg00678
+    blg00674
+    blg00671
+    blg00667
+    blg00664
+    blg00662
+    blg00660
+    blg00657
+    blg00653
+    blg00649
+    blg00644
+    blg00642
+    blg00638
+    blg00635
+    blg00632
+    blg00630
+    blg00625
+    blg00622
+    blg00616
+    blg00613
+    blg00610
+    blg00607
+    blg00605
+    blg00590
+    blg00585
+    blg00551
+    blg00548
+    blg00544
+    blg00542
+    blg00540
+    blg00538
+    blg00536
+    blg00532
+    blg00528
+    blg00524
+    blg00520
+    blg00516
+    blg00512
+    blg00508
+    blg00505
+    blg00501
+    blg00497
+    blg00494
+    blg00490
+    blg00487
+    blg00483
+    blg00480
+    blg00477
+    blg00474
+    blg00471
+    blg00467
+    blg00464
+    blg00461
+    blg00458
+    blg00455
+    blg00452
+    blg00449
+    blg00445
+    blg00442
+    blg00439
+    blg00437
+    blg00434
+    blg00431
+    blg00428
+    blg00425
+    blg00422
+    blg00419
+    blg00416
+    blg00413
+    blg00410
+    blg00407
+    blg00404
+    blg00401
+    blg00398
+    blg00395
+    blg00392
+    blg00389
+    blg00386
+    blg00383
+    blg00380
+    blg00377
+    blg00374
+    blg00370
+    blg00366
+    blg00363
+    blg00360
+    blg00357
+    blg00354
+    blg00351
+    blg00348
+    blg00345
+    blg00342
+    blg00339
+    blg00336
+    blg00333
+    blg00330
+    blg00327
+    blg00324
+    blg00321
+    blg00315
+    blg00312
+    blg00309
+    blg00306
+    blg00303
+    blg00300
+    blg00297
+    blg00295
+    blg00292
+    blg00289
+    blg00286
+    blg00283
+    blg00280
+    blg00276
+    blg00273
+    blg00270
+    blg00267
+    blg00264
+    blg00262
+    blg00259
+    blg00256
+    blg00253
+    blg00250
+    blg00247
+    blg00245
+    blg00242
+    blg00239
+    blg00237
+    blg00234
+    blg00231
+    blg00228
+    blg00225
+    blg00222
+    blg00219
+    blg00216
+    blg00213
+    blg00210
+    blg00207
+    blg00204
+    blg00201
+    blg00197
+    blg00194
+    blg00190
+    blg00188
+    blg00185
+    blg00183
+    blg00180
+    blg00176
+    blg00172
+    blg00169
+    blg00166
+    blg00163
+    blg00160
+    blg00157
+    blg00155
+    blg00153
+    blg00151
+    blg00149
+    blg00146
+    blg00143
+    blg00141
+    blg00139
+    blg00136
+    blg00132
+    blg00128
+    blg00125
+    blg00122
+    blg00119
+    blg00116
+    blg00115
+    blg00112
+    blg00110
+    blg00108
+    blg00106
+    blg00104
+    blg00102
+    blg00100
+    blg00098
+    blg00096
+    blg00094
+    blg00092
+    blg00090
+    blg00088
+    blg00087
+    blg00085
+    blg00083
+    blg00081
+    blg00079
+    blg00078
+    blg00075
+    blg00074
+    blg00073
+    blg00071
+    blg00069
+    blg00067
+    blg00065
+    blg00063
+    blg00061
+    blg00059
+    blg00058
+    blg00057
+    blg00056
+    blg00055
+    blg00054
+    blg00053
+    blg00051
+    blg00050
+    blg00049
+    blg00047
+    blg00046
+    blg00045
+    blg00043
+    blg00042
+    blg00041
+    blg00039
+    blg00038
+    blg00037
+    blg00035
+    blg00034
+    blg00033
+    blg00031
+    blg00030
+    blg00029
+    blg00027
+    blg00026
+    blg00025
+    blg00023
+    blg00022
+    blg00021
+    blg00018
+    blg00017
+    blg00016
+    blg00014
+    blg00013
+    blg00012
+    blg00011
+    blg00010
+    blg00009
+    blg00006
+    blg00005
+    blg00004
+    blg00003
+    blg00581
+    blg00578
+    blg00575
+    blg00572
+    blg00569
+    blg00566
+    blg00563
+    blg00560
+    blg00557
+    blg00554
+    blg00135
+    blg00002
+    blg00318
+    blg00603
+    blg00597
+    blg00593
   Excluded: (5)
-    time093
-    time091
-    time077
-    time044
-    time191
+    blg00093
+    blg00091
+    blg00077
+    blg00044
+    blg00191
 [百靈果 Bonus]
   found in: (8)
-    time200
-    time440
-    time131
-    time191
-    time019
-    time007
-    time582
-    time596
+    blg00200
+    blg00440
+    blg00131
+    blg00191
+    blg00019
+    blg00007
+    blg00582
+    blg00596
   Excluded: (0)
     
 [KK Show]
-  found in: (263)
-    time804
-    time802
-    time799
-    time796
-    time793
-    time790
-    time787
-    time784
-    time782
-    time781
-    time779
-    time777
-    time775
-    time773
-    time771
-    time769
-    time767
-    time765
-    time764
-    time762
-    time761
-    time758
-    time755
-    time752
-    time750
-    time747
-    time746
-    time745
-    time744
-    time742
-    time740
-    time739
-    time736
-    time732
-    time729
-    time726
-    time725
-    time722
-    time720
-    time719
-    time718
-    time715
-    time713
-    time711
-    time708
-    time706
-    time703
-    time700
-    time697
-    time694
-    time693
-    time691
-    time688
-    time685
-    time682
-    time679
-    time677
-    time675
-    time672
-    time670
-    time669
-    time668
-    time665
-    time663
-    time661
-    time659
-    time658
-    time656
-    time655
-    time654
-    time650
-    time648
-    time647
-    time645
-    time643
-    time641
-    time640
-    time639
-    time636
-    time633
-    time631
-    time628
-    time627
-    time626
-    time623
-    time621
-    time620
-    time617
-    time614
-    time611
-    time608
-    time606
-    time604
-    time602
-    time601
-    time599
-    time594
-    time591
-    time588
-    time587
-    time586
-    time583
-    time579
-    time576
-    time573
-    time570
-    time567
-    time564
-    time561
-    time558
-    time555
-    time552
-    time549
-    time546
-    time543
-    time541
-    time539
-    time537
-    time533
-    time529
-    time525
-    time521
-    time517
-    time513
-    time509
-    time506
-    time502
-    time498
-    time496
-    time495
-    time491
-    time488
-    time484
-    time481
-    time478
-    time475
-    time472
-    time469
-    time465
-    time462
-    time459
-    time456
-    time453
-    time450
-    time447
-    time443
-    time441
-    time438
-    time435
-    time432
-    time429
-    time426
-    time423
-    time420
-    time417
-    time414
-    time411
-    time408
-    time405
-    time402
-    time399
-    time396
-    time393
-    time390
-    time387
-    time384
-    time381
-    time378
-    time375
-    time371
-    time367
-    time364
-    time362
-    time361
-    time358
-    time355
-    time352
-    time349
-    time346
-    time343
-    time340
-    time337
-    time334
-    time331
-    time328
-    time325
-    time322
-    time319
-    time316
-    time313
-    time310
-    time307
-    time304
-    time301
-    time298
-    time296
-    time293
-    time290
-    time287
-    time284
-    time281
-    time278
-    time277
-    time274
-    time271
-    time268
-    time265
-    time260
-    time257
-    time254
-    time251
-    time248
-    time246
-    time243
-    time240
-    time238
-    time235
-    time232
-    time229
-    time226
-    time223
-    time220
-    time217
-    time214
-    time211
-    time208
-    time202
-    time198
-    time192
-    time189
-    time187
-    time186
-    time184
-    time181
-    time178
-    time175
-    time173
-    time171
-    time170
-    time167
-    time164
-    time161
-    time158
-    time156
-    time154
-    time152
-    time150
-    time147
-    time144
-    time142
-    time140
-    time137
-    time133
-    time129
-    time126
-    time123
-    time120
-    time118
-    time113
-    time646
-    time263
-    time205
-    time195
+  found in: (262)
+    blg00802
+    blg00799
+    blg00796
+    blg00793
+    blg00790
+    blg00787
+    blg00784
+    blg00782
+    blg00781
+    blg00779
+    blg00777
+    blg00775
+    blg00773
+    blg00771
+    blg00769
+    blg00767
+    blg00765
+    blg00764
+    blg00762
+    blg00761
+    blg00758
+    blg00755
+    blg00752
+    blg00750
+    blg00747
+    blg00746
+    blg00745
+    blg00744
+    blg00742
+    blg00740
+    blg00739
+    blg00736
+    blg00732
+    blg00729
+    blg00726
+    blg00725
+    blg00722
+    blg00720
+    blg00719
+    blg00718
+    blg00715
+    blg00713
+    blg00711
+    blg00708
+    blg00706
+    blg00703
+    blg00700
+    blg00697
+    blg00694
+    blg00693
+    blg00691
+    blg00688
+    blg00685
+    blg00682
+    blg00679
+    blg00677
+    blg00675
+    blg00672
+    blg00670
+    blg00669
+    blg00668
+    blg00665
+    blg00663
+    blg00661
+    blg00659
+    blg00658
+    blg00656
+    blg00655
+    blg00654
+    blg00650
+    blg00648
+    blg00647
+    blg00645
+    blg00643
+    blg00641
+    blg00640
+    blg00639
+    blg00636
+    blg00633
+    blg00631
+    blg00628
+    blg00627
+    blg00626
+    blg00623
+    blg00621
+    blg00620
+    blg00617
+    blg00614
+    blg00611
+    blg00608
+    blg00606
+    blg00604
+    blg00602
+    blg00601
+    blg00599
+    blg00594
+    blg00591
+    blg00588
+    blg00587
+    blg00586
+    blg00583
+    blg00579
+    blg00576
+    blg00573
+    blg00570
+    blg00567
+    blg00564
+    blg00561
+    blg00558
+    blg00555
+    blg00552
+    blg00549
+    blg00546
+    blg00543
+    blg00541
+    blg00539
+    blg00537
+    blg00533
+    blg00529
+    blg00525
+    blg00521
+    blg00517
+    blg00513
+    blg00509
+    blg00506
+    blg00502
+    blg00498
+    blg00496
+    blg00495
+    blg00491
+    blg00488
+    blg00484
+    blg00481
+    blg00478
+    blg00475
+    blg00472
+    blg00469
+    blg00465
+    blg00462
+    blg00459
+    blg00456
+    blg00453
+    blg00450
+    blg00447
+    blg00443
+    blg00441
+    blg00438
+    blg00435
+    blg00432
+    blg00429
+    blg00426
+    blg00423
+    blg00420
+    blg00417
+    blg00414
+    blg00411
+    blg00408
+    blg00405
+    blg00402
+    blg00399
+    blg00396
+    blg00393
+    blg00390
+    blg00387
+    blg00384
+    blg00381
+    blg00378
+    blg00375
+    blg00371
+    blg00367
+    blg00364
+    blg00362
+    blg00361
+    blg00358
+    blg00355
+    blg00352
+    blg00349
+    blg00346
+    blg00343
+    blg00340
+    blg00337
+    blg00334
+    blg00331
+    blg00328
+    blg00325
+    blg00322
+    blg00319
+    blg00316
+    blg00313
+    blg00310
+    blg00307
+    blg00304
+    blg00301
+    blg00298
+    blg00296
+    blg00293
+    blg00290
+    blg00287
+    blg00284
+    blg00281
+    blg00278
+    blg00277
+    blg00274
+    blg00271
+    blg00268
+    blg00265
+    blg00260
+    blg00257
+    blg00254
+    blg00251
+    blg00248
+    blg00246
+    blg00243
+    blg00240
+    blg00238
+    blg00235
+    blg00232
+    blg00229
+    blg00226
+    blg00223
+    blg00220
+    blg00217
+    blg00214
+    blg00211
+    blg00208
+    blg00202
+    blg00198
+    blg00192
+    blg00189
+    blg00187
+    blg00186
+    blg00184
+    blg00181
+    blg00178
+    blg00175
+    blg00173
+    blg00171
+    blg00170
+    blg00167
+    blg00164
+    blg00161
+    blg00158
+    blg00156
+    blg00154
+    blg00152
+    blg00150
+    blg00147
+    blg00144
+    blg00142
+    blg00140
+    blg00137
+    blg00133
+    blg00129
+    blg00126
+    blg00123
+    blg00120
+    blg00118
+    blg00113
+    blg00646
+    blg00263
+    blg00205
+    blg00195
   Excluded: (0)
     
 [Live Podcast]
   found in: (5)
-    time468
-    time454
-    time159
-    time318
-    time262
+    blg00468
+    blg00454
+    blg00159
+    blg00318
+    blg00262
   Excluded: (0)
     
 [THE STIR]
   found in: (10)
-    time534
-    time530
-    time526
-    time522
-    time518
-    time514
-    time510
-    time507
-    time503
-    time499
+    blg00534
+    blg00530
+    blg00526
+    blg00522
+    blg00518
+    blg00514
+    blg00510
+    blg00507
+    blg00503
+    blg00499
   Excluded: (0)
     
 [Catching up]
   found in: (8)
-    time791
-    time759
-    time748
-    time743
-    time734
-    time727
-    time723
-    time730
+    blg00791
+    blg00759
+    blg00748
+    blg00743
+    blg00734
+    blg00727
+    blg00723
+    blg00730
   Excluded: (0)
     
 [讀書會]
   found in: (137)
-    time704
-    time692
-    time686
-    time680
-    time651
-    time637
-    time609
-    time600
-    time589
-    time580
-    time577
-    time574
-    time571
-    time568
-    time556
-    time553
-    time550
-    time535
-    time531
-    time519
-    time504
-    time500
-    time493
-    time489
-    time486
-    time482
-    time479
-    time476
-    time473
-    time470
-    time466
-    time463
-    time457
-    time451
-    time433
-    time427
-    time424
-    time421
-    time415
-    time412
-    time409
-    time406
-    time403
-    time397
-    time394
-    time385
-    time382
-    time379
-    time359
-    time356
-    time353
-    time350
-    time347
-    time344
-    time341
-    time338
-    time335
-    time332
-    time329
-    time326
-    time323
-    time320
-    time317
-    time314
-    time311
-    time308
-    time302
-    time299
-    time294
-    time291
-    time288
-    time285
-    time282
-    time279
-    time275
-    time272
-    time269
-    time266
-    time221
-    time218
-    time215
-    time212
-    time209
-    time206
-    time203
-    time196
-    time193
-    time182
-    time179
-    time174
-    time168
-    time165
-    time162
-    time148
-    time145
-    time138
-    time134
-    time130
-    time127
-    time124
-    time121
-    time117
-    time114
-    time111
-    time109
-    time107
-    time105
-    time103
-    time101
-    time099
-    time097
-    time095
-    time089
-    time086
-    time084
-    time082
-    time080
-    time076
-    time072
-    time070
-    time068
-    time066
-    time064
-    time062
-    time060
-    time040
-    time036
-    time032
-    time028
-    time024
-    time020
-    time015
-    time008
-    time001
-    time391
-    time430
-    time388
+    blg00704
+    blg00692
+    blg00686
+    blg00680
+    blg00651
+    blg00637
+    blg00609
+    blg00600
+    blg00589
+    blg00580
+    blg00577
+    blg00574
+    blg00571
+    blg00568
+    blg00556
+    blg00553
+    blg00550
+    blg00535
+    blg00531
+    blg00519
+    blg00504
+    blg00500
+    blg00493
+    blg00489
+    blg00486
+    blg00482
+    blg00479
+    blg00476
+    blg00473
+    blg00470
+    blg00466
+    blg00463
+    blg00457
+    blg00451
+    blg00433
+    blg00427
+    blg00424
+    blg00421
+    blg00415
+    blg00412
+    blg00409
+    blg00406
+    blg00403
+    blg00397
+    blg00394
+    blg00385
+    blg00382
+    blg00379
+    blg00359
+    blg00356
+    blg00353
+    blg00350
+    blg00347
+    blg00344
+    blg00341
+    blg00338
+    blg00335
+    blg00332
+    blg00329
+    blg00326
+    blg00323
+    blg00320
+    blg00317
+    blg00314
+    blg00311
+    blg00308
+    blg00302
+    blg00299
+    blg00294
+    blg00291
+    blg00288
+    blg00285
+    blg00282
+    blg00279
+    blg00275
+    blg00272
+    blg00269
+    blg00266
+    blg00221
+    blg00218
+    blg00215
+    blg00212
+    blg00209
+    blg00206
+    blg00203
+    blg00196
+    blg00193
+    blg00182
+    blg00179
+    blg00174
+    blg00168
+    blg00165
+    blg00162
+    blg00148
+    blg00145
+    blg00138
+    blg00134
+    blg00130
+    blg00127
+    blg00124
+    blg00121
+    blg00117
+    blg00114
+    blg00111
+    blg00109
+    blg00107
+    blg00105
+    blg00103
+    blg00101
+    blg00099
+    blg00097
+    blg00095
+    blg00089
+    blg00086
+    blg00084
+    blg00082
+    blg00080
+    blg00076
+    blg00072
+    blg00070
+    blg00068
+    blg00066
+    blg00064
+    blg00062
+    blg00060
+    blg00040
+    blg00036
+    blg00032
+    blg00028
+    blg00024
+    blg00020
+    blg00015
+    blg00008
+    blg00001
+    blg00391
+    blg00430
+    blg00388
   Excluded: (2)
-    time305
-    time093
+    blg00305
+    blg00093
 [王子習近平]
   found in: (5)
-    time600
-    time589
-    time580
-    time577
-    time574
+    blg00600
+    blg00589
+    blg00580
+    blg00577
+    blg00574
   Excluded: (0)
     
 [Hot Money]
   found in: (4)
-    time704
-    time692
-    time686
-    time680
+    blg00704
+    blg00692
+    blg00686
+    blg00680
   Excluded: (0)
     
 [八尺門的辯護人]
   found in: (4)
-    time651
-    time637
-    time609
-    time571
+    blg00651
+    blg00637
+    blg00609
+    blg00571
   Excluded: (0)
     
 [同情者]
   found in: (7)
-    time568
-    time556
-    time553
-    time550
-    time535
-    time531
-    time519
+    blg00568
+    blg00556
+    blg00553
+    blg00550
+    blg00535
+    blg00531
+    blg00519
   Excluded: (0)
     
 [柏青哥]
   found in: (7)
-    time504
-    time500
-    time493
-    time489
-    time486
-    time482
-    time479
+    blg00504
+    blg00500
+    blg00493
+    blg00489
+    blg00486
+    blg00482
+    blg00479
   Excluded: (0)
     
 [Fat Leonard]
   found in: (5)
-    time476
-    time473
-    time470
-    time466
-    time463
+    blg00476
+    blg00473
+    blg00470
+    blg00466
+    blg00463
   Excluded: (1)
-    time442
+    blg00442
 [林獻堂環球遊記]
   found in: (3)
-    time457
-    time451
-    time433
+    blg00457
+    blg00451
+    blg00433
   Excluded: (0)
     
 [吃佛]
   found in: (8)
-    time427
-    time424
-    time421
-    time415
-    time412
-    time409
-    time406
-    time403
+    blg00427
+    blg00424
+    blg00421
+    blg00415
+    blg00412
+    blg00409
+    blg00406
+    blg00403
   Excluded: (1)
-    time327
+    blg00327
 [宮前町九十番]
   found in: (6)
-    time397
-    time394
-    time391
-    time385
-    time382
-    time379
+    blg00397
+    blg00394
+    blg00391
+    blg00385
+    blg00382
+    blg00379
   Excluded: (0)
     
 [CIA洗腦計畫]
   found in: (5)
-    time359
-    time350
-    time356
-    time353
-    time347
+    blg00359
+    blg00350
+    blg00356
+    blg00353
+    blg00347
   Excluded: (0)
     
 [蚵仔煎的身世]
   found in: (4)
-    time344
-    time341
-    time338
-    time335
+    blg00344
+    blg00341
+    blg00338
+    blg00335
   Excluded: (0)
     
 [傀儡花]
   found in: (6)
-    time332
-    time329
-    time326
-    time323
-    time320
-    time317
+    blg00332
+    blg00329
+    blg00326
+    blg00323
+    blg00320
+    blg00317
   Excluded: (0)
     
 [毒家企業]
   found in: (5)
-    time314
-    time311
-    time308
-    time302
-    time299
+    blg00314
+    blg00311
+    blg00308
+    blg00302
+    blg00299
   Excluded: (0)
     
 [宋氏三姊妹]
   found in: (10)
-    time294
-    time291
-    time288
-    time282
-    time279
-    time275
-    time272
-    time269
-    time285
-    time266
+    blg00294
+    blg00291
+    blg00288
+    blg00282
+    blg00279
+    blg00275
+    blg00272
+    blg00269
+    blg00285
+    blg00266
   Excluded: (0)
     
 [T.R.W.I.H. by John Bolton]
   found in: (4)
-    time221
-    time218
-    time215
-    time212
+    blg00221
+    blg00218
+    blg00215
+    blg00212
   Excluded: (0)
     
 [Rage by Bob Woodward]
   found in: (2)
-    time258
-    time252
+    blg00258
+    blg00252
   Excluded: (0)
     
 [浪淘沙]
   found in: (5)
-    time209
-    time206
-    time203
-    time196
-    time193
+    blg00209
+    blg00206
+    blg00203
+    blg00196
+    blg00193
   Excluded: (0)
     
 [戰裡的夏里特]
   found in: (6)
-    time182
-    time179
-    time174
-    time168
-    time165
-    time162
+    blg00182
+    blg00179
+    blg00174
+    blg00168
+    blg00165
+    blg00162
   Excluded: (0)
     
 [鴻：三代中國女人]
   found in: (18)
-    time148
-    time145
-    time138
-    time134
-    time130
-    time127
-    time124
-    time121
-    time117
-    time114
-    time111
-    time109
-    time107
-    time105
-    time103
-    time101
-    time099
-    time097
+    blg00148
+    blg00145
+    blg00138
+    blg00134
+    blg00130
+    blg00127
+    blg00124
+    blg00121
+    blg00117
+    blg00114
+    blg00111
+    blg00109
+    blg00107
+    blg00105
+    blg00103
+    blg00101
+    blg00099
+    blg00097
   Excluded: (0)
     
 [核爆家園]
   found in: (5)
-    time089
-    time086
-    time084
-    time082
-    time080
+    blg00089
+    blg00086
+    blg00084
+    blg00082
+    blg00080
   Excluded: (0)
     
 [陳澄波密碼]
   found in: (8)
-    time076
-    time072
-    time070
-    time068
-    time066
-    time064
-    time062
-    time060
+    blg00076
+    blg00072
+    blg00070
+    blg00068
+    blg00066
+    blg00064
+    blg00062
+    blg00060
   Excluded: (0)
     
 [以母之名]
   found in: (12)
-    time052
-    time048
-    time044
-    time040
-    time036
-    time032
-    time028
-    time024
-    time020
-    time015
-    time008
-    time001
+    blg00052
+    blg00048
+    blg00044
+    blg00040
+    blg00036
+    blg00032
+    blg00028
+    blg00024
+    blg00020
+    blg00015
+    blg00008
+    blg00001
   Excluded: (0)
     
 [暫代讀書會]
   found in: (10)
-    time093
-    time305
-    time547
-    time444
-    time454
-    time261
-    time249
-    time199
-    time159
-    time091
+    blg00093
+    blg00305
+    blg00547
+    blg00444
+    blg00454
+    blg00261
+    blg00249
+    blg00199
+    blg00159
+    blg00091
   Excluded: (0)
     
 [百靈果到處跑]
   found in: (2)
-    time400
-    time418
+    blg00400
+    blg00418
   Excluded: (0)
     
 [百靈果之友]
   found in: (5)
-    time460
-    time376
-    time372
-    time368
-    time365
+    blg00460
+    blg00376
+    blg00372
+    blg00368
+    blg00365
   Excluded: (0)
     
 [免費教你如何做 Podcast]
   found in: (7)
-    time244
-    time241
-    time236
-    time233
-    time230
-    time227
-    time224
+    blg00244
+    blg00241
+    blg00236
+    blg00233
+    blg00230
+    blg00227
+    blg00224
   Excluded: (0)
     
 [八角籠]
   found in: (5)
-    time565
-    time527
-    time436
-    time373
-    time369
+    blg00565
+    blg00527
+    blg00436
+    blg00373
+    blg00369
   Excluded: (0)
     
 [Clubhouse 直播]
   found in: (7)
-    time527
-    time436
-    time373
-    time369
-    time511
-    time492
-    time598
+    blg00527
+    blg00436
+    blg00373
+    blg00369
+    blg00511
+    blg00492
+    blg00598
   Excluded: (0)
     
 [隱藏版 KK Show]
   found in: (13)
-    time523
-    time515
-    time091
-    time559
-    time077
-    time753
-    time756
-    time785
-    time788
-    time737
-    time730
-    time794
-    time797
+    blg00523
+    blg00515
+    blg00091
+    blg00559
+    blg00077
+    blg00753
+    blg00756
+    blg00785
+    blg00788
+    blg00737
+    blg00730
+    blg00794
+    blg00797
   Excluded: (0)
     
 [週二夜現場]
   found in: (17)
-    time716
-    time709
-    time698
-    time689
-    time683
-    time666
-    time652
-    time634
-    time629
-    time624
-    time618
-    time615
-    time612
-    time595
-    time592
-    time584
-    time562
+    blg00716
+    blg00709
+    blg00698
+    blg00689
+    blg00683
+    blg00666
+    blg00652
+    blg00634
+    blg00629
+    blg00624
+    blg00618
+    blg00615
+    blg00612
+    blg00595
+    blg00592
+    blg00584
+    blg00562
   Excluded: (0)
     
 [喬瑟夫]
   found in: (2)
-    time595
-    time591
+    blg00595
+    blg00591
   Excluded: (0)
     
 [樂樂法利]
   found in: (5)
-    time784
-    time592
-    time543
-    time597
-    time743
+    blg00784
+    blg00592
+    blg00543
+    blg00597
+    blg00743
   Excluded: (0)
     
 [Social]
   found in: (2)
-    time752
-    time438
+    blg00752
+    blg00438
   Excluded: (0)
     
 [歐馬克]
   found in: (3)
-    time506
-    time468
-    time129
+    blg00506
+    blg00468
+    blg00129
   Excluded: (0)
     
 [微笑丹尼]
   found in: (2)
-    time515
-    time358
+    blg00515
+    blg00358
   Excluded: (0)
     
 [博恩]
   found in: (4)
-    time752
-    time659
-    time595
-    time298
+    blg00752
+    blg00659
+    blg00595
+    blg00298
   Excluded: (3)
-    time705
-    time414
-    time137
+    blg00705
+    blg00414
+    blg00137
 [權樂]
   found in: (2)
-    time782
-    time549
+    blg00782
+    blg00549
   Excluded: (0)
     
 [艾董]
   found in: (2)
-    time716
-    time126
+    blg00716
+    blg00126
   Excluded: (0)
     
 [黃豪平]
   found in: (4)
-    time771
-    time515
-    time268
-    time123
+    blg00771
+    blg00515
+    blg00268
+    blg00123
   Excluded: (0)
     
 [賀瓏]
   found in: (3)
-    time703
-    time502
-    time137
+    blg00703
+    blg00502
+    blg00137
   Excluded: (0)
     
 [怡岑]
   found in: (2)
-    time654
-    time150
+    blg00654
+    blg00150
   Excluded: (0)
     
 [酸酸]
   found in: (3)
-    time523
-    time485
-    time167
+    blg00523
+    blg00485
+    blg00167
   Excluded: (0)
     
 [呱吉]
   found in: (9)
-    time797
-    time754
-    time689
-    time629
-    time628
-    time456
-    time368
-    time187
-    time184
+    blg00797
+    blg00754
+    blg00689
+    blg00629
+    blg00628
+    blg00456
+    blg00368
+    blg00187
+    blg00184
   Excluded: (1)
-    time345
+    blg00345
 [歐耶]
   found in: (3)
-    time771
-    time716
-    time608
+    blg00771
+    blg00716
+    blg00608
   Excluded: (0)
     
 [Jim]
   found in: (3)
-    time761
-    time491
-    time178
+    blg00761
+    blg00491
+    blg00178
   Excluded: (0)
     
 [范琪斐]
   found in: (6)
-    time695
-    time255
-    time243
-    time181
-    time140
-    time512
+    blg00695
+    blg00255
+    blg00243
+    blg00181
+    blg00140
+    blg00512
   Excluded: (0)
     
 [敏迪 @敏迪選讀]
   found in: (7)
-    time389
-    time091
-    time243
-    time512
-    time548
-    time407
-    time476
+    blg00389
+    blg00091
+    blg00243
+    blg00512
+    blg00548
+    blg00407
+    blg00476
   Excluded: (0)
     
 [志祺 @志祺七七]
   found in: (2)
-    time525
-    time251
+    blg00525
+    blg00251
   Excluded: (0)
     
 [阿滴]
   found in: (3)
-    time525
-    time365
-    time251
+    blg00525
+    blg00365
+    blg00251
   Excluded: (0)
     
 [Joeman]
   found in: (4)
-    time652
-    time650
-    time509
-    time223
+    blg00652
+    blg00650
+    blg00509
+    blg00223
   Excluded: (0)
     
 [邱 grr]
   found in: (2)
-    time189
-    time243
+    blg00189
+    blg00243
   Excluded: (0)
     
 [Lucas @BBK Network]
   found in: (2)
-    time390
-    time672
+    blg00390
+    blg00672
   Excluded: (0)
     
 [Eric @The DoDo Men]
   found in: (2)
-    time787
-    time732
+    blg00787
+    blg00732
   Excluded: (0)
     
 [Peggy]
   found in: (8)
-    time641
-    time791
-    time759
-    time748
-    time743
-    time734
-    time727
-    time723
+    blg00641
+    blg00791
+    blg00759
+    blg00748
+    blg00743
+    blg00734
+    blg00727
+    blg00723
   Excluded: (1)
-    time730
+    blg00730
 [阿爆]
   found in: (4)
-    time645
-    time443
-    time322
-    time147
+    blg00645
+    blg00443
+    blg00322
+    blg00147
   Excluded: (1)
-    time245
+    blg00245
 [阿拉斯]
   found in: (2)
-    time443
-    time322
+    blg00443
+    blg00322
   Excluded: (0)
     
 [中指通]
   found in: (2)
-    time618
-    time617
+    blg00618
+    blg00617
   Excluded: (0)
     
 [小澤瑪利亞]
   found in: (2)
-    time599
-    time715
+    blg00599
+    blg00715
   Excluded: (0)
     
 [石巴朝]
   found in: (2)
-    time698
-    time337
+    blg00698
+    blg00337
   Excluded: (0)
     
 [Kimberley陳芳語]
   found in: (2)
-    time475
-    time423
+    blg00475
+    blg00423
   Excluded: (0)
     
 [大霈]
   found in: (2)
-    time611
-    time612
+    blg00611
+    blg00612
   Excluded: (0)
     
 [布拉瑞揚 @布拉瑞揚舞團]
   found in: (2)
-    time645
-    time340
+    blg00645
+    blg00340
   Excluded: (0)
     
 [楊貴智 @法律白話文]
   found in: (2)
-    time198
-    time448
+    blg00198
+    blg00448
   Excluded: (0)
     
 [唐綺陽]
   found in: (2)
-    time764
-    time265
+    blg00764
+    blg00265
   Excluded: (0)
     
 [台灣通勤第一品牌]
   found in: (2)
-    time709
-    time229
+    blg00709
+    blg00229
   Excluded: (1)
-    time197
+    blg00197
 [瑞典劉先生]
   found in: (2)
-    time546
-    time384
+    blg00546
+    blg00384
   Excluded: (0)
     
 [馬力歐]
   found in: (2)
-    time120
-    time077
+    blg00120
+    blg00077
   Excluded: (0)
     
 [龍哥（影視）]
   found in: (2)
-    time594
-    time405
+    blg00594
+    blg00405
   Excluded: (0)
     
 [小潘]
   found in: (4)
-    time257
-    time006
-    time004
-    time003
+    blg00257
+    blg00006
+    blg00004
+    blg00003
   Excluded: (0)
     
 [陳柏惟]
   found in: (2)
-    time274
-    time217
+    blg00274
+    blg00217
   Excluded: (0)
     
 [于北辰]
   found in: (2)
-    time381
-    time254
+    blg00381
+    blg00254
   Excluded: (0)
     
 [陳秋實]
   found in: (2)
-    time578
-    time481
+    blg00578
+    blg00481
   Excluded: (0)
     
 [王志安]
   found in: (3)
-    time760
-    time722
-    time623
+    blg00760
+    blg00722
+    blg00623
   Excluded: (0)
     
 [鄒宗翰 @德國之聲]
   found in: (2)
-    time661
-    time624
+    blg00661
+    blg00624
   Excluded: (0)
     
 [Jason 劉致昕]
   found in: (2)
-    time238
-    time376
+    blg00238
+    blg00376
   Excluded: (1)
-    time790
+    blg00790
 [小周@人渣文本]
   found in: (6)
-    time683
-    time666
-    time634
-    time587
-    time469
-    time799
+    blg00683
+    blg00666
+    blg00634
+    blg00587
+    blg00469
+    blg00799
   Excluded: (0)
     
 [Chiels]
   found in: (2)
-    time290
-    time372
+    blg00290
+    blg00372
   Excluded: (0)
     
 [李淳]
   found in: (2)
-    time408
-    time271
+    blg00408
+    blg00271
   Excluded: (0)
     
 [葉耀元教授]
   found in: (5)
-    time666
-    time665
-    time460
-    time378
-    time316
+    blg00666
+    blg00665
+    blg00460
+    blg00378
+    blg00316
   Excluded: (0)
     
 [阿江營養師]
   found in: (2)
-    time785
-    time691
+    blg00785
+    blg00691
   Excluded: (0)
     
 [館長]
   found in: (2)
-    time584
-    time583
+    blg00584
+    blg00583
   Excluded: (1)
-    time603
+    blg00603
 [Angel]
   found in: (2)
-    time287
-    time144
+    blg00287
+    blg00144
   Excluded: (1)
-    time164
+    blg00164
 [李小牧]
   found in: (2)
-    time755
-    time627
+    blg00755
+    blg00627
   Excluded: (0)
     
 [曹興誠]
   found in: (2)
-    time562
-    time561
+    blg00562
+    blg00561
   Excluded: (0)
     
 [顧立楷]
   found in: (2)
-    time319
-    time142
+    blg00319
+    blg00142
   Excluded: (0)
     
 [可心]
   found in: (2)
-    time677
-    time328
+    blg00677
+    blg00328
   Excluded: (0)
     
 [咪咪]
   found in: (2)
-    time683
-    time682
+    blg00683
+    blg00682
   Excluded: (0)
     
 [沈伯洋（助理）教授]
   found in: (3)
-    time700
-    time647
-    time211
+    blg00700
+    blg00647
+    blg00211
   Excluded: (0)
     
 [2022台灣地方選舉]
   found in: (4)
-    time596
-    time590
-    time588
-    time587
+    blg00596
+    blg00590
+    blg00588
+    blg00587
   Excluded: (0)
     
 [日本遶境]
   found in: (4)
-    time544
-    time569
-    time572
-    time590
+    blg00544
+    blg00569
+    blg00572
+    blg00590
   Excluded: (0)
     
 [裴洛西訪台事件]
   found in: (3)
-    time544
-    time547
-    time548
+    blg00544
+    blg00547
+    blg00548
   Excluded: (0)
     
 [五月天事件]
   found in: (3)
-    time749
-    time448
-    time446
+    blg00749
+    blg00448
+    blg00446
   Excluded: (0)
     
     ----

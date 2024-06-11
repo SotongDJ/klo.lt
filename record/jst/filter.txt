@@ -3,512 +3,512 @@ Start annotation
 Process: record/jst/keyword-0.toml
 [本週提醒]
   found in: (174)
-    time516
-    time513
-    time510
-    time507
-    time504
-    time501
-    time498
-    time495
-    time492
-    time489
-    time487
-    time484
-    time481
-    time478
-    time475
-    time472
-    time469
-    time466
-    time463
-    time460
-    time457
-    time454
-    time451
-    time448
-    time445
-    time442
-    time439
-    time436
-    time433
-    time430
-    time427
-    time425
-    time422
-    time419
-    time416
-    time413
-    time410
-    time407
-    time404
-    time401
-    time398
-    time395
-    time392
-    time389
-    time386
-    time383
-    time380
-    time377
-    time374
-    time371
-    time369
-    time366
-    time363
-    time360
-    time357
-    time354
-    time351
-    time348
-    time345
-    time342
-    time339
-    time337
-    time334
-    time331
-    time328
-    time325
-    time322
-    time319
-    time316
-    time313
-    time310
-    time308
-    time306
-    time303
-    time300
-    time297
-    time294
-    time291
-    time288
-    time285
-    time282
-    time279
-    time276
-    time273
-    time271
-    time269
-    time267
-    time265
-    time262
-    time259
-    time257
-    time254
-    time251
-    time248
-    time245
-    time242
-    time239
-    time236
-    time233
-    time230
-    time228
-    time225
-    time222
-    time219
-    time216
-    time213
-    time210
-    time207
-    time204
-    time202
-    time199
-    time196
-    time194
-    time191
-    time188
-    time185
-    time180
-    time177
-    time174
-    time167
-    time160
-    time157
-    time154
-    time151
-    time148
-    time141
-    time138
-    time135
-    time132
-    time125
-    time122
-    time119
-    time116
-    time113
-    time110
-    time107
-    time104
-    time101
-    time098
-    time095
-    time092
-    time090
-    time087
-    time084
-    time081
-    time079
-    time076
-    time073
-    time070
-    time067
-    time065
-    time062
-    time060
-    time057
-    time054
-    time052
-    time049
-    time047
-    time045
-    time043
-    time041
-    time038
-    time036
-    time034
-    time032
-    time030
-    time028
-    time026
-    time023
-    time021
-    time018
-    time016
-    time014
-    time012
+    jst00516
+    jst00513
+    jst00510
+    jst00507
+    jst00504
+    jst00501
+    jst00498
+    jst00495
+    jst00492
+    jst00489
+    jst00487
+    jst00484
+    jst00481
+    jst00478
+    jst00475
+    jst00472
+    jst00469
+    jst00466
+    jst00463
+    jst00460
+    jst00457
+    jst00454
+    jst00451
+    jst00448
+    jst00445
+    jst00442
+    jst00439
+    jst00436
+    jst00433
+    jst00430
+    jst00427
+    jst00425
+    jst00422
+    jst00419
+    jst00416
+    jst00413
+    jst00410
+    jst00407
+    jst00404
+    jst00401
+    jst00398
+    jst00395
+    jst00392
+    jst00389
+    jst00386
+    jst00383
+    jst00380
+    jst00377
+    jst00374
+    jst00371
+    jst00369
+    jst00366
+    jst00363
+    jst00360
+    jst00357
+    jst00354
+    jst00351
+    jst00348
+    jst00345
+    jst00342
+    jst00339
+    jst00337
+    jst00334
+    jst00331
+    jst00328
+    jst00325
+    jst00322
+    jst00319
+    jst00316
+    jst00313
+    jst00310
+    jst00308
+    jst00306
+    jst00303
+    jst00300
+    jst00297
+    jst00294
+    jst00291
+    jst00288
+    jst00285
+    jst00282
+    jst00279
+    jst00276
+    jst00273
+    jst00271
+    jst00269
+    jst00267
+    jst00265
+    jst00262
+    jst00259
+    jst00257
+    jst00254
+    jst00251
+    jst00248
+    jst00245
+    jst00242
+    jst00239
+    jst00236
+    jst00233
+    jst00230
+    jst00228
+    jst00225
+    jst00222
+    jst00219
+    jst00216
+    jst00213
+    jst00210
+    jst00207
+    jst00204
+    jst00202
+    jst00199
+    jst00196
+    jst00194
+    jst00191
+    jst00188
+    jst00185
+    jst00180
+    jst00177
+    jst00174
+    jst00167
+    jst00160
+    jst00157
+    jst00154
+    jst00151
+    jst00148
+    jst00141
+    jst00138
+    jst00135
+    jst00132
+    jst00125
+    jst00122
+    jst00119
+    jst00116
+    jst00113
+    jst00110
+    jst00107
+    jst00104
+    jst00101
+    jst00098
+    jst00095
+    jst00092
+    jst00090
+    jst00087
+    jst00084
+    jst00081
+    jst00079
+    jst00076
+    jst00073
+    jst00070
+    jst00067
+    jst00065
+    jst00062
+    jst00060
+    jst00057
+    jst00054
+    jst00052
+    jst00049
+    jst00047
+    jst00045
+    jst00043
+    jst00041
+    jst00038
+    jst00036
+    jst00034
+    jst00032
+    jst00030
+    jst00028
+    jst00026
+    jst00023
+    jst00021
+    jst00018
+    jst00016
+    jst00014
+    jst00012
   Excluded: (0)
     
 [水星]
   found in: (11)
-    time504
-    time473
-    time453
-    time384
-    time367
-    time365
-    time283
-    time278
-    time229
-    time157
-    time014
+    jst00504
+    jst00473
+    jst00453
+    jst00384
+    jst00367
+    jst00365
+    jst00283
+    jst00278
+    jst00229
+    jst00157
+    jst00014
   Excluded: (0)
     
 [金星]
   found in: (14)
-    time488
-    time439
-    time431
-    time424
-    time323
-    time322
-    time310
-    time260
-    time258
-    time252
-    time120
-    time111
-    time100
-    time043
+    jst00488
+    jst00439
+    jst00431
+    jst00424
+    jst00323
+    jst00322
+    jst00310
+    jst00260
+    jst00258
+    jst00252
+    jst00120
+    jst00111
+    jst00100
+    jst00043
   Excluded: (0)
     
 [月亮]
   found in: (17)
-    time512
-    time508
-    time479
-    time476
-    time426
-    time397
-    time394
-    time393
-    time364
-    time353
-    time352
-    time281
-    time234
-    time133
-    time055
-    time050
-    time044
+    jst00512
+    jst00508
+    jst00479
+    jst00476
+    jst00426
+    jst00397
+    jst00394
+    jst00393
+    jst00364
+    jst00353
+    jst00352
+    jst00281
+    jst00234
+    jst00133
+    jst00055
+    jst00050
+    jst00044
   Excluded: (0)
     
 [火星]
   found in: (14)
-    time456
-    time446
-    time440
-    time420
-    time399
-    time379
-    time340
-    time334
-    time305
-    time214
-    time211
-    time075
-    time068
-    time061
+    jst00456
+    jst00446
+    jst00440
+    jst00420
+    jst00399
+    jst00379
+    jst00340
+    jst00334
+    jst00305
+    jst00214
+    jst00211
+    jst00075
+    jst00068
+    jst00061
   Excluded: (0)
     
 [木星]
   found in: (9)
-    time514
-    time356
-    time302
-    time292
-    time235
-    time175
-    time172
-    time161
-    time149
+    jst00514
+    jst00356
+    jst00302
+    jst00292
+    jst00235
+    jst00175
+    jst00172
+    jst00161
+    jst00149
   Excluded: (0)
     
 [土星]
   found in: (7)
-    time474
-    time470
-    time318
-    time301
-    time296
-    time293
-    time197
+    jst00474
+    jst00470
+    jst00318
+    jst00301
+    jst00296
+    jst00293
+    jst00197
   Excluded: (0)
     
 [天王星]
   found in: (3)
-    time398
-    time167
-    time009
+    jst00398
+    jst00167
+    jst00009
   Excluded: (0)
     
 [海王星]
   found in: (2)
-    time500
-    time494
+    jst00500
+    jst00494
   Excluded: (0)
     
 [冥王星]
   found in: (3)
-    time369
-    time348
-    time269
+    jst00369
+    jst00348
+    jst00269
   Excluded: (0)
     
 [牡羊座]
   found in: (5)
-    time502
-    time488
-    time435
-    time323
-    time322
+    jst00502
+    jst00488
+    jst00435
+    jst00323
+    jst00322
   Excluded: (0)
     
 [金牛座]
   found in: (6)
-    time511
-    time504
-    time356
-    time342
-    time043
-    time009
+    jst00511
+    jst00504
+    jst00356
+    jst00342
+    jst00043
+    jst00009
   Excluded: (0)
     
 [雙子座]
   found in: (4)
-    time514
-    time361
-    time249
-    time037
+    jst00514
+    jst00361
+    jst00249
+    jst00037
   Excluded: (0)
     
 [巨蟹座]
   found in: (3)
-    time382
-    time340
-    time334
+    jst00382
+    jst00340
+    jst00334
   Excluded: (0)
     
 [處女座]
   found in: (5)
-    time384
-    time377
-    time091
-    time035
-    time006
+    jst00384
+    jst00377
+    jst00091
+    jst00035
+    jst00006
   Excluded: (0)
     
 [天秤座]
   found in: (3)
-    time399
-    time341
-    time001
+    jst00399
+    jst00341
+    jst00001
   Excluded: (0)
     
 [天蠍座]
   found in: (2)
-    time420
-    time373
+    jst00420
+    jst00373
   Excluded: (0)
     
 [射手座]
   found in: (5)
-    time443
-    time412
-    time305
-    time247
-    time027
+    jst00443
+    jst00412
+    jst00305
+    jst00247
+    jst00027
   Excluded: (0)
     
 [魔羯座]
   found in: (4)
-    time480
-    time464
-    time456
-    time042
+    jst00480
+    jst00464
+    jst00456
+    jst00042
   Excluded: (0)
     
 [水瓶座]
   found in: (4)
-    time505
-    time471
-    time335
-    time157
+    jst00505
+    jst00471
+    jst00335
+    jst00157
   Excluded: (0)
     
 [雙魚座]
   found in: (9)
-    time473
-    time472
-    time396
-    time372
-    time327
-    time326
-    time310
-    time206
-    time035
+    jst00473
+    jst00472
+    jst00396
+    jst00372
+    jst00327
+    jst00326
+    jst00310
+    jst00206
+    jst00035
   Excluded: (0)
     
 [一宮]
   found in: (4)
-    time200
-    time192
-    time189
-    time186
+    jst00200
+    jst00192
+    jst00189
+    jst00186
   Excluded: (5)
-    time253
-    time250
-    time243
-    time437
-    time434
+    jst00253
+    jst00250
+    jst00243
+    jst00437
+    jst00434
 [二宮]
   found in: (6)
-    time336
-    time093
-    time088
-    time082
-    time381
-    time376
+    jst00336
+    jst00093
+    jst00088
+    jst00082
+    jst00381
+    jst00376
   Excluded: (7)
-    time274
-    time270
-    time266
-    time261
-    time461
-    time459
-    time277
+    jst00274
+    jst00270
+    jst00266
+    jst00261
+    jst00461
+    jst00459
+    jst00277
 [三宮]
   found in: (3)
-    time112
-    time106
-    time102
+    jst00112
+    jst00106
+    jst00102
   Excluded: (0)
     
 [四宮]
   found in: (3)
-    time170
-    time168
-    time158
+    jst00170
+    jst00168
+    jst00158
   Excluded: (0)
     
 [五宮]
   found in: (9)
-    time411
-    time409
-    time408
-    time330
-    time289
-    time286
-    time280
-    time072
-    time071
+    jst00411
+    jst00409
+    jst00408
+    jst00330
+    jst00289
+    jst00286
+    jst00280
+    jst00072
+    jst00071
   Excluded: (0)
     
 [六宮]
   found in: (5)
-    time131
-    time123
-    time117
-    time390
-    time387
+    jst00131
+    jst00123
+    jst00117
+    jst00390
+    jst00387
   Excluded: (0)
     
 [七宮]
   found in: (3)
-    time182
-    time181
-    time176
+    jst00182
+    jst00181
+    jst00176
   Excluded: (0)
     
 [八宮]
   found in: (5)
-    time218
-    time208
-    time205
-    time201
-    time198
+    jst00218
+    jst00208
+    jst00205
+    jst00201
+    jst00198
   Excluded: (0)
     
 [九宮]
   found in: (8)
-    time496
-    time491
-    time197
-    time155
-    time150
-    time142
-    time139
-    time143
+    jst00496
+    jst00491
+    jst00197
+    jst00155
+    jst00150
+    jst00142
+    jst00139
+    jst00143
   Excluded: (0)
     
 [十宮]
   found in: (6)
-    time417
-    time415
-    time240
-    time227
-    time224
-    time221
+    jst00417
+    jst00415
+    jst00240
+    jst00227
+    jst00224
+    jst00221
   Excluded: (0)
     
 [十一宮]
   found in: (5)
-    time253
-    time250
-    time243
-    time437
-    time434
+    jst00253
+    jst00250
+    jst00243
+    jst00437
+    jst00434
   Excluded: (0)
     
 [十二宮]
   found in: (7)
-    time274
-    time270
-    time266
-    time261
-    time461
-    time459
-    time277
+    jst00274
+    jst00270
+    jst00266
+    jst00261
+    jst00461
+    jst00459
+    jst00277
   Excluded: (0)
     
     ----

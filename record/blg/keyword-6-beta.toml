@@ -26,6 +26,16 @@ exclusive = []
 category = ["#事件備註（測試中）"]
 
 ["五月天事件"]
-inclusive = ["五月天"]
+inclusive = ["直接槓上五月天","找律師 vs #五月天","凱莉是真五迷"]
+exclusive = []
+category = ["#事件備註（測試中）"]
+
+["《還有第七人》宣傳"]
+inclusive = ["線上算命的真相","凱莉懷孕還是工作狂"]
+exclusive = []
+category = ["#事件備註（測試中）"]
+
+["百靈果立院事件"]
+inclusive = ["引火自焚聊立院","聊聊立法院後續","離開立法院後"]
 exclusive = []
 category = ["#事件備註（測試中）"]
