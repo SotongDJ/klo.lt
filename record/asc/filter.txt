@@ -1,6 +1,6 @@
 ----
 Start annotation
-Process: record/sst/keyword-0.toml
+Process: record/asc/keyword-0.toml
 [本週運勢]
   found in: (24)
     asc00058

@@ -325,7 +325,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (262)
+  found in: (263)
+    blg00804
     blg00802
     blg00799
     blg00796
@@ -1517,9 +1518,22 @@ Process: record/blg/keyword-6-beta.toml
     
 [五月天事件]
   found in: (3)
-    blg00749
-    blg00448
     blg00446
+    blg00448
+    blg00449
+  Excluded: (0)
+    
+[《還有第七人》宣傳]
+  found in: (2)
+    blg00794
+    blg00788
+  Excluded: (0)
+    
+[百靈果立院事件]
+  found in: (3)
+    blg00799
+    blg00798
+    blg00797
   Excluded: (0)
     
     ----
