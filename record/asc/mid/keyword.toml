@@ -1,4 +1,264 @@
 ["本週運勢"]
 inclusive = ["本週運勢"]
 exclusive = []
-category = ["運勢"]
+category = ["#節目"]
+
+[Meditation]
+inclusive = ["Meditation"]
+exclusive = []
+category = ["#節目"]
+
+["丹公解夢"]
+inclusive = ["丹公解夢"]
+exclusive = []
+category = ["#節目"]
+
+["冥想"]
+inclusive = ["冥想", "Meditation"]
+exclusive = []
+category = ["冥想"]
+
+["水晶"]
+inclusive = ["水晶"]
+exclusive = []
+category = ["水晶"]
+
+["靈魂契約"]
+inclusive = ["靈魂契約"]
+exclusive = []
+category = ["靈魂契約"]
+
+["許願"]
+inclusive = ["許願"]
+exclusive = []
+category = ["許願"]
+
+["生命靈數"]
+inclusive = ["生命靈數"]
+exclusive = []
+category = ["生命靈數"]
+
+["星座"]
+inclusive = ["星座"]
+exclusive = []
+category = ["星座"]
+
+["五行"]
+inclusive = ["五行"]
+exclusive = []
+category = ["五行"]
+
+["塔羅牌"]
+inclusive = ["塔羅"]
+exclusive = []
+category = ["塔羅牌"]
+
+["守護天使"]
+inclusive = ["守護天使"]
+exclusive = []
+category = ["守護天使"]
+
+["雙生火焰"]
+inclusive = ["雙生火焰"]
+exclusive = []
+category = ["雙生火焰"]
+
+["擴大療癒法"]
+inclusive = ["擴大療癒法"]
+exclusive = []
+category = ["擴大療癒法"]
+
+["奇蹟"]
+inclusive = ["奇蹟"]
+exclusive = []
+category = ["奇蹟"]
+
+["靈擺"]
+inclusive = ["靈擺"]
+exclusive = []
+category = ["靈擺"]
+
+["揚升"]
+inclusive = ["揚升"]
+exclusive = []
+category = ["揚升"]
+
+["高我"]
+inclusive = ["高我"]
+exclusive = []
+category = ["高我"]
+
+["人類圖"]
+inclusive = ["人類圖"]
+exclusive = []
+category = ["人類圖"]
+
+["夢"]
+inclusive = ["夢"]
+exclusive = []
+category = ["夢"]
+
+["催眠"]
+inclusive = ["催眠"]
+exclusive = []
+category = ["催眠"]
+
+["風水"]
+inclusive = ["風水"]
+exclusive = []
+category = ["風水"]
+
+["東方靈數"]
+inclusive = ["東方靈數"]
+exclusive = []
+category = ["東方靈數"]
+
+["神仙雜貨殿"]
+inclusive = ["神仙雜貨殿"]
+exclusive = []
+category = ["神仙雜貨殿"]
+
+["算命"]
+inclusive = ["命會不會越算越差"]
+exclusive = []
+category = ["算命"]
+
+["桃花"]
+inclusive = ["桃花"]
+exclusive = []
+category = ["桃花"]
+
+["姻緣"]
+inclusive = ["姻緣"]
+exclusive = []
+category = ["姻緣"]
+
+["財神"]
+inclusive = ["財神"]
+exclusive = []
+category = ["神明"]
+
+["女神"]
+inclusive = ["母娘"]
+exclusive = []
+category = ["神明"]
+
+["脈輪"]
+inclusive = ["七脈輪", "7脈輪"]
+exclusive = []
+category = ["脈輪"]
+
+["黃金紀元"]
+inclusive = ["黃金紀元", "黃金世紀"]
+exclusive = []
+category = ["黃金紀元"]
+
+["紫色火焰"]
+inclusive = ["紫色火焰"]
+exclusive = []
+category = ["紫色火焰"]
+
+["黃香"]
+inclusive = ["黃香", "小我皇后"]
+exclusive = []
+category = ["來賓"]
+
+["老陳"]
+inclusive = ["老陳"]
+exclusive = []
+category = ["來賓"]
+
+["黃洄"]
+inclusive = ["黃洄"]
+exclusive = []
+category = ["來賓"]
+
+["阿寶"]
+inclusive = ["阿寶"]
+exclusive = []
+category = ["來賓"]
+
+[ReRe]
+inclusive = ["ReRe"]
+exclusive = []
+category = ["來賓"]
+
+["謝寶"]
+inclusive = ["謝寶"]
+exclusive = []
+category = ["來賓"]
+
+["小光"]
+inclusive = ["小光"]
+exclusive = []
+category = ["來賓"]
+
+["一咪"]
+inclusive = ["一咪"]
+exclusive = []
+category = ["來賓"]
+
+["路嘉怡"]
+inclusive = ["路嘉怡"]
+exclusive = []
+category = ["來賓", "人類圖"]
+
+["莫彼"]
+inclusive = ["莫彼"]
+exclusive = []
+category = ["來賓", "催眠"]
+
+["廖原慶 @善嵐慶女"]
+inclusive = ["廖原慶", "善嵐慶女"]
+exclusive = []
+category = ["來賓"]
+
+["善嵐慶女"]
+inclusive = ["善嵐慶女"]
+exclusive = []
+category = ["來賓"]
+
+["其圭 @里民服務中心"]
+inclusive = ["里民服務中心"]
+exclusive = []
+category = ["來賓", "面相學"]
+
+["蘿拉 @里民服務中心"]
+inclusive = ["里民服務中心"]
+exclusive = []
+category = ["來賓", "面相學"]
+
+["朱宏章老師"]
+inclusive = ["朱宏章老師"]
+exclusive = []
+category = ["來賓"]
+
+["金妮"]
+inclusive = ["金妮"]
+exclusive = []
+category = ["來賓", "寵物溝通"]
+
+["小胖"]
+inclusive = ["小胖"]
+exclusive = []
+category = ["來賓", "寵物溝通"]
+
+["簡少年"]
+inclusive = ["簡少年"]
+exclusive = []
+category = ["來賓", "面相學", "風水", "算命"]
+
+["Ashley 愛希"]
+inclusive = ["Ashley 愛希"]
+exclusive = []
+category = ["來賓"]
+
+["GINA 許怡蘭"]
+inclusive = ["GINA 許怡蘭"]
+exclusive = []
+category = ["來賓"]
+
+["江江老師"]
+inclusive = ["江江老師"]
+exclusive = []
+category = ["來賓"]
