@@ -2,6 +2,7 @@
 docs/
 record/*/record/
 static_files/f
+static_files/p
 
 # Exclude Requests
 */record/*Requests.*
