@@ -88,6 +88,7 @@ jobs:
           python3 annotate.py asc > record/asc/filter.txt
       - name: Export feed into js file
         run: |
+          rm -v docs/playlist.json docs/tag_class.json docs/class_tag.json
           python3 export.py blg
           python3 export.py exr
           python3 export.py jst
