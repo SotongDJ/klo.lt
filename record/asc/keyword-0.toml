@@ -73,6 +73,11 @@ inclusive = ["奇蹟"]
 exclusive = []
 category = ["方法"]
 
+["寵物溝通"]
+inclusive = ["寵物溝通"]
+exclusive = []
+category = ["方法"]
+
 ["靈擺"]
 inclusive = ["靈擺"]
 exclusive = []
