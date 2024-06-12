@@ -2,9 +2,11 @@
 
 klo.lt is a podcast player I created to organize my favorite podcasts and streamline my listening experience.
 
+![klo.lt Podcast Player](cover.jpg)
+
 ## Source code
 
-This project is integrate from the following project:
+This project is integrated from the following projects:
 
 - [redirect](https://github.com/SotongDJ/redirect)
 - [CFP2](https://github.com/SotongDJ/CFP2) (backend)
