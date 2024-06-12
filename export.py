@@ -58,10 +58,10 @@ def do_job(target_str):
         playlist_dict[key_str] = value_inner_dict
     outer_str = "const playlist = "+json.dumps(playlist_dict,indent=0,ensure_ascii=True)+";\n"
 
-    # with open("docs/blg-playlist.json","w") as target_handler:
-    #     json.dump(playlist_dict,target_handler,indent=0,sort_keys=True)
-    with open(f"docs/{target_str}-playlist.toml","w",encoding="utf8") as target_handler:
-        rtoml.dump(playlist_dict,target_handler)
+    with open(f"docs/{target_str}-playlist.json","w") as target_handler:
+        json.dump(playlist_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
+    # with open(f"docs/{target_str}-playlist.toml","w",encoding="utf8") as target_handler:
+    #     rtoml.dump(playlist_dict,target_handler)
 
     print("    ----")
     print(f"    export docs/{target_str}-tag_class")
@@ -70,9 +70,9 @@ def do_job(target_str):
     tag_to_class_list = [F"\"{x}\": {y}" for x, y in tag_to_class_dict.items()]
     tag_to_class_str = "const tag_class = {\n"+",\n".join(tag_to_class_list)+"\n};\n"
 
-    # with open("docs/blg-tag_class.json","w") as target_handler:
-    #     json.dump(tag_to_class_dict,target_handler,indent=0,sort_keys=True)
-    # with open("docs/blg-tag_class.toml","w") as target_handler:
+    with open(f"docs/{target_str}-tag_class.json","w") as target_handler:
+        json.dump(tag_to_class_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
+    # with open(f"docs/{target_str}-tag_class.toml","w") as target_handler:
     #     rtoml.dump(tag_to_class_dict,target_handler)
 
     print("    ----")
@@ -89,9 +89,9 @@ def do_job(target_str):
         class_to_tag_list.append(F"\"{category_name}\": {category_list}")
     class_to_tag_str = "const class_tag = {\n"+",\n".join(class_to_tag_list)+"\n};\n"
 
-    # with open("docs/blg-class_tag.json","w") as target_handler:
-    #     json.dump(class_to_tag_dict,target_handler,indent=0,sort_keys=True)
-    # with open("docs/blg-class_tag.toml","w") as target_handler:
+    with open(f"docs/{target_str}-class_tag.json","w") as target_handler:
+        json.dump(class_to_tag_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
+    # with open(f"docs/{target_str}-class_tag.toml","w") as target_handler:
     #     rtoml.dump(class_to_tag_dict,target_handler)
 
     with open(f"docs/{target_str}-playlist.js","w",encoding="utf8") as target_handler:
