@@ -1,4 +1,159 @@
 ["本週運勢"]
 inclusive = ["本週運勢"]
 exclusive = []
-category = ["運勢"]
+category = ["#節目"]
+
+["Meditation"]
+inclusive = ["Meditation"]
+exclusive = []
+category = ["#節目"]
+
+["丹公解夢"]
+inclusive = ["丹公解夢"]
+exclusive = []
+category = ["#節目"]
+
+["冥想"]
+inclusive = ["冥想","Meditation"]
+exclusive = []
+category = ["冥想"]
+
+["水晶"]
+inclusive = ["水晶"]
+exclusive = []
+category = ["水晶"]
+
+["靈魂契約"]
+inclusive = ["靈魂契約"]
+exclusive = []
+category = ["靈魂契約"]
+
+["許願"]
+inclusive = ["許願"]
+exclusive = []
+category = ["許願"]
+
+["生命靈數"]
+inclusive = ["生命靈數"]
+exclusive = []
+category = ["生命靈數"]
+
+["星座"]
+inclusive = ["星座"]
+exclusive = []
+category = ["星座"]
+
+["五行"]
+inclusive = ["五行"]
+exclusive = []
+category = ["五行"]
+
+["塔羅牌"]
+inclusive = ["塔羅"]
+exclusive = []
+category = ["塔羅牌"]
+
+["守護天使"]
+inclusive = ["守護天使"]
+exclusive = []
+category = ["守護天使"]
+
+["雙生火焰"]
+inclusive = ["雙生火焰"]
+exclusive = []
+category = ["雙生火焰"]
+
+["擴大療癒法"]
+inclusive = ["擴大療癒法"]
+exclusive = []
+category = ["擴大療癒法"]
+
+["奇蹟"]
+inclusive = ["奇蹟"]
+exclusive = []
+category = ["奇蹟"]
+
+["靈擺"]
+inclusive = ["靈擺"]
+exclusive = []
+category = ["靈擺"]
+
+["揚升"]
+inclusive = ["揚升"]
+exclusive = []
+category = ["揚升"]
+
+["高我"]
+inclusive = ["高我"]
+exclusive = []
+category = ["高我"]
+
+["人類圖"]
+inclusive = ["人類圖"]
+exclusive = []
+category = ["人類圖"]
+
+["夢"]
+inclusive = ["夢"]
+exclusive = []
+category = ["夢"]
+
+["催眠"]
+inclusive = ["催眠"]
+exclusive = []
+category = ["催眠"]
+
+["風水"]
+inclusive = ["風水"]
+exclusive = []
+category = ["風水"]
+
+["東方靈數"]
+inclusive = ["東方靈數"]
+exclusive = []
+category = ["東方靈數"]
+
+["神仙雜貨殿"]
+inclusive = ["神仙雜貨殿"]
+exclusive = []
+category = ["神仙雜貨殿"]
+
+["算命"]
+inclusive = ["命會不會越算越差"]
+exclusive = []
+category = ["算命"]
+
+["桃花"]
+inclusive = ["桃花"]
+exclusive = []
+category = ["桃花"]
+
+["姻緣"]
+inclusive = ["姻緣"]
+exclusive = []
+category = ["姻緣"]
+
+["財神"]
+inclusive = ["財神"]
+exclusive = []
+category = ["神明"]
+
+["女神"]
+inclusive = ["母娘"]
+exclusive = []
+category = ["神明"]
+
+["脈輪"]
+inclusive = ["七脈輪","7脈輪"]
+exclusive = []
+category = ["脈輪"]
+
+["黃金紀元"]
+inclusive = ["黃金紀元","黃金世紀"]
+exclusive = []
+category = ["黃金紀元"]
+
+["紫色火焰"]
+inclusive = ["紫色火焰"]
+exclusive = []
+category = ["紫色火焰"]

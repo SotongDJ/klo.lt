@@ -1,0 +1,104 @@
+["黃香"]
+inclusive = ["黃香","小我皇后"]
+exclusive = []
+category = ["來賓"]
+
+["老陳"]
+inclusive = ["老陳"]
+exclusive = []
+category = ["來賓"]
+
+["黃洄"]
+inclusive = ["黃洄"]
+exclusive = []
+category = ["來賓"]
+
+["阿寶"]
+inclusive = ["阿寶"]
+exclusive = []
+category = ["來賓"]
+
+["ReRe"]
+inclusive = ["ReRe"]
+exclusive = []
+category = ["來賓"]
+
+["謝寶"]
+inclusive = ["謝寶"]
+exclusive = []
+category = ["來賓"]
+
+["小光"]
+inclusive = ["小光"]
+exclusive = []
+category = ["來賓"]
+
+["一咪"]
+inclusive = ["一咪"]
+exclusive = []
+category = ["來賓"]
+
+["路嘉怡"]
+inclusive = ["路嘉怡"]
+exclusive = []
+category = ["來賓","人類圖"]
+
+["莫彼"]
+inclusive = ["莫彼"]
+exclusive = []
+category = ["來賓","催眠"]
+
+["廖原慶 @善嵐慶女"]
+inclusive = ["廖原慶","善嵐慶女"]
+exclusive = []
+category = ["來賓"]
+
+["善嵐慶女"]
+inclusive = ["善嵐慶女"]
+exclusive = []
+category = ["來賓"]
+
+["其圭 @里民服務中心"]
+inclusive = ["里民服務中心"]
+exclusive = []
+category = ["來賓","面相學"]
+
+["蘿拉 @里民服務中心"]
+inclusive = ["里民服務中心"]
+exclusive = []
+category = ["來賓","面相學"]
+
+["朱宏章老師"]
+inclusive = ["朱宏章老師"]
+exclusive = []
+category = ["來賓"]
+
+["金妮"]
+inclusive = ["金妮"]
+exclusive = []
+category = ["來賓","寵物溝通"]
+
+["小胖"]
+inclusive = ["小胖"]
+exclusive = []
+category = ["來賓","寵物溝通"]
+
+["簡少年"]
+inclusive = ["簡少年"]
+exclusive = []
+category = ["來賓","面相學","風水","算命"]
+
+["Ashley 愛希"]
+inclusive = ["Ashley 愛希"]
+exclusive = []
+category = ["來賓"]
+
+["GINA 許怡蘭"]
+inclusive = ["GINA 許怡蘭"]
+exclusive = []
+category = ["來賓"]
+
+["江江老師"]
+inclusive = ["江江老師"]
+exclusive = []
+category = ["來賓"]
