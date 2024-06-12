@@ -1,7 +1,8 @@
 """Export playlist"""
 import argparse
-import json
 from datetime import datetime
+import json
+from pathlib import Path
 import rtoml
 
 def convert_month(input_str):
@@ -94,10 +95,40 @@ def do_job(target_str):
     # with open(f"docs/{target_str}-class_tag.toml","w") as target_handler:
     #     rtoml.dump(class_to_tag_dict,target_handler)
 
+    print("    ----")
+    print(f"    export docs/{target_str}-playlist.js")
     with open(f"docs/{target_str}-playlist.js","w",encoding="utf8") as target_handler:
         target_handler.write(outer_str)
         target_handler.write(tag_to_class_str)
         target_handler.write(class_to_tag_str)
+
+    print("    ----")
+    print(f"    update docs/playlist.json")
+    playlist_path = "docs/playlist.json"
+    playlist_json = json.load(open(playlist_path)) if Path(playlist_path).exists() else {}
+    for key, values in playlist_dict.items():
+        playlist_json[key] = values
+    with open(playlist_path,"w") as target_handler:
+        json.dump(playlist_json,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
+    print(f"    update docs/tag_class")
+    tag_to_class_path = "docs/tag_class.json"
+    tag_to_class_json = json.load(open(tag_to_class_path)) if Path(tag_to_class_path).exists() else {}
+    for key, values in tag_to_class_dict.items():
+        tag_to_class_values = tag_to_class_json.get(key,[])
+        tag_to_class_values.extend([n for n in values if n not in tag_to_class_values])
+        tag_to_class_json[key] = tag_to_class_values
+    with open(tag_to_class_path,"w") as target_handler:
+        json.dump(tag_to_class_json,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
+    print(f"    update docs/class_tag")
+    class_to_tag_path = "docs/class_tag.json"
+    class_to_tag_json = json.load(open(class_to_tag_path)) if Path(class_to_tag_path).exists() else {}
+    for key, values in class_to_tag_dict.items():
+        class_to_tag_values = class_to_tag_json.get(key,[])
+        class_to_tag_values.extend([n for n in values if n not in class_to_tag_values])
+        class_to_tag_json[key] = class_to_tag_values
+    with open(class_to_tag_path,"w") as target_handler:
+        json.dump(class_to_tag_json,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
+
     print("    ----\nEnd export")
 
 if __name__ == "__main__":

@@ -1,8 +1,8 @@
 """Merge different sources into single structural file"""
 import argparse
+import configdo
 from pathlib import Path
 import rtoml
-import configdo
 
 def do_job(target_str,configing):
     """Main thread"""
