@@ -75,6 +75,18 @@ Process: record/asc/keyword-1-guest.toml
     asc00060
   Excluded: (0)
     
+[擴大療癒法]
+  found in: (2)
+    asc00075
+    asc00030
+  Excluded: (0)
+    
+[寵物溝通]
+  found in: (2)
+    asc00098
+    asc00064
+  Excluded: (0)
+    
 [靈擺]
   found in: (2)
     asc00078
