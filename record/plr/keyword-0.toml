@@ -1,0 +1,24 @@
+["政治歸政治"]
+inclusive = ["政治歸政治"]
+exclusive = []
+category = ["#節目系列"]
+
+["法客話題"]
+inclusive = ["法客話題"]
+exclusive = []
+category = ["#節目系列"]
+
+["YO智事務所"]
+inclusive = ["YO智事務所"]
+exclusive = []
+category = ["#節目系列"]
+
+["政治歸YO智"]
+inclusive = ["政治歸YO智","政治歸ＹＯ智"]
+exclusive = []
+category = ["#節目系列"]
+
+["法客人物"]
+inclusive = ["法客人物"]
+exclusive = []
+category = ["#節目系列"]

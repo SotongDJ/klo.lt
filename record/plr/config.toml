@@ -1,0 +1,7 @@
+"rss" = "https://feed.firstory.me/rss/user/ckudnw7fn4tqg0870axzgirva"
+"apple" = "https://podcasts.apple.com/tw/podcast/%E6%B3%95%E5%AE%A2%E9%9B%BB%E5%8F%B0-by-%E6%B3%95%E5%BE%8B%E7%99%BD%E8%A9%B1%E6%96%87%E9%81%8B%E5%8B%95-plain-law-radio/id1482463498"
+"spotify" = "https://api.spotify.com/v1/shows/2JJ9ignOhpcR5UUeAEcoGI/episodes?market=TW&limit=50"
+"youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id=UCXd6dUdTQchAg2P0QRh_42Q"
+
+[correct]
+"\u200b" = ""

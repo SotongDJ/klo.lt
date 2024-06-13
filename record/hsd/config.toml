@@ -1,0 +1,7 @@
+"rss" = "https://feed.firstory.me/rss/user/clcrlr3oi02rw01yh49p166nl"
+"apple" = "https://podcasts.apple.com/tw/podcast/%E6%B6%B5%E9%85%B8%E9%9B%BB%E6%B3%A2/id1546108932"
+"spotify" = "https://api.spotify.com/v1/shows/3Y3rhkNY2fFnBsed3gITKe/episodes?market=TW&limit=50"
+"youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id=UCyKP7FLqQBbukc0kgzYEl9Q"
+
+[correct]
+"\u200b" = ""
