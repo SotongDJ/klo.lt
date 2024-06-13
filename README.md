@@ -26,26 +26,28 @@ This project is integrated from the following projects:
 - 眼球地下電台 👁
   - <https://instagram.com/eyexradio/>
 
-## Planning
-
-- Podcast to include
-  - [ ] 台灣通勤第一品牌
-  - [ ] 瘋女人聊天室
-  - [ ] 潤男的Room
-  - [ ] 嗚喵備忘錄
-  - [ ] 斐姨所思
-  - [ ] 三尼巴掌
-  - [ ] 法客電台
-  - [ ] 博音
-  - [ ] 呱吉
-- Functions
-  - [ ] Able to customize playback queue
-  - [ ] offline playback
-    - use browser to cache podcast and manage downloaded content are too complicated
-
 # LICENSE
 
 - The fonts (Noto Sans Mono, Noto Sans TC, Noto Emoji) use in this website is licensed under the SIL Open Font License 1.1.
   - See https://fonts.google.com/attribution for more detail
 - The icons (Font Awesome Free) use in this website is licensed under the CC BY 4.0 License and SIL Open Font License 1.1 License
   - See https://fontawesome.com/license/free for more detail
+
+## Planning
+
+- Podcast to include
+  - [ ] 潤男的Room
+  - [ ] 法客電台
+  - [ ] 一百趴沈
+  - [ ] 台灣通勤第一品牌
+  - [ ] 博音
+  - [ ] 呱吉
+  - [ ] 三尼巴掌
+  - [ ] 斐姨所思
+  - [ ] 嗚喵備忘錄
+  - [ ] 瘋女人聊天室
+- Functions
+  - [ ] Able to customize playback queue
+  - [ ] Able to mixed episode among different podcasts
+  - [ ] Able to download episode for offline playback
+    - use browser to cache podcast and manage downloaded content are too complicated
