@@ -72,49 +72,62 @@ def do_job(target_str,configing):
         print("    Terminated collection: Feed")
     else:
         for unit in rss_feed.find_all('item'):
-            name = unit.title.contents[0]
-            url = unit.enclosure['url']
-            unit_description = unit.description
-            contents = unit_description.contents
-            description = str(contents[0]) if len(contents) > 0 else ""
-            rss_dict[name] = url
-            if name not in description_dict:
-                description_dict[name] = description
-            original_time_str = unit.pubDate.contents[0].replace('GMT', '+0000')
-            mthfmt_str = "%a, %d %b %Y %H:%M:%S %z"
-            month_str = datetime.strptime(original_time_str,mthfmt_str).strftime("%b %Y")
-            month_dict[name] = month_str
-            img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [channel_cover_str]
-            img_url = str(img_list[0])
-            name2url_dict[name] = img_url
-            path_name_str = pathlib.Path(img_url).parent.name
-            file_name_str = pathlib.Path(img_url).name
-            safe_img_url = F"{path_name_str}-{file_name_str}"
-            if safe_img_url not in url_to_file_dict:
-                print(F"request: {img_url} for '{name}'")
-                cover_img_r = requests.get(img_url,stream=True,timeout=60,headers=headers)
-                # content_type = cover_img_r.headers.get('Content-Type')
-                time.sleep(1)
-                try:
-                    cover_img_r.raw.decode_content = True
-                    img_file = BytesIO(cover_img_r.content)
-                    cover_img = Image.open(img_file)
-                    h_name = hashlib.new('sha256')
-                    h_name.update(cover_img.tobytes())
-                    img_name = h_name.hexdigest()
-                except:
-                    print("            Access Denied to the file")
-                    print("            Use default img instead")
-                    img_name = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
-                url_to_file_dict[safe_img_url] = img_name
-                if not pathlib.Path(F"docs/p/{img_name}/512.png").exists():
-                    print(F"resize: docs/p/{img_name}")
-                    for img_size in img_size_list:
-                        pathlib.Path(F"docs/p/{img_name}/").mkdir(parents=True,exist_ok=True)
-                        wpercent = img_size / float(cover_img.size[0])
-                        hsize = int((float(cover_img.size[1]) * float(wpercent)))
-                        cover_img_res = cover_img.resize((img_size, hsize), Image.Resampling.LANCZOS)
-                        cover_img_res.save(F"docs/p/{img_name}/{img_size}.png")
+            try:
+                name = unit.title.contents[0]
+            except:
+                name = ""
+            if name == "":
+                unit_title = unit.get('title')
+                if unit_title:
+                    print(f"        invalid items: {unit_title}")
+                else:
+                    print("        invalid items")
+            else:
+                name = unit.title.contents[0]
+                url = unit.enclosure['url']
+                unit_description = unit.description
+                contents = unit_description.contents
+                description = str(contents[0]) if len(contents) > 0 else ""
+                rss_dict[name] = url
+                if name not in description_dict:
+                    description_dict[name] = description
+                original_time_str = unit.pubDate.contents[0].replace('GMT', '+0000')
+                mthfmt_str = "%a, %d %b %Y %H:%M:%S %z"
+                month_str = datetime.strptime(original_time_str,mthfmt_str).strftime("%b %Y")
+                month_dict[name] = month_str
+                img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [channel_cover_str]
+                img_url = str(img_list[0])
+                name2url_dict[name] = img_url
+                path_name_str = pathlib.Path(img_url).parent.name
+                file_name_str = pathlib.Path(img_url).name
+                safe_img_url = F"{path_name_str}-{file_name_str}"
+                if safe_img_url not in url_to_file_dict:
+                    print(F"request: {img_url} for '{name}'")
+                    cover_img_r = requests.get(img_url,stream=True,timeout=60,headers=headers)
+                    # content_type = cover_img_r.headers.get('Content-Type')
+                    sleep_time = random.uniform(1, 2)
+                    print(f"        sleep: {sleep_time}")
+                    time.sleep(sleep_time)
+                    try:
+                        cover_img_r.raw.decode_content = True
+                        img_file = BytesIO(cover_img_r.content)
+                        cover_img = Image.open(img_file)
+                        h_name = hashlib.new('sha256')
+                        h_name.update(cover_img.tobytes())
+                        img_name = h_name.hexdigest()
+                    except:
+                        print("            Access Denied to the file")
+                        print("            Use default img instead")
+                        img_name = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+                    url_to_file_dict[safe_img_url] = img_name
+                    if not pathlib.Path(F"docs/p/{img_name}/512.png").exists():
+                        print(F"resize: docs/p/{img_name}")
+                        for img_size in img_size_list:
+                            pathlib.Path(F"docs/p/{img_name}/").mkdir(parents=True,exist_ok=True)
+                            wpercent = img_size / float(cover_img.size[0])
+                            hsize = int((float(cover_img.size[1]) * float(wpercent)))
+                            cover_img_res = cover_img.resize((img_size, hsize), Image.Resampling.LANCZOS)
+                            cover_img_res.save(F"docs/p/{img_name}/{img_size}.png")
         result_dict["feed"] = rss_dict
         configing.xmlw(rss_req.text,"/record/feedPodcastRequests.xml")
         configing.toml(rss_dict,"/record/feedPodcast.toml")
