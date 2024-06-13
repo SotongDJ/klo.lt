@@ -1,17 +1,17 @@
 ["本週運勢"]
 inclusive = ["本週運勢"]
 exclusive = []
-category = ["#節目"]
+category = ["#節目系列"]
 
 [Meditation]
 inclusive = ["Meditation"]
 exclusive = []
-category = ["#節目"]
+category = ["#節目系列"]
 
 ["丹公解夢"]
 inclusive = ["丹公解夢"]
 exclusive = []
-category = ["#節目"]
+category = ["#節目系列"]
 
 ["冥想"]
 inclusive = ["冥想", "Meditation"]
