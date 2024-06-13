@@ -1,0 +1,7 @@
+"rss" = "https://feeds.soundon.fm/podcasts/61b793e3-6ed9-405a-bea1-566679b12d3d.xml"
+"apple" = "https://podcasts.apple.com/tw/podcast/%E9%9B%B6%E6%8D%8C%E6%AD%90%E5%8C%97%E5%85%B1/id1542576888"
+"spotify" = "https://api.spotify.com/v1/shows/0UMhUG5eKYnqqZA0RMYUyK/episodes?market=TW&limit=50"
+"youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id=UCAnp0uGAdILn7x3PijsTYGQ"
+
+[correct]
+"\u200b" = ""

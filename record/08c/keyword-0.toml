@@ -1,0 +1,280 @@
+# Comedians/Stand Up comedy
+
+["凱莉"]
+inclusive = ["凱莉"]
+exclusive = []
+category = ["喜劇演員"]
+
+["Ken"]
+inclusive = ["Ken"]
+exclusive = []
+category = ["喜劇演員"]
+
+["瑞恩"]
+inclusive = ["瑞恩","RayRay"]
+exclusive = []
+category = ["喜劇演員"]
+
+[Hector]
+inclusive = ["Hector"]
+exclusive = []
+category = ["喜劇演員"]
+
+["喬瑟夫"]
+inclusive = ["喬瑟夫"]
+exclusive = []
+category = ["喜劇演員"]
+
+["陳大天"]
+inclusive = ["陳大天"]
+exclusive = []
+category = ["喜劇演員"]
+
+["小歐"]
+inclusive = ["小歐"]
+exclusive = []
+category = ["喜劇演員"]
+
+["老K"]
+inclusive = ["老K"]
+exclusive = []
+category = ["喜劇演員"]
+
+["妍霏"]
+inclusive = ["妍霏"]
+exclusive = []
+category = ["喜劇演員"]
+
+["學仁"]
+inclusive = ["學仁"]
+exclusive = []
+category = ["喜劇演員"]
+
+["天殘"]
+inclusive = ["天殘"]
+exclusive = []
+category = ["喜劇演員"]
+
+["佳諭"]
+inclusive = ["佳諭"]
+exclusive = []
+category = ["喜劇演員"]
+
+["品喬"]
+inclusive = ["品喬"]
+exclusive = []
+category = ["喜劇演員"]
+
+["不知火"]
+inclusive = ["不知火"]
+exclusive = []
+category = ["喜劇演員"]
+
+[Social]
+inclusive = ["Social"]
+exclusive = []
+category = ["喜劇演員"]
+
+["歐馬克"]
+inclusive = ["歐馬克"]
+exclusive = []
+category = ["喜劇演員"]
+
+["微笑丹尼"]
+inclusive = ["微笑丹尼"]
+exclusive = []
+category = ["喜劇演員"]
+
+["博恩"]
+inclusive = ["博恩"]
+exclusive = []
+category = ["喜劇演員"]
+
+["大可愛"]
+inclusive = ["大可愛"]
+exclusive = []
+category = ["喜劇演員"]
+
+["權樂"]
+inclusive = ["權樂"]
+exclusive = []
+category = ["喜劇演員"]
+
+["巴斯"]
+inclusive = ["巴斯"]
+exclusive = []
+category = ["喜劇演員"]
+
+["黃逸豪"]
+inclusive = ["黃逸豪"]
+exclusive = []
+category = ["喜劇演員"]
+
+["黃小胖"]
+inclusive = ["黃小胖"]
+exclusive = []
+category = ["喜劇演員"]
+
+["艾董"]
+inclusive = ["艾董"]
+exclusive = []
+category = ["喜劇演員"]
+
+["黃豪平"]
+inclusive = ["黃豪平"]
+exclusive = []
+category = ["喜劇演員"]
+
+["東區德"]
+inclusive = ["東區德"]
+exclusive = []
+category = ["喜劇演員"]
+
+["賀瓏"]
+inclusive = ["賀瓏"]
+exclusive = []
+category = ["喜劇演員"]
+
+["么么"]
+inclusive = ["么么"]
+exclusive = []
+category = ["喜劇演員"]
+
+["怡岑"]
+inclusive = ["怡岑"]
+exclusive = []
+category = ["喜劇演員"]
+
+["酸酸"]
+inclusive = ["酸酸"]
+exclusive = []
+category = ["喜劇演員"]
+
+["呱吉"]
+inclusive = ["呱吉"]
+exclusive = ["呱吉吐槽大會是set的嗎"]
+category = ["喜劇演員"]
+
+["壯壯"]
+inclusive = ["壯壯"]
+exclusive = []
+category = ["喜劇演員"]
+
+["馬克吐司"]
+inclusive = ["馬克吐司"]
+exclusive = []
+category = ["喜劇演員"]
+
+["六塊錢"]
+inclusive = ["六塊錢"]
+exclusive = []
+category = ["喜劇演員"]
+
+["麥摳"]
+inclusive = ["麥摳"]
+exclusive = []
+category = ["喜劇演員"]
+
+["大鵰博士"]
+inclusive = ["大鵰博士"]
+exclusive = []
+category = ["喜劇演員"]
+
+["Jim"]
+inclusive = ["Jim"]
+exclusive = []
+category = ["喜劇演員"]
+
+# 
+
+["安安邊緣子"]
+inclusive = ["安安邊緣子"]
+exclusive = []
+category = ["來賓"]
+
+["阿民"]
+inclusive = ["阿民"]
+exclusive = []
+category = ["來賓"]
+
+["彥儒"]
+inclusive = ["彥儒"]
+exclusive = []
+category = ["來賓"]
+
+["黃大謙"]
+inclusive = ["黃大謙"]
+exclusive = []
+category = ["來賓"]
+
+["一隻阿圓"]
+inclusive = ["一隻阿圓"]
+exclusive = []
+category = ["來賓"]
+
+["城寶"]
+inclusive = ["城寶"]
+exclusive = []
+category = ["來賓"]
+
+["Shine @欸你這週要幹嘛"]
+inclusive = ["Shine"]
+exclusive = []
+category = ["來賓"]
+
+["弟弟 @欸你這週要幹嘛"]
+inclusive = ["弟弟"]
+exclusive = []
+category = ["來賓"]
+
+["黃建豪 @嚎哮排演"]
+inclusive = ["黃建豪"]
+exclusive = []
+category = ["來賓"]
+
+["蕭東意 @嚎哮排演"]
+inclusive = ["蕭東意"]
+exclusive = []
+category = ["來賓"]
+
+["安格斯"]
+inclusive = ["安格斯"]
+exclusive = []
+category = ["來賓"]
+
+["欣西亞"]
+inclusive = ["欣西亞"]
+exclusive = []
+category = ["來賓"]
+
+["Sam"]
+inclusive = ["Sam"]
+exclusive = []
+category = ["來賓"]
+
+["9m88"]
+inclusive = ["9m88"]
+exclusive = []
+category = ["來賓"]
+
+["May fit"]
+inclusive = ["May fit"]
+exclusive = []
+category = ["來賓"]
+
+["酷炫老師"]
+inclusive = ["酷炫老師"]
+exclusive = []
+category = ["來賓"]
+
+["小聶"]
+inclusive = ["小聶","聶小聶"]
+exclusive = []
+category = ["來賓"]
+
+# Special
+
+["The KK Sh!t"]
+inclusive = ["The KK Sh!t"]
+exclusive = []
+category = ["#節目系列"]
