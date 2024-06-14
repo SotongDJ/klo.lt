@@ -1,5 +1,17 @@
 # Add your own tag to each episode
 
+[asc00113]
+name = "EP83｜Let’s積積陰陰德"
+feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/e69c06f8-35be-4d37-aed9-78bd143fc555/rssFileVip.mp3?timestamp=1718344219426"
+apple = "https://podcasts.apple.com/tw/podcast/ep83-lets%E7%A9%8D%E7%A9%8D%E9%99%B0%E9%99%B0%E5%BE%B7/id1655641331?i=1000658993210"
+spotify = "https://open.spotify.com/episode/6Q2g9UDfH3COetNwrRVke3"
+youtube = "https://www.youtube.com/watch?v=Y3SJPI-Pl8A"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "陰陰德這麼久了 \n終於輪到陰德本人出場了 \n這集整個福報功德陰德完整架構 \n扶老奶奶過馬路絕對福報＋１ \n這集還有分享各式因果業力 \n可以避免在一些生活上的小事物業力爆棚 \n總之這集實在太重要啦啦啦啦！ \n請一定要看完然後一起 \n積積陰陰德吧！ \n  \n  \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP83｜Let’s積積陰陰德"]
+tag = ["Jun 2024", "2024"]
+category = []
+
 [asc00112]
 name = "EP82｜火的魔法 ft.江江老師"
 feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/bd88a2e9-23d9-412b-bdcd-647f0a7423e2/rssFileVip.mp3?timestamp=1717741126416"
