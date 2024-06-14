@@ -1,0 +1,9 @@
+[Miyako]
+inclusive = ["Miyako"]
+exclusive = []
+category = ["來賓"]
+
+["簡莉穎"]
+inclusive = ["簡莉穎"]
+exclusive = []
+category = ["來賓"]

@@ -1,0 +1,19 @@
+----
+Start annotation
+Process: record/hsd/keyword-0.toml
+[好難搞女孩]
+  found in: (10)
+    hsd00034
+    hsd00033
+    hsd00032
+    hsd00031
+    hsd00030
+    hsd00029
+    hsd00028
+    hsd00027
+    hsd00026
+    hsd00025
+  Excluded: (0)
+    
+    ----
+End annotation
