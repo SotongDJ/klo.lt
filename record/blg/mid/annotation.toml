@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[blg00805]
+name = "The KK Show - 260 陶晶瑩"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15257073-the-kk-show-260.mp3"
+spotify = "https://open.spotify.com/episode/3T6S2OLxcyJa7kBPOzL2PR"
+youtube = "https://www.youtube.com/watch?v=8_mbZgQ29Do"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>我們一起聊聊王力宏、金曲獎、還有以前去中國的經驗<br/>陶晶瑩「Crazy MoMoment瘋陶秀」<br/>2024.06.29 (六)  19:30 <br/>台北流行音樂中心表演廳<br/><a href='https://www.tmc.taipei/blog/show/crazy-momoment/'>https://www.tmc.taipei/blog/show/crazy-momoment/</a><br/>更多 RhinoBuff FPS 精準操控套組資訊請參考 RHINOSHIELD 犀牛盾官網：<a href='https://url.rhinoshield.tw/bailingguonews-2024-RhinoBuff-Precision-Kit'>https://url.rhinoshield.tw/bailingguonews-2024-RhinoBuff-Precision-Kit</a><br/>#RHINOSHIELD犀牛盾 #rhinoshieldtw</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 260 陶晶瑩"]
+tag = ["Jun 2024", "2024", "KK Show"]
+category = ["#節目系列"]
+
 [blg00804]
 name = "The KK Show - 259 ØZI"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15229564-the-kk-show-259-ozi.mp3"

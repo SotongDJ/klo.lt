@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00519]
+name = "【本週提醒】能量衝刺，要克制自己，不要做出錯誤判斷啦！"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxedbwwd15tc01wrfjypb6je/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxedbwwd15td01wr2vzgg1z4.mp3?v=1718350189160"
+spotify = "https://open.spotify.com/episode/3iROJVb77CoYE288zrflkU"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽6/17-6/23星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】獅子 處女 天蠍 射手 <br /> <br />獅子：標準太高跟自己過不去，小心說話以免傷感情 <br />處女：期望越高越失落，感情可能理想幻滅 <br />天蠍：助人為樂卻勞心勞力，感情請勿刻意挑釁 <br />射手：工作需好好重整再出發，感情要對自己的判斷有信心 <br /> <br />【穩的】牡羊 金牛 水瓶 雙魚 <br /> <br />牡羊：工作上做好抗戰準備，感情偏偏喜歡互槓的對象 <br />金牛：緩下來做事反而更順，感情平順突然小凸槌 <br />水瓶：合作機會湧入請慎選，桃花超旺被獻殷勤 <br />雙魚：幫別人也是在幫自己，感情易吸引嫩草型桃花 <br /> <br />【讚的】雙子 巨蟹 天秤 魔羯 <br /> <br />雙子：做喜歡的項目事半功倍，能夠創造心動的瞬間 <br />巨蟹：挑戰雖多但能搞定，感情危機請以柔克剛 <br />天秤：好好把握貴人和邀約，感情走理性對談路線 <br />魔羯：工作親力親為發揮強項，會說話而感情升溫</p>"
+names = ["【本週提醒】能量衝刺，要克制自己，不要做出錯誤判斷啦！"]
+tag = ["Jun 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00518]
 name = "EP329 你的成功之路都在上升星座裡"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxecpnx71cr801yk8r3h1t95/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxecpnx71cr901yk95t7h69b.mp3?v=1718349202334"
