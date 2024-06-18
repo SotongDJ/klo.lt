@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[jst00520]
+name = "EP330 12星座，你的專屬執事已上線！"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxk7hiau01gc01v66c5fc0v6/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxk7hiau01gd01v6haa220kg.mp3?v=1718703229640"
+apple = "https://podcasts.apple.com/tw/podcast/ep330-12%E6%98%9F%E5%BA%A7-%E4%BD%A0%E7%9A%84%E5%B0%88%E5%B1%AC%E5%9F%B7%E4%BA%8B%E5%B7%B2%E4%B8%8A%E7%B7%9A/id1536374746?i=1000659377776"
+spotify = "https://open.spotify.com/episode/4pQtVWVEzuWk2ApFNtpgff"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>該休息了，各位大小姐 <br />今天podcast腦洞大開，來幫12星座各配一位「專屬執事」，合作起來能夠事半功倍，甚至你不想做的事情，他都能完美達成😝，有些組合乍看水火不容，但互補起來可能對你幫助越大呦 <br />你會配到哪款星座的執事呢？快來聽聽這集吧～ <br /> <br />EP330菜單：&nbsp; <br />磁性嗓音的呀咧呀咧 <br />天蠍需要的是一位看護 <br />處女需要牡羊的大實話 <br />被雙魚照顧生活變彩色的 <br />讓獅子眼睛一亮的執事 <br />天秤處女互逼型效率組 <br />攻擊力爆表的黃金組合</p>"
+names = ["EP330 12星座，你的專屬執事已上線！"]
+tag = ["Jun 2024", "2024"]
+category = []
+
 [jst00519]
 name = "【本週提醒】能量衝刺，要克制自己，不要做出錯誤判斷啦！"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxedbwwd15tc01wrfjypb6je/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxedbwwd15td01wr2vzgg1z4.mp3?v=1718350189160"
