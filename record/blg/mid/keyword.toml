@@ -569,6 +569,11 @@ inclusive = ["阿爆"]
 exclusive = ["阿爆演唱會"]
 category = ["音樂", "原住民", "朋友"]
 
+["陶晶瑩"]
+inclusive = ["陶晶瑩"]
+exclusive = []
+category = ["音樂", "媒體人", "朋友"]
+
 ["阿拉斯"]
 inclusive = ["阿拉斯"]
 exclusive = []
@@ -578,6 +583,11 @@ category = ["Youtuber", "音樂", "原住民"]
 inclusive = ["巴大雄"]
 exclusive = []
 category = ["Youtuber", "音樂", "原住民"]
+
+[MATZKA]
+inclusive = ["MATZKA", "Matzka", "matzka"]
+exclusive = []
+category = ["音樂", "原住民"]
 
 ["賈培德"]
 inclusive = ["賈培德"]
@@ -636,11 +646,6 @@ category = ["音樂"]
 
 ["ØZI"]
 inclusive = ["ØZI"]
-exclusive = []
-category = ["音樂"]
-
-[MATZKA]
-inclusive = ["MATZKA"]
 exclusive = []
 category = ["音樂"]
 
