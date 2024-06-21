@@ -48,20 +48,20 @@ This project is integrated from the following projects:
 ## Planning
 
 - Podcast to include
-  - [x] **wbr** 潤男的Room  **#**
-  - [x] **plr** 法客電台  **#**
-  - [x] **pws** 一百趴沈  **#**
-  - [x] **08c** 零捌歐北共  **#**
-  - [x] **inf** 《網紅 No Filter》 **#**
-  - [x] **hsd** 涵酸電波  **#**
-  - [ ] **ays** 演員的副業
-  - [ ] **twc** 台灣通勤第一品牌
-  - [ ] **bts** 博音
-  - [ ] **fnf** 新資料夾 - 呱吉
-  - [ ] **stp** 三尼巴掌
-  - [ ] **fcf** 斐姨所思
-  - [ ] **nkw** 嗚喵備忘錄
-  - [ ] **tts** 瘋女人聊天室
+  - [x] `wbr` 潤男的Room  **#**
+  - [x] `plr` 法客電台  **#**
+  - [x] `pws` 一百趴沈  **#**
+  - [x] `08c` 零捌歐北共  **#**
+  - [x] `inf` 《網紅 No Filter》 **#**
+  - [x] `hsd` 涵酸電波  **#**
+  - [ ] `ays` 演員的副業
+  - [ ] `twc` 台灣通勤第一品牌
+  - [ ] `bts` 博音
+  - [ ] `fnf` 新資料夾 - 呱吉
+  - [ ] `stp` 三尼巴掌
+  - [ ] `fcf` 斐姨所思
+  - [ ] `nkw` 嗚喵備忘錄
+  - [ ] `tts` 瘋女人聊天室
 - Functions
   - [ ] Able to customize playback queue
   - [ ] Able to mixed episode among different podcasts
