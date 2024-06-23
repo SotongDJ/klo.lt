@@ -10,7 +10,12 @@ font-family:"Noto Sans TC","Noto Emoji",Helvetica, Arial, sans-serif;
 margin:0;
 padding:0rem 1rem;
 }
-
+:root {
+--sat: env(safe-area-inset-top);
+--sar: env(safe-area-inset-right);
+--sab: env(safe-area-inset-bottom);
+--sal: env(safe-area-inset-left);
+}
 .lowContrast {
 color:var(--text);
 background-color:var(--rtbg);
@@ -270,6 +275,8 @@ grid-template-columns: 1fr;
 gap:0.5rem;
 }
 @media (max-height:400px) {
+/*
+*/
 .playerbar{
 border:solid var(--ctbr);
 position: absolute;
