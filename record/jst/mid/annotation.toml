@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[jst00522]
+name = "【本週提醒】心定，很重要💪🏼"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxraon9k00lv01wh8c7y46n8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxraon9k00lw01wh6zdi5nhy.mp3?v=1719131805247"
+apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%BF%83%E5%AE%9A-%E5%BE%88%E9%87%8D%E8%A6%81/id1536374746?i=1000659950714"
+spotify = "https://open.spotify.com/episode/4PYbGYj6YEaFjjZzNwDZXo"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽6/24-6/30星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子、處女、天秤、射手 <br /> <br />雙子：工作多下功夫勿看表面，感情小心信任感崩塌 <br />處女：健康注意壞習慣釀禍，感情小心陷入三角關係 <br />天秤：工作上被牽制施展不開，太被動容易感情降溫 <br />射手：跟人合作時容易煩躁，感情請保持和顏悅色 <br /> <br />【穩的】牡羊、天蠍、水瓶、雙魚 <br /> <br />牡羊：工作無法停歇注意健康，感情偏務實不夠浪漫 <br />天蠍：事業小高峰適合新嘗試，感情會認識全新的類型 <br />水瓶：工作綁手綁腳需好好處理，感情常常時機對不上 <br />雙魚：容易被情勒要多注意，好人緣但想升溫要費心 <br /> <br /> <br />【讚的】金牛、巨蟹、獅子、魔羯 <br /> <br />金牛：工作積極爭取就能獲得，感情聚少離多有點無趣 <br />巨蟹：交際活絡帶動事業合作，感情告白成功機率高 <br />獅子：長輩、女性貴人運強，異性緣太好有點困擾 <br />魔羯：工作紮實打拼成績不錯，感情會吸引多金型桃花 <br /></p>"
+names = ["【本週提醒】心定，很重要💪🏼"]
+tag = ["Jun 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00521]
 name = "EP331你怪有用的地方，天王星"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxoe7re7019d01uxg341gtop/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxoe7re7019e01ux5e5uf8jo.mp3?v=1718956377714"
