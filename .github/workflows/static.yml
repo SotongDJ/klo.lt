@@ -37,7 +37,7 @@ jobs:
           rm -v /mnt/sd3/record/klolt_docs.7z
       - name: Prepare klolt_docs.7z
         run: |
-          7z a -mx0 -r /mnt/sd3/record/klolt_docs.7z /mnt/sd3/record/klo.lt/docs
+          7z a -mx0 -aoa -r /mnt/sd3/record/klolt_docs.7z /mnt/sd3/record/klo.lt/docs
       - name: Pull klolt_docs.7z
         run: |
           rsync -P /mnt/sd3/record/klolt_docs.7z ./
