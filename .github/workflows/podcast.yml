@@ -21,7 +21,7 @@ permissions:
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   Initial:
@@ -32,14 +32,22 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull records
+      - name: Remove klolt_docs.7z
         run: |
           touch /mnt/sd3/record/klolt_docs.7z
           rm -v /mnt/sd3/record/klolt_docs.7z
-          7z a -r /mnt/sd3/record/klolt_docs.7z /mnt/sd3/record/klo.lt/docs
+      - name: Prepare klolt_docs.7z
+        run: |
+          7z a -mx0 -r /mnt/sd3/record/klolt_docs.7z /mnt/sd3/record/klo.lt/docs
+      - name: Pull klolt_docs.7z
+        run: |
           rsync -P /mnt/sd3/record/klolt_docs.7z ./
+      - name: Extract klolt_docs.7z
+        run: |
           7z x ./klolt_docs.7z
           rm -v ./klolt_docs.7z
+      - name: Pull records
+        run: |
           rsync -Prc /mnt/sd3/record/klo.lt/record/blg/record ./record/blg/
           rsync -Prc /mnt/sd3/record/klo.lt/record/exr/record ./record/exr/
           rsync -Prc /mnt/sd3/record/klo.lt/record/jst/record ./record/jst/
