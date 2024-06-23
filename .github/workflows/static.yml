@@ -33,6 +33,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Pull records
         run: |
+          touch /mnt/sd3/record/klolt_docs.7z
           rm -v /mnt/sd3/record/klolt_docs.7z
           7z a -r /mnt/sd3/record/klolt_docs.7z /mnt/sd3/record/klo.lt/docs
           rsync -P /mnt/sd3/record/klolt_docs.7z ./
