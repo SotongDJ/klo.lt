@@ -1,98 +1,98 @@
 // podcast info objects
-var playlist = {};
-var tag_class = {};
-var class_tag = {};
+let playlist = {};
+let tag_class = {};
+let class_tag = {};
 // DOM elements
-const titleH1DOM = document.getElementById("titleH1");
-const titleSpanDOM = document.getElementById("titleSpan");
-const tagIndexDOM = document.getElementById("tagindex");
-const indexBarDOM = document.getElementById("indexbar");
-const unionSDOM = document.getElementById("unionSpan");
-const tagADOM = document.getElementById("tagA");
-const tagIDOM = document.getElementById("tagI");
-const sortIDOM = document.getElementById("sortI");
-const sortADOM = document.getElementById("sortA");
-const sortMDOM = document.getElementById("sortM");
-const moreIDOM = document.getElementById("moreI");
-const colourIDOM = document.getElementById("colourI");
-const colourADOM = document.getElementById("colourA");
-const colourMDOM = document.getElementById("colourM");
-const contraIDOM = document.getElementById("contraI");
-const contraADOM = document.getElementById("contraA");
-const contraMDOM = document.getElementById("contraM");
-const tagBarDOM = document.getElementById("tagbar");
-const tagListDOM = document.getElementById("taglist");
-const shareRsDivDOM = document.getElementById("shareResultDiv");
-const shareRsADOM = document.getElementById("shareResultA");
-const shareLinkDOM = document.getElementById("shareLink");
-const shareTagDOM = document.getElementById("shareTag");
-const shareEpiDOM = document.getElementById("shareEpi");
-const shareCutDOM = document.getElementById("shareCuT");
-const tagSpanDOM = document.getElementById("tagSpan");
-const cuTSpanDOM = document.getElementById("cuTSpan");
-const shareContentDOM = document.getElementById("share_content");
-const tagNoteDOM = document.getElementById("tagnote");
-const trackTitleDOM = document.getElementById("tracktitle");
-const morePageDOM = document.getElementById("morePage");
-const epiListDOM = document.getElementById("playlistContain");
-const playlistDOM = document.getElementById("playlist");
-const detailPgDOM = document.getElementById("detailContain");
-const playerDOM = document.getElementById("player");
-const playerBarDOM = document.getElementById("playerbar");
-const playBTN = document.getElementById("playBtn");
-const pauseBTN = document.getElementById("pauseBtn");
-const moveBTN = document.getElementById('movebtn');
-const seekerDOM = document.getElementById("seeker");
-const currentDOM = document.getElementById("currentTime");
-const sliderDOM = document.getElementById("slider");
-const totalDOM = document.getElementById("totalTimer");
-const popADOM = document.getElementById("popA");
-const popPipDOM = document.getElementById("popPiP");
-const canvasDOM = document.createElement('canvas');
-const videoDOM = document.createElement('video');
-const contentDOM = document.getElementById("contentdiv");
+let titleH1DOM = document.getElementById("titleH1");
+let titleSpanDOM = document.getElementById("titleSpan");
+let tagIndexDOM = document.getElementById("tagindex");
+let indexBarDOM = document.getElementById("indexbar");
+let unionSDOM = document.getElementById("unionSpan");
+let tagADOM = document.getElementById("tagA");
+let tagIDOM = document.getElementById("tagI");
+let sortIDOM = document.getElementById("sortI");
+let sortADOM = document.getElementById("sortA");
+let sortMDOM = document.getElementById("sortM");
+let moreIDOM = document.getElementById("moreI");
+let colourIDOM = document.getElementById("colourI");
+let colourADOM = document.getElementById("colourA");
+let colourMDOM = document.getElementById("colourM");
+let contraIDOM = document.getElementById("contraI");
+let contraADOM = document.getElementById("contraA");
+let contraMDOM = document.getElementById("contraM");
+let tagBarDOM = document.getElementById("tagbar");
+let tagListDOM = document.getElementById("taglist");
+let shareRsDivDOM = document.getElementById("shareResultDiv");
+let shareRsADOM = document.getElementById("shareResultA");
+let shareLinkDOM = document.getElementById("shareLink");
+let shareTagDOM = document.getElementById("shareTag");
+let shareEpiDOM = document.getElementById("shareEpi");
+let shareCutDOM = document.getElementById("shareCuT");
+let tagSpanDOM = document.getElementById("tagSpan");
+let cuTSpanDOM = document.getElementById("cuTSpan");
+let shareContentDOM = document.getElementById("share_content");
+let tagNoteDOM = document.getElementById("tagnote");
+let trackTitleDOM = document.getElementById("tracktitle");
+let morePageDOM = document.getElementById("morePage");
+let epiListDOM = document.getElementById("playlistContain");
+let playlistDOM = document.getElementById("playlist");
+let detailPgDOM = document.getElementById("detailContain");
+let playerDOM = document.getElementById("player");
+let playerBarDOM = document.getElementById("playerbar");
+let playBTN = document.getElementById("playBtn");
+let pauseBTN = document.getElementById("pauseBtn");
+let moveBTN = document.getElementById('movebtn');
+let seekerDOM = document.getElementById("seeker");
+let currentDOM = document.getElementById("currentTime");
+let sliderDOM = document.getElementById("slider");
+let totalDOM = document.getElementById("totalTimer");
+let popADOM = document.getElementById("popA");
+let popPipDOM = document.getElementById("popPiP");
+let canvasDOM = document.createElement('canvas');
+let videoDOM = document.createElement('video');
+let contentDOM = document.getElementById("contentdiv");
 
-var safeAreaInsetTop = getComputedStyle(document.documentElement).getPropertyValue("--sat");
-var safeAreaInsetLeft = getComputedStyle(document.documentElement).getPropertyValue("--sal");
-var safeAreaInsetBottom = getComputedStyle(document.documentElement).getPropertyValue("--sat");
-var safeAreaInsetRight = getComputedStyle(document.documentElement).getPropertyValue("--sal");
-var permUpperTop = safeAreaInsetTop + remToPx(0.5);
-var permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
-var permLowerTop = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
-var permLowerLeft = window.innerWidth - playerBarDOM.offsetWidth - safeAreaInsetRight - remToPx(0.5);
-var storeTop = 0;
-var storeLeft = 0;
-var moveTop = 0;
-var moveLeft = 0;
-var newTop = 0;
-var newLeft = 0;
+let safeAreaInsetTop = getComputedStyle(document.documentElement).getPropertyValue("--sat");
+let safeAreaInsetLeft = getComputedStyle(document.documentElement).getPropertyValue("--sal");
+let safeAreaInsetBottom = getComputedStyle(document.documentElement).getPropertyValue("--sat");
+let safeAreaInsetRight = getComputedStyle(document.documentElement).getPropertyValue("--sal");
+let permUpperTop = safeAreaInsetTop + remToPx(0.5);
+let permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
+let permLowerTop = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
+let permLowerLeft = window.innerWidth - playerBarDOM.offsetWidth - safeAreaInsetRight - remToPx(0.5);
+let storeTop = 0;
+let storeLeft = 0;
+let moveTop = 0;
+let moveLeft = 0;
+let newTop = 0;
+let newLeft = 0;
 
 // Local storage
-const storage = window.localStorage;
+let storage = window.localStorage;
 
 // Fontawesome strings
-const faTagStr = "fa-solid fa-tag fa-fw";
-const selectedStr = "fa-solid fa-circle-check fa-fw";
-const playingStr = "fa-solid fa-circle-play fa-fw"; // fa-spin fa-fw";
-const pausedStr = "fa-solid fa-circle-pause fa-fw";
-const stopStr = "fa-solid fa-circle-stop fa-fw";
-const unionToggleOnStr = "fa-solid fa-toggle-on fa-fw";
-const unionToggleOffStr = "fa-solid fa-toggle-off fa-fw";
-const tagUpStr = "fa-solid fa-square-caret-up fa-fw";
-const tagDownStr = "fa-solid fa-tags fa-fw";
-const moreUpStr = "fa-solid fa-square-minus fa-fw";
-const moreDownStr = "fa-solid fa-bars fa-fw";
-const sortFaStr = "fa-solid fa-sort fa-fw";
-const sortUpStr = "fa-solid fa-sort-up fa-fw";
-const sortDownStr = "fa-solid fa-sort-down fa-fw";
-const contrastOnStr = "fa-solid fa-circle-half-stroke fa-fw";
-const contrastOffStr = "fa-solid fa-circle-half-stroke fa-fw fa-flip-horizontal";
-const neutralColourStr = "fa-solid fa-cloud fa-fw";
-const lightColourStr = "fa-solid fa-sun fa-fw";
-const darkColourStr = "fa-solid fa-moon fa-fw";
+let faTagStr = "fa-solid fa-tag fa-fw";
+let selectedStr = "fa-solid fa-circle-check fa-fw";
+let playingStr = "fa-solid fa-circle-play fa-fw"; // fa-spin fa-fw";
+let pausedStr = "fa-solid fa-circle-pause fa-fw";
+let stopStr = "fa-solid fa-circle-stop fa-fw";
+let unionToggleOnStr = "fa-solid fa-toggle-on fa-fw";
+let unionToggleOffStr = "fa-solid fa-toggle-off fa-fw";
+let tagUpStr = "fa-solid fa-square-caret-up fa-fw";
+let tagDownStr = "fa-solid fa-tags fa-fw";
+let moreUpStr = "fa-solid fa-square-minus fa-fw";
+let moreDownStr = "fa-solid fa-bars fa-fw";
+let sortFaStr = "fa-solid fa-sort fa-fw";
+let sortUpStr = "fa-solid fa-sort-up fa-fw";
+let sortDownStr = "fa-solid fa-sort-down fa-fw";
+let contrastOnStr = "fa-solid fa-circle-half-stroke fa-fw";
+let contrastOffStr = "fa-solid fa-circle-half-stroke fa-fw fa-flip-horizontal";
+let neutralColourStr = "fa-solid fa-cloud fa-fw";
+let lightColourStr = "fa-solid fa-sun fa-fw";
+let darkColourStr = "fa-solid fa-moon fa-fw";
 
 // Default parameters
-const sectionObj = {
+let sectionObj = {
 "titlebar":{"pos":0,"dom":titleH1DOM,"on":"min-content"},
 "more_option":{"pos":1,"dom":morePageDOM,"on":"1fr"},
 "tags_list":{"pos":2,"dom":tagIndexDOM,"on":"1fr"},
@@ -102,8 +102,8 @@ const sectionObj = {
 "player":{"pos":6,"dom":playerBarDOM,"on":"min-content"},
 "audio":{"pos":7,"dom":playerDOM,"on":"0px"}
 };
-const themeObj = {"colour":0,"contrast":1};
-const paramObj = {
+let themeObj = {"colour":0,"contrast":1};
+let paramObj = {
 "sort":{
 "neutral":{"text":"排序","class":sortFaStr,"next":"oldest"},
 "oldest":{"text":"最舊","class":sortUpStr,"next":"newest"},
@@ -122,7 +122,7 @@ const paramObj = {
 },
 };
 
-const actionHandlers = [
+let actionHandlers = [
 ['play' ,async () => {mixPlay();}],
 ['pause' ,() => {mixPause(); }],
 ['previoustrack',async () => {doPrev(); }],
@@ -134,8 +134,8 @@ const actionHandlers = [
 ];
 
 // get option from url and save to local storage
-var url = new URL(window.location.href);
-var argueObj = new Object();
+let url = new URL(window.location.href);
+let argueObj = new Object();
 
 for (const [key,value] of url.searchParams.entries()) {
 if (value.includes(",")) {
@@ -150,10 +150,10 @@ argueObj[key] = [value];
 };
 };
 
-var argueKey = Object.keys(argueObj);
-var defaultObj = {"key":[],"now":"","currentTS":"","union":"false","sort":"neutral","colour":"neutral","contrast":"highContrast"};
-var optionObj = {"key":[],"now":"","currentTS":"","union":"false","sort":"neutral","colour":"neutral","contrast":"highContrast"};
-var optionKey = Object.keys(optionObj);
+let argueKey = Object.keys(argueObj);
+let defaultObj = {"key":[],"now":"","currentTS":"","union":"false","sort":"neutral","colour":"neutral","contrast":"highContrast"};
+let optionObj = {"key":[],"now":"","currentTS":"","union":"false","sort":"neutral","colour":"neutral","contrast":"highContrast"};
+let optionKey = Object.keys(optionObj);
 
 for (var ark = 0; ark < argueKey.length; ++ark) {
 var key = argueKey[ark];
