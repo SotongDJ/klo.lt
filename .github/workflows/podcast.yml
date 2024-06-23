@@ -34,17 +34,11 @@ jobs:
         uses: actions/checkout@v4
       - name: Pull records
         run: |
-          mkdir -pv /mnt/sd3/record/klo.lt/record/inf/record
-          mkdir -pv /mnt/sd3/record/klo.lt/record/hsd/record
-          mkdir -pv /mnt/sd3/record/klo.lt/record/pws/record
-          mkdir -pv /mnt/sd3/record/klo.lt/record/plr/record
-          mkdir -pv /mnt/sd3/record/klo.lt/record/wbr/record
-          mkdir -pv ./record/inf
-          mkdir -pv ./record/hsd
-          mkdir -pv ./record/pws
-          mkdir -pv ./record/plr
-          mkdir -pv ./record/wbr
-          rsync -Prc /mnt/sd3/record/klo.lt/docs ./
+          rm -v /mnt/sd3/record/klolt_docs.7z
+          7z a -r /mnt/sd3/record/klolt_docs.7z /mnt/sd3/record/klo.lt/docs
+          rsync -P /mnt/sd3/record/klolt_docs.7z ./
+          7z x ./klolt_docs.7z
+          rm -v ./klolt_docs.7z
           rsync -Prc /mnt/sd3/record/klo.lt/record/blg/record ./record/blg/
           rsync -Prc /mnt/sd3/record/klo.lt/record/exr/record ./record/exr/
           rsync -Prc /mnt/sd3/record/klo.lt/record/jst/record ./record/jst/
