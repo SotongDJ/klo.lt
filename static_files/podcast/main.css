@@ -225,6 +225,10 @@ height:min-content;
 width:fit-content;
 }
 .linkDecor{text-decoration:none;}
+.emoji{
+font-family:"Noto Emoji";
+display:inline-block;
+}
 .mirror{
 font-family:"Noto Emoji";
 display:inline-block;
@@ -345,7 +349,7 @@ gap:.5rem;
 }
 @media (min-aspect-ratio: 1/1) and (min-height:401px) {
 .seeker{
-    grid-template-rows:1fr;
-    grid-template-columns:1fr min-content;
+grid-template-rows:1fr;
+grid-template-columns:1fr min-content;
 }
 }
