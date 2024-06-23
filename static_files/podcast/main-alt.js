@@ -964,7 +964,7 @@ fetch(`/${channel}-class_tag.json?${timestamp}`)
 class_tag = data;
 console.log('[class_tag] length:', Object.keys(class_tag).length);
 })
-.catch(error => console.error('[class_tag] Error:', error));
+.catch(error => console.error('[class_tag] Error:', error))
 ]).then(() => {
 (storage.getItem(`${channel}_now`)=="")||initPlay(storage.getItem(`${channel}_now`));
 fillIndex();
