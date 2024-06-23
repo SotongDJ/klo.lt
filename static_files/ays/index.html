@@ -1,10 +1,29 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html>
 <head>
-<meta charset="UTF-8">
-<link href="/f/font.css?rev000015" rel="stylesheet">
-<link href="/f/icon.css?rev000015" rel="stylesheet">
-<link href="/main.css?rev000015" rel="stylesheet">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="color-scheme" content="dark light" />
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
+<!-- Summary -->
+<!-- AYS --><title>klo.lt - AYS《演員的副業》播放室</title>
+<!-- AYS --><link rel="stylesheet" href="/ays/ays.css?rev000015" />
+<!-- AYS --><meta property="og:url" content="https://klo.lt/ays/">
+<!-- AYS --><meta property="og:title" content="《演員的副業》播放室">
+<!-- AYS --><meta property="og:description" content="klo.lt - AYS 《演員的副業》播放室">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@klolt_podcast">
+<meta name="twitter:creator" content="@klolt_podcast">
+<meta property="og:image" content="https://klo.lt/r/maskable-512.png">
+<meta property="og:image:alt" content="Word as 'k.lt'">
+<meta property="og:site_name" content="klo.lt">
+<meta property="og:type" content="profile">
+<meta property="profile:username" content="klo.lt">
+<!-- Resource -->
+<link rel="stylesheet" href="/f/icon.css?rev000015" />
+<link rel="stylesheet" href="/f/font.css?rev000015" />
+<link rel="stylesheet" href="/podcast/main.css?rev000015" />
 <!-- Favicon -->
 <link rel="manifest" href="/site.webmanifest?rev000015" />
 <link rel="apple-touch-icon" sizes="180x180" href="/r/180.png" />
@@ -12,19 +31,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/r/16.png" />
 <link rel="icon" href="/favicon.ico" />
 <link rel="shortcut icon" href="/favicon.ico" />
-<!-- Summary -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@klolt_podcast">
-<meta name="twitter:creator" content="@klolt_podcast">
-<meta property="og:url" content="https://klo.lt/">
-<meta property="og:title" content="klo.lt">
-<meta property="og:description" content="klo.lt @CuttleCity">
-<meta property="og:image" content="https://klo.lt/r/maskable-512.png">
-<meta property="og:image:alt" content="Word as 'k.lt'">
-<meta property="og:site_name" content="klo.lt">
-<meta property="og:type" content="profile">
-<meta property="profile:username" content="klo.lt">
-<title id="title">klo.lt</title>
 <link rel="apple-touch-startup-image" media="screen and (device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="/splash/iPhone_15_Pro_Max__iPhone_15_Plus__iPhone_14_Pro_Max_landscape.png">
 <link rel="apple-touch-startup-image" media="screen and (device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="/splash/iPhone_15_Pro__iPhone_15__iPhone_14_Pro_landscape.png">
 <link rel="apple-touch-startup-image" media="screen and (device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="/splash/iPhone_14_Plus__iPhone_13_Pro_Max__iPhone_12_Pro_Max_landscape.png">
@@ -64,41 +70,168 @@
 <link rel="apple-touch-startup-image" media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="/splash/9.7__iPad_Pro__7.9__iPad_mini__9.7__iPad_Air__9.7__iPad_portrait.png">
 <link rel="apple-touch-startup-image" media="screen and (device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="/splash/8.3__iPad_Mini_portrait.png">
 </head>
-<body>
-<div id="bound">
-<span id = "clock" class="first" onload="currentTime()"></span>
-<br/>
-<span id = "day" class="second"></span>
-<br/>
-<span id = "power" class="second"></span>
-<br/>
-<span class="third">
-<a class="podbtn" href="/blg/"><span class="mirror">👌</span>百靈果</a>·
-<a class="podbtn" href="/wbr/"><span class="mirror">💦</span>潤男</a>·
-<a class="podbtn" href="/plr/"><span class="mirror">📻</span>法客</a>·
-<a class="podbtn" href="/pws/"><span               >💯</span>趴沈</a>·
-<a class="podbtn" href="/jst/"><span class="mirror">🪐</span>國師</a>·
-<a class="podbtn" href="/asc/"><span class="mirror">🚀</span>飛升</a>
-</span>
-<br/>
-<span class="third">
-<a class="podbtn" href="/exr/"><span class="mirror">👁</span>眼球</a>·
-<a class="podbtn" href="/ays/"><span               >🎭</span>副業</a>·
-<a class="podbtn" href="/08c/"><span               >📢</span>零捌</a>·
-<a class="podbtn" href="/inf/"><span class="mirror">📼</span>網紅</a>·
-<a class="podbtn" href="/hsd/"><span               >📡</span>涵酸</a>
-</span>
-<br/>
-<span id="content" class="second content">Require target for redirection</span>
-<br/>
-<a id="locationLink"></a>
+<body onload="resizeDiv()" class="neutral highContrast">
+<div id="contentdiv" class="centerise" 
+ style="grid-template-rows:min-content 0px 0px 0px 1fr 0px min-content 0px;">
+<div class="tittlebar">
+<h1 id="titleH1" class="titleH1">
+<a href="https://klo.lt/"  title="All klo.lt 所有播放室">klo.lt</a> 
+<span id="titleEmoji" class="mirror"></span> 
+<a id="titleSec" target="info">
+<span id="titleESpan"></span> <span id="titleCSpan" class="playerPost"></span>
+</a>
+<span class="playerPost">播放室</span>
+</h1>
+<div class="funcContent">
+<div class="tagBar">
+<span id="titleSpan" class="titleSpan">
+<a href="https://klo.lt/"  title="All klo.lt 所有播放室" 
+ class="linkDecor activeBtn tagBorder">klo.lt</a>
+<a id="sitleSec"  class="linkDecor activeBtn tagBorder">
+<span id="sitleEmoji" class="mirror"></span> <span id="sitleESpan"></span> </a>
+<span>｜</span></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javaysript:void(toggleMoreOpt())" class="white">
+<i id="moreI" class="fa-solid fa-bars fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javaysript:void(toggleTag())" class="white">
+<i id="tagI" class="fa-solid fa-tags fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javaysript:void(toggleSort())" class="white">
+<i id="sortM" class="fa-solid fa-sort fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javaysript:void(toggleColour())" class="white">
+<i id="colourM" class="fa-solid fa-cloud fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="javaysript:void(toggleContrast())" class="white">
+<i id="contraM" class="fa-solid fa-circle-half-stroke fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<!-- AYS --><a href="/ays/" class="white">
+<i class="fa-solid fa-rotate fa-fw"></i></a></span>
+
+<span class="linkDecor activeBtn tagBorder">
+<a href="https://instagram.com/klolt_podcast/" class="white" target="info">
+<i class="fa-solid fa-circle-info fa-fw"></i></a></span>
+
 </div>
-<span id="bar" class="bar">No information is collected on this intermediate page
-    (<a href="https://github.com/SotongDJ/redirect">Source</a>)</span>
-<script src="/link.js?rev000015"></script>
-<script src="/main.js?rev000015"></script>
-<script src="/clock.js?rev000015"></script>
-<script src="/extra.js?rev000015"></script>
+</div>
+</div>
+
+<div id="morePage" class="morePage" style="visibility:hidden;">
+<div id="shareTag" class="tagBorder activeBtn buttonDiv" style="display:none;">
+<i class="fa-solid fa-share-alt fa-fw"></i>·<i class="fa-solid fa-tags fa-fw"></i>
+<a class="activeBtn" href="javaysript:void(shareTags())" class="white"> 分享標籤 <span id="tagSpan"></span></a></div>
+
+<div id="shareEpi" class="tagBorder activeBtn buttonDiv" style="display:none;">
+<i class="fa-solid fa-share-alt fa-fw"></i>·<i class="fa-solid fa-file-audio fa-fw"></i>
+<a class="activeBtn" href="javaysript:void(shareNow())" class="white"> 分享本集 </a></div>
+
+<div id="shareCuT" class="tagBorder activeBtn buttonDiv" style="display:none;">
+<i class="fa-solid fa-share-alt fa-fw"></i>·<i class="fa-solid fa-stopwatch fa-fw"></i>
+<a class="activeBtn" href="javaysript:void(shareNow(1))" class="white"> 分享此刻 <span id="cuTSpan"></span></a></div>
+
+<div id="shareResultDiv" class="tagBorder activeBtn buttonDiv" style="display:none;">
+<i class="fa-solid fa-circle-xmark fa-fw"></i>
+<a class="activeBtn" href="javaysript:void(clearShare())"><span id="shareResultA"></span></a>：<a id="shareLink">Link</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-tags fa-fw"></i>
+<a class="activeBtn" id="tagA" href="javaysript:void(toggleTag())">標籤</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i id="sortI" class="fa-solid fa-sort fa-fw"></i>
+<a id="sortA" class="activeBtn" href="javaysript:void(toggleSort())">排序</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i id="colourI" class="fa-solid fa-cloud fa-fw"></i>
+<a id="colourA" class="activeBtn" href="javaysript:void(toggleColour())">預設晝夜</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i id="contraI" class="fa-solid fa-circle-half-stroke fa-fw"></i>
+<a id="contraA" class="activeBtn" href="javaysript:void(toggleContrast())">對比</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-brands fa-instagram fa-fw"></i>
+<a class="activeBtn" href="https://instagram.com/klolt_podcast" target="info">埃居</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-trash-can fa-fw"></i>
+<!-- AYS --><a class="activeBtn" href="/ays/?do=reset">重置本站</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-rotate fa-fw"></i>
+<!-- AYS --><a class="activeBtn" href="/ays/">重新更新</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-envelope fa-fw"></i>
+<a id="emailA" class="activeBtn">回饋</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-life-ring fa-fw"></i>
+<a id="infoA" class="activeBtn" target="info">指南</a></div>
+
+<div class="tagBorder activeBtn buttonDiv">
+<i class="fa-solid fa-circle-info fa-fw"></i>
+<a id="aboutA" class="activeBtn" target="info">關於</a></div>
+
+</div>
+
+<div id="tagindex" class="tagIndex">
+<div id="indexbar" class="indexSection"></div>
+</div>
+
+<div class="tagContent">
+<div id="tagbar" class="tagBar" style="visibility:hidden;">
+<span id="unionSpan" class="buttonDiv"></span>
+<span id="tagnote">標籤</span>
+<span id="taglist"></span>
+<a href="javaysript:void(toggleMoreOpt())" class="linkDecor activeBtn tagBorder"><i class="fa-solid fa-share-alt fa-fw"></i></a>
+<input id="share_content" type="hidden"></input>
+</div>
+</div>
+
+<div id="playlistContain" class="container">
+<div id="playlist" class="plain"></div>
+</div>
+
+<div id="detailContain" class="container" style="visibility: hidden;"></div>
+
+<div id="playerbar" class="playerbar">
+<a id="popA" style="margin: auto;"><div id="popPiP" class="popPiP"></div></a>
+<div class="playInfoSec">
+<div class="tagBar" style="visibility:visible;overflow:auto;width:100%;">
+<span id="tracktitle"><i class="fa-solid fa-circle-minus fa-fw"></i> 未選擇集數：請點選任意集數播放</span>
+</div>
+<div id="seeker" class="seeker">
+<div id="controlBar" class="controlBar">
+<div id="currentTime" style="text-align:right;width:100%;"></div>
+<input id="slider" style="width:100%;" type="range" min="0" step="1" value="" aria-label="Audio">
+<div id="totalTimer" style="text-align:left;width:100%;"></div>
+</div>
+<span class="tagBorder" style="display:grid; grid-template-columns: repeat(5, 1fr); height: min-content; margin: auto;">
+<a href="javaysript: void(doPrev())" class="linkDecor activeBtn"><i class="fa-solid fa-backward-step fa-fw"></i></a>
+<a href="javaysript: void(seakBack({}))" class="linkDecor activeBtn"><i class="fa-solid fa-rotate-left fa-fw"></i></a>
+<a href="javaysript: void(mixPlay())" id="playBtn" class="linkDecor activeBtn" style="display: block;"><i class="fa-solid fa-play fa-fw"></i></a>
+<a href="javaysript: void(mixPause())" id="pauseBtn" class="linkDecor activeBtn" style="display: none;"><i class="fa-solid fa-pause fa-fw"></i></a>
+<a href="javaysript: void(seakForw({}))" class="linkDecor activeBtn"><i class="fa-solid fa-rotate-right fa-fw"></i></a>
+<a href="javaysript: void(doNext())" class="linkDecor activeBtn"><i class="fa-solid fa-forward-step fa-fw"></i></a>
+</span>
+</div>
+</div>
+</div>
+
+<div><audio id="player" preload="metadata"></audio></div>
+
+</div>
 <script src="/site.js?rev000015"></script>
+<!-- AYS --><script src="/ays/ays.js?rev000015"></script>
+<!-- AYS --><script src="https://klo.lt/ays-playlist.js?rev000015"></script>
+<script src="/podcast/main.js?rev000015"></script>
 </body>
 </html>

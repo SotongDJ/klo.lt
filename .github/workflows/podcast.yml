@@ -48,10 +48,13 @@ jobs:
           rm -v ./klolt_docs.7z
       - name: Pull records
         run: |
+          mkdir -p /mnt/sd3/record/klo.lt/record/ays/record
+          mkdir -p ./record/ays/
           rsync -Prc /mnt/sd3/record/klo.lt/record/blg/record ./record/blg/
           rsync -Prc /mnt/sd3/record/klo.lt/record/exr/record ./record/exr/
           rsync -Prc /mnt/sd3/record/klo.lt/record/jst/record ./record/jst/
           rsync -Prc /mnt/sd3/record/klo.lt/record/asc/record ./record/asc/
+          rsync -Prc /mnt/sd3/record/klo.lt/record/ays/record ./record/ays/
           rsync -Prc /mnt/sd3/record/klo.lt/record/08c/record ./record/08c/
           rsync -Prc /mnt/sd3/record/klo.lt/record/inf/record ./record/inf/
           rsync -Prc /mnt/sd3/record/klo.lt/record/hsd/record ./record/hsd/
@@ -89,6 +92,10 @@ jobs:
         run: |
           python3 update.py jst
           sleep 9
+      - name: Update rss - update AYS
+        run: |
+          python3 update.py ays
+          sleep 5
       - name: Update rss - update ASC
         run: |
           python3 update.py asc
@@ -123,6 +130,7 @@ jobs:
           python3 merge.py exr
           python3 merge.py jst
           python3 merge.py asc
+          python3 merge.py ays
           python3 merge.py 08c
           python3 merge.py inf
           python3 merge.py hsd
@@ -135,6 +143,7 @@ jobs:
           python3 annotate.py exr > record/exr/filter.txt
           python3 annotate.py jst > record/jst/filter.txt
           python3 annotate.py asc > record/asc/filter.txt
+          python3 annotate.py ays > record/ays/filter.txt
           python3 annotate.py 08c > record/08c/filter.txt
           python3 annotate.py inf > record/inf/filter.txt
           python3 annotate.py hsd > record/hsd/filter.txt
@@ -148,6 +157,7 @@ jobs:
           python3 export.py exr
           python3 export.py jst
           python3 export.py asc
+          python3 export.py ays
           python3 export.py 08c
           python3 export.py inf
           python3 export.py hsd
@@ -191,6 +201,7 @@ jobs:
           rsync -Prc ./record/exr/record /mnt/sd3/record/klo.lt/record/exr/
           rsync -Prc ./record/jst/record /mnt/sd3/record/klo.lt/record/jst/
           rsync -Prc ./record/asc/record /mnt/sd3/record/klo.lt/record/asc/
+          rsync -Prc ./record/ays/record /mnt/sd3/record/klo.lt/record/ays/
           rsync -Prc ./record/08c/record /mnt/sd3/record/klo.lt/record/08c/
           rsync -Prc ./record/inf/record /mnt/sd3/record/klo.lt/record/inf/
           rsync -Prc ./record/hsd/record /mnt/sd3/record/klo.lt/record/hsd/
