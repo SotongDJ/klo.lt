@@ -118,7 +118,7 @@ def do_job(target_str,configing):
                     except:
                         print("            Access Denied to the file")
                         print("            Use default img instead")
-                        img_name = "e5b8c2da7e6ce54bd780a0030714a67b9bc6cd9da84bc993e5cad3238463ecd6"
+                        img_name = "bbd140bc8bd041b0f1a6a2fc204e6d1024efe2f0e99bf9d5ad052d540df0272b"
                     url_to_file_dict[safe_img_url] = img_name
                     if not pathlib.Path(F"docs/p/{img_name}/512.png").exists():
                         print(F"resize: docs/p/{img_name}")
