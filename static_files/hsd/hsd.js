@@ -1,4 +1,4 @@
-final_title_str="klo.lt - 《涵酸電波》播放室";
+final_title_str="klo.lt -《涵酸電波》播放室";
 final_root_path="https://klo.lt/hsd/";
 final_artist_str="涵酸電波";
 prefix="hsd_";

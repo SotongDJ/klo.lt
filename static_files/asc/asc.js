@@ -1,4 +1,4 @@
-final_title_str="klo.lt - ASC 《神仙補習班》播放室";
+final_title_str="klo.lt - ASC《神仙補習班》播放室";
 final_root_path="https://klo.lt/asc/";
 final_artist_str="謝依霖、丹丹老師";
 prefix="asc_";
