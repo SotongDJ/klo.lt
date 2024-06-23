@@ -9,11 +9,11 @@ document.getElementById("infoA").href="https://github.com/SotongDJ/klo.lt/wiki";
 document.getElementById("titleCSpan").innerText="潤男的Room";
 document.getElementById("titleEmoji").innerText="💦";
 document.getElementById("titleESpan").innerText="WBR";
-document.getElementById("titleSec").href="https://www.bailingguonews.com/";
+document.getElementById("titleSec").href="https://instagram.com/wetboy_tw/";
 document.getElementById("titleSec").title="《潤男的Room》";
 document.getElementById("sitleEmoji").innerText="💦";
 document.getElementById("sitleESpan").innerText="WBR";
-document.getElementById("sitleSec").href="https://www.bailingguonews.com/";
+document.getElementById("sitleSec").href="https://instagram.com/wetboy_tw/";
 document.getElementById("sitleSec").title="《潤男的Room》";
 
 show_apple=true;

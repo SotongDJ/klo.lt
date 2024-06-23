@@ -9,11 +9,11 @@ document.getElementById("infoA").href="https://github.com/SotongDJ/klo.lt/wiki";
 document.getElementById("titleCSpan").innerText="一百趴沈";
 document.getElementById("titleEmoji").innerText="💯";
 document.getElementById("titleESpan").innerText="PWS";
-document.getElementById("titleSec").href="https://www.bailingguonews.com/";
+document.getElementById("titleSec").href="https://instagram.com/pws_cupid/";
 document.getElementById("titleSec").title="《一百趴沈》";
 document.getElementById("sitleEmoji").innerText="💯";
 document.getElementById("sitleESpan").innerText="PWS";
-document.getElementById("sitleSec").href="https://www.bailingguonews.com/";
+document.getElementById("sitleSec").href="https://instagram.com/pws_cupid/";
 document.getElementById("sitleSec").title="《一百趴沈》";
 
 show_apple=true;
