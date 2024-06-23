@@ -41,6 +41,7 @@ const playerDOM = document.getElementById("player");
 const playerBarDOM = document.getElementById("playerbar");
 const playBTN = document.getElementById("playBtn");
 const pauseBTN = document.getElementById("pauseBtn");
+const moveBTN = document.getElementById('movebtn');
 const seekerDOM = document.getElementById("seeker");
 const currentDOM = document.getElementById("currentTime");
 const sliderDOM = document.getElementById("slider");
@@ -50,6 +51,21 @@ const popPipDOM = document.getElementById("popPiP");
 const canvasDOM = document.createElement('canvas');
 const videoDOM = document.createElement('video');
 const contentDOM = document.getElementById("contentdiv");
+
+var safeAreaInsetTop = getComputedStyle(document.documentElement).getPropertyValue("--sat");
+var safeAreaInsetLeft = getComputedStyle(document.documentElement).getPropertyValue("--sal");
+var safeAreaInsetBottom = getComputedStyle(document.documentElement).getPropertyValue("--sat");
+var safeAreaInsetRight = getComputedStyle(document.documentElement).getPropertyValue("--sal");
+var permUpperTop = safeAreaInsetTop + remToPx(0.5);
+var permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
+var permLowerTop = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
+var permLowerLeft = window.innerWidth - playerBarDOM.offsetWidth - safeAreaInsetRight - remToPx(0.5);
+var storeTop = 0;
+var storeLeft = 0;
+var moveTop = 0;
+var moveLeft = 0;
+var newTop = 0;
+var newLeft = 0;
 
 // Local storage
 const storage = window.localStorage;
@@ -842,11 +858,6 @@ function toggleContrast() {toggleTheme("contrast",contraADOM,contraIDOM,contraMD
 
 function resizeDiv() {
 var verticalBool = (window.visualViewport.height > window.visualViewport.width);
-// playerBarDOM.className = verticalBool?"playerbar":"playerpop";
-// playerBarDOM.style = verticalBool?"":"bottom:.5rem;right:.5rem;";
-// infoSecDOM.style = verticalBool?"":"width: min-content;";
-// titleH1DOM.style["display"] = verticalBool?"block":"none";
-// titleSpanDOM.style["display"] = verticalBool?"none":"inline";
 var smallHeightBool = window.visualViewport.height <= 800;
 var epiDtalBool = toggleLayout("episode_detail","check");
 var moreOptBool = toggleLayout("more_option","check");
@@ -938,6 +949,99 @@ shareLinkDOM.href = targetUrl;
 };
 };
 
+function remToPx(rem) {
+let fontSize = getComputedStyle(document.documentElement).fontSize;
+let rootFontSize = parseFloat(fontSize);
+let pxValue = rem * rootFontSize;
+return pxValue;
+}
+
+function dragMouseDown(e) {
+e.preventDefault();
+moveTop = e.clientY;
+moveLeft = e.clientX;
+document.onmouseup = closeDragElement;
+document.onmousemove = elementDrag;
+// playerBarDOM.style.border = "solid var(--ctbr)";
+// playerBarDOM.style.position = "absolute";
+// playerBarDOM.style.padding = ".5rem";
+}
+
+function dragTouchStart(e) {
+e.preventDefault();
+moveTop = e.touches[0].clientY;
+moveLeft = e.touches[0].clientX;
+document.ontouchend = closeDragElement;
+document.ontouchmove = elementTouchDrag;
+// playerBarDOM.style.border = "solid var(--ctbr)";
+// playerBarDOM.style.position = "absolute";
+// playerBarDOM.style.padding = ".5rem";
+}
+
+function applyDrag() {
+var safeAreaInsetTop = getComputedStyle(document.documentElement).getPropertyValue("--sat");
+var safeAreaInsetLeft = getComputedStyle(document.documentElement).getPropertyValue("--sal");
+var safeAreaInsetBottom = getComputedStyle(document.documentElement).getPropertyValue("--sat");
+var safeAreaInsetRight = getComputedStyle(document.documentElement).getPropertyValue("--sal");
+var permUpperTop = safeAreaInsetTop + remToPx(0.5);
+var permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
+var permLowerTop = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
+var permLowerLeft = window.innerWidth - playerBarDOM.offsetWidth - safeAreaInsetRight - remToPx(0.5);
+if (newTop > permLowerTop) newTop = permLowerTop;
+if (newLeft > permLowerLeft) newLeft = permLowerLeft;
+if (newTop < permUpperTop) newTop = permUpperTop;
+if (newLeft < permUpperLeft) newLeft = permUpperLeft;
+
+playerBarDOM.style.top = newTop + "px";
+playerBarDOM.style.left = newLeft + "px";
+playerBarDOM.style.bottom = "auto";
+playerBarDOM.style.right = "auto";
+// if (newTop >= permLowerTop) {
+//     playerBarDOM.style.border = "solid var(--plbr)";
+//     playerBarDOM.style.position = "static";
+//     playerBarDOM.style.padding = ".25rem .5rem";
+// };
+}
+
+function elementDrag(e) {
+e.preventDefault();
+storeTop = moveTop - e.clientY;
+storeLeft = moveLeft - e.clientX;
+moveTop = e.clientY;
+moveLeft = e.clientX;
+
+newTop = playerBarDOM.offsetTop - storeTop;
+newLeft = playerBarDOM.offsetLeft - storeLeft;
+applyDrag();
+}
+
+function elementTouchDrag(e) {
+e.preventDefault();
+storeTop = moveTop - e.touches[0].clientY;
+storeLeft = moveLeft - e.touches[0].clientX;
+moveTop = e.touches[0].clientY;
+moveLeft = e.touches[0].clientX;
+
+newTop = playerBarDOM.offsetTop - storeTop;
+newLeft = playerBarDOM.offsetLeft - storeLeft;
+applyDrag();
+}
+
+function closeDragElement() {
+document.onmouseup = null;
+document.onmousemove = null;
+document.ontouchend = null;
+document.ontouchmove = null;
+console.log("permUpperTop: "+permUpperTop);
+console.log("permUpperLeft: "+permUpperLeft);
+console.log("permLowerTop: "+permLowerTop);
+console.log("permLowerLeft: "+permLowerLeft);
+console.log("newTop: "+newTop);
+console.log("newLeft: "+newLeft);
+console.log("playerBarDOM.offsetTop: "+playerBarDOM.offsetTop);
+console.log("playerBarDOM.offsetLeft: "+playerBarDOM.offsetLeft);
+}
+
 // load json
 let date = new Date();
 let timestamp = date.getFullYear().toString().substr(-2) + ('0' + (date.getMonth() + 1)).slice(-2) + ('0' + date.getDate()).slice(-2) + ('0' + date.getHours()).slice(-2);
@@ -1003,9 +1107,11 @@ updatePositionState();
 
 videoDOM.addEventListener('play',() => {mixPlay()},false);
 videoDOM.addEventListener('pause',() => {mixPause()},false);
-
 canvasDOM.width = canvasDOM.height = 512;
 videoDOM.muted = true;
+
+moveBTN.onmousedown = dragMouseDown;
+moveBTN.ontouchstart = dragTouchStart;
 
 window.onresize = resizeDiv;
 resizeDiv();
