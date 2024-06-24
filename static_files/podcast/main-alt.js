@@ -52,10 +52,14 @@ let canvasDOM = document.createElement('canvas');
 let videoDOM = document.createElement('video');
 let contentDOM = document.getElementById("contentdiv");
 
-let safeAreaInsetTop = getComputedStyle(document.documentElement).getPropertyValue("--sat");
-let safeAreaInsetLeft = getComputedStyle(document.documentElement).getPropertyValue("--sal");
-let safeAreaInsetBottom = getComputedStyle(document.documentElement).getPropertyValue("--sat");
-let safeAreaInsetRight = getComputedStyle(document.documentElement).getPropertyValue("--sal");
+let satPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sat"), 10);
+let sarPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sar"), 10);
+let sabPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sab"), 10);
+let salPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sal"), 10);
+let safeAreaInsetTop    = isNaN(satPropertyValue)? 0 : satPropertyValue;
+let safeAreaInsetRight  = isNaN(sarPropertyValue)? 0 : sarPropertyValue;
+let safeAreaInsetBottom = isNaN(sabPropertyValue)? 0 : sabPropertyValue;
+let safeAreaInsetLeft   = isNaN(salPropertyValue)? 0 : salPropertyValue;
 let permUpperTop = safeAreaInsetTop + remToPx(0.5);
 let permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
 let permLowerTop = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
@@ -163,20 +167,20 @@ optionObj[key] = (key=="key")?value:value[0];
 };
 };
 
-((optionObj["now"]!="")&&(optionObj["currentTS"]=="")&&storage.getItem(prefix+"currentTS"))&&storage.setItem(prefix+"currentTS","");
+((optionObj["now"]!="")&&(optionObj["currentTS"]=="")&&storage.getItem(`${channel}_currentTS`))&&storage.setItem(`${channel}_currentTS`,"");
 
 for (var opt = 0; opt < optionKey.length; ++opt) {
 var key = optionKey[opt];
 if (argueObj["do"]&&argueObj["do"][0]=="reset") {
 optionObj[key]=defaultObj[key];
-storage.setItem(prefix+key,optionObj[key]);
+storage.setItem(`${channel}_${key}`,optionObj[key]);
 } else {
 var optionValue = (key=="key")?optionObj[key].join(","):optionObj[key];
 var defaultValue = (key=="key")?"":defaultObj[key];
-(optionValue==defaultValue)?((storage.getItem(prefix+key))||storage.setItem(prefix+key,optionValue)):storage.setItem(prefix+key,optionValue);
+(optionValue==defaultValue)?((storage.getItem(`${channel}_${key}`))||storage.setItem(`${channel}_${key}`,optionValue)):storage.setItem(`${channel}_${key}`,optionValue);
 };
 };
-
+  
 (argueObj["do"])&&(argueObj["do"][0]=="reset")&&(window.location.href=`/${channel}/`);
 
 // function to replace fontawesome key
@@ -216,11 +220,11 @@ return bArr;
 };
 
 function getArr(inputStr) {return inputStr?inputStr.split(","):new Array();};
-var keyArr = compareLength(optionObj['key'],getArr(storage.getItem(prefix+'key')));
+var keyArr = compareLength(optionObj['key'],getArr(storage.getItem(`${channel}_key`)));
 storage.setItem(`${prefix}key`,keyArr.join(","));
 
 function addTag(addStr) {
-var addKeyArr = getArr(storage.getItem(prefix+'key'));
+var addKeyArr = getArr(storage.getItem(`${channel}_key`));
 if (!addKeyArr.includes(addStr)) {addKeyArr.push(addStr);};
 storage.setItem(`${prefix}key`,addKeyArr.join(","));
 var targetDOM = document.getElementById(addStr);
@@ -245,7 +249,7 @@ draw();
 };
 
 function removeTag(removeStr) {
-var addKeyArr = getArr(storage.getItem(prefix+'key'));
+var addKeyArr = getArr(storage.getItem(`${channel}_key`));
 var altKeyArr = new Array();
 for (let ka = 0; ka < addKeyArr.length; ka++) {
 if (addKeyArr[ka] != removeStr) {altKeyArr.push(addKeyArr[ka]);};
@@ -274,7 +278,7 @@ draw();
 };
 
 function fillIndex() {
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
 indexBarDOM.innerText = "";
 var tagClassArr = Object.keys(class_tag);
 for (let tli = 0; tli < tagClassArr.length; tli++) {
@@ -308,9 +312,9 @@ indexBarDOM.appendChild(tagClassMemberP);
 };
 
 function filter() {
-var sortStr = storage.getItem(prefix+'sort');
+var sortStr = storage.getItem(`${channel}_sort`);
 var filtered = new Array();
-var filterKeyArr = getArr(storage.getItem(prefix+'key'));
+var filterKeyArr = getArr(storage.getItem(`${channel}_key`));
 var playlistKeyArr = Object.keys(playlist);
 // no filterKey (true) + "neutral":newest first (true)
 // no filterKey (true) + "newest":newest first (true)
@@ -325,7 +329,7 @@ ord = sortKeyBool?playlistKeyArr[nub] :playlistKeyArr[playlistKeyArr.length - nu
 if (filteredBool) {
 filtered.push(ord);
 } else { // if filterKeyArr.length > 0
-if (storage.getItem(prefix+'union') == 'true') {
+if (storage.getItem(`${channel}_union`) == 'true') {
 var unionBool = false;
 for (let pot = 0; pot < playlist[ord]["tag"].length; pot++) {
 // tag key include track tag, include
@@ -342,21 +346,21 @@ if (unionBool) {filtered.push(ord);};
 };
 };
 };
-storage.setItem(prefix+'filtered',filtered.join(","))
+storage.setItem(`${channel}_filtered`,filtered.join(","))
 };
 
 function draw() {
 filter();
 unionSDOM.innerHTML = "";
 tagListDOM.innerHTML = "";
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
 if (drawKeyArr.length > 0) {
 toggleLayout("selected_tags","on")
 shareTagDOM.style["display"] = "block";
 tagSpanDOM.innerText = "："+drawKeyArr.join("、");
 if (drawKeyArr.length > 1) {
 tagNoteDOM.innerText = "：";
-var drawUnionStr = storage.getItem(prefix+'union');
+var drawUnionStr = storage.getItem(`${channel}_union`);
 var unionToggleBool = (drawUnionStr == "true");
 unionSDOM.appendChild(fontAwe(unionToggleBool?unionToggleOnStr:unionToggleOffStr));
 unionSDOM.append(" ");
@@ -381,8 +385,8 @@ tagSpanDOM.innerText = "";
 };
 playlistDOM.innerHTML = "";
 var podObj = {};
-var nowStr = storage.getItem(prefix+'now');
-var storedArr = getArr(storage.getItem(prefix+'filtered'));
+var nowStr = storage.getItem(`${channel}_now`);
+var storedArr = getArr(storage.getItem(`${channel}_filtered`));
 var filteredArr = (nowStr&&!storedArr.includes(nowStr))?[nowStr].concat(storedArr):storedArr;
 for (let nub = 0; nub < filteredArr.length; nub++) {
 var tar = filteredArr[nub];
@@ -437,15 +441,15 @@ tagsListSpan.appendChild(link(addTagStr,[fontAwe(faTagStr)," "+textTagStr],'','t
 buttonPdom.appendChild(tagsListSpan);
 entryPg.appendChild(buttonPdom);
 playlistDOM.appendChild(entryPg);
-storage.setItem(prefix+'podcast',JSON.stringify(podObj));
+storage.setItem(`${channel}_podcast`,JSON.stringify(podObj));
 };
-doQueue(storage.getItem(prefix+'now'));
+doQueue(storage.getItem(`${channel}_now`));
 };
 
 async function doNext() {
 afterPause();
-var queueObj = JSON.parse(storage.getItem(prefix+'queue')||"{}");
-var nowStr = storage.getItem(prefix+'now');
+var queueObj = JSON.parse(storage.getItem(`${channel}_queue`)||"{}");
+var nowStr = storage.getItem(`${channel}_now`);
 mixPause();
 var nextStr = queueObj[nowStr];
 if (nextStr) {
@@ -458,8 +462,8 @@ afterStop();
 
 async function doPrev() {
 afterPause();
-var antiQueueObj = JSON.parse(storage.getItem(prefix+'anti-queue')||"{}");
-var nowStr = storage.getItem(prefix+'now');
+var antiQueueObj = JSON.parse(storage.getItem(`${channel}_anti-queue`)||"{}");
+var nowStr = storage.getItem(`${channel}_now`);
 mixPause();
 var prevStr = antiQueueObj[nowStr];
 if (prevStr) {doQueue(prevStr); await doPlay(prevStr);};
@@ -473,7 +477,7 @@ playbackRate:playerDOM.playbackRate,
 position:playerDOM.currentTime
 });
 };
-storage.setItem(prefix+"currentTS",playerDOM.currentTime.toString())
+storage.setItem(`${channel}_currentTS`,playerDOM.currentTime.toString())
 };
 
 function changeIcon(targetName,targetValue) {
@@ -483,7 +487,7 @@ if (icoDOM) {icoDOM.className = targetValue};
 
 function afterPause() {
 navigator.mediaSession.playbackState = 'paused';
-var nowStr = storage.getItem(prefix+'now')||"";
+var nowStr = storage.getItem(`${channel}_now`)||"";
 changeIcon("playIco"+nowStr,'fa-solid fa-play fa-fw');
 if (nowStr!="") {
 trackTitleDOM.innerHTML = "";
@@ -507,7 +511,7 @@ shareCutDOM.style["display"] = "none";
 
 function afterPlay() {
 navigator.mediaSession.playbackState = 'playing';
-var nowStr = storage.getItem(prefix+'now')||"";
+var nowStr = storage.getItem(`${channel}_now`)||"";
 changeIcon("playIco"+nowStr,'fa-solid fa-pause fa-fw');
 var nowDOM = document.getElementById("entry"+nowStr);
 if (nowDOM) {nowDOM.scrollIntoView({ behavior:'smooth' })};
@@ -521,12 +525,12 @@ shareCutDOM.style["display"] = "block";
 };
 playBTN.style["display"] = "none";
 pauseBTN.style["display"] = "block";
-let nameStr = playlist[storage.getItem(prefix+'now')]['image'];
+let nameStr = playlist[storage.getItem(`${channel}_now`)]['image'];
 popPipDOM.style['background-image'] = `url("https://klo.lt/p/${nameStr}/512.png")`;
 navigator.mediaSession.metadata = new MediaMetadata({
-title:playlist[storage.getItem(prefix+'now')]['name'],
+title:playlist[storage.getItem(`${channel}_now`)]['name'],
 artist:final_artist_str,
-album:playlist[storage.getItem(prefix+'now')]['tag'].join(" "),
+album:playlist[storage.getItem(`${channel}_now`)]['tag'].join(" "),
 artwork:[
 { src:`https://klo.lt/p/${nameStr}/96.png`,sizes:'96x96',type:'image/png' },
 { src:`https://klo.lt/p/${nameStr}/128.png`,sizes:'128x128',type:'image/png' },
@@ -547,17 +551,17 @@ const skipTime = details.seekOffset || 10;
 playerDOM.currentTime = Math.min(playerDOM.currentTime+skipTime,playerDOM.duration);
 };
 function seakGoTo(details) {playerDOM.currentTime = details.seekTime;};
-function jumpTo() {(storage.getItem(prefix+"currentTS")=="")||(playerDOM.currentTime = storage.getItem(prefix+"currentTS"))};
+function jumpTo() {(storage.getItem(`${channel}_currentTS`)=="")||(playerDOM.currentTime = storage.getItem(`${channel}_currentTS`))};
 
 async function doPlay(inputStr) {
 initPlay(inputStr);
-storage.setItem(prefix+'currentTS',"");
+storage.setItem(`${channel}_currentTS`,"");
 await mixPlay();
 };
 
 function initPlay(inputStr) {
 playerDOM.src = playlist[inputStr]['feed'];
-storage.setItem(prefix+'now',inputStr);
+storage.setItem(`${channel}_now`,inputStr);
 trackTitleDOM.innerHTML = "";
 trackTitleDOM.appendChild(fontAwe(selectedStr));
 trackTitleDOM.append(" 已選：");
@@ -567,7 +571,7 @@ if (nowDOM) {nowDOM.scrollIntoView({ behavior:'smooth' })};
 };
 
 function doQueue(inputStr) {
-var gpPodObj = JSON.parse(storage.getItem(prefix+'podcast')||"{}");
+var gpPodObj = JSON.parse(storage.getItem(`${channel}_podcast`)||"{}");
 var gpPodArr = Object.keys(gpPodObj);
 var gpQueueObj = {};
 var gpAntiQueueObj = {};
@@ -582,14 +586,14 @@ for (let qa = 0; qa < targetInt; qa++) {
 gpAntiQueueObj[gpPodArr[qa+1]] = gpPodArr[qa];
 };
 };
-storage.setItem(prefix+'queue',JSON.stringify(gpQueueObj));
-storage.setItem(prefix+'anti-queue',JSON.stringify(gpAntiQueueObj));
+storage.setItem(`${channel}_queue`,JSON.stringify(gpQueueObj));
+storage.setItem(`${channel}_anti-queue`,JSON.stringify(gpAntiQueueObj));
 };
 
 async function goToPlay(targetStr) {
 afterPause();
 doQueue(targetStr);
-var nowStr = storage.getItem(prefix+'now');
+var nowStr = storage.getItem(`${channel}_now`);
 if (nowStr === targetStr) {
 playerDOM.paused?await mixPlay():mixPause();
 } else {
@@ -613,7 +617,7 @@ await videoDOM.requestPictureInPicture();
 
 async function updatePiP() {
 canvasDOM.getContext('2d').clearRect(0,0,512,512);
-let nameStr = playlist[storage.getItem(prefix+'now')]['image'];
+let nameStr = playlist[storage.getItem(`${channel}_now`)]['image'];
 const image = new Image();
 image.crossOrigin = true;
 image.src = `https://klo.lt/p/${nameStr}/512.png`;
@@ -622,7 +626,7 @@ canvasDOM.getContext('2d').drawImage(image,0,0,512,512);
 };
 
 async function mixPlay() {
-let nowStr = storage.getItem(prefix+'now');
+let nowStr = storage.getItem(`${channel}_now`);
 let nameStr = playlist[nowStr]['image'];
 popPipDOM.style['background-image'] = `url("https://klo.lt/p/${nameStr}/512.png")`;
 if (document.pictureInPictureEnabled) {popADOM.href = "javascript: void(doPiP())";};
@@ -722,7 +726,7 @@ tagIDOM.className = tagDownStr;
 toggleLayout("episode_detail","on");
 resizeDiv();
 //
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
 var entryPg = document.createElement('div');
 entryPg.id = "entry"+tar;
 entryPg.className = "entryDetail";
@@ -811,26 +815,26 @@ detailPgDOM.appendChild(entryPg);
 };
 
 function toggleUnion() {
-var nowUnionStr = storage.getItem(prefix+'union');
+var nowUnionStr = storage.getItem(`${channel}_union`);
 var nextUnionStr = (nowUnionStr == "true")?"false":"true";
-storage.setItem(prefix+"union",nextUnionStr);
+storage.setItem(`${channel}_union`,nextUnionStr);
 draw();
 };
 
 function toggleBtn(sectionStr) {
-var sectionNowStr = storage.getItem(prefix+sectionStr);
+var sectionNowStr = storage.getItem(`${channel}_${sectionStr}`);
 var nextStr = paramObj[sectionStr][sectionNowStr]['next'];
-storage.setItem(prefix+sectionStr,nextStr);
+storage.setItem(`${channel}_${sectionStr}`,nextStr);
 };
 function updateTxtNBtn(sectionStr,targetADOM,targetIDOM,targetMDOM) {
-var sectionNowStr = storage.getItem(prefix+sectionStr);
+var sectionNowStr = storage.getItem(`${channel}_${sectionStr}`);
 targetADOM.innerText = paramObj[sectionStr][sectionNowStr]["text"];
 targetIDOM.className = paramObj[sectionStr][sectionNowStr]["class"];
 targetMDOM.className = paramObj[sectionStr][sectionNowStr]["class"];
 };
 function updateTheme(sectionStr) {
 var positionInt = paramObj[sectionStr]["position"];
-var nowThemeStr = storage.getItem(prefix+sectionStr);
+var nowThemeStr = storage.getItem(`${channel}_${sectionStr}`);
 var layoutArr = document.body.className.split(" ");
 layoutArr[positionInt]=nowThemeStr;
 document.body.className = layoutArr.join(" ");
@@ -866,7 +870,7 @@ toggleLayout("episodes_list","on");
 
 function shareTags() {
 if (navigator.share) {
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
 var targetUrl_str = final_root_path+"?key="+drawKeyArr.join(",");
 var targetTitle_str = "【"+final_artist_str+"】標籤："+drawKeyArr.join("、");
 navigatorShare(targetUrl_str,targetTitle_str);
@@ -972,17 +976,21 @@ document.ontouchmove = elementTouchDrag;
 }
 
 function applyDrag() {
-var safeAreaInsetTop = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sat"), 10);
-var safeAreaInsetLeft = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sal"), 10);
-var safeAreaInsetBottom = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sat"), 10);
-var safeAreaInsetRight = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sal"), 10);
-var permUpperTop = safeAreaInsetTop + remToPx(0.5);
+var satPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sat"), 10);
+var sarPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sar"), 10);
+var sabPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sab"), 10);
+var salPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sal"), 10);
+var safeAreaInsetTop    = isNaN(satPropertyValue)? 0 : satPropertyValue;
+var safeAreaInsetRight  = isNaN(sarPropertyValue)? 0 : sarPropertyValue;
+var safeAreaInsetBottom = isNaN(sabPropertyValue)? 0 : sabPropertyValue;
+var safeAreaInsetLeft   = isNaN(salPropertyValue)? 0 : salPropertyValue;
+var permUpperTop  = safeAreaInsetTop  + remToPx(0.5);
 var permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
-var permLowerTop = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
-var permLowerLeft = window.innerWidth - playerBarDOM.offsetWidth - safeAreaInsetRight - remToPx(0.5);
-if (newTop > permLowerTop) newTop = permLowerTop;
+var permLowerTop  = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
+var permLowerLeft = window.innerWidth  - playerBarDOM.offsetWidth  - safeAreaInsetRight  - remToPx(0.5);
+if (newTop  > permLowerTop ) newTop  = permLowerTop ;
 if (newLeft > permLowerLeft) newLeft = permLowerLeft;
-if (newTop < permUpperTop) newTop = permUpperTop;
+if (newTop  < permUpperTop ) newTop  = permUpperTop ;
 if (newLeft < permUpperLeft) newLeft = permUpperLeft;
 
 playerBarDOM.style.top = newTop + "px";
