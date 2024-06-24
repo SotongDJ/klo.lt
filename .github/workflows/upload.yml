@@ -166,10 +166,17 @@ jobs:
           git config user.name "RSS Update Bot"
           git config user.email "$EMAIL"
           git config user.signingkey "$KEY"
-      - name: Commit updates
+      - name: Check git status
+        id: check_git_status
         run: |
+          echo "git_status="`git status --porcelain`
+          echo "git_status="`git status --porcelain` >> $GITHUB_OUTPUT
+      - name: Commit updates
+        if: ${{ steps.check_git_status.outputs.git_status != '' }}
+        run: |
+          echo git_status: ${{ steps.check_git_status.outputs.git_status }}
           git add -A
-          git commit -S -m "semi-automactically update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" "
+          git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" [bot action]"
           git push https://${{ secrets.PAT }}@github.com/SotongDJ/klo.lt.git
       - name: Echo status
         run: |
