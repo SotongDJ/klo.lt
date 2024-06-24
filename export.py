@@ -103,6 +103,12 @@ def do_job(target_str):
         target_handler.write(class_to_tag_str)
 
     print("    ----")
+    print("    generate docs/index.html")
+    template_str = open("template/home.html").read()
+    index_html = template_str.format(title=configing.title,channel=configing.channel)
+    configing.index(index_html)
+
+    print("    ----")
     print(f"    update docs/playlist.json")
     playlist_path = "docs/playlist.json"
     playlist_json = json.load(open(playlist_path)) if Path(playlist_path).exists() else {}
