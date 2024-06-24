@@ -392,12 +392,9 @@ entryPg.className = "entry";
 var popDetailStr = "javascript: void(popDetail(\""+tar+"\"))";
 var titlePdom = document.createElement("p");
 titlePdom.className = "titletrack";
-// titlePdom.innerText = playlist[tar]['name'];
 var titleAdom = document.createElement("a");
 titleAdom.innerText = playlist[tar]['name'];
 titleAdom.href = popDetailStr;
-// titleAdom.append(" ");
-// titleAdom.appendChild(fontAwe("fa-solid fa-circle-info fa-fw"));
 titlePdom.appendChild(titleAdom);
 entryPg.appendChild(titlePdom);
 var buttonPdom = document.createElement("p");
@@ -430,10 +427,6 @@ shareSpan.appendChild(link(popDetailStr,[fontAwe(faTagStr)],"","tagBtn"));
 shareSpan.appendChild(link(popDetailStr,[fontAwe("fa-solid fa-circle-info fa-fw")]));
 shareSpan.appendChild(link(shareStr,[fontAwe("fa-solid fa-share-from-square fa-fw")]));
 buttonPdom.appendChild(shareSpan);
-// var tagsSpan = document.createElement('span');
-// tagsSpan.className = "tagBorder tagBtn";
-// tagsSpan.appendChild(link(popDetailStr,[fontAwe(faTagStr)]));
-// buttonPdom.appendChild(tagsSpan);
 var tagsListSpan = document.createElement('span');
 tagsListSpan.className = "tagList";
 for (let tagi = 0; tagi < playlist[tar]["tag"].length; tagi++) {
@@ -979,10 +972,10 @@ document.ontouchmove = elementTouchDrag;
 }
 
 function applyDrag() {
-var safeAreaInsetTop = getComputedStyle(document.documentElement).getPropertyValue("--sat");
-var safeAreaInsetLeft = getComputedStyle(document.documentElement).getPropertyValue("--sal");
-var safeAreaInsetBottom = getComputedStyle(document.documentElement).getPropertyValue("--sat");
-var safeAreaInsetRight = getComputedStyle(document.documentElement).getPropertyValue("--sal");
+var safeAreaInsetTop = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sat"), 10);
+var safeAreaInsetLeft = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sal"), 10);
+var safeAreaInsetBottom = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sat"), 10);
+var safeAreaInsetRight = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sal"), 10);
 var permUpperTop = safeAreaInsetTop + remToPx(0.5);
 var permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
 var permLowerTop = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
@@ -1084,7 +1077,7 @@ playerDOM.addEventListener('pause',afterPause,false);
 playerDOM.addEventListener('ended',doNext,false);
 playerDOM.addEventListener('loadedmetadata',function() {
 totalDOM.innerHTML = convertTimer(playerDOM.duration);
-if(storage.getItem`${channel}_currentTS`)) {
+if(storage.getItem(`${channel}_currentTS`)) {
 currentDOM.innerHTML = convertTimer(storage.getItem(`${channel}_currentTS`))
 } else {
 currentDOM.innerHTML = convertTimer(playerDOM.currentTime);
