@@ -1,6 +1,8 @@
-"rss" = "https://feed.firstory.me/rss/user/cjzdv5tgvbtbl0758j2waefam"
-"apple" = "https://podcasts.apple.com/tw/podcast/%E6%BD%A4%E7%94%B7%E7%9A%84room/id1437094468"
+"rss"     = "https://feed.firstory.me/rss/user/cjzdv5tgvbtbl0758j2waefam"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E6%BD%A4%E7%94%B7%E7%9A%84room/id1437094468"
 "spotify" = "https://api.spotify.com/v1/shows/1nC1y1TQdhq2aUXShF1uom/episodes?market=TW&limit=50"
+"title"   = "WBR 《潤男的Room》"
+"channel" = "wbr"
 
 [correct]
 "\u200b" = ""

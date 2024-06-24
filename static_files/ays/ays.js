@@ -1,7 +1,8 @@
 final_title_str="klo.lt - AYS《演員的副業》播放室";
-final_root_path="https://klo.lt/asc/";
+final_root_path="https://klo.lt/ays/";
 final_artist_str="群堯";
-prefix="asc_";
+prefix="ays_";
+channel="ays";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";
 document.getElementById("emailA").href="mailto:ask@klo.lt?subject=（klo.lt-AYS）回饋信件&body=內容類型：（問題？建議？）%0A細節：（越詳細越好）";

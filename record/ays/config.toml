@@ -1,8 +1,8 @@
-"rss" = "https://feed.firstory.me/rss/user/ck50uxe0emkyv0b26hjueodgo"
-"apple" = "https://podcasts.apple.com/tw/podcast/%E6%BC%94%E5%93%A1%E7%9A%84%E5%89%AF%E6%A5%AD/id1511371804"
-# "google" = "https://podcasts.google.com/feed/"
+"rss"     = "https://feed.firstory.me/rss/user/ck50uxe0emkyv0b26hjueodgo"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E6%BC%94%E5%93%A1%E7%9A%84%E5%89%AF%E6%A5%AD/id1511371804"
 "spotify" = "https://api.spotify.com/v1/shows/1uSPtYm7Wy925MbtKAYATz/episodes?market=TW&limit=50"
-# "youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id=UCeF-S3u7IuKIAGaK8ea7FLQ"
+"title"   = "AYS《演員的副業》"
+"channel" = "ays"
 
 [correct]
 "\u200b" = ""

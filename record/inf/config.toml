@@ -1,7 +1,9 @@
-"rss" = "https://feeds.soundon.fm/podcasts/465e470c-fd56-41ef-bda6-b1fde050e7a5.xml"
-"apple" = "https://podcasts.apple.com/tw/podcast/%E7%B6%B2%E7%B4%85-no-filter/id1517337100"
+"rss"     = "https://feeds.soundon.fm/podcasts/465e470c-fd56-41ef-bda6-b1fde050e7a5.xml"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E7%B6%B2%E7%B4%85-no-filter/id1517337100"
 "spotify" = "https://api.spotify.com/v1/shows/3UHGHDwQ04Tt36pfFC3EgZ/episodes?market=TW&limit=50"
 "youtube" = "https://www.youtube.com/feeds/videos.xml?channel_id=UCxfKV6PRt7q2Ytsz8l7bNHg"
+"title"   = "INF《網紅 No Filter》"
+"channel" = "inf"
 
 [correct]
 "\u200b" = ""

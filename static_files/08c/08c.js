@@ -2,6 +2,7 @@ final_title_str="klo.lt - 《零捌歐北共》播放室";
 final_root_path="https://klo.lt/08c/";
 final_artist_str="零捌歐北共";
 prefix="08c_";
+channel="08c";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";
 document.getElementById("emailA").href="mailto:ask@klo.lt?subject=（klo.lt-08C）回饋信件&body=內容類型：（問題？建議？）%0A細節：（越詳細越好）";

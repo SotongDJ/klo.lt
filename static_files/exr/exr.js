@@ -2,6 +2,7 @@ final_title_str="klo.lt - EXR 眼球地下電台播放室";
 final_root_path="https://klo.lt/exr/";
 final_artist_str="眼球地下電台";
 prefix="exr_";
+channel="exr";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";
 document.getElementById("emailA").href="mailto:ask@klo.lt?subject=（klo.lt-EXR）回饋信件&body=內容類型：（問題？建議？）%0A細節：（越詳細越好）";
