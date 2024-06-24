@@ -1,78 +1,102 @@
+// podcast info objects
+let playlist = {};
+let tag_class = {};
+let class_tag = {};
 // DOM elements
-const titleH1DOM = document.getElementById("titleH1");
-const titleSpanDOM = document.getElementById("titleSpan");
-const tagIndexDOM = document.getElementById("tagindex");
-const indexBarDOM = document.getElementById("indexbar");
-const unionSDOM = document.getElementById("unionSpan");
-const tagADOM = document.getElementById("tagA");
-const tagIDOM = document.getElementById("tagI");
-const sortIDOM = document.getElementById("sortI");
-const sortADOM = document.getElementById("sortA");
-const sortMDOM = document.getElementById("sortM");
-const moreIDOM = document.getElementById("moreI");
-const colourIDOM = document.getElementById("colourI");
-const colourADOM = document.getElementById("colourA");
-const colourMDOM = document.getElementById("colourM");
-const contraIDOM = document.getElementById("contraI");
-const contraADOM = document.getElementById("contraA");
-const contraMDOM = document.getElementById("contraM");
-const tagBarDOM = document.getElementById("tagbar");
-const tagListDOM = document.getElementById("taglist");
-const shareRsDivDOM = document.getElementById("shareResultDiv");
-const shareRsADOM = document.getElementById("shareResultA");
-const shareLinkDOM = document.getElementById("shareLink");
-const shareTagDOM = document.getElementById("shareTag");
-const shareEpiDOM = document.getElementById("shareEpi");
-const shareCutDOM = document.getElementById("shareCuT");
-const tagSpanDOM = document.getElementById("tagSpan");
-const cuTSpanDOM = document.getElementById("cuTSpan");
-const shareContentDOM = document.getElementById("share_content");
-const tagNoteDOM = document.getElementById("tagnote");
-const trackTitleDOM = document.getElementById("tracktitle");
-const morePageDOM = document.getElementById("morePage");
-const epiListDOM = document.getElementById("playlistContain");
-const playlistDOM = document.getElementById("playlist");
-const detailPgDOM = document.getElementById("detailContain");
-const playerDOM = document.getElementById("player");
-const playerBarDOM = document.getElementById("playerbar");
-const playBTN = document.getElementById("playBtn");
-const pauseBTN = document.getElementById("pauseBtn");
-const seekerDOM = document.getElementById("seeker");
-const currentDOM = document.getElementById("currentTime");
-const sliderDOM = document.getElementById("slider");
-const totalDOM = document.getElementById("totalTimer");
-const popADOM = document.getElementById("popA");
-const popPipDOM = document.getElementById("popPiP");
-const canvasDOM = document.createElement('canvas');
-const videoDOM = document.createElement('video');
-const contentDOM = document.getElementById("contentdiv");
+let titleH1DOM = document.getElementById("titleH1");
+let titleSpanDOM = document.getElementById("titleSpan");
+let tagIndexDOM = document.getElementById("tagindex");
+let indexBarDOM = document.getElementById("indexbar");
+let unionSDOM = document.getElementById("unionSpan");
+let tagADOM = document.getElementById("tagA");
+let tagIDOM = document.getElementById("tagI");
+let sortIDOM = document.getElementById("sortI");
+let sortADOM = document.getElementById("sortA");
+let sortMDOM = document.getElementById("sortM");
+let moreIDOM = document.getElementById("moreI");
+let colourIDOM = document.getElementById("colourI");
+let colourADOM = document.getElementById("colourA");
+let colourMDOM = document.getElementById("colourM");
+let contraIDOM = document.getElementById("contraI");
+let contraADOM = document.getElementById("contraA");
+let contraMDOM = document.getElementById("contraM");
+let tagBarDOM = document.getElementById("tagbar");
+let tagListDOM = document.getElementById("taglist");
+let shareRsDivDOM = document.getElementById("shareResultDiv");
+let shareRsADOM = document.getElementById("shareResultA");
+let shareLinkDOM = document.getElementById("shareLink");
+let shareTagDOM = document.getElementById("shareTag");
+let shareEpiDOM = document.getElementById("shareEpi");
+let shareCutDOM = document.getElementById("shareCuT");
+let tagSpanDOM = document.getElementById("tagSpan");
+let cuTSpanDOM = document.getElementById("cuTSpan");
+let shareContentDOM = document.getElementById("share_content");
+let tagNoteDOM = document.getElementById("tagnote");
+let trackTitleDOM = document.getElementById("tracktitle");
+let morePageDOM = document.getElementById("morePage");
+let epiListDOM = document.getElementById("playlistContain");
+let playlistDOM = document.getElementById("playlist");
+let detailPgDOM = document.getElementById("detailContain");
+let playerDOM = document.getElementById("player");
+let playerBarDOM = document.getElementById("playerbar");
+let playBTN = document.getElementById("playBtn");
+let pauseBTN = document.getElementById("pauseBtn");
+let moveBTN = document.getElementById('movebtn');
+let seekerDOM = document.getElementById("seeker");
+let currentDOM = document.getElementById("currentTime");
+let sliderDOM = document.getElementById("slider");
+let totalDOM = document.getElementById("totalTimer");
+let popADOM = document.getElementById("popA");
+let popPipDOM = document.getElementById("popPiP");
+let canvasDOM = document.createElement('canvas');
+let videoDOM = document.createElement('video');
+let contentDOM = document.getElementById("contentdiv");
+
+let satPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sat"), 10);
+let sarPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sar"), 10);
+let sabPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sab"), 10);
+let salPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sal"), 10);
+let safeAreaInsetTop    = isNaN(satPropertyValue)? 0 : satPropertyValue;
+let safeAreaInsetRight  = isNaN(sarPropertyValue)? 0 : sarPropertyValue;
+let safeAreaInsetBottom = isNaN(sabPropertyValue)? 0 : sabPropertyValue;
+let safeAreaInsetLeft   = isNaN(salPropertyValue)? 0 : salPropertyValue;
+let permUpperTop = safeAreaInsetTop + remToPx(0.5);
+let permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
+let permLowerTop = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
+let permLowerLeft = window.innerWidth - playerBarDOM.offsetWidth - safeAreaInsetRight - remToPx(0.5);
+let storeTop = 0;
+let storeLeft = 0;
+let moveTop = 0;
+let moveLeft = 0;
+let newTop = 0;
+let newLeft = 0;
 
 // Local storage
-const storage = window.localStorage;
+let storage = window.localStorage;
 
 // Fontawesome strings
-const faTagStr = "fa-solid fa-tag fa-fw";
-const selectedStr = "fa-solid fa-circle-check fa-fw";
-const playingStr = "fa-solid fa-circle-play fa-fw"; // fa-spin fa-fw";
-const pausedStr = "fa-solid fa-circle-pause fa-fw";
-const stopStr = "fa-solid fa-circle-stop fa-fw";
-const unionToggleOnStr = "fa-solid fa-toggle-on fa-fw";
-const unionToggleOffStr = "fa-solid fa-toggle-off fa-fw";
-const tagUpStr = "fa-solid fa-square-caret-up fa-fw";
-const tagDownStr = "fa-solid fa-tags fa-fw";
-const moreUpStr = "fa-solid fa-square-minus fa-fw";
-const moreDownStr = "fa-solid fa-bars fa-fw";
-const sortFaStr = "fa-solid fa-sort fa-fw";
-const sortUpStr = "fa-solid fa-sort-up fa-fw";
-const sortDownStr = "fa-solid fa-sort-down fa-fw";
-const contrastOnStr = "fa-solid fa-circle-half-stroke fa-fw";
-const contrastOffStr = "fa-solid fa-circle-half-stroke fa-fw fa-flip-horizontal";
-const neutralColourStr = "fa-solid fa-cloud fa-fw";
-const lightColourStr = "fa-solid fa-sun fa-fw";
-const darkColourStr = "fa-solid fa-moon fa-fw";
+let faTagStr = "fa-solid fa-tag fa-fw";
+let selectedStr = "fa-solid fa-circle-check fa-fw";
+let playingStr = "fa-solid fa-circle-play fa-fw"; // fa-spin fa-fw";
+let pausedStr = "fa-solid fa-circle-pause fa-fw";
+let stopStr = "fa-solid fa-circle-stop fa-fw";
+let unionToggleOnStr = "fa-solid fa-toggle-on fa-fw";
+let unionToggleOffStr = "fa-solid fa-toggle-off fa-fw";
+let tagUpStr = "fa-solid fa-square-caret-up fa-fw";
+let tagDownStr = "fa-solid fa-tags fa-fw";
+let moreUpStr = "fa-solid fa-square-minus fa-fw";
+let moreDownStr = "fa-solid fa-bars fa-fw";
+let sortFaStr = "fa-solid fa-sort fa-fw";
+let sortUpStr = "fa-solid fa-sort-up fa-fw";
+let sortDownStr = "fa-solid fa-sort-down fa-fw";
+let contrastOnStr = "fa-solid fa-circle-half-stroke fa-fw";
+let contrastOffStr = "fa-solid fa-circle-half-stroke fa-fw fa-flip-horizontal";
+let neutralColourStr = "fa-solid fa-cloud fa-fw";
+let lightColourStr = "fa-solid fa-sun fa-fw";
+let darkColourStr = "fa-solid fa-moon fa-fw";
 
 // Default parameters
-const sectionObj = {
+let sectionObj = {
 "titlebar":{"pos":0,"dom":titleH1DOM,"on":"min-content"},
 "more_option":{"pos":1,"dom":morePageDOM,"on":"1fr"},
 "tags_list":{"pos":2,"dom":tagIndexDOM,"on":"1fr"},
@@ -82,8 +106,8 @@ const sectionObj = {
 "player":{"pos":6,"dom":playerBarDOM,"on":"min-content"},
 "audio":{"pos":7,"dom":playerDOM,"on":"0px"}
 };
-const themeObj = {"colour":0,"contrast":1};
-const paramObj = {
+let themeObj = {"colour":0,"contrast":1};
+let paramObj = {
 "sort":{
 "neutral":{"text":"排序","class":sortFaStr,"next":"oldest"},
 "oldest":{"text":"最舊","class":sortUpStr,"next":"newest"},
@@ -101,9 +125,21 @@ const paramObj = {
 "highContrast":{"text":"高對比度","class":contrastOnStr,"next":"lowContrast"},
 },
 };
+
+let actionHandlers = [
+['play' ,async () => {mixPlay();}],
+['pause' ,() => {mixPause(); }],
+['previoustrack',async () => {doPrev(); }],
+['nexttrack' ,async () => {doNext(); }],
+['stop' ,null ],
+['seekbackward' ,(details) => {seakBack(details); }],
+['seekforward' ,(details) => {seakForw(details); }],
+['seekto' ,(details) => {seakGoTo(details); }],
+];
+
 // get option from url and save to local storage
-var url = new URL(window.location.href);
-var argueObj = new Object();
+let url = new URL(window.location.href);
+let argueObj = new Object();
 
 for (const [key,value] of url.searchParams.entries()) {
 if (value.includes(",")) {
@@ -118,10 +154,10 @@ argueObj[key] = [value];
 };
 };
 
-var argueKey = Object.keys(argueObj);
-var defaultObj = {"key":[],"now":"","currentTS":"","union":"false","sort":"neutral","colour":"neutral","contrast":"highContrast"};
-var optionObj = {"key":[],"now":"","currentTS":"","union":"false","sort":"neutral","colour":"neutral","contrast":"highContrast"};
-var optionKey = Object.keys(optionObj);
+let argueKey = Object.keys(argueObj);
+let defaultObj = {"key":[],"now":"","currentTS":"","union":"false","sort":"neutral","colour":"neutral","contrast":"highContrast"};
+let optionObj = {"key":[],"now":"","currentTS":"","union":"false","sort":"neutral","colour":"neutral","contrast":"highContrast"};
+let optionKey = Object.keys(optionObj);
 
 for (var ark = 0; ark < argueKey.length; ++ark) {
 var key = argueKey[ark];
@@ -131,21 +167,21 @@ optionObj[key] = (key=="key")?value:value[0];
 };
 };
 
-((optionObj["now"]!="")&&(optionObj["currentTS"]=="")&&storage.getItem(prefix+"currentTS"))&&storage.setItem(prefix+"currentTS","");
+((optionObj["now"]!="")&&(optionObj["currentTS"]=="")&&storage.getItem(`${channel}_currentTS`))&&storage.setItem(`${channel}_currentTS`,"");
 
 for (var opt = 0; opt < optionKey.length; ++opt) {
 var key = optionKey[opt];
 if (argueObj["do"]&&argueObj["do"][0]=="reset") {
 optionObj[key]=defaultObj[key];
-storage.setItem(prefix+key,optionObj[key]);
+storage.setItem(`${channel}_${key}`,optionObj[key]);
 } else {
 var optionValue = (key=="key")?optionObj[key].join(","):optionObj[key];
 var defaultValue = (key=="key")?"":defaultObj[key];
-(optionValue==defaultValue)?((storage.getItem(prefix+key))||storage.setItem(prefix+key,optionValue)):storage.setItem(prefix+key,optionValue);
+(optionValue==defaultValue)?((storage.getItem(`${channel}_${key}`))||storage.setItem(`${channel}_${key}`,optionValue)):storage.setItem(`${channel}_${key}`,optionValue);
 };
 };
-
-(argueObj["do"])&&(argueObj["do"][0]=="reset")&&(window.location.href="/blg/");
+  
+(argueObj["do"])&&(argueObj["do"][0]=="reset")&&(window.location.href=`/${channel}/`);
 
 // function to replace fontawesome key
 function fontAwe(fontKey,fontID="") {
@@ -184,13 +220,13 @@ return bArr;
 };
 
 function getArr(inputStr) {return inputStr?inputStr.split(","):new Array();};
-var keyArr = compareLength(optionObj['key'],getArr(storage.getItem(prefix+'key')));
-storage.setItem(prefix+"key",keyArr.join(","));
+var keyArr = compareLength(optionObj['key'],getArr(storage.getItem(`${channel}_key`)));
+storage.setItem(`${prefix}key`,keyArr.join(","));
 
 function addTag(addStr) {
-var addKeyArr = getArr(storage.getItem(prefix+'key'));
+var addKeyArr = getArr(storage.getItem(`${channel}_key`));
 if (!addKeyArr.includes(addStr)) {addKeyArr.push(addStr);};
-storage.setItem(prefix+"key",addKeyArr.join(","));
+storage.setItem(`${prefix}key`,addKeyArr.join(","));
 var targetDOM = document.getElementById(addStr);
 if (targetDOM) {
 var tagClassEachASpan = link("",[fontAwe(faTagStr)," "+addStr],'','tagBorder');
@@ -213,12 +249,12 @@ draw();
 };
 
 function removeTag(removeStr) {
-var addKeyArr = getArr(storage.getItem(prefix+'key'));
+var addKeyArr = getArr(storage.getItem(`${channel}_key`));
 var altKeyArr = new Array();
 for (let ka = 0; ka < addKeyArr.length; ka++) {
 if (addKeyArr[ka] != removeStr) {altKeyArr.push(addKeyArr[ka]);};
 };
-storage.setItem(prefix+"key",altKeyArr.join(","));
+storage.setItem(`${prefix}key`,altKeyArr.join(","));
 var addTagStr = "javascript: void(addTag(\""+removeStr+"\"))";
 var targetDOM = document.getElementById(removeStr);
 if (targetDOM) {
@@ -242,7 +278,7 @@ draw();
 };
 
 function fillIndex() {
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
 indexBarDOM.innerText = "";
 var tagClassArr = Object.keys(class_tag);
 for (let tli = 0; tli < tagClassArr.length; tli++) {
@@ -276,9 +312,9 @@ indexBarDOM.appendChild(tagClassMemberP);
 };
 
 function filter() {
-var sortStr = storage.getItem(prefix+'sort');
+var sortStr = storage.getItem(`${channel}_sort`);
 var filtered = new Array();
-var filterKeyArr = getArr(storage.getItem(prefix+'key'));
+var filterKeyArr = getArr(storage.getItem(`${channel}_key`));
 var playlistKeyArr = Object.keys(playlist);
 // no filterKey (true) + "neutral":newest first (true)
 // no filterKey (true) + "newest":newest first (true)
@@ -293,7 +329,7 @@ ord = sortKeyBool?playlistKeyArr[nub] :playlistKeyArr[playlistKeyArr.length - nu
 if (filteredBool) {
 filtered.push(ord);
 } else { // if filterKeyArr.length > 0
-if (storage.getItem(prefix+'union') == 'true') {
+if (storage.getItem(`${channel}_union`) == 'true') {
 var unionBool = false;
 for (let pot = 0; pot < playlist[ord]["tag"].length; pot++) {
 // tag key include track tag, include
@@ -310,21 +346,21 @@ if (unionBool) {filtered.push(ord);};
 };
 };
 };
-storage.setItem(prefix+'filtered',filtered.join(","))
+storage.setItem(`${channel}_filtered`,filtered.join(","))
 };
 
 function draw() {
 filter();
 unionSDOM.innerHTML = "";
 tagListDOM.innerHTML = "";
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
 if (drawKeyArr.length > 0) {
 toggleLayout("selected_tags","on")
 shareTagDOM.style["display"] = "block";
 tagSpanDOM.innerText = "："+drawKeyArr.join("、");
 if (drawKeyArr.length > 1) {
 tagNoteDOM.innerText = "：";
-var drawUnionStr = storage.getItem(prefix+'union');
+var drawUnionStr = storage.getItem(`${channel}_union`);
 var unionToggleBool = (drawUnionStr == "true");
 unionSDOM.appendChild(fontAwe(unionToggleBool?unionToggleOnStr:unionToggleOffStr));
 unionSDOM.append(" ");
@@ -349,8 +385,8 @@ tagSpanDOM.innerText = "";
 };
 playlistDOM.innerHTML = "";
 var podObj = {};
-var nowStr = storage.getItem(prefix+'now');
-var storedArr = getArr(storage.getItem(prefix+'filtered'));
+var nowStr = storage.getItem(`${channel}_now`);
+var storedArr = getArr(storage.getItem(`${channel}_filtered`));
 var filteredArr = (nowStr&&!storedArr.includes(nowStr))?[nowStr].concat(storedArr):storedArr;
 for (let nub = 0; nub < filteredArr.length; nub++) {
 var tar = filteredArr[nub];
@@ -360,12 +396,9 @@ entryPg.className = "entry";
 var popDetailStr = "javascript: void(popDetail(\""+tar+"\"))";
 var titlePdom = document.createElement("p");
 titlePdom.className = "titletrack";
-// titlePdom.innerText = playlist[tar]['name'];
 var titleAdom = document.createElement("a");
 titleAdom.innerText = playlist[tar]['name'];
 titleAdom.href = popDetailStr;
-// titleAdom.append(" ");
-// titleAdom.appendChild(fontAwe("fa-solid fa-circle-info fa-fw"));
 titlePdom.appendChild(titleAdom);
 entryPg.appendChild(titlePdom);
 var buttonPdom = document.createElement("p");
@@ -398,10 +431,6 @@ shareSpan.appendChild(link(popDetailStr,[fontAwe(faTagStr)],"","tagBtn"));
 shareSpan.appendChild(link(popDetailStr,[fontAwe("fa-solid fa-circle-info fa-fw")]));
 shareSpan.appendChild(link(shareStr,[fontAwe("fa-solid fa-share-from-square fa-fw")]));
 buttonPdom.appendChild(shareSpan);
-// var tagsSpan = document.createElement('span');
-// tagsSpan.className = "tagBorder tagBtn";
-// tagsSpan.appendChild(link(popDetailStr,[fontAwe(faTagStr)]));
-// buttonPdom.appendChild(tagsSpan);
 var tagsListSpan = document.createElement('span');
 tagsListSpan.className = "tagList";
 for (let tagi = 0; tagi < playlist[tar]["tag"].length; tagi++) {
@@ -412,24 +441,15 @@ tagsListSpan.appendChild(link(addTagStr,[fontAwe(faTagStr)," "+textTagStr],'','t
 buttonPdom.appendChild(tagsListSpan);
 entryPg.appendChild(buttonPdom);
 playlistDOM.appendChild(entryPg);
-storage.setItem(prefix+'podcast',JSON.stringify(podObj));
+storage.setItem(`${channel}_podcast`,JSON.stringify(podObj));
 };
-doQueue(storage.getItem(prefix+'now'));
+doQueue(storage.getItem(`${channel}_now`));
 };
-
-(storage.getItem(prefix+"now")=="")||initPlay(storage.getItem(prefix+"now"));
-fillIndex();
-updateTxtNBtn("sort",sortADOM,sortIDOM,sortMDOM);
-updateTheme("colour");
-updateTxtNBtn("colour",colourADOM,colourIDOM,colourMDOM);
-updateTheme("contrast");
-updateTxtNBtn("contrast",contraADOM,contraIDOM,contraMDOM);
-draw();
 
 async function doNext() {
 afterPause();
-var queueObj = JSON.parse(storage.getItem(prefix+'queue')||"{}");
-var nowStr = storage.getItem(prefix+'now');
+var queueObj = JSON.parse(storage.getItem(`${channel}_queue`)||"{}");
+var nowStr = storage.getItem(`${channel}_now`);
 mixPause();
 var nextStr = queueObj[nowStr];
 if (nextStr) {
@@ -442,8 +462,8 @@ afterStop();
 
 async function doPrev() {
 afterPause();
-var antiQueueObj = JSON.parse(storage.getItem(prefix+'anti-queue')||"{}");
-var nowStr = storage.getItem(prefix+'now');
+var antiQueueObj = JSON.parse(storage.getItem(`${channel}_anti-queue`)||"{}");
+var nowStr = storage.getItem(`${channel}_now`);
 mixPause();
 var prevStr = antiQueueObj[nowStr];
 if (prevStr) {doQueue(prevStr); await doPlay(prevStr);};
@@ -457,7 +477,7 @@ playbackRate:playerDOM.playbackRate,
 position:playerDOM.currentTime
 });
 };
-storage.setItem(prefix+"currentTS",playerDOM.currentTime.toString())
+storage.setItem(`${channel}_currentTS`,playerDOM.currentTime.toString())
 };
 
 function changeIcon(targetName,targetValue) {
@@ -467,7 +487,7 @@ if (icoDOM) {icoDOM.className = targetValue};
 
 function afterPause() {
 navigator.mediaSession.playbackState = 'paused';
-var nowStr = storage.getItem(prefix+'now')||"";
+var nowStr = storage.getItem(`${channel}_now`)||"";
 changeIcon("playIco"+nowStr,'fa-solid fa-play fa-fw');
 if (nowStr!="") {
 trackTitleDOM.innerHTML = "";
@@ -480,6 +500,7 @@ shareCutDOM.style["display"] = "block";
 playBTN.style["display"] = "block";
 pauseBTN.style["display"] = "none";
 };
+
 function afterStop() {
 trackTitleDOM.innerHTML = "";
 trackTitleDOM.appendChild(fontAwe(stopStr));
@@ -487,9 +508,10 @@ trackTitleDOM.append(" 播放完成：請點選任意集數開始播放");
 shareEpiDOM.style["display"] = "none";
 shareCutDOM.style["display"] = "none";
 };
+
 function afterPlay() {
 navigator.mediaSession.playbackState = 'playing';
-var nowStr = storage.getItem(prefix+'now')||"";
+var nowStr = storage.getItem(`${channel}_now`)||"";
 changeIcon("playIco"+nowStr,'fa-solid fa-pause fa-fw');
 var nowDOM = document.getElementById("entry"+nowStr);
 if (nowDOM) {nowDOM.scrollIntoView({ behavior:'smooth' })};
@@ -503,12 +525,12 @@ shareCutDOM.style["display"] = "block";
 };
 playBTN.style["display"] = "none";
 pauseBTN.style["display"] = "block";
-let nameStr = playlist[storage.getItem(prefix+'now')]['image'];
+let nameStr = playlist[storage.getItem(`${channel}_now`)]['image'];
 popPipDOM.style['background-image'] = `url("https://klo.lt/p/${nameStr}/512.png")`;
 navigator.mediaSession.metadata = new MediaMetadata({
-title:playlist[storage.getItem(prefix+'now')]['name'],
+title:playlist[storage.getItem(`${channel}_now`)]['name'],
 artist:final_artist_str,
-album:playlist[storage.getItem(prefix+'now')]['tag'].join(" "),
+album:playlist[storage.getItem(`${channel}_now`)]['tag'].join(" "),
 artwork:[
 { src:`https://klo.lt/p/${nameStr}/96.png`,sizes:'96x96',type:'image/png' },
 { src:`https://klo.lt/p/${nameStr}/128.png`,sizes:'128x128',type:'image/png' },
@@ -529,17 +551,17 @@ const skipTime = details.seekOffset || 10;
 playerDOM.currentTime = Math.min(playerDOM.currentTime+skipTime,playerDOM.duration);
 };
 function seakGoTo(details) {playerDOM.currentTime = details.seekTime;};
-function jumpTo() {(storage.getItem(prefix+"currentTS")=="")||(playerDOM.currentTime = storage.getItem(prefix+"currentTS"))};
+function jumpTo() {(storage.getItem(`${channel}_currentTS`)=="")||(playerDOM.currentTime = storage.getItem(`${channel}_currentTS`))};
 
 async function doPlay(inputStr) {
 initPlay(inputStr);
-storage.setItem(prefix+'currentTS',"");
+storage.setItem(`${channel}_currentTS`,"");
 await mixPlay();
 };
 
 function initPlay(inputStr) {
 playerDOM.src = playlist[inputStr]['feed'];
-storage.setItem(prefix+'now',inputStr);
+storage.setItem(`${channel}_now`,inputStr);
 trackTitleDOM.innerHTML = "";
 trackTitleDOM.appendChild(fontAwe(selectedStr));
 trackTitleDOM.append(" 已選：");
@@ -549,7 +571,7 @@ if (nowDOM) {nowDOM.scrollIntoView({ behavior:'smooth' })};
 };
 
 function doQueue(inputStr) {
-var gpPodObj = JSON.parse(storage.getItem(prefix+'podcast')||"{}");
+var gpPodObj = JSON.parse(storage.getItem(`${channel}_podcast`)||"{}");
 var gpPodArr = Object.keys(gpPodObj);
 var gpQueueObj = {};
 var gpAntiQueueObj = {};
@@ -564,14 +586,14 @@ for (let qa = 0; qa < targetInt; qa++) {
 gpAntiQueueObj[gpPodArr[qa+1]] = gpPodArr[qa];
 };
 };
-storage.setItem(prefix+'queue',JSON.stringify(gpQueueObj));
-storage.setItem(prefix+'anti-queue',JSON.stringify(gpAntiQueueObj));
+storage.setItem(`${channel}_queue`,JSON.stringify(gpQueueObj));
+storage.setItem(`${channel}_anti-queue`,JSON.stringify(gpAntiQueueObj));
 };
 
 async function goToPlay(targetStr) {
 afterPause();
 doQueue(targetStr);
-var nowStr = storage.getItem(prefix+'now');
+var nowStr = storage.getItem(`${channel}_now`);
 if (nowStr === targetStr) {
 playerDOM.paused?await mixPlay():mixPause();
 } else {
@@ -586,49 +608,6 @@ var minutes = Math.floor(inputSeconds / 60);
 return minutes+":"+seconds;
 };
 
-playerDOM.addEventListener('play',afterPlay,false);
-playerDOM.addEventListener('pause',afterPause,false);
-playerDOM.addEventListener('ended',doNext,false);
-playerDOM.addEventListener('loadedmetadata',function() {
-totalDOM.innerHTML = convertTimer(playerDOM.duration);
-if(storage.getItem(prefix+"currentTS")) {
-currentDOM.innerHTML = convertTimer(storage.getItem(prefix+"currentTS"))
-} else {
-currentDOM.innerHTML = convertTimer(playerDOM.currentTime);
-};
-cuTSpanDOM.innerText = "："+convertTimer(playerDOM.currentTime);
-sliderDOM.max= playerDOM.duration;
-sliderDOM.setAttribute("value",playerDOM.currentTime);
-});
-playerDOM.addEventListener('timeupdate',function() {
-currentDOM.innerText = convertTimer(playerDOM.currentTime);
-cuTSpanDOM.innerText = "："+convertTimer(playerDOM.currentTime);
-sliderDOM.value = playerDOM.currentTime;
-sliderDOM.setAttribute("value",playerDOM.currentTime);
-updatePositionState();
-});
-sliderDOM.addEventListener("change",function () {
-playerDOM.currentTime = sliderDOM.value;
-updatePositionState();
-});
-
-videoDOM.addEventListener('play',() => {mixPlay()},false);
-videoDOM.addEventListener('pause',() => {mixPause()},false);
-
-const actionHandlers = [
-['play' ,async () => {mixPlay();}],
-['pause' ,() => {mixPause(); }],
-['previoustrack',async () => {doPrev(); }],
-['nexttrack' ,async () => {doNext(); }],
-['stop' ,null ],
-['seekbackward' ,(details) => {seakBack(details); }],
-['seekforward' ,(details) => {seakForw(details); }],
-['seekto' ,(details) => {seakGoTo(details); }],
-];
-
-canvasDOM.width = canvasDOM.height = 512;
-videoDOM.muted = true;
-
 async function doPiP() {
 await updatePiP();
 videoDOM.srcObject = canvasDOM.captureStream();
@@ -638,7 +617,7 @@ await videoDOM.requestPictureInPicture();
 
 async function updatePiP() {
 canvasDOM.getContext('2d').clearRect(0,0,512,512);
-let nameStr = playlist[storage.getItem(prefix+'now')]['image'];
+let nameStr = playlist[storage.getItem(`${channel}_now`)]['image'];
 const image = new Image();
 image.crossOrigin = true;
 image.src = `https://klo.lt/p/${nameStr}/512.png`;
@@ -647,7 +626,7 @@ canvasDOM.getContext('2d').drawImage(image,0,0,512,512);
 };
 
 async function mixPlay() {
-let nowStr = storage.getItem(prefix+'now');
+let nowStr = storage.getItem(`${channel}_now`);
 let nameStr = playlist[nowStr]['image'];
 popPipDOM.style['background-image'] = `url("https://klo.lt/p/${nameStr}/512.png")`;
 if (document.pictureInPictureEnabled) {popADOM.href = "javascript: void(doPiP())";};
@@ -747,7 +726,7 @@ tagIDOM.className = tagDownStr;
 toggleLayout("episode_detail","on");
 resizeDiv();
 //
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
 var entryPg = document.createElement('div');
 entryPg.id = "entry"+tar;
 entryPg.className = "entryDetail";
@@ -836,26 +815,26 @@ detailPgDOM.appendChild(entryPg);
 };
 
 function toggleUnion() {
-var nowUnionStr = storage.getItem(prefix+'union');
+var nowUnionStr = storage.getItem(`${channel}_union`);
 var nextUnionStr = (nowUnionStr == "true")?"false":"true";
-storage.setItem(prefix+"union",nextUnionStr);
+storage.setItem(`${channel}_union`,nextUnionStr);
 draw();
 };
 
 function toggleBtn(sectionStr) {
-var sectionNowStr = storage.getItem(prefix+sectionStr);
+var sectionNowStr = storage.getItem(`${channel}_${sectionStr}`);
 var nextStr = paramObj[sectionStr][sectionNowStr]['next'];
-storage.setItem(prefix+sectionStr,nextStr);
+storage.setItem(`${channel}_${sectionStr}`,nextStr);
 };
 function updateTxtNBtn(sectionStr,targetADOM,targetIDOM,targetMDOM) {
-var sectionNowStr = storage.getItem(prefix+sectionStr);
+var sectionNowStr = storage.getItem(`${channel}_${sectionStr}`);
 targetADOM.innerText = paramObj[sectionStr][sectionNowStr]["text"];
 targetIDOM.className = paramObj[sectionStr][sectionNowStr]["class"];
 targetMDOM.className = paramObj[sectionStr][sectionNowStr]["class"];
 };
 function updateTheme(sectionStr) {
 var positionInt = paramObj[sectionStr]["position"];
-var nowThemeStr = storage.getItem(prefix+sectionStr);
+var nowThemeStr = storage.getItem(`${channel}_${sectionStr}`);
 var layoutArr = document.body.className.split(" ");
 layoutArr[positionInt]=nowThemeStr;
 document.body.className = layoutArr.join(" ");
@@ -876,11 +855,6 @@ function toggleContrast() {toggleTheme("contrast",contraADOM,contraIDOM,contraMD
 
 function resizeDiv() {
 var verticalBool = (window.visualViewport.height > window.visualViewport.width);
-// playerBarDOM.className = verticalBool?"playerbar":"playerpop";
-// playerBarDOM.style = verticalBool?"":"bottom:.5rem;right:.5rem;";
-// infoSecDOM.style = verticalBool?"":"width: min-content;";
-// titleH1DOM.style["display"] = verticalBool?"block":"none";
-// titleSpanDOM.style["display"] = verticalBool?"none":"inline";
 var smallHeightBool = window.visualViewport.height <= 800;
 var epiDtalBool = toggleLayout("episode_detail","check");
 var moreOptBool = toggleLayout("more_option","check");
@@ -894,12 +868,9 @@ toggleLayout("episodes_list","on");
 };
 };
 
-window.onresize = resizeDiv;
-resizeDiv();
-
 function shareTags() {
 if (navigator.share) {
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
 var targetUrl_str = final_root_path+"?key="+drawKeyArr.join(",");
 var targetTitle_str = "【"+final_artist_str+"】標籤："+drawKeyArr.join("、");
 navigatorShare(targetUrl_str,targetTitle_str);
@@ -910,11 +881,12 @@ clipboardShare(targetUrl_str);
 
 function shareNow(t=0,at="") {
 if (navigator.share) {
-var drawKeyArr = getArr(storage.getItem(prefix+'key'));
-var nowStr = (at=="")?storage.getItem(prefix+'now'):at;
-var currentTsStr = (storage.getItem(prefix+'currentTS')==""||t==0)?"":"&currentTS="+storage.getItem(prefix+'currentTS');
-var targetUrl_str = final_root_path+"?key="+drawKeyArr.join(",")+"&now="+nowStr+currentTsStr;
-var targetTitle_str = "【"+final_artist_str+"】："+playlist[nowStr]['name'];
+var drawKeyArr = getArr(storage.getItem(`${channel}_key`));
+var nowStr = (at=="")?storage.getItem(`${channel}_now`):at;
+var currentTsValue = storage.getItem(`${channel}_currentTS`);
+var currentTsStr = (currentTsValue==""||t==0)?"":`&currentTS=${currentTsValue}`;
+var targetUrl_str = `${final_root_path}?key=${drawKeyArr.join(",")}&now=${nowStr}${currentTsStr}`;
+var targetTitle_str = `【${final_artist_str}】：${playlist[nowStr]['name']}`;
 navigatorShare(targetUrl_str,targetTitle_str);
 } else {
 clipboardShare(targetUrl_str);
@@ -973,3 +945,175 @@ shareRsADOM.textContent = "無法複製";
 shareLinkDOM.href = targetUrl;
 };
 };
+
+function remToPx(rem) {
+let fontSize = getComputedStyle(document.documentElement).fontSize;
+let rootFontSize = parseFloat(fontSize);
+let pxValue = rem * rootFontSize;
+return pxValue;
+}
+
+function dragMouseDown(e) {
+e.preventDefault();
+moveTop = e.clientY;
+moveLeft = e.clientX;
+document.onmouseup = closeDragElement;
+document.onmousemove = elementDrag;
+// playerBarDOM.style.border = "solid var(--ctbr)";
+// playerBarDOM.style.position = "absolute";
+// playerBarDOM.style.padding = ".5rem";
+}
+
+function dragTouchStart(e) {
+e.preventDefault();
+moveTop = e.touches[0].clientY;
+moveLeft = e.touches[0].clientX;
+document.ontouchend = closeDragElement;
+document.ontouchmove = elementTouchDrag;
+// playerBarDOM.style.border = "solid var(--ctbr)";
+// playerBarDOM.style.position = "absolute";
+// playerBarDOM.style.padding = ".5rem";
+}
+
+function applyDrag() {
+var satPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sat"), 10);
+var sarPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sar"), 10);
+var sabPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sab"), 10);
+var salPropertyValue = parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sal"), 10);
+var safeAreaInsetTop    = isNaN(satPropertyValue)? 0 : satPropertyValue;
+var safeAreaInsetRight  = isNaN(sarPropertyValue)? 0 : sarPropertyValue;
+var safeAreaInsetBottom = isNaN(sabPropertyValue)? 0 : sabPropertyValue;
+var safeAreaInsetLeft   = isNaN(salPropertyValue)? 0 : salPropertyValue;
+var permUpperTop  = safeAreaInsetTop  + remToPx(0.5);
+var permUpperLeft = safeAreaInsetLeft + remToPx(0.5);
+var permLowerTop  = window.innerHeight - playerBarDOM.offsetHeight - safeAreaInsetBottom - remToPx(0.5);
+var permLowerLeft = window.innerWidth  - playerBarDOM.offsetWidth  - safeAreaInsetRight  - remToPx(0.5);
+if (newTop  > permLowerTop ) newTop  = permLowerTop ;
+if (newLeft > permLowerLeft) newLeft = permLowerLeft;
+if (newTop  < permUpperTop ) newTop  = permUpperTop ;
+if (newLeft < permUpperLeft) newLeft = permUpperLeft;
+
+playerBarDOM.style.top = newTop + "px";
+playerBarDOM.style.left = newLeft + "px";
+playerBarDOM.style.bottom = "auto";
+playerBarDOM.style.right = "auto";
+// if (newTop >= permLowerTop) {
+//     playerBarDOM.style.border = "solid var(--plbr)";
+//     playerBarDOM.style.position = "static";
+//     playerBarDOM.style.padding = ".25rem .5rem";
+// };
+}
+
+function elementDrag(e) {
+e.preventDefault();
+storeTop = moveTop - e.clientY;
+storeLeft = moveLeft - e.clientX;
+moveTop = e.clientY;
+moveLeft = e.clientX;
+
+newTop = playerBarDOM.offsetTop - storeTop;
+newLeft = playerBarDOM.offsetLeft - storeLeft;
+applyDrag();
+}
+
+function elementTouchDrag(e) {
+e.preventDefault();
+storeTop = moveTop - e.touches[0].clientY;
+storeLeft = moveLeft - e.touches[0].clientX;
+moveTop = e.touches[0].clientY;
+moveLeft = e.touches[0].clientX;
+
+newTop = playerBarDOM.offsetTop - storeTop;
+newLeft = playerBarDOM.offsetLeft - storeLeft;
+applyDrag();
+}
+
+function closeDragElement() {
+document.onmouseup = null;
+document.onmousemove = null;
+document.ontouchend = null;
+document.ontouchmove = null;
+console.log("permUpperTop: "+permUpperTop);
+console.log("permUpperLeft: "+permUpperLeft);
+console.log("permLowerTop: "+permLowerTop);
+console.log("permLowerLeft: "+permLowerLeft);
+console.log("newTop: "+newTop);
+console.log("newLeft: "+newLeft);
+console.log("playerBarDOM.offsetTop: "+playerBarDOM.offsetTop);
+console.log("playerBarDOM.offsetLeft: "+playerBarDOM.offsetLeft);
+}
+
+// load json
+let date = new Date();
+let timestamp = date.getFullYear().toString().substr(-2) + ('0' + (date.getMonth() + 1)).slice(-2) + ('0' + date.getDate()).slice(-2) + ('0' + date.getHours()).slice(-2);
+Promise.all([
+fetch(`/${channel}-playlist.json?${timestamp}`)
+.then(response => response.json())
+.then(data  => {
+playlist = data;
+console.log('[playlist] length:', Object.keys(playlist).length);
+})
+.catch(error => console.error('[playlist] Error:', error)),
+//
+fetch(`/${channel}-tag_class.json?${timestamp}`)
+.then(response => response.json())
+.then(data  => {
+tag_class = data;
+console.log('[tag_class] length:', Object.keys(tag_class).length);
+})
+.catch(error => console.error('[tag_class] Error:', error)),
+//
+fetch(`/${channel}-class_tag.json?${timestamp}`)
+.then(response => response.json())
+.then(data  => {
+class_tag = data;
+console.log('[class_tag] length:', Object.keys(class_tag).length);
+})
+.catch(error => console.error('[class_tag] Error:', error))
+]).then(() => {
+(storage.getItem(`${channel}_now`)=="")||initPlay(storage.getItem(`${channel}_now`));
+fillIndex();
+updateTxtNBtn("sort",sortADOM,sortIDOM,sortMDOM);
+updateTheme("colour");
+updateTxtNBtn("colour",colourADOM,colourIDOM,colourMDOM);
+updateTheme("contrast");
+updateTxtNBtn("contrast",contraADOM,contraIDOM,contraMDOM);
+draw();
+
+playerDOM.addEventListener('play',afterPlay,false);
+playerDOM.addEventListener('pause',afterPause,false);
+playerDOM.addEventListener('ended',doNext,false);
+playerDOM.addEventListener('loadedmetadata',function() {
+totalDOM.innerHTML = convertTimer(playerDOM.duration);
+if(storage.getItem(`${channel}_currentTS`)) {
+currentDOM.innerHTML = convertTimer(storage.getItem(`${channel}_currentTS`))
+} else {
+currentDOM.innerHTML = convertTimer(playerDOM.currentTime);
+};
+cuTSpanDOM.innerText = "："+convertTimer(playerDOM.currentTime);
+sliderDOM.max= playerDOM.duration;
+sliderDOM.setAttribute("value",playerDOM.currentTime);
+});
+playerDOM.addEventListener('timeupdate',function() {
+currentDOM.innerText = convertTimer(playerDOM.currentTime);
+cuTSpanDOM.innerText = "："+convertTimer(playerDOM.currentTime);
+sliderDOM.value = playerDOM.currentTime;
+sliderDOM.setAttribute("value",playerDOM.currentTime);
+updatePositionState();
+});
+sliderDOM.addEventListener("change",function () {
+playerDOM.currentTime = sliderDOM.value;
+updatePositionState();
+});
+
+videoDOM.addEventListener('play',() => {mixPlay()},false);
+videoDOM.addEventListener('pause',() => {mixPause()},false);
+canvasDOM.width = canvasDOM.height = 512;
+videoDOM.muted = true;
+
+moveBTN.onmousedown = dragMouseDown;
+moveBTN.ontouchstart = dragTouchStart;
+
+window.onresize = resizeDiv;
+resizeDiv();
+});
