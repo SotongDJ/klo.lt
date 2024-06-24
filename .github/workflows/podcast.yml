@@ -151,6 +151,7 @@ jobs:
       - name: Export feed into js file
         run: |
           rm -v docs/playlist.json docs/tag_class.json docs/class_tag.json
+          rm -v docs/klt-playlist.json docs/klt-tag_class.json docs/klt-class_tag.json
           python3 export.py blg
           python3 export.py exr
           python3 export.py jst

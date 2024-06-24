@@ -4,6 +4,7 @@ from datetime import datetime
 import json
 from pathlib import Path
 import rtoml
+import configdo
 
 def convert_month(input_str):
     """get month tag"""
@@ -103,21 +104,22 @@ def do_job(target_str):
         target_handler.write(class_to_tag_str)
 
     print("    ----")
-    print("    generate docs/index.html")
+    print(f"    generate docs/{target_str}/index.html")
+    configin = configdo.ConfigCla(args.target)
     template_str = open("template/home.html").read()
-    index_html = template_str.format(title=configing.title,channel=configing.channel)
-    configing.index(index_html)
+    index_html = template_str.format(title=configin.title,channel=configin.channel)
+    configin.index(index_html)
 
     print("    ----")
-    print(f"    update docs/playlist.json")
-    playlist_path = "docs/playlist.json"
+    print(f"    update docs/klt-playlist.json")
+    playlist_path = "docs/klt-playlist.json"
     playlist_json = json.load(open(playlist_path)) if Path(playlist_path).exists() else {}
     for key, values in playlist_dict.items():
         playlist_json[key] = values
     with open(playlist_path,"w") as target_handler:
         json.dump(playlist_json,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
-    print(f"    update docs/tag_class")
-    tag_to_class_path = "docs/tag_class.json"
+    print(f"    update docs/klt-tag_class")
+    tag_to_class_path = "docs/klt-tag_class.json"
     tag_to_class_json = json.load(open(tag_to_class_path)) if Path(tag_to_class_path).exists() else {}
     for key, values in tag_to_class_dict.items():
         tag_to_class_values = tag_to_class_json.get(key,[])
@@ -125,8 +127,8 @@ def do_job(target_str):
         tag_to_class_json[key] = tag_to_class_values
     with open(tag_to_class_path,"w") as target_handler:
         json.dump(tag_to_class_json,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
-    print(f"    update docs/class_tag")
-    class_to_tag_path = "docs/class_tag.json"
+    print(f"    update docs/klt-class_tag")
+    class_to_tag_path = "docs/klt-class_tag.json"
     class_to_tag_json = json.load(open(class_to_tag_path)) if Path(class_to_tag_path).exists() else {}
     for key, values in class_to_tag_dict.items():
         class_to_tag_values = class_to_tag_json.get(key,[])
