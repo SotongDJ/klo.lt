@@ -139,10 +139,6 @@ jobs:
           python3 annotate.py wbr > record/wbr/filter.txt
       - name: Export feed into js file
         run: |
-          touch docs/playlist.json
-          touch docs/tag_class.json
-          touch docs/class_tag.json
-          rm -v docs/playlist.json docs/tag_class.json docs/class_tag.json
           touch docs/klt-playlist.json
           touch docs/klt-tag_class.json
           touch docs/klt-class_tag.json
