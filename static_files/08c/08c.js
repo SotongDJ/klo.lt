@@ -1,7 +1,6 @@
 final_title_str="klo.lt - 《零捌歐北共》播放室";
 final_root_path="https://klo.lt/08c/";
 final_artist_str="零捌歐北共";
-prefix="08c_";
 channel="08c";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";

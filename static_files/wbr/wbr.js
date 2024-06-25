@@ -1,7 +1,6 @@
 final_title_str="klo.lt - 《潤男的Room》播放室";
 final_root_path="https://klo.lt/wbr/";
 final_artist_str="潤滑液男孩";
-prefix="wbr_";
 channel="wbr";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";

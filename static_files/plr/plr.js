@@ -1,7 +1,6 @@
 final_title_str="klo.lt -《法客電台》播放室";
 final_root_path="https://klo.lt/plr/";
 final_artist_str="法律白話文運動";
-prefix="plr_";
 channel="plr";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";

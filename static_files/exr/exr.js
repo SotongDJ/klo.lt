@@ -1,7 +1,6 @@
 final_title_str="klo.lt - EXR 眼球地下電台播放室";
 final_root_path="https://klo.lt/exr/";
 final_artist_str="眼球地下電台";
-prefix="exr_";
 channel="exr";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";

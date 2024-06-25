@@ -1,7 +1,6 @@
 final_title_str="klo.lt - JST《唐陽雞酒屋》播放室";
 final_root_path="https://klo.lt/jst/";
 final_artist_str="唐綺陽";
-prefix="jst_";
 channel="jst";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";

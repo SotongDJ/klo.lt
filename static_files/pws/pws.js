@@ -1,7 +1,6 @@
 final_title_str="klo.lt -《一百趴沈》播放室";
 final_root_path="https://klo.lt/pws/";
 final_artist_str="陪沈團";
-prefix="pws_";
 channel="pws";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";

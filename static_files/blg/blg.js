@@ -1,7 +1,6 @@
 final_title_str="klo.lt - BLG 百靈果播放室";
 final_root_path="https://klo.lt/blg/";
 final_artist_str="百靈果 News";
-prefix="blg_";
 channel="blg";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";

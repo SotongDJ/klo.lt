@@ -221,12 +221,12 @@ return bArr;
 
 function getArr(inputStr) {return inputStr?inputStr.split(","):new Array();};
 var keyArr = compareLength(optionObj['key'],getArr(storage.getItem(`${channel}_key`)));
-storage.setItem(`${prefix}key`,keyArr.join(","));
+storage.setItem(`${channel}_key`,keyArr.join(","));
 
 function addTag(addStr) {
 var addKeyArr = getArr(storage.getItem(`${channel}_key`));
 if (!addKeyArr.includes(addStr)) {addKeyArr.push(addStr);};
-storage.setItem(`${prefix}key`,addKeyArr.join(","));
+storage.setItem(`${channel}_key`,addKeyArr.join(","));
 var targetDOM = document.getElementById(addStr);
 if (targetDOM) {
 var tagClassEachASpan = link("",[fontAwe(faTagStr)," "+addStr],'','tagBorder');
@@ -254,7 +254,7 @@ var altKeyArr = new Array();
 for (let ka = 0; ka < addKeyArr.length; ka++) {
 if (addKeyArr[ka] != removeStr) {altKeyArr.push(addKeyArr[ka]);};
 };
-storage.setItem(`${prefix}key`,altKeyArr.join(","));
+storage.setItem(`${channel}_key`,altKeyArr.join(","));
 var addTagStr = "javascript: void(addTag(\""+removeStr+"\"))";
 var targetDOM = document.getElementById(removeStr);
 if (targetDOM) {

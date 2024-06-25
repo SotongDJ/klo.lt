@@ -1,7 +1,6 @@
 final_title_str="klo.lt -《網紅 No Filter》播放室";
 final_root_path="https://klo.lt/inf/";
 final_artist_str="VEVE";
-prefix="inf_";
 channel="inf";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";

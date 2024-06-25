@@ -1,7 +1,6 @@
 final_title_str="klo.lt - ALL 所有播放室";
 final_root_path="https://klo.lt/klt/";
 final_artist_str="Various podcasters";
-prefix="klt_";
 channel="klt";
 
 document.getElementById("aboutA").href="https://github.com/SotongDJ/klo.lt";
