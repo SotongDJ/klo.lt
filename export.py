@@ -138,10 +138,10 @@ def do_job(target_str):
         json.dump(class_to_tag_json,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
     print("    ----")
     print(f"    generate docs/klt/index.html")
-    configin = configdo.ConfigCla(args.target)
     template_str = open("template/home.html").read()
     index_html = template_str.format(title="All 所有",channel="klt")
-    configin.index(index_html)
+    with open("docs/klt/index.html","w") as target_handler:
+        target_handler.write(index_html)
 
     print("    ----\nEnd export")
 
