@@ -136,6 +136,12 @@ def do_job(target_str):
         class_to_tag_json[key] = class_to_tag_values
     with open(class_to_tag_path,"w") as target_handler:
         json.dump(class_to_tag_json,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
+    print("    ----")
+    print(f"    generate docs/klt/index.html")
+    configin = configdo.ConfigCla(args.target)
+    template_str = open("template/home.html").read()
+    index_html = template_str.format(title="All 所有",channel="klt")
+    configin.index(index_html)
 
     print("    ----\nEnd export")
 
