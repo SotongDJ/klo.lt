@@ -58,7 +58,7 @@ def do_job(target_str):
                 deduplicate_tag_list.append(tag)
         value_inner_dict["tag"] = deduplicate_tag_list
         playlist_dict[key_str] = value_inner_dict
-    outer_str = "const playlist = "+json.dumps(playlist_dict,indent=0,ensure_ascii=True)+";\n"
+    # outer_str = "const playlist = "+json.dumps(playlist_dict,indent=0,ensure_ascii=True)+";\n"
 
     with open(f"docs/{target_str}-playlist.json","w") as target_handler:
         json.dump(playlist_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
@@ -69,8 +69,8 @@ def do_job(target_str):
     print(f"    export docs/{target_str}-tag_class")
     tag_to_class_dict = {x: [str(n) for n in y["category"]] for x, y in keyword_doc.items()}
     tag_to_class_dict.update({m: [F"{y}"] for m,y in bY2Y_dict.items()})
-    tag_to_class_list = [F"\"{x}\": {y}" for x, y in tag_to_class_dict.items()]
-    tag_to_class_str = "const tag_class = {\n"+",\n".join(tag_to_class_list)+"\n};\n"
+    # tag_to_class_list = [F"\"{x}\": {y}" for x, y in tag_to_class_dict.items()]
+    # tag_to_class_str = "const tag_class = {\n"+",\n".join(tag_to_class_list)+"\n};\n"
 
     with open(f"docs/{target_str}-tag_class.json","w") as target_handler:
         json.dump(tag_to_class_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
@@ -86,22 +86,22 @@ def do_job(target_str):
             category_list = class_to_tag_dict.get(str(category_name),[])
             category_list.append(tag_name)
             class_to_tag_dict[str(category_name)] = category_list
-    class_to_tag_list = []
-    for category_name, category_list in class_to_tag_dict.items():
-        class_to_tag_list.append(F"\"{category_name}\": {category_list}")
-    class_to_tag_str = "const class_tag = {\n"+",\n".join(class_to_tag_list)+"\n};\n"
+    # class_to_tag_list = []
+    # for category_name, category_list in class_to_tag_dict.items():
+    #     class_to_tag_list.append(F"\"{category_name}\": {category_list}")
+    # class_to_tag_str = "const class_tag = {\n"+",\n".join(class_to_tag_list)+"\n};\n"
 
     with open(f"docs/{target_str}-class_tag.json","w") as target_handler:
         json.dump(class_to_tag_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
     # with open(f"docs/{target_str}-class_tag.toml","w") as target_handler:
     #     rtoml.dump(class_to_tag_dict,target_handler)
 
-    print("    ----")
-    print(f"    export docs/{target_str}-playlist.js")
-    with open(f"docs/{target_str}-playlist.js","w",encoding="utf8") as target_handler:
-        target_handler.write(outer_str)
-        target_handler.write(tag_to_class_str)
-        target_handler.write(class_to_tag_str)
+    # print("    ----")
+    # print(f"    export docs/{target_str}-playlist.js")
+    # with open(f"docs/{target_str}-playlist.js","w",encoding="utf8") as target_handler:
+    #     target_handler.write(outer_str)
+    #     target_handler.write(tag_to_class_str)
+    #     target_handler.write(class_to_tag_str)
 
     print("    ----")
     print(f"    generate docs/{target_str}/index.html")
