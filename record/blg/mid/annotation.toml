@@ -1,13 +1,14 @@
 # Add your own tag to each episode
 
 [blg00808]
-name = "The KK Show - 262 Yugee"
+name = "The KK Show - 262 變裝皇后Yugee"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15307657-the-kk-show-262-yugee.mp3"
-apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-262-yugee/id1106847606?i=1000660181448"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-262-%E8%AE%8A%E8%A3%9D%E7%9A%87%E5%90%8Eyugee/id1106847606?i=1000660181448"
 spotify = "https://open.spotify.com/episode/1HyU0WAToIt07EFAZU6upi"
+youtube = "https://www.youtube.com/watch?v=5KNEYSI3Hvs"
 image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
 description = "<p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
-names = ["The KK Show - 262 Yugee"]
+names = ["The KK Show - 262 變裝皇后Yugee"]
 tag = ["Jun 2024", "2024", "KK Show"]
 category = ["#節目系列"]
 
