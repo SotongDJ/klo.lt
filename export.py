@@ -21,15 +21,15 @@ def do_job(target_str):
     keyword_doc = rtoml.load(open(keyword_fn_str,encoding="utf8"))
     month_fn_str = f"record/{target_str}/record/feedPodcast-month.toml"
     month_doc = rtoml.load(open(month_fn_str,encoding="utf8"))
-    month_dict = {m:datetime.strptime(m,"%b %Y").strftime("%Y") for m in month_doc.values()}
+    bY2Y_dict = {m:datetime.strptime(m,"%b %Y").strftime("%Y") for m in month_doc.values()}
     rvs_m_dict = {} # reverse_month_dict
-    for month_str, year_str in month_dict.items():
+    for month_str, year_str in bY2Y_dict.items():
         year_list = rvs_m_dict.get(year_str,[])
         year_list.append(month_str)
         rvs_m_dict[year_str] = year_list
     reverse_list = sorted(list(rvs_m_dict.keys()),key=int, reverse=True)
     reverse_dict = {y:sorted(rvs_m_dict[y],key=convert_month) for y in reverse_list}
-    # month_list = sorted(list(month_dict.keys()), key=convert_month, reverse=True)
+    # month_list = sorted(list(bY2Y_dict.keys()), key=convert_month, reverse=True)
     header_dict = {
         "name":"",
         "feed":"",
@@ -68,7 +68,7 @@ def do_job(target_str):
     print("    ----")
     print(f"    export docs/{target_str}-tag_class")
     tag_to_class_dict = {x: [str(n) for n in y["category"]] for x, y in keyword_doc.items()}
-    tag_to_class_dict.update({m: [F"{y}"] for m,y in month_dict.items()})
+    tag_to_class_dict.update({m: [F"{y}"] for m,y in bY2Y_dict.items()})
     tag_to_class_list = [F"\"{x}\": {y}" for x, y in tag_to_class_dict.items()]
     tag_to_class_str = "const tag_class = {\n"+",\n".join(tag_to_class_list)+"\n};\n"
 
@@ -115,7 +115,9 @@ def do_job(target_str):
     playlist_path = "docs/klt-playlist.json"
     playlist_json = json.load(open(playlist_path)) if Path(playlist_path).exists() else {}
     for key, values in playlist_dict.items():
-        playlist_json[key] = values
+        bY_str = [n for n in values["tag"] if n in bY2Y_dict.keys()][0]
+        ym_str = convert_month(bY_str)
+        playlist_json[f"klt{ym_str}_{key}"] = values
     with open(playlist_path,"w") as target_handler:
         json.dump(playlist_json,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
     print(f"    update docs/klt-tag_class")
