@@ -12,34 +12,15 @@
 "categories":       ["podcast"],
 
 "screenshots": [
-{"src": "/screenshot/landscape_dark.jpg",         "sizes": "915x412", "type": "image/jpeg",  "platform": "android",  "form_factor": "wide",   "label": "Landscape in dark theme" },
-{"src": "/screenshot/landscape_light.jpg",        "sizes": "915x412", "type": "image/jpeg",  "platform": "android",  "form_factor": "wide",   "label": "Landscape in light theme"},
-{"src": "/screenshot/portrait_dark.jpg",          "sizes": "412x915", "type": "image/jpeg",  "platform": "android",  "form_factor": "narrow", "label": "Portrait in dark theme"  },
-{"src": "/screenshot/portrait_light.jpg",         "sizes": "412x915", "type": "image/jpeg",  "platform": "android",  "form_factor": "narrow", "label": "Portrait in light theme" },
-{"src": "/screenshot/landscape_dark.jpg",         "sizes": "915x412", "type": "image/jpeg",  "platform": "ios",      "form_factor": "wide",   "label": "Landscape in dark theme" },
-{"src": "/screenshot/landscape_light.jpg",        "sizes": "915x412", "type": "image/jpeg",  "platform": "ios",      "form_factor": "wide",   "label": "Landscape in light theme"},
-{"src": "/screenshot/portrait_dark.jpg",          "sizes": "412x915", "type": "image/jpeg",  "platform": "ios",      "form_factor": "narrow", "label": "Portrait in dark theme"  },
-{"src": "/screenshot/portrait_light.jpg",         "sizes": "412x915", "type": "image/jpeg",  "platform": "ios",      "form_factor": "narrow", "label": "Portrait in light theme" },
-{"src": "/screenshot/tablet_landscape_dark.jpg",  "sizes": "1024x768", "type": "image/jpeg", "platform": "chromeos", "form_factor": "wide",   "label": "Landscape in dark theme" },
-{"src": "/screenshot/tablet_landscape_light.jpg", "sizes": "1024x768", "type": "image/jpeg", "platform": "chromeos", "form_factor": "wide",   "label": "Landscape in light theme"},
-{"src": "/screenshot/tablet_portrait_dark.jpg",   "sizes": "768x1024", "type": "image/jpeg", "platform": "chromeos", "form_factor": "narrow", "label": "Portrait in dark theme"  },
-{"src": "/screenshot/tablet_portrait_light.jpg",  "sizes": "768x1024", "type": "image/jpeg", "platform": "chromeos", "form_factor": "narrow", "label": "Portrait in light theme" },
-{"src": "/screenshot/tablet_landscape_dark.jpg",  "sizes": "1024x768", "type": "image/jpeg", "platform": "ipados",   "form_factor": "wide",   "label": "Landscape in dark theme" },
-{"src": "/screenshot/tablet_landscape_light.jpg", "sizes": "1024x768", "type": "image/jpeg", "platform": "ipados",   "form_factor": "wide",   "label": "Landscape in light theme"},
-{"src": "/screenshot/tablet_portrait_dark.jpg",   "sizes": "768x1024", "type": "image/jpeg", "platform": "ipados",   "form_factor": "narrow", "label": "Portrait in dark theme"  },
-{"src": "/screenshot/tablet_portrait_light.jpg",  "sizes": "768x1024", "type": "image/jpeg", "platform": "ipados",   "form_factor": "narrow", "label": "Portrait in light theme" },
-{"src": "/screenshot/tablet_landscape_dark.jpg",  "sizes": "1024x768", "type": "image/jpeg", "platform": "macos",    "form_factor": "wide",   "label": "Landscape in dark theme" },
-{"src": "/screenshot/tablet_landscape_light.jpg", "sizes": "1024x768", "type": "image/jpeg", "platform": "macos",    "form_factor": "wide",   "label": "Landscape in light theme"},
-{"src": "/screenshot/tablet_portrait_dark.jpg",   "sizes": "768x1024", "type": "image/jpeg", "platform": "macos",    "form_factor": "narrow", "label": "Portrait in dark theme"  },
-{"src": "/screenshot/tablet_portrait_light.jpg",  "sizes": "768x1024", "type": "image/jpeg", "platform": "macos",    "form_factor": "narrow", "label": "Portrait in light theme" },
-{"src": "/screenshot/tablet_landscape_dark.jpg",  "sizes": "1024x768", "type": "image/jpeg", "platform": "windows",  "form_factor": "wide",   "label": "Landscape in dark theme" },
-{"src": "/screenshot/tablet_landscape_light.jpg", "sizes": "1024x768", "type": "image/jpeg", "platform": "windows",  "form_factor": "wide",   "label": "Landscape in light theme"},
-{"src": "/screenshot/tablet_portrait_dark.jpg",   "sizes": "768x1024", "type": "image/jpeg", "platform": "windows",  "form_factor": "narrow", "label": "Portrait in dark theme"  },
-{"src": "/screenshot/tablet_portrait_light.jpg",  "sizes": "768x1024", "type": "image/jpeg", "platform": "windows",  "form_factor": "narrow", "label": "Portrait in light theme" }
+{"src": "/screenshot/tablet_landscape_light.jpg", "sizes": "1024x768", "type": "image/jpeg", "form_factor": "wide",   "label": "Landscape in light theme"},
+{"src": "/screenshot/tablet_portrait_light.jpg",  "sizes": "768x1024", "type": "image/jpeg", "form_factor": "narrow", "label": "Portrait in light theme" },
+{"src": "/screenshot/tablet_landscape_dark.jpg",  "sizes": "1024x768", "type": "image/jpeg", "form_factor": "wide",   "label": "Landscape in dark theme" },
+{"src": "/screenshot/tablet_portrait_dark.jpg",   "sizes": "768x1024", "type": "image/jpeg", "form_factor": "narrow", "label": "Portrait in dark theme"  }
 ],
 "icons": [
 {"src": "/r/16.png",           "type": "image/png",    "sizes": "16x16",   "purpose": "any"     },
 {"src": "/r/32.png",           "type": "image/png",    "sizes": "32x32",   "purpose": "any"     },
+{"src": "/r/96.png",           "type": "image/png",    "sizes": "96x96",   "purpose": "any"     },
 {"src": "/r/180.png",          "type": "image/png",    "sizes": "180x180", "purpose": "any"     },
 {"src": "/r/192.png",          "type": "image/png",    "sizes": "192x192", "purpose": "any"     },
 {"src": "/r/512.png",          "type": "image/png",    "sizes": "512x512", "purpose": "any"     },
@@ -47,9 +28,8 @@
 {"src": "/favicon.ico",        "type": "image/x-icon", "sizes": "48x48",   "purpose": "any"     }
 ],
 "shortcuts": [
-{"name": "百靈果","description": "非官方百靈果播放室",            "url": "/blg/"},
-{"name": "眼球地下電台","description": "非官方眼球地下電台播放室", "url": "/exr/"},
-{"name": "唐陽雞酒屋","description": "非官方唐陽雞酒屋播放室",     "url": "/jst/"},
-{"name": "神仙補習班","description": "非官方神仙補習班播放室",     "url": "/asc/"}
+{"name": "百靈果","description": "非官方百靈果播放室",            "url": "/blg/", "icons": [{ "src": "/r/96.png", "sizes": "96x96" }]},
+{"name": "唐陽雞酒屋","description": "非官方唐陽雞酒屋播放室",     "url": "/jst/", "icons": [{ "src": "/r/96.png", "sizes": "96x96" }]},
+{"name": "神仙補習班","description": "非官方神仙補習班播放室",     "url": "/asc/", "icons": [{ "src": "/r/96.png", "sizes": "96x96" }]}
 ]
 }
