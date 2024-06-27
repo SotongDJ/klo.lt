@@ -8,7 +8,7 @@ import configdo
 
 def convert_month(input_str):
     """get month tag"""
-    return int(datetime.strptime(input_str,"%b %Y").strftime("%Y%m"))
+    return int(datetime.strptime(input_str,"%b %d, %Y").strftime("%Y%m%d"))
 
 def do_job(target_str):
     """Main thread"""
@@ -19,17 +19,17 @@ def do_job(target_str):
     title_doc = rtoml.load(open(title_fn_str,encoding="utf8"))
     keyword_fn_str = f"record/{target_str}/mid/keyword.toml"
     keyword_doc = rtoml.load(open(keyword_fn_str,encoding="utf8"))
-    month_fn_str = f"record/{target_str}/record/feedPodcast-month.toml"
-    month_doc = rtoml.load(open(month_fn_str,encoding="utf8"))
-    bY2Y_dict = {m:datetime.strptime(m,"%b %Y").strftime("%Y") for m in month_doc.values()}
-    rvs_m_dict = {} # reverse_month_dict
-    for month_str, year_str in bY2Y_dict.items():
+    date_fn_str = f"record/{target_str}/record/feedPodcast-month.toml"
+    date_doc = rtoml.load(open(date_fn_str,encoding="utf8"))
+    bY2Y_dict = {datetime.strptime(m,"%b %d, %Y").strftime("%b %Y"):datetime.strptime(m,"%b %d, %Y").strftime("%Y") for m in date_doc.values()}
+    rvs_m_dict = {} # reverse_date_dict
+    for monthyear_str, year_str in bY2Y_dict.items():
         year_list = rvs_m_dict.get(year_str,[])
-        year_list.append(month_str)
+        year_list.append(monthyear_str)
         rvs_m_dict[year_str] = year_list
     reverse_list = sorted(list(rvs_m_dict.keys()),key=int, reverse=True)
     reverse_dict = {y:sorted(rvs_m_dict[y],key=convert_month) for y in reverse_list}
-    # month_list = sorted(list(bY2Y_dict.keys()), key=convert_month, reverse=True)
+    # date_list = sorted(list(bY2Y_dict.keys()), key=convert_month, reverse=True)
     header_dict = {
         "name":"",
         "feed":"",
@@ -54,28 +54,21 @@ def do_job(target_str):
         tag_list.extend(sorted(list(set(category_list))))
         deduplicate_tag_list = []
         for tag in tag_list:
-            if tag not in deduplicate_tag_list:
+            if tag not in deduplicate_tag_list and tag not in bY2Y_dict.items():
                 deduplicate_tag_list.append(tag)
         value_inner_dict["tag"] = deduplicate_tag_list
         playlist_dict[key_str] = value_inner_dict
-    # outer_str = "const playlist = "+json.dumps(playlist_dict,indent=0,ensure_ascii=True)+";\n"
 
     with open(f"docs/{target_str}-playlist.json","w") as target_handler:
         json.dump(playlist_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
-    # with open(f"docs/{target_str}-playlist.toml","w",encoding="utf8") as target_handler:
-    #     rtoml.dump(playlist_dict,target_handler)
 
     print("    ----")
     print(f"    export docs/{target_str}-tag_class")
     tag_to_class_dict = {x: [str(n) for n in y["category"]] for x, y in keyword_doc.items()}
     tag_to_class_dict.update({m: [F"{y}"] for m,y in bY2Y_dict.items()})
-    # tag_to_class_list = [F"\"{x}\": {y}" for x, y in tag_to_class_dict.items()]
-    # tag_to_class_str = "const tag_class = {\n"+",\n".join(tag_to_class_list)+"\n};\n"
 
     with open(f"docs/{target_str}-tag_class.json","w") as target_handler:
         json.dump(tag_to_class_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
-    # with open(f"docs/{target_str}-tag_class.toml","w") as target_handler:
-    #     rtoml.dump(tag_to_class_dict,target_handler)
 
     print("    ----")
     print(f"    export docs/{target_str}-class_tag")
@@ -86,22 +79,9 @@ def do_job(target_str):
             category_list = class_to_tag_dict.get(str(category_name),[])
             category_list.append(tag_name)
             class_to_tag_dict[str(category_name)] = category_list
-    # class_to_tag_list = []
-    # for category_name, category_list in class_to_tag_dict.items():
-    #     class_to_tag_list.append(F"\"{category_name}\": {category_list}")
-    # class_to_tag_str = "const class_tag = {\n"+",\n".join(class_to_tag_list)+"\n};\n"
 
     with open(f"docs/{target_str}-class_tag.json","w") as target_handler:
         json.dump(class_to_tag_dict,target_handler,indent=0,sort_keys=True,ensure_ascii=True)
-    # with open(f"docs/{target_str}-class_tag.toml","w") as target_handler:
-    #     rtoml.dump(class_to_tag_dict,target_handler)
-
-    # print("    ----")
-    # print(f"    export docs/{target_str}-playlist.js")
-    # with open(f"docs/{target_str}-playlist.js","w",encoding="utf8") as target_handler:
-    #     target_handler.write(outer_str)
-    #     target_handler.write(tag_to_class_str)
-    #     target_handler.write(class_to_tag_str)
 
     print("    ----")
     print(f"    generate docs/{target_str}/index.html")

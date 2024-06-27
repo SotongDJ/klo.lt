@@ -52,7 +52,7 @@ def do_job(target_str,configing):
     rss_feed = bs(rss_req.content,"xml")
     rss_dict = {}
     description_dict = {}
-    month_dict = {}
+    date_dict = {}
     name2url_dict = {}
     url_to_file_dict = {}
     if pathlib.Path(f"record/{target_str}/record/image.toml").exists():
@@ -93,8 +93,8 @@ def do_job(target_str,configing):
                     description_dict[name] = description
                 original_time_str = unit.pubDate.contents[0].replace('GMT', '+0000')
                 mthfmt_str = "%a, %d %b %Y %H:%M:%S %z"
-                month_str = datetime.strptime(original_time_str,mthfmt_str).strftime("%b %Y")
-                month_dict[name] = month_str
+                date_str = datetime.strptime(original_time_str,mthfmt_str).strftime("%b %d, %Y")
+                date_dict[name] = date_str
                 img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [channel_cover_str]
                 img_url = str(img_list[0])
                 name2url_dict[name] = img_url
@@ -131,7 +131,7 @@ def do_job(target_str,configing):
         result_dict["feed"] = rss_dict
         configing.xmlw(rss_req.text,"/record/feedPodcastRequests.xml")
         configing.toml(rss_dict,"/record/feedPodcast.toml")
-        configing.toml(month_dict,"/record/feedPodcast-month.toml")
+        configing.toml(date_dict,"/record/feedPodcast-month.toml")
         configing.toml(description_dict,"/record/description.toml")
         configing.toml({"name2url":name2url_dict,"url2file":url_to_file_dict},"/record/image.toml")
         print("    Finish collection: Feed")

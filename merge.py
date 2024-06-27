@@ -3,12 +3,13 @@ import argparse
 import configdo
 from pathlib import Path
 import rtoml
+from datetime import datetime
 
 def do_job(target_str,configing):
     """Main thread"""
     print("----\nStart merge")
     result_doc = rtoml.load(open(f"record/{target_str}/mid/history.toml",encoding="utf8"))
-    month_doc = rtoml.load(open(f"record/{target_str}/record/feedPodcast-month.toml",encoding="utf8"))
+    date_doc = rtoml.load(open(f"record/{target_str}/record/feedPodcast-month.toml",encoding="utf8"))
     dscri_doc = rtoml.load(open(f"record/{target_str}/record/description.toml",encoding="utf8"))
     name2id_dict = {}
     alias_doc = rtoml.load(open(f"record/{target_str}/alias.toml",encoding="utf8"))
@@ -72,10 +73,12 @@ def do_job(target_str,configing):
         title_dict[id_str] = title_episode_dict
     print("    ----")
     print("    collect podcast info from feedPodcast-month.toml")
-    for title_str,month_str in month_doc.items():
+    for title_str,date_str in date_doc.items():
         id_str = correct(title_str)
         title_episode_dict = title_dict.get(id_str,{})
-        title_episode_dict["tag"] = [month_str,month_str.split(" ")[1]]
+        monthyear_str = datetime.strptime(date_str,"%b %d, %Y").strftime("%b %Y")
+        year_str = datetime.strptime(date_str,"%b %d, %Y").strftime("%Y")
+        title_episode_dict["tag"] = [date_str,monthyear_str,year_str]
         title_dict[id_str] = title_episode_dict
     print("    ----")
     print("    collect podcast info from description.toml")
