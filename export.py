@@ -59,7 +59,7 @@ def do_job(target_str):
         tag_list.extend(sorted(list(set(category_list))))
         deduplicate_tag_list = []
         for tag in tag_list:
-            if tag not in deduplicate_tag_list and tag not in d2Y_dict.keys():
+            if tag not in deduplicate_tag_list and tag not in dt_list:
                 deduplicate_tag_list.append(tag)
         value_inner_dict["tag"] = deduplicate_tag_list
         playlist_dict[key_str] = value_inner_dict
