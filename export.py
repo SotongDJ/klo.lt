@@ -100,7 +100,7 @@ def do_job(target_str):
     playlist_path = "docs/klt-playlist.json"
     playlist_json = json.load(open(playlist_path)) if Path(playlist_path).exists() else {}
     for key, values in playlist_dict.items():
-        dt_str = [n for n in values["tag"] if n in dt_list][0]
+        dt_str = [n for n in title_doc[key]["tag"] if n in dt_list][0]
         ymd_str = convert_date(dt_str)
         playlist_json[f"klt{ymd_str}_{key}"] = values
     with open(playlist_path,"w") as target_handler:
