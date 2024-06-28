@@ -278,7 +278,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [天王星]
-  found in: (4)
+  found in: (5)
+    jst00524
     jst00521
     jst00398
     jst00167
