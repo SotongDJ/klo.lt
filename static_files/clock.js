@@ -28,6 +28,17 @@ function updateFieldIfNotNull(fieldName, value, precision=1){
     document.getElementById(fieldName).innerHTML = value.toFixed(precision);
 }
 
+function turnEink() {
+document.getElementById("bound").className = "center";
+document.querySelector("body").style = "background-color: white; color: black;";
+document.getElementById("bound").style = "background-color: white; color: black;";
+}
+function turnAmoled() {
+document.getElementById("bound").className = "bound";
+document.querySelector("body").style = "background-color: black; color: white;";
+document.getElementById("bound").style = "";
+}
+
 function currentTime(precision=1) {
   let date_class = new Date();
   let hour_int = date_class.getHours();
@@ -87,19 +98,18 @@ function currentTime(precision=1) {
         document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-empty fa-fw"));
       };
       document.getElementById("power").append(battery_str);
-      
-      // document.getElementById("power").append("·");
-      // let blgemoji = document.createElement("span");
-      // blgemoji.className = "mirror";
-      // blgemoji.innerText = "👌";
-      // let blg = document.createElement("a");
-      // blg.className = "podbtn";
-      // blg.href = "/blg/";
-      // blg.appendChild(blgemoji);
-      // blg.append("BLG");
-      // document.getElementById("power").appendChild(blg);
-
       document.getElementById("power").append(" ");
+
+      let mov = document.createElement("a");
+      mov.href = "javascript: void(turnAmoled())";
+      mov.appendChild(fontAwe("fa-solid fa-shoe-prints fa-fw"));
+      document.getElementById("power").appendChild(mov);
+      document.getElementById("power").append(" ");
+
+      let eink = document.createElement("a");
+      eink.href = "javascript: void(turnEink())";
+      eink.appendChild(fontAwe("fa-solid fa-thumbtack fa-fw"));
+      document.getElementById("power").appendChild(eink);
     };
   });
 
