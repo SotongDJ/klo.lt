@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[jst00525]
+name = "【本週提醒】好好釐清以前的迷惘😶‍🌫️"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cly0yjabz03az01tpc38r2d06/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcly0yjabz03b001tp3v64b6sa.mp3?v=1719716062551"
+apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%A5%BD%E5%A5%BD%E9%87%90%E6%B8%85%E4%BB%A5%E5%89%8D%E7%9A%84%E8%BF%B7%E6%83%98/id1536374746?i=1000660694739"
+spotify = "https://open.spotify.com/episode/7GTxRcN2Qk5rdmiPSzWjKG"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽7/1-7/7星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子 處女 天秤 射手 <br /> <br />雙子：環境阻礙覺得推動困難，感情雙方陷入僵局 <br />處女：要就事論事別牽扯情緒，感情上別寵壞對方 <br />天秤：計畫可能中斷要有耐心，感情雙方目標不一 <br />射手：得配合男性長官要求，感情太務實會冷場 <br /> <br />【穩的】巨蟹 獅子 魔羯 雙魚 <br /> <br />巨蟹：對未來有計畫與想像，感情認真謹慎進度慢 <br />獅子：狀況不如預期需務實，桃花來自熟悉的交友圈 <br />魔羯：一切盡在掌控中非常穩，感情上再多點風趣 <br />雙魚：務實處理錢的問題，該判斷感情能否繼續 <br /> <br />【讚的】牡羊 金牛 天蠍 水瓶 <br /> <br />牡羊：工作上收到善意與包容，主動散發溫柔更來電 <br />金牛：工作在擅長的領域中出色，感情可展現居家氛圍 <br />天蠍：面對眾多機會要保持理性，桃花旺盛卻短暫 <br />水瓶：好消息多成功率高，散發魅力自帶光芒 <br /></p>"
+names = ["【本週提醒】好好釐清以前的迷惘😶‍🌫️"]
+tag = ["Jun 30, 2024", "Jun 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00524]
 name = "EP333你怪有用的地方，天王星(下)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxy9571c0ep501tb4645gt3m/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxy9571c0ep601tb1kx16m0v.mp3?v=1719552523236"
