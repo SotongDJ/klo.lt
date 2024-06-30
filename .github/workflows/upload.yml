@@ -143,17 +143,17 @@ jobs:
           touch docs/klt-tag_class.json
           touch docs/klt-class_tag.json
           rm -v docs/klt-playlist.json docs/klt-tag_class.json docs/klt-class_tag.json
-          python3 export.py blg
-          python3 export.py exr
-          python3 export.py jst
-          python3 export.py asc
-          python3 export.py ays
-          python3 export.py 08c
-          python3 export.py inf
-          python3 export.py hsd
-          python3 export.py pws
-          python3 export.py plr
-          python3 export.py wbr
+          python3 export.py blg `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py exr `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py jst `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py asc `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py ays `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py 08c `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py inf `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py hsd `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py pws `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py plr `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
+          python3 export.py wbr `TZ='<UTC+8>-8' date +'%Y%m%d_%H%M'`
   Deploy:
     needs: Update
     environment:

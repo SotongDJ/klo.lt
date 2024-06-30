@@ -14,7 +14,7 @@ def convert_date(input_str):
     """get month tag"""
     return int(datetime.strptime(input_str,"%b %d, %Y").strftime("%Y%m%d"))
 
-def do_job(target_str):
+def do_job(target_str,cdt_str):
     """Main thread"""
     print("----\nStart export")
     print("    ----")
@@ -92,7 +92,7 @@ def do_job(target_str):
     print(f"    generate docs/{target_str}/index.html")
     configin = configdo.ConfigCla(args.target)
     template_str = open("template/home.html").read()
-    index_html = template_str.format(title=configin.title,channel=configin.channel)
+    index_html = template_str.format(title=configin.title,channel=configin.channel,currentdatetime=cdt_str)
     configin.index(index_html)
 
     print("    ----")
@@ -126,7 +126,7 @@ def do_job(target_str):
     print("    ----")
     print(f"    generate docs/klt/index.html")
     template_str = open("template/home.html").read()
-    index_html = template_str.format(title="All 所有",channel="klt")
+    index_html = template_str.format(title="All 所有",channel="klt",currentdatetime=cdt_str)
     with open("docs/klt/index.html","w") as target_handler:
         target_handler.write(index_html)
 
@@ -135,5 +135,6 @@ def do_job(target_str):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Export playlist")
     parser.add_argument("target", help="target path")
+    parser.add_argument("current", help="current date & time")
     args = parser.parse_args()
-    do_job(args.target)
+    do_job(args.target,args.current)
