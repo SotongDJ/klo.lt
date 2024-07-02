@@ -1,5 +1,17 @@
 # Add your own tag to each episode
 
+[blg00811]
+name = "The KK Show - 263 跨國追愛 - 佳諭"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15346809-the-kk-show-263.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-263-%E8%B7%A8%E5%9C%8B%E8%BF%BD%E6%84%9B-%E4%BD%B3%E8%AB%AD/id1106847606?i=1000660915966"
+spotify = "https://open.spotify.com/episode/51ANZdEjXRjjUM1vQijmDt"
+youtube = "https://www.youtube.com/watch?v=2OTmaZRBsvg"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>這集我們錄了三個禮拜。佳諭分享她怎麼踏入喜劇圈跟開始在網路上約X。但她開始發現這樣的生活過了一陣子不適合她，希望可以定下來。但是她遇到一個好對象約了很久的會但卻回去美國了。於是我們就問她要不要飛過去確定關係….<br/><br/>《NG女孩：Normal Girl》6/18~6/20<br/>早鳥票限時開賣 : <a href='https://comedyclub.kktix.cc/events/normalgirl2024'>https://comedyclub.kktix.cc/events/normalgirl2024</a></p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 263 跨國追愛 - 佳諭"]
+tag = ["Jul 02, 2024", "Jul 2024", "2024", "KK Show", "佳諭"]
+category = ["#節目系列", "喜劇演員"]
+
 [blg00810]
 name = "百靈果NEWS｜菲律賓女市長是中國間諜？正妹吐口水爆紅，中國奧運選手作弊"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15334660-news.mp3"

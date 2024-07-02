@@ -326,7 +326,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (266)
+  found in: (267)
+    blg00811
     blg00808
     blg00806
     blg00805
@@ -1116,6 +1117,12 @@ Process: record/blg/keyword-6-beta.toml
     blg00543
     blg00597
     blg00743
+  Excluded: (0)
+    
+[佳諭]
+  found in: (2)
+    blg00811
+    blg00794
   Excluded: (0)
     
 [Social]
