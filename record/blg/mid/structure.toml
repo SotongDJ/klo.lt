@@ -1,5 +1,17 @@
 # Add your own tag to each episode
 
+[blg00812]
+name = "嬰兒限定｜ep3 公審飛機上爆哭的嬰兒"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15360914-ep3.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/%E5%AC%B0%E5%85%92%E9%99%90%E5%AE%9A-ep3-%E5%85%AC%E5%AF%A9%E9%A3%9B%E6%A9%9F%E4%B8%8A%E7%88%86%E5%93%AD%E7%9A%84%E5%AC%B0%E5%85%92/id1106847606?i=1000661148600"
+spotify = "https://open.spotify.com/episode/0qlDNv6yB7JJP26QLNlJ1X"
+youtube = "https://www.youtube.com/watch?v=mx4fkFb2bCs"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["嬰兒限定｜ep3 公審飛機上爆哭的嬰兒"]
+tag = ["Jul 04, 2024", "Jul 2024", "2024"]
+category = []
+
 [blg00811]
 name = "The KK Show - 263 跨國追愛 - 佳諭"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15346809-the-kk-show-263.mp3"
