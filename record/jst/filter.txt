@@ -320,7 +320,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [雙子座]
-  found in: (4)
+  found in: (5)
+    jst00527
     jst00514
     jst00361
     jst00249
