@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[jst00528]
+name = "【本週提醒】寧願被現實衝擊，好過被困在想像"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clyayybgk0ahu01xqhy7mfpwd/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclyayybgk0ahv01xq0inj7b8v.mp3?v=1720321427174"
+apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%AF%A7%E9%A1%98%E8%A2%AB%E7%8F%BE%E5%AF%A6%E8%A1%9D%E6%93%8A-%E5%A5%BD%E9%81%8E%E8%A2%AB%E5%9B%B0%E5%9C%A8%E6%83%B3%E5%83%8F/id1536374746?i=1000661437948"
+spotify = "https://open.spotify.com/episode/6wfXxOfQTv6lcioRQ5dGMP"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽7/8-7/14星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 金牛 魔羯 水瓶 <br /> <br />牡羊：其實問題大多是自找的，感情需能被療癒 <br />金牛：對手太強大難以硬戰，談戀愛有穩定感很重要 <br />魔羯：在危機中異軍突起，感情上當心太過強勢 <br />水瓶：需幫忙他人收拾善後，感情善解人意能更進一步 <br /> <br />【穩的】雙子 處女 天秤 天蠍 <br /> <br />雙子：被暗中牽制要柔軟應對，感情用行動代替表達 <br />處女：選邊站的關鍵期可多評估，感情就事論事別僥倖 <br />天秤：工作急躁給人壓力，桃花在職場、合作裡出現 <br />天蠍：太追求完美會損壞人和，喜歡志同道合的桃花 <br /> <br />【讚的】巨蟹 獅子 射手 雙魚 <br /> <br />巨蟹：凡事慢一點安定為佳，桃花運旺充滿魅力 <br />獅子：自身優勢週五前低調點，感情約會可多點預算 <br />射手：適合當低調的幕後推手，感情上平淡就是福 <br />雙魚：工作還是讓專業的來，感情有商有量更順利 <br /></p>"
+names = ["【本週提醒】寧願被現實衝擊，好過被困在想像"]
+tag = ["Jul 07, 2024", "Jul 2024", "2024"]
+category = []
+
 [jst00527]
 name = "EP335 有星系列(雙子)：天生的直覺力"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cly8fzgq90del01y48sao69zb/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcly8fzgq90dem01y4hnpv1yiz.mp3?v=1720168681701"
