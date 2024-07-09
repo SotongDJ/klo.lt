@@ -1,5 +1,17 @@
 # Add your own tag to each episode
 
+[blg00814]
+name = "The KK Show - 264 相聲傳承 - 朱德剛"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15384224-the-kk-show-264.mp3"
+apple = "https://podcasts.apple.com/tw/podcast/the-kk-show-264-%E7%9B%B8%E8%81%B2%E5%82%B3%E6%89%BF-%E6%9C%B1%E5%BE%B7%E5%89%9B/id1106847606?i=1000661658768"
+spotify = "https://open.spotify.com/episode/0QG6LEDl1jQvROJQzu66If"
+youtube = "https://www.youtube.com/watch?v=E8K6T0I-_RQ"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>朱德剛來跟我們聊聊他如何到中國拜師學相聲，經常學不同種族口音演出的他，如何決定界線在哪，最後又為什麼要到花蓮開相聲茶館。</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 264 相聲傳承 - 朱德剛"]
+tag = ["Jul 09, 2024", "Jul 2024", "2024", "KK Show"]
+category = ["#節目系列"]
+
 [blg00813]
 name = "百靈果NEWS｜民主黨覺得拜登選不贏，社交名媛被性虐待，美國最強啦啦隊待遇比麥當勞差"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15372112-news.mp3"
