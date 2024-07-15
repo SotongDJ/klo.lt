@@ -387,7 +387,8 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [法客人物]
-  found in: (3)
+  found in: (4)
+    plr00551
     plr00527
     plr00526
     plr00524
