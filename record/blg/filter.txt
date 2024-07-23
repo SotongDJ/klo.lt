@@ -329,7 +329,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (269)
+  found in: (270)
+    blg00819
     blg00816
     blg00814
     blg00811
@@ -1492,6 +1493,12 @@ Process: record/blg/keyword-6-beta.toml
     blg00144
   Excluded: (1)
     blg00164
+[Aaron]
+  found in: (2)
+    blg00819
+    blg00604
+  Excluded: (0)
+    
 [李小牧]
   found in: (2)
     blg00755
