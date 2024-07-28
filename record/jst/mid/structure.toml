@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[jst00537]
+name = "【本週提醒】很多重要的小事浮出來"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clz5cfqek00pv01y2c7ul6r77/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclz5cfqek00pw01y27x2y6vgz.mp3?v=1722158056894"
+apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%BE%88%E5%A4%9A%E9%87%8D%E8%A6%81%E7%9A%84%E5%B0%8F%E4%BA%8B%E6%B5%AE%E5%87%BA%E4%BE%86/id1536374746?i=1000663585159"
+spotify = "https://open.spotify.com/episode/7lQz2VTrMtdp9FWlYCdEQT"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽7/29-8/4星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 獅子 射手 雙魚 <br /> <br />牡羊：忙得像打仗小心過勞，感情上態度緩和一點 <br />獅子：想太多容易玻璃心，感情有點太在意別人看法 <br />射手：面對爭議別立刻抗拒，感情適合重整關係 <br />雙魚：工作上被挑剔細節，感情小心被翻舊帳 <br /> <br />【穩的】處女 天秤 天蠍 魔羯 <br /> <br />處女：工作可切換新模式，感情因忙碌無暇顧及 <br />天秤：工作需抓出問題改善，感情太安逸要多些變化 <br />天蠍：工作上要耐心整合，感情當心無謂爭執 <br />魔羯：其實照章行事比較好，感情被搞怪的人吸引 <br /> <br />【讚的】金牛 雙子 巨蟹 水瓶 <br /> <br />金牛：工作順風順水心情愉快，感情桃花運爆棚 <br />雙子：使命必達別忘照顧自己，感情有點陰錯陽差 <br />巨蟹：運勢上揚受長官提拔，感情上別太任性 <br />水瓶：工作在低調中掌握先機，感情正在暗中進行</p>"
+names = ["【本週提醒】很多重要的小事浮出來"]
+tag = ["Jul 28, 2024", "Jul 2024", "2024"]
+category = []
+
 [jst00536]
 name = "EP341 冥王星，充滿誘惑的重生之路"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clz2i7cob09le01wcfuiq1cft/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclz2i7cob09lf01wcdpio0csz.mp3?v=1721986401728"
