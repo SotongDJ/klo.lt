@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00540]
+name = "【本週提醒】從不舒服中找舒服"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzf6bp740cr601uy4qi70q4g/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzf6bp740cr701uyfomk1lur.mp3?v=1722752453089"
+spotify = "https://open.spotify.com/episode/0WZcXG9mcd0QxudZcddWUq"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽8/5-8/11星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】天秤 射手 水瓶 雙魚 <br /> <br />天秤：應付各種麻煩好辛苦，感情太有主見影響桃花 <br />射手：累太久力氣要省著用，感情問題要願意讓步 <br />水瓶：工作有人私下對你有意見，感情要擔心三角戀 <br />雙魚：當心輿論的殺傷力，感情容易理解錯誤 <br /> <br />【穩的】牡羊 金牛 處女 魔羯 <br /> <br />牡羊：多聽別人意見有好處，感情需要能幫忙的對象 <br />金牛：工作重視評估未來，感情需要承諾與安全感 <br />處女：別總想著辯論或糾正，感情上別輕易爭吵 <br />魔羯：繼續專注自己的事，感情上多點柔軟更可愛 <br /> <br />【讚的】雙子 巨蟹 獅子 天蠍 <br /> <br />雙子：受貴人喜愛有魅力，桃花旺讓另一半擔心 <br />巨蟹：可改變保守嘗試冒險，感情最近滿鬆挺好的 <br />獅子：工作順風順水有自信，感情有些拒人於千里之外 <br />天蠍：工作適合找熟悉夥伴，感情可展現居家慵懶的一面 <br /></p>"
+names = ["【本週提醒】從不舒服中找舒服"]
+tag = ["Aug 04, 2024", "Aug 2024", "2024"]
+category = []
+
 [jst00539]
 name = "EP343 12星座會是哪款主管"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzciiggj0bze01v4ckoh3dbx/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzciiggk0bzf01v46ahxeaxp.mp3?v=1722591588030"
