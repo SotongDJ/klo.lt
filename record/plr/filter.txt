@@ -363,7 +363,8 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [政治歸YO智]
-  found in: (27)
+  found in: (28)
+    plr00560
     plr00546
     plr00535
     plr00525
