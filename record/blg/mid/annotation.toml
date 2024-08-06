@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[blg00825]
+name = "The KK Show - 268 Kimberley is BACK！陳芳語來啦！"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15538347-the-kk-show-268-kimberley-is-back.mp3"
+youtube = "https://www.youtube.com/watch?v=Asqih2ftbdc"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>我們的好朋友Kimberley一來就被凱莉拷問為什麼要去全明星辯論會當隊長，然後又被問到幾個月前跟Julia怎麼了，最後她還跟我們分享她未來的計畫。btw, Kimberley的新專輯kiki上線啦，大家可以去Spotify 聽喔 <a href='https://open.spotify.com/album/7cA3NJk0tCecRbhEfWg6Pw?si=HDfwoRDJRPKHa0cY2CG6iQ'>https://open.spotify.com/album/7cA3NJk0tCecRbhEfWg6Pw?si=HDfwoRDJRPKHa0cY2CG6iQ</a></p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 268 Kimberley is BACK！陳芳語來啦！"]
+tag = ["Aug 06, 2024", "Aug 2024", "2024", "KK Show", "Kimberley陳芳語"]
+category = ["#節目系列", "音樂"]
+
 [blg00824]
 name = "百靈果NEWS｜馬斯克被女兒打臉，台灣奧運選手被抹黑，委內瑞拉大選又出事，推薦排球少年"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15526248-news.mp3"
