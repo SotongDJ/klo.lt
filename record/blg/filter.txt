@@ -332,7 +332,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (272)
+  found in: (273)
+    blg00828
     blg00825
     blg00822
     blg00819
@@ -1183,7 +1184,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [黃豪平]
-  found in: (4)
+  found in: (5)
+    blg00828
     blg00771
     blg00515
     blg00268
