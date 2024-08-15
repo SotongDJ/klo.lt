@@ -1073,7 +1073,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [小孩限定]
-  found in: (7)
+  found in: (8)
+    blg00829
     blg00826
     blg00823
     blg00820
@@ -1478,7 +1479,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [葉耀元教授]
-  found in: (5)
+  found in: (6)
+    blg00829
     blg00666
     blg00665
     blg00460
