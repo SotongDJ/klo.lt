@@ -78,10 +78,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: self-hosted
     steps:
-      - name: Update rss - update BLG
-        run: |
-          python3 update.py blg
-          sleep 10
+      # - name: Update rss - update BLG
+      #   run: |
+      #     python3 update.py blg
+      #     sleep 10
       - name: Update rss - update EXR
         run: |
           python3 update.py exr
