@@ -1,9 +1,18 @@
 # Add your own tag to each episode
 
+[jst00547]
+name = "EP348 有星系列(巨蟹)：天生的通靈力"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm03mrjrx06tm01srgpsff853/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm03mrjrx06tn01srhw9n9rqi.mp3?v=1724247234411"
+spotify = "https://open.spotify.com/episode/5gKGbso3K5OG73bcfbXBHA"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>有星系列來到巨蟹（抱歉來晚了），你星盤中，有星落巨蟹嗎？ <br />如果有，那就是…你會特別「敏銳、體貼、能讀空氣」的地方，或你的「情感、體貼」在別人眼中看起來是什麼模樣？ <br />巨蟹也管內在，所以特別深藏不露，如果12星座一起演宮鬥，巨蟹鐵定能活到最後，畢竟藏得好看起來就無害😆 <br />所以別小看巨蟹，作為開創星座，這可是許多首富、創業家、領袖有星的位置，且不說馬斯克，就連賈伯斯、馬雲都有星在巨蟹呢！ <br /> <br />你有星嗎？有的話聽聽這集，看在別人眼中，自己特別有心之處在哪裡吧&nbsp; <br /> <br />EP348菜單： <br />巨蟹其實很倔強 <br />刻意壓抑企圖心 <br />水星巨蟹的長輩緣 <br />黃仁勳爸爸是火星巨蟹 <br />月巨蟹先照顧自己就能成功 <br />非常能安人心的金星巨蟹 <br />土巨蟹比誰都努力 <br />木星巨蟹的賈伯斯</p>"
+names = ["EP348 有星系列(巨蟹)：天生的通靈力"]
+tag = ["Aug 21, 2024", "Aug 2024", "2024"]
+category = []
+
 [jst00546]
 name = "【本週提醒】接受別人的作風驟變，因為你也是"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzzj4qr209cg01utclom9yip/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzzj4qr209ch01utd9r767zh.mp3?v=1723983288145"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E6%8E%A5%E5%8F%97%E5%88%A5%E4%BA%BA%E7%9A%84%E4%BD%9C%E9%A2%A8%E9%A9%9F%E8%AE%8A-%E5%9B%A0%E7%82%BA%E4%BD%A0%E4%B9%9F%E6%98%AF/id1536374746?i=1000665779156"
 spotify = "https://open.spotify.com/episode/5czbiXexz8nY9c0gJy9qWJ"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽 8/19-8/25 星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 金牛 天秤 水瓶 <br /> <br />牡羊：服務有口碑但是好累，感情分合都很乾脆 <br />金牛：機會不如預期感到低落，感情沒Feel稍微停擺 <br />天秤：完美主義不被滿足，感情交流別太拿翹 <br />水瓶：工作累得像打仗辛苦了，感情先自我整合 <br /> <br />【穩的】雙子 巨蟹 射手 魔羯 <br /> <br />雙子：需應對新狀況新局面，感情上有新桃花 <br />巨蟹：休息一下再出發，感情喜歡溫和的對象 <br />射手：策略正確得到收穫，感情可來個小旅行 <br />魔羯：與長官好好相處吧，感情上別太固執掃興 <br /> <br />【讚的】獅子 處女 天蠍 雙魚 <br /> <br />獅子：資源到位好消息紛呈，感情與生活皆平穩 <br />處女：迎難而上令人刮目相看，感情可走服務路線 <br />天蠍：工作上要多表達想法，感情上小心說錯話&nbsp; <br />雙魚：務實的一面被稱讚，好強！感情要稍微浪漫點</p>"
@@ -14,7 +23,6 @@ category = []
 [jst00545]
 name = "EP347 魔羯座到底好不好笑? ft.黃豪平"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzwhwi3207j501xb8zlb08t3/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzwhwi3307j601xbe2ix0rbi.mp3?v=1723799859222"
-apple = "https://podcasts.apple.com/tw/podcast/ep347-%E9%AD%94%E7%BE%AF%E5%BA%A7%E5%88%B0%E5%BA%95%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%AC%91-ft-%E9%BB%83%E8%B1%AA%E5%B9%B3/id1536374746?i=1000665609322"
 spotify = "https://open.spotify.com/episode/7FZZPSJ1Gtv3TsiFc5SgYx"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>聽說很多脫口秀演員都拿我當段子是吧??? <br />黃豪平你解釋一下😊 <br /> <br />一直以來我有個超能力，就是「很會記人星座」 <br /> <br />但跟黃豪平已經見過三次面，居然還想不起他什麼星座…… 😆（好啦現在記住了，他是魔羯） ，可見他的表現一直讓我有「非典型魔羯」之感。 <br /> <br />好比我對他金星射手更有感，很聰明、滑溜，他也分享自己的確有幸運體質，此外他水星水瓶（跟卡蘿一樣，果然怪咖XD），但講脫口秀又需要敢於冒犯，他也的確敢，讓我一度為他的發言捏把冷汗 ( 然後到處道歉XD) <br /> <br />此外豪平從小是明星學校資優班的學霸，卻在18歲立志當脫口秀演員，走上非主流道路，這種轉折，能從星盤看得出來嗎？ <br /> <br />歡迎來聽這集吧！ <br /> <br />EP347菜單：&nbsp; <br />水星水瓶唱反調 <br />用金星射手的幸運活了半輩子 <br />三宮人的考運 <br />從小是學霸 <br />講過的笑話就算死了 <br />兩個太陽四宮 <br />童年都被賞過一巴掌 <br />- <br />Bitget 黃豪平《得罪了 The Driller》喜劇專場 <br />🤡 台北場緊急加開 ➨ https://str.network/DRIJESSE <br />🔨 現在購買「特別優待票」輸入折扣碼【hahaha】即可享專屬優惠！ <br /> <br />‎｜ 演出場次 ｜ <br />▸&nbsp;高雄 @ 高雄市文化中心 <br />8 / 24（六）14:00、19:00 <br />⠀ <br />▸ 台中 @ 臺中教育大學 <br />8 / 31（六）14:00、19:00 <br />⠀ <br />▸ 台北 @ Zepp New Taipei｜午場加開💥 <br />9 / 15（日）15:00、19:00（晚場已完售） <br /> <br />#得罪了 #TheDriller #黃豪平 #薩泰爾娛樂</p>"
@@ -25,7 +33,6 @@ category = []
 [jst00544]
 name = "EP346 敏感體質的星盤"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzs4nr8k00qq01yscwg34ksu/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzs4nr8k00qr01ysgp7h1jk7.mp3?v=1723535777325"
-apple = "https://podcasts.apple.com/tw/podcast/ep346-%E6%95%8F%E6%84%9F%E9%AB%94%E8%B3%AA%E7%9A%84%E6%98%9F%E7%9B%A4/id1536374746?i=1000665130937"
 spotify = "https://open.spotify.com/episode/56ckbKhVPF0zffoWtbS3lC"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>本集節目由【Roichen優雅椅＆正脊坐墊】贊助播出 <br /> <br />「敏感體質者」的星盤又長怎樣？ <br /> <br />這次鬼月徵稿請敏感體質講自己的遭遇，並附上星盤，來稿真是令人大開眼界，超多某宮有星之人，特色就是「直覺強、會通靈、帶天命」（很好猜吧XD），除了這個宮有星，如果「火象星座強」，通常靈能力也比一般人厲害喔。 <br /> <br />本集蒐集了許多奇人奇事，也有帶點靈異、帶點感人的小故事，我看得津津有味，也希望大家聽得開心，只能說人生很多際遇，星盤中都有跡可循🤩 <br /> <br />像是你會做哪種夢，星盤中的12宮也看得出邏輯喔！ <br /> <br />EP346菜單： <br />星盤中的陰性能量陽性化 <br />賭運不好的星盤 <br />做壞事都會被抓到的12宮 <br />夢到自己裸體，代表？ <br />12宮跟你的夢有關 <br />連作夢都很務實的處女座 <br />被老公的守護靈吵醒 <br />星盤超多射手會怎樣 <br />5宮發揮：生小孩會有錢 <br />- <br />【Roichen優雅椅＆正脊坐墊】 <br />&nbsp; <br />✔️Roichen優雅椅 <br />坐墊+工作椅的形式呈現，獨家6度傾斜底座+升降設計+靜音輪。 <br />&nbsp; <br />✔️市售唯一依男女體型設計的正脊坐墊 <br />它牌只有分大人和小孩的尺寸，但其實男女體型骨盆角度不同，需要專屬尺寸設計，市售唯一有男、女和兒童3種專屬尺寸可選購。 <br />&nbsp; <br />✔️獨家支撐設計 <br />坐墊不易滑動，即使不搭配椅子，直接在地面或者平面使用，當作和室椅都可以。 <br />&nbsp; <br />✔️韓國第一入口網站NAVER家飾配件使用滿意高度認證 <br />榮獲200多項專利、認證、設計以及系統認證的殊榮，其中包括紅點設計大獎、Good Design、PIN UP等獎項。 <br />&nbsp; <br />✔️通過SGS檢測不含有毒物質與安全性測試 <br />最大可承受220~350公斤都可維持平穩正確的坐姿，不會形成椅墊扭曲或晃動。 <br />&nbsp; <br />🛒唐陽雞酒屋粉絲｜優雅椅67折＆正脊坐墊52折 現貨&amp;預購專屬優惠🛒 <br />https://s.add.one/657lyk <br />（請使用FB、LINE、手機號碼登入，即可看到專屬優惠價~）</p>"
@@ -36,7 +43,6 @@ category = []
 [jst00543]
 name = "【本週提醒】接受自己心境的轉折"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzpiowmh000901tg568sgxt9/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzpiowmh000a01tgdowe16g9.mp3?v=1723377886556"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E6%8E%A5%E5%8F%97%E8%87%AA%E5%B7%B1%E5%BF%83%E5%A2%83%E7%9A%84%E8%BD%89%E6%8A%98/id1536374746?i=1000664945843"
 spotify = "https://open.spotify.com/episode/7u2UzzVEeFQXIrQtBTsajK"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽8/12-8/18星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子 天秤 天蠍 射手 <br /> <br />雙子：別故步自封越想越糟，感情上別只看缺點 <br />天秤：時機未到覺得不踏實，桃花紛飛卻都看不上 <br />天蠍：全部抓著不放會累死，感情上別太死腦筋 <br />射手：外在狀況多疲於應付，感情的付出讓人勞累 <br /> <br /> <br />【穩的】巨蟹 處女 水瓶 雙魚 <br /> <br />巨蟹：成為團隊裡的潤滑劑，感情受異國文化吸引 <br />處女：想要小心翼翼停看聽，感情很看重長遠規劃 <br />水瓶：正是成敗的關鍵時刻，感情上適合深度溝通 <br />雙魚：擔任幫手更適合，展現強項使你更有魅力 <br /> <br />【讚的】牡羊 金牛 獅子 魔羯 <br /> <br />牡羊：放下過去展開新篇章，感情有機會再續前緣 <br />金牛：合作讓你如虎添翼，感情甜蜜兩情相悅 <br />獅子：工作上有貴人耳提面命，感情上別像個老媽子 <br />魔羯：順風順水很有希望，感情要多製造點驚喜 <br /></p>"
@@ -47,7 +53,6 @@ category = []
 [jst00542]
 name = "EP345 創作鬼才的星盤ft.導演徐漢強 張榕容"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzmiccuo0fot01to8crvftwh/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzmiccuo0fou01to2klxhtqs.mp3?v=1723195931831"
-apple = "https://podcasts.apple.com/tw/podcast/ep345-%E5%89%B5%E4%BD%9C%E9%AC%BC%E6%89%8D%E7%9A%84%E6%98%9F%E7%9B%A4ft-%E5%B0%8E%E6%BC%94%E5%BE%90%E6%BC%A2%E5%BC%B7-%E5%BC%B5%E6%A6%95%E5%AE%B9/id1536374746?i=1000664807649"
 spotify = "https://open.spotify.com/episode/49idRC4W9awmzvcrBEGEvV"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>有聽過「鬼才之道」嗎？ <br />為了Podcast要訪問導演跟演員，先去看了電影，導演是《返校》導演徐漢強，這次端出新作品，以為也是壓抑驚悚的鬼片，結果，根本是包裝成鬼片的勵志片好嗎，好笑到我飆出淚來，劇情緊湊毫無冷場，而且鬼之宇宙的設定超有趣，感覺可以一直拍下去！ <br /> <br />只要走進鬼才世界，你以後應該不會怕鬼了，反而會…同情起他們xd，尤其年輕人看完後，馬上把自己投射成裡面的鬼，一樣有自我認同的困擾（當了鬼一樣逃不掉，呵呵），有笑有淚也好哭因為很感人，其實是部前所未有的妖怪片。它無疑是今年娛樂性最高、討論度也最熱烈的賣座國片。 <br /> <br />今天這集，就來訪問天蠍導演徐漢強、女主之一牡羊張榕容(鬼后薩琳超超超超美的❤️)，不管電影看了沒都可以聽一下，看看這部超強國片背後，有那些小故事吧。 <br /></p>"
@@ -58,7 +63,6 @@ category = []
 [jst00541]
 name = "EP344 冥王星，充滿誘惑的重生之路(下)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzi0121s028t01s4azwe5lxa/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzi0121s028u01s4g2150bwb.mp3?v=1722923320012"
-apple = "https://podcasts.apple.com/tw/podcast/ep344-%E5%86%A5%E7%8E%8B%E6%98%9F-%E5%85%85%E6%BB%BF%E8%AA%98%E6%83%91%E7%9A%84%E9%87%8D%E7%94%9F%E4%B9%8B%E8%B7%AF-%E4%B8%8B/id1536374746?i=1000664467708"
 spotify = "https://open.spotify.com/episode/732Qn1TC5l3AEOUQzrknbu"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>下集講冥王落火象宮位(一、五、九) ，以及風象宮位(三、七、十一) ，這群人是我心目中的傳奇份子，冥王帶給他們充滿傳奇的際遇，又在過關後，給出充滿人性的誘惑，好處來得誇張，斬斷時也那麼決絕…. 😳 <br /> <br />得到vs失去，死亡vs重生，讓人感受如此深沉 <br /> <br />只是冥王在陽性宮位的展現方式，就與陰性不同，充滿「一念之差」跟拳拳到肉之感，所以有必要了解，得知道自己最能重生的幸運在哪，有否「用對的方式珍惜」，才能趨吉避凶。 <br /> <br />冥王火宮跟風宮的同學，來認領吧！ <br /> <br />EP344菜單： <br />冥王一宮貴人是自己 <br />人生都是自己翻轉的 <br />有魅力又自戀的冥王五宮 <br />冥王九宮的幸運是誘惑 <br />敗在自己的自傲 <br />冥王三宮的一針見血 <br />無意識破壞關係的冥王七宮 <br />冥王十一宮有人帶你飛&nbsp;</p>"
@@ -69,7 +73,6 @@ category = []
 [jst00540]
 name = "【本週提醒】從不舒服中找舒服"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzf6bp740cr601uy4qi70q4g/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzf6bp740cr701uyfomk1lur.mp3?v=1722752453089"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%BE%9E%E4%B8%8D%E8%88%92%E6%9C%8D%E4%B8%AD%E6%89%BE%E8%88%92%E6%9C%8D/id1536374746?i=1000664276951"
 spotify = "https://open.spotify.com/episode/0WZcXG9mcd0QxudZcddWUq"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽8/5-8/11星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】天秤 射手 水瓶 雙魚 <br /> <br />天秤：應付各種麻煩好辛苦，感情太有主見影響桃花 <br />射手：累太久力氣要省著用，感情問題要願意讓步 <br />水瓶：工作有人私下對你有意見，感情要擔心三角戀 <br />雙魚：當心輿論的殺傷力，感情容易理解錯誤 <br /> <br />【穩的】牡羊 金牛 處女 魔羯 <br /> <br />牡羊：多聽別人意見有好處，感情需要能幫忙的對象 <br />金牛：工作重視評估未來，感情需要承諾與安全感 <br />處女：別總想著辯論或糾正，感情上別輕易爭吵 <br />魔羯：繼續專注自己的事，感情上多點柔軟更可愛 <br /> <br />【讚的】雙子 巨蟹 獅子 天蠍 <br /> <br />雙子：受貴人喜愛有魅力，桃花旺讓另一半擔心 <br />巨蟹：可改變保守嘗試冒險，感情最近滿鬆挺好的 <br />獅子：工作順風順水有自信，感情有些拒人於千里之外 <br />天蠍：工作適合找熟悉夥伴，感情可展現居家慵懶的一面 <br /></p>"
@@ -80,7 +83,6 @@ category = []
 [jst00539]
 name = "EP343 12星座會是哪款主管"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clzciiggj0bze01v4ckoh3dbx/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclzciiggk0bzf01v46ahxeaxp.mp3?v=1722591588030"
-apple = "https://podcasts.apple.com/tw/podcast/ep343-12%E6%98%9F%E5%BA%A7%E6%9C%83%E6%98%AF%E5%93%AA%E6%AC%BE%E4%B8%BB%E7%AE%A1/id1536374746?i=1000664118503"
 spotify = "https://open.spotify.com/episode/1FuBu41Iac2qw9bwGguAHw"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>有鑑於最近許多慣老闆、慣主管被檢討😅，今天就來講講12星座一旦當主管，各自長怎樣？毛是什麼，以及機車背後，內心真正的OS又是啥～ <br />當然該diss也有diss😆，希望聽完這集，幫大家釋放一點負能量，也祝各位摸毛順利、職場昇平💪🏻 <br /> <br />EP343菜單 : <br />牡羊主管的耐心只有三秒 <br />射手老闆的大餅 <br />從地獄爬出來的主管 <br />天秤上司假民主 <br />魔羯當員工就像主管 <br />每個人都會感謝前處女主管？ <br />雙魚跟天蠍主管，你選誰 <br />跟水象主管溝通要通靈</p>"
@@ -91,7 +93,6 @@ category = []
 [jst00538]
 name = "EP342 找到你的天選工作(看宮位啦)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clz73nrdh01hk010h5pnobhws/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclz73nrdh01hl010h6x4abyzg.mp3?v=1722264287341"
-apple = "https://podcasts.apple.com/tw/podcast/ep342-%E6%89%BE%E5%88%B0%E4%BD%A0%E7%9A%84%E5%A4%A9%E9%81%B8%E5%B7%A5%E4%BD%9C-%E7%9C%8B%E5%AE%AE%E4%BD%8D%E5%95%A6/id1536374746?i=1000663778607"
 spotify = "https://open.spotify.com/episode/1yWKjPMb3PdmePnqVtJo1J"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>大家都愛宮位系列，那就繼續宮位話題延伸吧～ <br />其實，宮位系統，也可看出自己適合哪類職場，能發光，且比較不內耗喔。 <br />像是 <br />🔹土象宮位星多，你就有耐操的身體，別人都累死你還能操，試問這樣還能不是菁英嗎？ <br />🔹風象宮位星多，你肯定貴人多，又懂人心，做跟人有關的工作準沒錯，讓人帶著你起飛。 <br />🔹水象宮位星多，那你一定很會照顧人，心中很有愛，在任何工作中置入愛與療癒就有奇蹟。 <br />🔹火象宮位星多，你一定很引人注目，也才華洋溢，不想被看見都不行，那，就盡情揮灑自我先。 <br />快把星盤打開，看看你哪個宮位星星多。 <br />希望聽完這集可以把自己的強項特質應用在工作中～ <br /> <br />EP342菜單： <br />土象多的請好好做牛做馬 <br />身體健康錢就來了 <br />土象宮位耐操 <br />風象宮位知道大家想聽什麼 <br />銷售員唐老師（只賣一天） <br />水象宮位藝術家個性？&nbsp; <br />火象宮位請上台 <br />低潮時請看看星盤的火象宮位</p>"
@@ -102,7 +103,6 @@ category = []
 [jst00537]
 name = "【本週提醒】很多重要的小事浮出來"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clz5cfqek00pv01y2c7ul6r77/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclz5cfqek00pw01y27x2y6vgz.mp3?v=1722158056894"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%BE%88%E5%A4%9A%E9%87%8D%E8%A6%81%E7%9A%84%E5%B0%8F%E4%BA%8B%E6%B5%AE%E5%87%BA%E4%BE%86/id1536374746?i=1000663585159"
 spotify = "https://open.spotify.com/episode/7lQz2VTrMtdp9FWlYCdEQT"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽7/29-8/4星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 獅子 射手 雙魚 <br /> <br />牡羊：忙得像打仗小心過勞，感情上態度緩和一點 <br />獅子：想太多容易玻璃心，感情有點太在意別人看法 <br />射手：面對爭議別立刻抗拒，感情適合重整關係 <br />雙魚：工作上被挑剔細節，感情小心被翻舊帳 <br /> <br />【穩的】處女 天秤 天蠍 魔羯 <br /> <br />處女：工作可切換新模式，感情因忙碌無暇顧及 <br />天秤：工作需抓出問題改善，感情太安逸要多些變化 <br />天蠍：工作上要耐心整合，感情當心無謂爭執 <br />魔羯：其實照章行事比較好，感情被搞怪的人吸引 <br /> <br />【讚的】金牛 雙子 巨蟹 水瓶 <br /> <br />金牛：工作順風順水心情愉快，感情桃花運爆棚 <br />雙子：使命必達別忘照顧自己，感情有點陰錯陽差 <br />巨蟹：運勢上揚受長官提拔，感情上別太任性 <br />水瓶：工作在低調中掌握先機，感情正在暗中進行</p>"
@@ -113,7 +113,6 @@ category = []
 [jst00536]
 name = "EP341 冥王星，充滿誘惑的重生之路"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clz2i7cob09le01wcfuiq1cft/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclz2i7cob09lf01wcdpio0csz.mp3?v=1721986401728"
-apple = "https://podcasts.apple.com/tw/podcast/ep341-%E5%86%A5%E7%8E%8B%E6%98%9F-%E5%85%85%E6%BB%BF%E8%AA%98%E6%83%91%E7%9A%84%E9%87%8D%E7%94%9F%E4%B9%8B%E8%B7%AF/id1536374746?i=1000663417129"
 spotify = "https://open.spotify.com/episode/3DdO1MXIQlOrzMvIBiFM9q"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>超難詮釋三王星，終於來到最後的大boss：冥王星😓 <br />三王星都不吃素，冥王星尤其是，跟天王顛覆、海王消融不同，冥王絕對是我們能面對最深沉、黑暗、不能被公開之處，也注定必須不斷挖掘、告別、重生的地方，最終迸發巨大野心。 <br />所以宮位有冥王落入，你才會如此執著，無法甘心（自然也會特別辛苦），但，正因如此，冥王落入的宮位也是我們有最大潛能的地方。 <br />而這一切，得先穿越痛苦、開發潛能才能達成，人生才能進階，如果你正承受冥王的試煉，請相信，這是蛻變、脫胎換骨的開始 。 <br />請來聽聽這集吧 <br /> <br />EP341菜單：&nbsp; <br />冥王二宮是能賺錢的 <br />冥王是高階火星 <br />曾懷才不遇的冥王六宮 <br />用功的冥十表現得一派輕鬆 <br />冥四怕家人或家人怕你 <br />冥八的決定總是嚇壞人 <br />冥十二野心藏很深</p>"
@@ -124,7 +123,6 @@ category = []
 [jst00535]
 name = "EP340 先天不合的星座"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clyy5ffku0clc01w364h3ba9t/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclyy5ffku0cld01w348fu30m6.mp3?v=1721723065695"
-apple = "https://podcasts.apple.com/tw/podcast/ep340-%E5%85%88%E5%A4%A9%E4%B8%8D%E5%90%88%E7%9A%84%E6%98%9F%E5%BA%A7/id1536374746?i=1000663071423"
 spotify = "https://open.spotify.com/episode/3TLkBGtEWqoOAwapvzOJFv"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>今天來講先天「號稱不合」的星座組合，所謂150度梅花相位。 <br />意味彼此之間「陰陽不同、元素不同、三宮不同」（沒一個同的！），以致互不理解，也看不懂對方，但也因為如此，可能反而「產生致命吸引力」（？），所以，這樣組合的夥伴江湖上反而常見喔。 <br />來看看，哪些是跟你「痛並快樂著」的組合吧🔪 <br /> <br />▲ 牡羊vs處女 <br />牡羊暴衝，處女瞻前顧後，你們不是天敵誰是 <br /> <br />▲ 牡羊vs天蠍 <br />天蠍看牡羊怎麼有人既聰明又白痴，牡羊看天蠍怎麼心思這麼複雜 <br /> <br />▲ 天蠍vs雙子 <br />彼此個性太不同，一個追求終極成就，一個想要生活快樂，直接兩個星球 <br /> <br />▲ 雙子vs魔羯 <br />根本是小孩跟老人，學生跟教官，魔羯每天都想記雙子大過… <br /> <br />▲ 魔羯vs獅子 <br />一個裝消音器，一個裝麥克風，這個音量控制很艱難 <br /> <br />▲ 獅子vs雙魚 <br />獅子看到雙魚就想保護，雙魚只是演的真的不需要保護。他是鯊魚。 <br /> <br />▲ 雙魚vs天秤 <br />雙魚說話喜歡模糊，天秤卻又講太清楚。天秤覺得該醒，但雙魚還想醉啊。 <br /> <br />▲ 天秤vs金牛 <br />天秤覺得要平衡，大家才會舒服。金牛覺得你管好自己就好。 <br /> <br />▲ 金牛vs射手 <br />一個想落地，一個只想飛，唯一的共通點可能是你們都有四隻腳。 <br /> <br />▲ 射手vs巨蟹 <br />射手看超遠，偏偏巨蟹是近視眼，配在一起雖然痛苦但好像又互補。 <br /> <br />▲ 巨蟹vs水瓶 <br />巨蟹情緒多到噴出來，偏偏水瓶自帶防水效果，怎麼潑都潑不到他。 <br /> <br />▲ 水瓶vs處女 <br />周處除三害 <br /> <br />以上就是今天Podcast內容，好奇要怎麼跟你的「不合」配對，好好相處不打起來？歡迎來，唐陽雞酒屋找答案～ <br /></p>"
@@ -135,7 +133,6 @@ category = []
 [jst00534]
 name = "【本週提醒】提醒自己不要過度悲觀喔🫶🏼"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clyv1zazw0aji01ub25dtdp2u/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclyv1zazw0ajj01ubdvn9c90d.mp3?v=1721535832640"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E6%8F%90%E9%86%92%E8%87%AA%E5%B7%B1%E4%B8%8D%E8%A6%81%E9%81%8E%E5%BA%A6%E6%82%B2%E8%A7%80%E5%96%94/id1536374746?i=1000662880948"
 spotify = "https://open.spotify.com/episode/0Ocd4GzctDgddP8FoaGYfd"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽7/22-7/28星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】金牛 雙子 處女 天秤 <br /> <br />金牛：事務繁雜壓力大，感情在壓力下易吵架 <br />雙子：容易衝動要注意健康，感情別太自我要貼心 <br />處女：克服工作挑戰很激動，感情上稍微欠缺耐心 <br />天秤：累積過勞反而影響進度，感情需要有人安慰 <br /> <br />【穩的】天蠍 魔羯 水瓶 雙魚 <br /> <br />天蠍：找人協助效果更好，感情要給予空間或協助 <br />魔羯：工作有女性貴人關心，感情上示弱更吸引人 <br />水瓶：工作上直覺判斷更準確，感情有機會一見鍾情 <br />雙魚：能以柔克剛突破困難，感情遇強則強很厲害 <br /> <br />【讚的】牡羊 巨蟹 獅子 射手 <br /> <br />牡羊：工作遇到強手很興奮，感情別忘記要浪漫 <br />巨蟹：工作要多點企圖心，感情上別太挑剔 <br />獅子：能得稱讚更有自信，感情在安穩中釋放浪漫 <br />射手：有眾多機會可挑選，感情行情後勢看漲 <br /></p>"
@@ -146,7 +143,6 @@ category = []
 [jst00533]
 name = "EP339 金星進獅子，表現棒棒的地方"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clysid134038o01yighdu9oqu/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclysid134038p01yibov6ca6z.mp3?v=1721382004646"
-apple = "https://podcasts.apple.com/tw/podcast/ep339-%E9%87%91%E6%98%9F%E9%80%B2%E7%8D%85%E5%AD%90-%E8%A1%A8%E7%8F%BE%E6%A3%92%E6%A3%92%E7%9A%84%E5%9C%B0%E6%96%B9/id1536374746?i=1000662729290"
 spotify = "https://open.spotify.com/episode/2HT0NiTmnhsmkk7E3j3RAr"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>｜本集節目由【Future Salad 全清高纖新沙拉飲】贊助播出｜ <br />7/19-7/31 點擊下方唐陽雞酒屋專屬連結 <br />結帳頁面已帶入85折優惠，若無優惠再輸入推薦代碼【tang2】 <br />👉 <a href=\"https://fstw.pse.is/64was5\" target=\"_blank\">https://fstw.pse.is/64was5</a> <br />Future Salad 全清不只是一杯滿滿膳食纖維可以喝的沙拉飲 <br />更是追求效率生活新型態的「未來食品」 <br />⭐ 一包=5碗傳統沙拉的膳食纖維量與營養 <br />⭐ 12種純天然蔬果成分製成高達25種營養素 <br />⭐ 32.7大卡，低熱量無負擔 <br />⭐ 全素、純天然、不含中西瀉藥及防腐劑 <br />⭐ 膳食纖維促進腸道蠕動，使排便順暢 <br />台灣全清官網、屈臣氏、momo 購物網【熱賣中】⁣⁣⁣⁣⁣⁣⁣ <br />#FutureSalad #全清高纖新沙拉飲 <br />- <br />各位，金星進獅子，其中一個效應，就是…..被誇獎的時候到了 <br />金進獅子未來兩個多禮拜，主動表現又亮眼的，將很容易被稱讚，我們也愛正向看優點，有稱讚他人的慾望✨ <br />如果你一丁點感覺也沒有，那會不會是…之前努力錯方向xd？嗯，那就更要聽這集了，趕快搞清楚金星進你哪一宮，是哪裡、又該怎麼表現才會人見人誇、受人喜愛？ <br />一起來聽這集吧 <br /> <br />EP339菜單： <br />固執的獅子被誇獎 <br />射手運氣好但心情不好 <br />采風是什麼 <br />巨蟹的身價回彈 <br />想看唐老師雙馬尾舉手✊ <br />雙魚歡迎丟直球 <br />天秤會認識什麼很酷的人 <br />處女秘密化 <br /></p>"
@@ -157,7 +153,6 @@ category = []
 [jst00532]
 name = "EP338獅子座是自信自卑綜合體ft.百白"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clyo30jr4040v01124o12024c/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclyo30jr4040w01125rni2bnh.mp3?v=1721114346252"
-apple = "https://podcasts.apple.com/tw/podcast/ep338%E7%8D%85%E5%AD%90%E5%BA%A7%E6%98%AF%E8%87%AA%E4%BF%A1%E8%87%AA%E5%8D%91%E7%B6%9C%E5%90%88%E9%AB%94ft-%E7%99%BE%E7%99%BD/id1536374746?i=1000662391525"
 spotify = "https://open.spotify.com/episode/24rzrkAndJJPCmNCyy3Ipp"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>最強綠葉，獅子座的百白來了。 <br /> <br />百白跟我有像，同為「獅子+天蠍」組合，都是學生時代被說「長相普通但好笑，有點兇」的那款，我曾有過的容貌焦慮她也有，甚至存了兩個50萬，一個想用來整型，一個預防「整壞了再整回來」…..&nbsp;&nbsp; <br /> <br />如今她已放下，用強大內心面對外界，作為演員，發揮了獅子的才華，也因保有原始樣貌更有競爭力，不但在台北電影節拿下最佳女配，擔任典禮主持，目前還同時有三部作品上映(也太活躍了吧)。 <br /> <br />從百白身上看到，當獅子不再焦慮「想證明什麼」時，反而能把才能做最好的揮灑，成為自己。 <br /> <br />白白同時也身兼「親密戲指導、肢體替身」等多重身份，還不小心擦邊聊了點性…，12歲以下聽眾先不要聽😂。 <br /> <br />還在迷惘，尋找「我是誰」的同學，歡迎聽兩位「先天不美但有才」的人怎樣找到自己的對話吧💥 <br /> <br />EP338菜單： <br />上升天蠍把自己藏起來 <br />親密戲指導是什麼 <br />女丑的優勢 <br />都市懼集播出了👻 <br />沒有鬼的鬼故事😨 <br />火星五宮戀愛中有多直接 <br />獅子座是自信自卑綜合體 <br />天蠍情感濃到先自宮 <br />為自己努力的獅子座 <br />- <br />✦《#都市懼集》7/12起✦ <br />CATCHPLAY+獨家上架，一天一集，前四集免費看 <br />👉 https://reurl.cc/z16jgN <br /> <br />✦CATCHPLAY電影台61頻道7/20起，每週六21:00恐懼獨播</p>"
@@ -168,7 +163,6 @@ category = []
 [jst00531]
 name = "【本週提醒】把話說開，是為了更順暢的發展"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clyledg7e000901ykaf3xe2ri/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclyledg7f000a01yk0pmg5ij2.mp3?v=1720951985864"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E6%8A%8A%E8%A9%B1%E8%AA%AA%E9%96%8B-%E6%98%AF%E7%82%BA%E4%BA%86%E6%9B%B4%E9%A0%86%E6%9A%A2%E7%9A%84%E7%99%BC%E5%B1%95/id1536374746?i=1000662168515"
 spotify = "https://open.spotify.com/episode/1MvCvA6jLKog4jyGctvwAQ"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽7/15-7/21星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子 處女 射手 魔羯 <br /> <br />雙子：工作挑剔顯得難相處，感情情緒問題要認真處理 <br />處女：工作別過勞先看遠一點，感情能冷靜思考問題 <br />射手：思考人生做總整理，感情有起死回生的機會 <br />魔羯：工作量多事必躬親，感情無暇經營需對方理解 <br /> <br />【穩的】金牛 巨蟹 天秤 天蠍 <br /> <br />金牛：工作多與年輕人交集，感情有青春的桃花 <br />巨蟹：工作上受人干擾，感情上展現犀利魄力 <br />天秤：事情不如預期要多佈局，感情要多經營 <br />天蠍：當心漏接訊息要專心，感情要小心爛桃花 <br /> <br />【讚的】牡羊 獅子 水瓶 雙魚 <br /> <br />牡羊：事業成功一飛衝天，感情上談吐幽默被欣賞&nbsp; <br />獅子：工作上進入收成期，感情可享受穩定狀態 <br />水瓶：工作上互相體貼幫助，感情上桃花難擋 <br />雙魚：受長官貴人欣賞提拔，感情有年長型桃花 <br /></p>"
@@ -179,7 +173,6 @@ category = []
 [jst00530]
 name = "EP337 12星座最沒抵抗力的地方"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clyicpwvp04vt011g65pg703b/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclyicpwvp04vu011gfyro8jnx.mp3?v=1720767840511"
-apple = "https://podcasts.apple.com/tw/podcast/ep337-12%E6%98%9F%E5%BA%A7%E6%9C%80%E6%B2%92%E6%8A%B5%E6%8A%97%E5%8A%9B%E7%9A%84%E5%9C%B0%E6%96%B9/id1536374746?i=1000662011074"
 spotify = "https://open.spotify.com/episode/3Pp79MasyQbbLLweubyRFP"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>今天，來聊12星座「對什麼沒有抵抗力」！？ <br />關於人性，如果懂拿捏的話，看似很硬、不好說服的難搞傢伙，可能默默也會被你擺佈喔 <br />也歡迎大家自我觀察，有沒有我說的這些症頭呢？來聽聽這集吧 <br />🔺本集太陽上升金星火星都可參考 <br /> <br />EP337菜單：&nbsp; <br />獅子罩門自己都沒發現 <br />牡羊請把手中的刀熔掉 <br />金牛無法抗拒的不是錢 <br />天秤對透徹的人淪陷 <br />前任最感謝的星座 <br />處女無法抗拒亂七八糟 <br />雙魚跟天蠍無法抵抗的地方很像</p>"
@@ -190,7 +183,6 @@ category = []
 [jst00529]
 name = "EP336 遲早創業的星盤長怎樣 ft.艾莉絲"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clye7o4yq08za01054cfgaja6/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclye7o4yq08zb01058jf6bpuc.mp3?v=1720517499346"
-apple = "https://podcasts.apple.com/tw/podcast/ep336-%E9%81%B2%E6%97%A9%E5%89%B5%E6%A5%AD%E7%9A%84%E6%98%9F%E7%9B%A4%E9%95%B7%E6%80%8E%E6%A8%A3-ft-%E8%89%BE%E8%8E%89%E7%B5%B2/id1536374746?i=1000661640544"
 spotify = "https://open.spotify.com/episode/4IxwholSWBehqM2CVyNoZX"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>生日快樂🎂恭喜唯有機OuiOrganic滿8週年了！ <br />限量「8週年法式香氛新品保養禮盒」 <br />只有現在生日慶才買得到，買到的人真的太幸運了🎉 <br />禮盒中有2023年榮獲世界最佳植萃面膜金獎後的另一深耕大作，神級植萃抗老精華「玫瑰時光瓶🌹」，無添加人工香精、酒精，乾肌、熟齡肌，特別是敏感肌和孕媽咪都能使用，絕對是你不能錯過的一款抗老精華液！ <br />✅全效型溫和植萃抗老精華液 <br />✅3大獨家植萃抗老配方 <br />✅ECOCERT COSMOS 有機認證成分添加 <br />✅延展性極佳，超保濕好吸收不黏膩 <br />✅法國製造 <br />禮盒全產品皆含歐洲有機認證成分，享受法國有機頂級保養，從潔顏、精華、乳液、眼霜、護手霜一次擁有！療癒法式典雅風格禮盒，輕鬆收納玫瑰時光系列保養品！ <br />8週年生日慶全館限時優惠免運$399up <br />趕緊購買👉 https://weorganic.tw/wCKAz <br />－ <br />各位童鞋，艾莉絲來了☺️ <br />我團隊20幾歲的小編，已不認得這位女創業家，很合理，因為八年前這位樂觀射手放著女明星不做，頭也不回一路奔到法國創品牌（而且剛失婚帶一個小孩😳） <br />這種一路狂奔、衝衝衝的行動，讓唐組長忍不住眉頭一皺，想打開她的星盤一探究竟…..到底是什麼樣的配置，讓她這麼果斷又極度樂觀 (保守派天蠍驚呆了) <br />原來，除了太陽射手、愛莉絲還有行動力爆棚的冥王一宮、很會開創的月亮四宮啊 (恍然大悟) <br />這些能量，甚至讓她存款只剩50萬時，大膽開口借一千萬就做飛機去創業了………而且冥王不隨便出手，一出手就是又深又厲害，也讓艾莉絲最後不但創業創成了、還超級成功。(冥王一宮豐富的人生經歷老了都去出自傳) <br />是誰給艾莉絲如此強大的勇氣嗎？來聽這集吧 <br /> <br />EP336菜單：&nbsp; <br />有衝勁又有達標力的星盤 <br />上升雙魚vs上升天秤 <br />借了一千萬 然後呢 <br />月亮四宮遲早創業 <br />不安全感不是壞事 <br />三宮人四海皆朋友 <br />天蠍唐老師冥王進四宮！！</p>"
@@ -201,7 +193,6 @@ category = []
 [jst00528]
 name = "【本週提醒】寧願被現實衝擊，好過被困在想像"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clyayybgk0ahu01xqhy7mfpwd/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclyayybgk0ahv01xq0inj7b8v.mp3?v=1720321427174"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%AF%A7%E9%A1%98%E8%A2%AB%E7%8F%BE%E5%AF%A6%E8%A1%9D%E6%93%8A-%E5%A5%BD%E9%81%8E%E8%A2%AB%E5%9B%B0%E5%9C%A8%E6%83%B3%E5%83%8F/id1536374746?i=1000661437948"
 spotify = "https://open.spotify.com/episode/6wfXxOfQTv6lcioRQ5dGMP"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽7/8-7/14星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 金牛 魔羯 水瓶 <br /> <br />牡羊：其實問題大多是自找的，感情需能被療癒 <br />金牛：對手太強大難以硬戰，談戀愛有穩定感很重要 <br />魔羯：在危機中異軍突起，感情上當心太過強勢 <br />水瓶：需幫忙他人收拾善後，感情善解人意能更進一步 <br /> <br />【穩的】雙子 處女 天秤 天蠍 <br /> <br />雙子：被暗中牽制要柔軟應對，感情用行動代替表達 <br />處女：選邊站的關鍵期可多評估，感情就事論事別僥倖 <br />天秤：工作急躁給人壓力，桃花在職場、合作裡出現 <br />天蠍：太追求完美會損壞人和，喜歡志同道合的桃花 <br /> <br />【讚的】巨蟹 獅子 射手 雙魚 <br /> <br />巨蟹：凡事慢一點安定為佳，桃花運旺充滿魅力 <br />獅子：自身優勢週五前低調點，感情約會可多點預算 <br />射手：適合當低調的幕後推手，感情上平淡就是福 <br />雙魚：工作還是讓專業的來，感情有商有量更順利 <br /></p>"
@@ -212,7 +203,6 @@ category = []
 [jst00527]
 name = "EP335 有星系列(雙子)：天生的直覺力"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cly8fzgq90del01y48sao69zb/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcly8fzgq90dem01y4hnpv1yiz.mp3?v=1720168681701"
-apple = "https://podcasts.apple.com/tw/podcast/ep335-%E6%9C%89%E6%98%9F%E7%B3%BB%E5%88%97-%E9%9B%99%E5%AD%90-%E5%A4%A9%E7%94%9F%E7%9A%84%E7%9B%B4%E8%A6%BA%E5%8A%9B/id1536374746?i=1000661222535"
 spotify = "https://open.spotify.com/episode/74lLLOY4mFVryFDQOEC11j"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>「有星系列」來到雙子囉 <br /> <br />江湖傳言「唐老師是不是不喜歡雙子」…ㄟ，我一向要求「對人要公正」，「自認」對誰都一視同仁，有這種說法害我認真地思考了一下…，好的，錄這集時我會小心重整自己對雙子的感覺🤣 <br /> <br />雙子也是眾所皆知鬼靈精怪、靈（煩）活（人）的星座，大家都說他們「好奇、會說話、聰明」，是這樣嗎？如果是，又為何那麼多人對他們又愛又恨呢？（哈） <br /> <br />其實雙子有靈敏的直覺，細膩的心，這些都被他們用技巧藏得很好，且雙子自知只有三分鐘熱度，所以一旦動念，就會超高速運轉「趕緊成事」端出成品以免半途想廢…這份高速投入，往往使成果變得驚人。 <br /> <br />你星盤有星在雙子嗎？那方面也會有驚人學習力、直覺力跟傻膽？來聽聽看吧～ <br /> <br />EP335菜單： <br />天蠍跟雙子不合？ <br />雙子是學習海綿 <br />一秒說鬼話的雙子 <br />私奔第一名 <br />土星雙子說話不會出錯 <br />金星雙子雖然花心 <br />最有演講魅力的是…</p>"
@@ -223,7 +213,6 @@ category = []
 [jst00526]
 name = "EP334 揭露 2024下半年影片，剪掉內容✂️"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cly47y1t5077u01ubcwb9gtrt/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcly47y1t5077v01uba2dl8q6b.mp3?v=1719913319123"
-apple = "https://podcasts.apple.com/tw/podcast/ep334-%E6%8F%AD%E9%9C%B2-2024%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%BD%B1%E7%89%87-%E5%89%AA%E6%8E%89%E5%85%A7%E5%AE%B9/id1536374746?i=1000660895644"
 spotify = "https://open.spotify.com/episode/7pokO9oPNsom5Czpj2Ez8j"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>今天的Podcast，來聊「2024下半年運的漏網鏡頭」！ <br />漏網鏡頭就是錄年運影片時，每個星座實際都錄了15分鐘左右，最後呈現的是7分鐘版本（怕大家沒耐性），但內容足足被剪掉8分鐘喔….. <br />有沒有，覺得可惜，很想知道我說了什麼？ <br />嗯，只能說人生總有取捨，既已剪掉，但又不想大家錯過，那就用Podcast來還原、補足內容吧（說我聰明！） <br />❤️溫馨提醒，要搭配2024下半年運影片一起服用，才更完整、有感喔 <br /> <br />EP334菜單：&nbsp; <br />雙魚不喜歡看年運影片 <br />爆走的天蠍 <br />洩漏天機瞎一隻眼？ <br />射手過得不太好（抱 <br />好起來了！雙子 <br />天秤被剪掉的9-11月 <br />金牛為何一刀未剪 <br />處女的兩次水逆 <br />好重要的一集</p>"
@@ -234,7 +223,6 @@ category = []
 [jst00525]
 name = "【本週提醒】好好釐清以前的迷惘😶‍🌫️"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cly0yjabz03az01tpc38r2d06/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcly0yjabz03b001tp3v64b6sa.mp3?v=1719716062551"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%A5%BD%E5%A5%BD%E9%87%90%E6%B8%85%E4%BB%A5%E5%89%8D%E7%9A%84%E8%BF%B7%E6%83%98/id1536374746?i=1000660694739"
 spotify = "https://open.spotify.com/episode/7GTxRcN2Qk5rdmiPSzWjKG"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽7/1-7/7星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子 處女 天秤 射手 <br /> <br />雙子：環境阻礙覺得推動困難，感情雙方陷入僵局 <br />處女：要就事論事別牽扯情緒，感情上別寵壞對方 <br />天秤：計畫可能中斷要有耐心，感情雙方目標不一 <br />射手：得配合男性長官要求，感情太務實會冷場 <br /> <br />【穩的】巨蟹 獅子 魔羯 雙魚 <br /> <br />巨蟹：對未來有計畫與想像，感情認真謹慎進度慢 <br />獅子：狀況不如預期需務實，桃花來自熟悉的交友圈 <br />魔羯：一切盡在掌控中非常穩，感情上再多點風趣 <br />雙魚：務實處理錢的問題，該判斷感情能否繼續 <br /> <br />【讚的】牡羊 金牛 天蠍 水瓶 <br /> <br />牡羊：工作上收到善意與包容，主動散發溫柔更來電 <br />金牛：工作在擅長的領域中出色，感情可展現居家氛圍 <br />天蠍：面對眾多機會要保持理性，桃花旺盛卻短暫 <br />水瓶：好消息多成功率高，散發魅力自帶光芒 <br /></p>"
@@ -245,7 +233,6 @@ category = []
 [jst00524]
 name = "EP333你怪有用的地方，天王星(下)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxy9571c0ep501tb4645gt3m/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxy9571c0ep601tb1kx16m0v.mp3?v=1719552523236"
-apple = "https://podcasts.apple.com/tw/podcast/ep333%E4%BD%A0%E6%80%AA%E6%9C%89%E7%94%A8%E7%9A%84%E5%9C%B0%E6%96%B9-%E5%A4%A9%E7%8E%8B%E6%98%9F-%E4%B8%8B/id1536374746?i=1000660531318"
 spotify = "https://open.spotify.com/episode/0pjex0VGfmE7pUkHunlay3"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>最怪咖的天王星💫下集來了 <br /> <br />內容是上次沒講到的「土象宮位」跟「風象宮位」。 <br /> <br />天王在土象宮位(二、六、十宮)啊…這份叛逆，可是會直接影響你們「收入、物質、工作事業」呢，所以，會比較好還是比較差？呵呵，我本人就是天王在土象宮位，你們覺得呢🤣 <br /> <br />至於天王在風象啊(三、七、十一宮)，你們的不按牌理就發作在人際關係，某種程度，最怪的人就藏在妳們這一組啦～ <br /> <br />一起來聽聽，你可以在哪裡打破傳統吧！ <br /> <br />EP333菜單： <br />天王四宮的怪阿嬤 <br />天王二宮賺錢沒邏輯 <br />天王六宮也是橫空出世 <br />天王十宮越被反對越持久 <br />說話從外太空到行天宮的天王三宮 <br />天王七宮是天生的公關 <br />天王十一宮自然而然變怪人 <br />會被怪邀請打動的天王十一宮</p>"
@@ -256,7 +243,6 @@ category = []
 [jst00523]
 name = "EP332 獅子座就是不肯靠顏值 ft.許瑋甯"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxu7zsvw02z801z8feoz178q/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxu7zsvw02z901z82k6ia4t6.mp3?v=1719308726573"
-apple = "https://podcasts.apple.com/tw/podcast/ep332-%E7%8D%85%E5%AD%90%E5%BA%A7%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%82%AF%E9%9D%A0%E9%A1%8F%E5%80%BC-ft-%E8%A8%B1%E7%91%8B%E7%94%AF/id1536374746?i=1000660157807"
 spotify = "https://open.spotify.com/episode/5Hv7A9b2jtD2RknsOHkO4E"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>影后+我的老朋友，許瑋甯來了🥂 <br />我才為她的Rebecca哭掉好幾包衛生紙，這次瑋甯又帶了徐海茵，「誰是被害者2」的角色來啦！ <br />朋友相見，這次聊很多以前沒聊過的話題，包括瑋甯身上有阿公家經緯度的刺青！？小學因為混血兒外表被同學排斥，金海有相位的她，為了入戲，和每個角色之間都有個小秘密（偏瘋XD） <br />不一樣的許瑋甯，來聽聽這集吧 <br />EP332菜單：&nbsp; <br />當獅子座戀愛時 <br />金星四宮vs太陽四宮 <br />獅子小時候讓人頭痛 <br />不看鬼片但演鬼片 <br />Rebecca的頭髮 <br />睽違四年的第二季 <br />為了入戲到山上抓土 <br />瑋甯也是金海有相位 <br /></p>"
@@ -267,7 +253,6 @@ category = []
 [jst00522]
 name = "【本週提醒】心定，很重要💪🏼"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxraon9k00lv01wh8c7y46n8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxraon9k00lw01wh6zdi5nhy.mp3?v=1719131805247"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%BF%83%E5%AE%9A-%E5%BE%88%E9%87%8D%E8%A6%81/id1536374746?i=1000659950714"
 spotify = "https://open.spotify.com/episode/4PYbGYj6YEaFjjZzNwDZXo"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽6/24-6/30星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子、處女、天秤、射手 <br /> <br />雙子：工作多下功夫勿看表面，感情小心信任感崩塌 <br />處女：健康注意壞習慣釀禍，感情小心陷入三角關係 <br />天秤：工作上被牽制施展不開，太被動容易感情降溫 <br />射手：跟人合作時容易煩躁，感情請保持和顏悅色 <br /> <br />【穩的】牡羊、天蠍、水瓶、雙魚 <br /> <br />牡羊：工作無法停歇注意健康，感情偏務實不夠浪漫 <br />天蠍：事業小高峰適合新嘗試，感情會認識全新的類型 <br />水瓶：工作綁手綁腳需好好處理，感情常常時機對不上 <br />雙魚：容易被情勒要多注意，好人緣但想升溫要費心 <br /> <br /> <br />【讚的】金牛、巨蟹、獅子、魔羯 <br /> <br />金牛：工作積極爭取就能獲得，感情聚少離多有點無趣 <br />巨蟹：交際活絡帶動事業合作，感情告白成功機率高 <br />獅子：長輩、女性貴人運強，異性緣太好有點困擾 <br />魔羯：工作紮實打拼成績不錯，感情會吸引多金型桃花 <br /></p>"
@@ -278,7 +263,6 @@ category = []
 [jst00521]
 name = "EP331你怪有用的地方，天王星"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxoe7re7019d01uxg341gtop/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxoe7re7019e01ux5e5uf8jo.mp3?v=1718956377714"
-apple = "https://podcasts.apple.com/tw/podcast/ep331%E4%BD%A0%E6%80%AA%E6%9C%89%E7%94%A8%E7%9A%84%E5%9C%B0%E6%96%B9-%E5%A4%A9%E7%8E%8B%E6%98%9F/id1536374746?i=1000659734701"
 spotify = "https://open.spotify.com/episode/1Tb0A1CbXC0RnrGyl2fZ7l"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>本集由【璦研司EVOLSENSE】贊助播出 <br /> <br />今天講星盤中「最怪咖」的天王星💫 <br /> <br />天王星有多怪？它是我們「最與眾不同」之處，總是唱反調、不喜被管教、反其道而行的地方⋯⋯ <br /> <br />例如天王四宮，你就可能擁有與眾不同的成長背景，也許與家人氣質不同、格格不入，或是家人各自生活、感情疏離，跟甜蜜背道而馳。 <br /> <br />但這份獨特發揮得好的話，就能成為你的獨家特色，因為天王星，也是我們能打破傳統、發揮天才、最有突破的地方喔😇 <br /> <br />你是怪胎還是橫空出世的天才？來來來，認領你又怪又獨特的地方吧～ <br /> <br />EP331菜單： <br />天王星一宮的想唱反調 <br />怪美的天王五宮 <br />天王星九宮不需要聽這集 <br />天王星四宮相處後發現超怪 <br />擁抱危機的天王八宮 <br />天王十二宮是反直覺 <br />老師最想跟哪個天王星當室友 <br />--------------- <br />璦研司EVOLSENSE年中慶6/24前全館85折，滿6千再折618 <br />下單、滿額超多好禮🎁：旅行收納袋、水飛梭、珍珠淨白課程 <br />還有咖啡機、機票等你抽✈️ （活動詳情請參考璦研司官網資訊） <br /> <br />漫漫好眠 GABA晚安粉｜漫漫長夜 持續好眠 <br />好眠三部曲💤～讓你期待每日漫漫好眠 <br />★GABA+L-色胺酸：身心休眠模式，舒緩一日緊繃 <br />★酸櫻桃+聖羅勒+檸檬精萃：開啟漫眠模式，進入深沉夢鄉 <br />★芝麻素+維生B6、B12、鈣、鎂：延長深度充分休息 <br />&nbsp; <br />◼️售價：$980 / 盒 (15入/盒，1入4克) <br />◼️銷售連結：https://lihi2.com/6fjc4</p>"
@@ -289,7 +273,6 @@ category = []
 [jst00520]
 name = "EP330 12星座，你的專屬執事已上線！"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxk7hiau01gc01v66c5fc0v6/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxk7hiau01gd01v6haa220kg.mp3?v=1718703229640"
-apple = "https://podcasts.apple.com/tw/podcast/ep330-12%E6%98%9F%E5%BA%A7-%E4%BD%A0%E7%9A%84%E5%B0%88%E5%B1%AC%E5%9F%B7%E4%BA%8B%E5%B7%B2%E4%B8%8A%E7%B7%9A/id1536374746?i=1000659377776"
 spotify = "https://open.spotify.com/episode/4pQtVWVEzuWk2ApFNtpgff"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>該休息了，各位大小姐 <br />今天podcast腦洞大開，來幫12星座各配一位「專屬執事」，合作起來能夠事半功倍，甚至你不想做的事情，他都能完美達成😝，有些組合乍看水火不容，但互補起來可能對你幫助越大呦 <br />你會配到哪款星座的執事呢？快來聽聽這集吧～ <br /> <br />EP330菜單：&nbsp; <br />磁性嗓音的呀咧呀咧 <br />天蠍需要的是一位看護 <br />處女需要牡羊的大實話 <br />被雙魚照顧生活變彩色的 <br />讓獅子眼睛一亮的執事 <br />天秤處女互逼型效率組 <br />攻擊力爆表的黃金組合</p>"
@@ -300,7 +283,6 @@ category = []
 [jst00519]
 name = "【本週提醒】能量衝刺，要克制自己，不要做出錯誤判斷啦！"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxedbwwd15tc01wrfjypb6je/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxedbwwd15td01wr2vzgg1z4.mp3?v=1718350189160"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E8%83%BD%E9%87%8F%E8%A1%9D%E5%88%BA-%E8%A6%81%E5%85%8B%E5%88%B6%E8%87%AA%E5%B7%B1-%E4%B8%8D%E8%A6%81%E5%81%9A%E5%87%BA%E9%8C%AF%E8%AA%A4%E5%88%A4%E6%96%B7%E5%95%A6/id1536374746?i=1000659168076"
 spotify = "https://open.spotify.com/episode/3iROJVb77CoYE288zrflkU"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽6/17-6/23星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】獅子 處女 天蠍 射手 <br /> <br />獅子：標準太高跟自己過不去，小心說話以免傷感情 <br />處女：期望越高越失落，感情可能理想幻滅 <br />天蠍：助人為樂卻勞心勞力，感情請勿刻意挑釁 <br />射手：工作需好好重整再出發，感情要對自己的判斷有信心 <br /> <br />【穩的】牡羊 金牛 水瓶 雙魚 <br /> <br />牡羊：工作上做好抗戰準備，感情偏偏喜歡互槓的對象 <br />金牛：緩下來做事反而更順，感情平順突然小凸槌 <br />水瓶：合作機會湧入請慎選，桃花超旺被獻殷勤 <br />雙魚：幫別人也是在幫自己，感情易吸引嫩草型桃花 <br /> <br />【讚的】雙子 巨蟹 天秤 魔羯 <br /> <br />雙子：做喜歡的項目事半功倍，能夠創造心動的瞬間 <br />巨蟹：挑戰雖多但能搞定，感情危機請以柔克剛 <br />天秤：好好把握貴人和邀約，感情走理性對談路線 <br />魔羯：工作親力親為發揮強項，會說話而感情升溫</p>"
@@ -311,7 +293,6 @@ category = []
 [jst00518]
 name = "EP329 你的成功之路都在上升星座裡"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxecpnx71cr801yk8r3h1t95/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxecpnx71cr901yk95t7h69b.mp3?v=1718349202334"
-apple = "https://podcasts.apple.com/tw/podcast/ep329-%E4%BD%A0%E7%9A%84%E6%88%90%E5%8A%9F%E4%B9%8B%E8%B7%AF%E9%83%BD%E5%9C%A8%E4%B8%8A%E5%8D%87%E6%98%9F%E5%BA%A7%E8%A3%A1/id1536374746?i=1000659007931"
 spotify = "https://open.spotify.com/episode/0PVGJTEUYm8FMe39yEpvTT"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>本集由【克寧晚安】贊助播出 <br /> <br />江湖流傳一句話：「活出上升星座的樣子 ，人生才完整」，你認同嗎？ <br /> <br />其實，從出生開始，上升星座就開始發生作用（可不是30歲以後才有），只是等我們29歲後經歷第一次土星回歸，變得更成熟了， 才更能感受到「上升」影響如此明顯。 <br /> <br />如果早點意識呢？是不是人生更不用那麼迷惘？ <br /> <br />像我早年從事幕後，但我的上升獅子，畢竟還是把我拱上檯面，卡蘿上升天秤，要發光就要「看跟誰合作」，瞧，可不就是當我夥伴而更找到自己嗎？上升星座就是這麼直白奧妙😆 <br /> <br />覺得有趣嗎？來聽聽這集，告訴大家如何運用自己的上升星座。 <br /> <br />EP329菜單： <br />上升魔羯請先正視自己的野心 <br />上升處女是活性碳 <br />有被討厭勇氣的上升牡羊 <br />上升水象請捕捉好集體意識 <br />上升雙魚根本是催眠高手&nbsp; <br />搭檔的成功就是上升天秤的成功 <br />太投入反而不好的上升水瓶 <br />-------------- <br />🥇最多人喝的【克寧晚安】 <br />奶粉｜植睡飲兩種選擇，一樣自然好睡🌙 <br />每天晚上幫助上萬人有感好眠😌 <br />&nbsp; <br />全新推出『不含奶全素』的晚安植睡飲 <br />芝麻素plus+綜合晚安營養精華，幫助養成體內好睡體質 <br />自然堅果飲，超清爽口感，晚上喝也無負擔 <br />一罐只有35大卡，讓身心靈都無後顧之憂 <br />小包裝的利樂包，想喝就喝懶人福音 <br />每天晚上一罐配劇配瑜加配podcast <br />連喝兩週，告別失眠的傷👌 <br />&nbsp; <br />懶的泡奶? 飲控不能喝奶? 想換個口味好好睡? <br />那就試試全新克寧晚安植睡飲吧！ <br />&nbsp; <br />🆕商品規格：克寧晚安植睡飲一盒12罐(每罐190ml)｜克寧晚安奶粉一罐750克 <br />🛒販售通路：全聯，大潤發，愛買等賣場及momo，蝦皮等線上通路均有販售 <br />㊙️momo限定63折嚐鮮優惠👉https://reurl.cc/YEndeL <br />即日起至6/18日止，晚安植睡飲2盒$899(12罐*2)</p>"
@@ -322,7 +303,6 @@ category = []
 [jst00517]
 name = "EP328 戀愛都市傳說7 你的愛情模式"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clxa7fpe00j4a01u96mf89azg/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclxa7fpe00j4b01u95qkreiil.mp3?v=1718098465054"
-apple = "https://podcasts.apple.com/tw/podcast/ep328-%E6%88%80%E6%84%9B%E9%83%BD%E5%B8%82%E5%82%B3%E8%AA%AA7-%E4%BD%A0%E7%9A%84%E6%84%9B%E6%83%85%E6%A8%A1%E5%BC%8F/id1536374746?i=1000658593147"
 spotify = "https://open.spotify.com/episode/7aCrRnDBLIuLHD4oM97HSq"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>戀愛都市傳說來到Part7🥰 <br />有鑒於大家的占星水平普遍提高，就算聊戀愛話題，市面上都出現「以行星組合、相位」為題的討論，像是「月金、月土、金土、金海」都很有特色，也深深影響著感情模式。 <br />月亮如此重要，不只點出脆弱面，也能搖身一變成為追求幸福的能力。金星直接言愛，但若連上土星、海王又如何？的確很有特色，也意味著「有要修行的地方」喔。 <br />今天就來看破說破，就是要「看透才能放下」，你有愛情煩惱嗎？來聽聽這集吧！ <br />收聽本集前，先查好自己的行星相位喔☺️ <br /> <br />EP328菜單：&nbsp; <br />控制狂戀人的星盤 <br />月木越刺激的越喜歡 <br />月火總覺得自己被傷害 <br />感情裡的Trouble Maker <br />金土有相位挺適合辦公室戀情 <br />萬人迷但脾氣很大的相位 <br />金海會愛上有故事的人</p>"
@@ -333,7 +313,6 @@ category = []
 [jst00516]
 name = "【本週提醒】盡量為自己發聲"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clx7qvb7506bf01sx418ea9sm/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclx7qvb7506bg01sx8lk65u6m.mp3?v=1717949666380"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E7%9B%A1%E9%87%8F%E7%82%BA%E8%87%AA%E5%B7%B1%E7%99%BC%E8%81%B2/id1536374746?i=1000658365573"
 spotify = "https://open.spotify.com/episode/4M8XNjgGzoodxHpBi9bBEY"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>&nbsp;【唐綺陽6/10-6/16星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】獅子 射手 魔羯 雙魚了 <br /> <br />獅子：別自我否定要平常心，感情方面稍微不如意 <br />射手：爭執衝突中發現問題，感情溝通別爭輸贏 <br />魔羯：不宜合作先自己準備，感情爭執要就事論事 <br />雙魚：工作太多當心超過負荷，感情沒時間經營 <br /> <br />【穩的】雙子 巨蟹 天秤 水瓶 <br /> <br />雙子：工作上海外運夯，感情總是聚少離多 <br />巨蟹：受長官看重壓力大，感情上態度較強硬 <br />天秤：越柔軟越能成功，感情在職場中來電 <br />水瓶：工作要積極表達，感情太被動會錯失機會 <br /> <br />【讚的】牡羊 金牛 處女 天蠍 <br /> <br />牡羊：有貴人帶來實質支援，感情上要多體貼一點 <br />金牛：別想太多快動起來，桃花運旺到有點煩 <br />處女：工作順利好安心，職場戀情機會高 <br />天蠍：工作上財運亨通，感情別過度付出當心小人</p>"
@@ -344,7 +323,6 @@ category = []
 [jst00515]
 name = "EP327 粉紅泡泡是真的ft.靈能者小湛"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clx4gji4g00qn01xd1xwf6wi8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclx4gji4g00qo01xd7vwp42gh.mp3?v=1717750968146"
-apple = "https://podcasts.apple.com/tw/podcast/ep327-%E7%B2%89%E7%B4%85%E6%B3%A1%E6%B3%A1%E6%98%AF%E7%9C%9F%E7%9A%84ft-%E9%9D%88%E8%83%BD%E8%80%85%E5%B0%8F%E6%B9%9B/id1536374746?i=1000658150251"
 spotify = "https://open.spotify.com/episode/4sttV3J12Vw0nBf1VBP1P7"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>今天又邀請到一位靈能力者- 小湛👏 <br />雖是靈能力者，卻又非從業者，她同時是畫室老師，閒暇時以靈能力者的角度書寫「觀察地球日記」，至今已出版三本書，閱讀她的文字，彷彿進入了另一個世界。 <br />不出所料，小湛星盤「果然辛苦」，雙魚座的她，水象宮位也超強，且最挑戰的星通通落到四宮（火、土、天），我簡直不敢想像她是怎麼長大的….。 <br />但是，成長的困境，成為小湛在身心靈修行的養料，這是最大的安慰。 <br />我常覺得自己是麻瓜，所以對靈能者特別感興趣，這次邀請到小湛，當然也要問她「她都看到什麼」？靈界的眾生，又是什麼模樣？ <br />最有趣的是她會看我直播，說直播時我的靈(氣場)會一直「換造型」😎，有時也會搶麥克風代我發言….她說每個人都有守護靈跟靈魂，人在做，靈魂總在旁邊看呢👀 <br /> <br />是不是好有趣？ 一起來聽聽她眼中的世界吧～ <br /> <br />EP327菜單： <br />你想像不到的陰陽眼 <br />不要忽略突然出現的念頭 <br />動物變精怪 <br />台灣的精怪比較溫和 <br />越專心越能保護自己心靈 <br />守護靈暗中保護你 <br />壓力太大就感受不到守護靈 <br />粉紅泡泡是真的 <br />靈魂幫你牽線 <br />你的緣分正在路上 <br />鬆弛感帶來靈感</p>"
@@ -355,7 +333,6 @@ category = []
 [jst00514]
 name = "EP326 木星進雙子的機智生活"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clx05lay8042v01ycfvla3oc3/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclx05lay8042w01ycfnmy5c21.mp3?v=1717492307960"
-apple = "https://podcasts.apple.com/tw/podcast/ep326-%E6%9C%A8%E6%98%9F%E9%80%B2%E9%9B%99%E5%AD%90%E7%9A%84%E6%A9%9F%E6%99%BA%E7%94%9F%E6%B4%BB/id1536374746?i=1000657778077"
 spotify = "https://open.spotify.com/episode/18OO4KJOnGmna1ZrnedIS8"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>本集節目由【NAFU LIFE全瑩生技】贊助播出  <br />是否常常工作忙碌到很晚？  <br />又要照顧家庭又要兼顧工作，沒有時間好好呵護肌膚嗎？  <br />NAFU LIFE 先水後油 1+1&gt;2高效效率精緻保養  <br />❤️世界首創「超級蝦紅素」紅到NASA的明星專利成分！  <br />❤️游離型小分子好吸收，對抗80%光老化傷害&nbsp; <br />❤️肌能白瓶「緹比酵母萃取」：油水平衡、細緻毛孔  <br />❤️拾光黑瓶「超級蝦紅素」：油保養滋潤緊緻，修護賦活肌膚  <br />❤️榮獲世界品質評鑑 金獎/特級金獎、FG特優評鑑雙殊榮  <br />❤️超過百位美妝網紅、媒體節目一致推薦  <br />NAFU 618購物節​✨​唐陽雞酒屋專屬65折起  <br />🎁買禮盒就送蝦紅素潤唇膏再送3日體驗組(價值$898)  <br />🛒&nbsp;https://nafu.tw/FpMmv  <br />🎁下單即贈益生菌濾掛茶包&nbsp; <br />🎁滿4500元贈青春瑩亮膠原飲1盒（市價$1180）  <br />優惠期間：即日起至 2024/7/5 <br />- <br /> 木星進雙子了，會帶來怎樣的影響呢？就是，會很想表達也覺得必須表達吧，就像過去每次的木星雙子一樣，查一查就知道。 <br />那對十二星座影響如何？應該說，既然是進雙子，那拿出雙子方式應對，或表現得像個雙子，應該就能好運。 <br />像是想溝通的話，「有梗一點、幽默有趣點」，或「能見風轉舵，因人而異一下」，未必求得到真理，但一定能發出聲音，引人注意。 <br />未來一年，想得到木星的眷顧，想知道怎麼個有梗嗎？一起來聽聽這集喔！ <br />&nbsp; <br />EP326菜單：  <br />機會留給準備好的雙子 <br />水瓶變帥變美的機會來了　 <br />天秤木星來到運氣最好的位置 <br />處女的升官運 <br />金牛魔羯用力賺會豐收 <br />容易踢到鐵板的星座　 <br />渴望大改造的雙魚該變嗎 <br />巨蟹低調反而更好運</p>"
@@ -366,7 +343,6 @@ category = []
 [jst00513]
 name = "【本週提醒】多把力氣用在不會受傷的地方！"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwxkfbp71goy01u26qnqbwby/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwxkfbp71goz01u2erad3bab.mp3?v=1717334182168"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E5%A4%9A%E6%8A%8A%E5%8A%9B%E6%B0%A3%E7%94%A8%E5%9C%A8%E4%B8%8D%E6%9C%83%E5%8F%97%E5%82%B7%E7%9A%84%E5%9C%B0%E6%96%B9/id1536374746?i=1000657565073"
 spotify = "https://open.spotify.com/episode/1jsDXPLBDLabpyDBPPB6cY"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽6/3-6/9星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】獅子 天秤 射手 雙魚 <br /> <br />獅子：事事一把抓當心過勞，感情請鬆弛有度 <br />天秤：遇上需動手解決的麻煩，感情的裂痕請小心維護 <br />射手：維持嚴格很困難，感情當心沒原則 <br />雙魚：辛苦滿足長官長輩的要求，感情上要清楚表態 <br /> <br />【穩的】巨蟹 處女 天蠍 魔羯 <br /> <br />巨蟹：不需過度擔憂焦慮，感情受到對方重視 <br />處女：別趕跑找上門的機會，感情上別太高冷 <br />天蠍：需迎難而上無法躺平，感情上先把自己做好 <br />魔羯：別輕易被情勒打動，感情遇到戲很多的對象 <br /> <br />【讚的】牡羊 金牛 雙子 水瓶 <br /> <br />牡羊：要顧慮夥伴別忙到忘我，感情上低調點更可愛 <br />金牛：能心想事成適合理財，感情上很有吸引力 <br />雙子：可以輕鬆發展別著急，感情走兩情相悅路線 <br />水瓶：按部就班能有成果，感情喜歡努力型桃花 <br /></p>"
@@ -377,7 +353,6 @@ category = []
 [jst00512]
 name = "EP325月亮星座，你藏最深的脆弱面(下)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwua356t0ixk01u2ebt7g2z6/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwua356t0ixl01u21dma1fha.mp3?v=1717135446676"
-apple = "https://podcasts.apple.com/tw/podcast/ep325%E6%9C%88%E4%BA%AE%E6%98%9F%E5%BA%A7-%E4%BD%A0%E8%97%8F%E6%9C%80%E6%B7%B1%E7%9A%84%E8%84%86%E5%BC%B1%E9%9D%A2-%E4%B8%8B/id1536374746?i=1000657393572"
 spotify = "https://open.spotify.com/episode/2IdZ2Rvvvngf4uqe8SvzHd"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>這集聊的是月亮在火象、風象的人。 <br />比起陰性星座，陽性月亮的脆弱面，會「比較不明顯」嗎？ <br /> <br />嗯…，只能說一般人「可能」會看不出來，因為部份陽性月亮太好強，怕被自己的脆弱壓垮反而逼自己更有朝氣、更正能量…，敏感度低一點的，搞不好就被他們的故作堅強給騙了，信以為真，以為他們的低潮很快會過去，或「沒那麼痛苦」，殊不知，夜深人靜無人時，才是最孤獨的陰陽魔界…. <br /> <br />有些陽性月亮高明一點，還能騙過心理諮商師呢！(真是有夠會武裝) <br />來吧，月亮陽性的同學，別害怕把自己的脆弱露出來，勇敢面對自己的傷才是真的強喔，你們懂我說什麼！ <br /> <br />EP325菜單： <br />月牡羊是進擊的巨人 <br />月牡羊心中的瘋狗要適時放出來 <br />月獅子要的是在乎 <br />逃避脆弱的月射手 <br />越不好動作越多 <br />月亮風象拒絕情緒 <br />月雙子的嘴 <br />月天秤牙起來也是瘋狗 <br />月水瓶怕孤獨</p>"
@@ -388,7 +363,6 @@ category = []
 [jst00511]
 name = "EP324 有星系列(金牛)：持久力的配置"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwq84b32024f01r26rrf2c4e/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwq84b32024g01r26t461t83.mp3?v=1716890302113"
-apple = "https://podcasts.apple.com/tw/podcast/ep324-%E6%9C%89%E6%98%9F%E7%B3%BB%E5%88%97-%E9%87%91%E7%89%9B-%E6%8C%81%E4%B9%85%E5%8A%9B%E7%9A%84%E9%85%8D%E7%BD%AE/id1536374746?i=1000657014271"
 spotify = "https://open.spotify.com/episode/4ZuOMJJCHzjLppiEolQUmx"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>「有星系列」，來到有星在金牛囉 <br />很多人看不懂金牛，覺得他們放著成功、暴富機會不賺，只想過自己的小日子，太奇怪了。但在我看來，有星金牛的人之所以如此，是因為「有自己一套價值觀」，這套價值觀不會為別人的意見而改變。也因為如此，金牛常活出別人望塵莫及的自在感，堪稱另類的人生勝利組。 <br />所以有星金牛，也會帶有驚人的「持久力、毅力」💪🏻，且別說他們不賺，默默地，他們可能是所有人中存款最多、過得最有品質、甚至最有賺頭的一群喔！ <br />你也是「有星在金牛」的另類勝利組嗎？來聽聽這集吧 <br /> <br />EP324 菜單： <br />金牛的追求一般人看不懂 <br />太陽金牛絕不勉強自己 <br />月金牛不相信權威 <br />金星金牛的省電模式 <br />水金牛講大實話沒人敢聽 <br />哪個配置能嗅到錢的味道 <br />木星金牛有錢的好運 <br />土金牛很深很持久 <br />怕賺到不踏實的錢 <br />請火星金牛拿出獨門祕訣</p>"
@@ -399,7 +373,6 @@ category = []
 [jst00510]
 name = "【本週提醒】人心難測，不要太快一廂情願喔"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwn5wg3z05of01vk8vqqgei7/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwn5wg3z05og01vk69i3hhrl.mp3?v=1716705123889"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E4%BA%BA%E5%BF%83%E9%9B%A3%E6%B8%AC-%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%BF%AB%E4%B8%80%E5%BB%82%E6%83%85%E9%A1%98%E5%96%94/id1536374746?i=1000656796143"
 spotify = "https://open.spotify.com/episode/3r5SurP7alyktvHveenGDR"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽5/27-6/2星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 天蠍 射手 水瓶 <br /> <br />牡羊：工作被否定並非壞事，感情聚少離多 <br />天蠍：工作上刺探拔河好掙扎，感情拉扯很心累 <br />射手：容易被金錢牽制，感情別活在自己世界 <br />水瓶：修正挫折能更優化，感情吵架是真心交流 <br /> <br />【穩的】金牛 雙子 處女 天秤 <br /> <br />金牛：須努力協調夥伴步調，感情上別懷疑對方真心 <br />雙子：事業漸入佳境前景看好，感情要少點強迫症 <br />處女：按部就班有貴人提拔，感情上能穩定發展 <br />天秤：低調一點少麻煩，感情上觀念相合很重要 <br /> <br />【讚的】巨蟹 獅子 魔羯 雙魚 <br /> <br />巨蟹：直覺大開有神奇體驗，感情遇到命定之人 <br />獅子：可以放膽執行新計畫，感情告白成功機率高 <br />魔羯：可以大膽規劃未來，感情從朋友夥伴做起 <br />雙魚：合作運佳有互補效果，感情能兩情相悅別逃避 <br /></p>"
@@ -410,7 +383,6 @@ category = []
 [jst00509]
 name = "EP323 12星座的高階發展"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwkaszhn003e01r2dh4hbt68/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwkaszhn003f01r238ea0iwq.mp3?v=1716532012418"
-apple = "https://podcasts.apple.com/tw/podcast/ep323-12%E6%98%9F%E5%BA%A7%E7%9A%84%E9%AB%98%E9%9A%8E%E7%99%BC%E5%B1%95/id1536374746?i=1000656618752"
 spotify = "https://open.spotify.com/episode/3uxe40riFyooiwgQAv4Z7X"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>明明同一星座，為何性格、作法差很大？有的人毅力十足、成就非凡，有的人卻老怪東怪西很失控…. <br />這就得聊聊星座的「高階版、低階版」了 <br />跟你「同一天、同醫院生」的命盤雖然相同，但命運不相同的原因之一，是我們「能活出高階，還是日益低階」的人生，星星是中性的，成了高還是低，都跟自己修煉功力有關。 <br />就像天蠍很有毅力，用毅力來做事很好，但用來記仇就不妙了對吧？（謹記在心）😜 <br />希望大家聽完這集，能更自我覺察該往哪邊發展的，祝大家升級愉快～（太陽之外，木、水、金、土也可參考喔） <br /> <br />EP323菜單： <br />不小心就控制狂的天蠍 <br />雙魚散漫也是優點 <br />牡羊認為的好東西 <br />虛胖的獅子 <br />射手的大餅不要飛太遠 <br />處女的焦慮其來有自 <br />魔羯的自我反省 <br />拒絕合作的天秤</p>"
@@ -421,7 +393,6 @@ category = []
 [jst00508]
 name = "EP322 月亮星座，你藏最深的脆弱面"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwg5ur0k002601wv4plrhryw/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwg5ur0l002701wvgyke1yue.mp3?v=1716283511795"
-apple = "https://podcasts.apple.com/tw/podcast/ep322-%E6%9C%88%E4%BA%AE%E6%98%9F%E5%BA%A7-%E4%BD%A0%E8%97%8F%E6%9C%80%E6%B7%B1%E7%9A%84%E8%84%86%E5%BC%B1%E9%9D%A2/id1536374746?i=1000656249354"
 spotify = "https://open.spotify.com/episode/6X3EfuqqwSjkttwaf9UkhO"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>本集節目由【zZsleeper 忘憂枕】贊助播出 <br />「忘憂枕」為物理治療師與醫師設計製作 ，為涼感親水棉聚氨酯材質，集結市售常見三大枕頭的優點，記憶枕支撐度、乳膠枕柔軟度、羽絨枕透氣度。 <br />忘憂枕上下兩邊以不同弧度設計，以符合男女不同的肩寬，左右兩邊適合側睡，不管是正躺、側睡及男女不同體型，都能讓您的頸椎在最舒適角度，是一顆集結各種優點的全方位枕頭。 <br />💤忘憂枕是涼感親水棉聚氨酯材質 <br />💤集合支撐、柔軟和透氣度3大優點 <br />💤通過最嚴格歐盟檢驗標準197項 <br />💤兼具男女不同體型設計的枕頭 <br />唐陽雞酒屋粉絲專屬優惠 ：https://s.add.one/5uwnwd <br />（5/21-6/4期間限定優惠，請使用 Fb、Line、手機號碼 登入，即可看到專屬優惠價） <br />- <br />從月亮看「脆弱面」來了！ <br />月亮星座，是我們「最內在也最真實」的部分， 也是大家最喜歡聽的話題，今天Podcast就帶大家穿越到六個月亮星座的內心世界，看看在太陽的表象下，我們真實的生活面貌如何。 <br />因為既深藏又內含，所以最適合藏東西了，月亮裡面藏了一堆內心戲，或連自己都不知道的部分，那些，我們被不安全感驅使的部分，這份脆弱只是脆弱，還是會使我們更強壯呢？ <br />這回就試著掀開布簾，一起進入大家的內在。 <br />&nbsp; <br />EP322菜單：&nbsp;&nbsp; <br />月金牛覺得自己的愛不值得 <br />月處女永遠累到自己 <br />月魔羯不碰最喜歡的 <br />寧願不失望 <br />月巨蟹一輩子都在害怕攻擊 <br />當月亮巨蟹瘋狂時…？ <br />心中有黑洞的月天蠍 <br />別隨便問月亮天蠍的痛苦 <br />被否定就迷航的月雙魚 <br />喜歡情勒自己的月亮星座</p>"
@@ -432,7 +403,6 @@ category = []
 [jst00507]
 name = "【本週提醒】不要怕，沒有危機，就沒有突破"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwd21a0x08ri01wg007hfld8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwd21a0x08rj01wgblsa9189.mp3?v=1716093969975"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E4%B8%8D%E8%A6%81%E6%80%95-%E6%B2%92%E6%9C%89%E5%8D%B1%E6%A9%9F-%E5%B0%B1%E6%B2%92%E6%9C%89%E7%AA%81%E7%A0%B4/id1536374746?i=1000656053012"
 spotify = "https://open.spotify.com/episode/1oWso8GkCDrRHj4TH7NTiE"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽5/20-5/26星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】金牛 雙子 天秤 射手 <br /> <br />金牛：接受溝通能更進步，感情爭執也算積極溝通啦 <br />雙子：工作別心急注意交通安全，感情分合很乾脆 <br />天秤：進度不佳要撐著點，感情得先愛才能堅持 <br />射手：忙得茫然先接受再說，感情裡有點傻氣 <br /> <br />【穩的】天蠍 魔羯 水瓶 雙魚 <br /> <br />天蠍：理財機運佳要好好分辨，感情要看對方態度 <br />魔羯：更新路線與過去道別，感情上有前任的消息 <br />水瓶：女性勁敵來刺激潛能，感情上女性別太強勢 <br />雙魚：要拿出理性來溝通，感情有健談的桃花 <br /> <br />【讚的】牡羊 巨蟹 獅子 處女 <br /> <br />牡羊：諸事穩定財運佳，感情裡靠實力吸引桃花 <br />巨蟹：眾望所歸有如神助，感情上能兩情相悅 <br />獅子：萬事俱備請付出行動，感情上能成眾人焦點 <br />處女：人逢喜事步步高升，感情能遇到優質對象 <br /></p>"
@@ -443,7 +413,6 @@ category = []
 [jst00506]
 name = "EP321好看的劇本都是不幸福時寫的ft.徐譽庭"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clwaa7b3s1xx701uqc4w4ab55/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclwaa7b3t1xx801uqcg1tdjj0.mp3?v=1715926337646"
-apple = "https://podcasts.apple.com/tw/podcast/ep321%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%8A%87%E6%9C%AC%E9%83%BD%E6%98%AF%E4%B8%8D%E5%B9%B8%E7%A6%8F%E6%99%82%E5%AF%AB%E7%9A%84ft-%E5%BE%90%E8%AD%BD%E5%BA%AD/id1536374746?i=1000655902511"
 spotify = "https://open.spotify.com/episode/7HF6vgjIE4YhSYBJRDgrEP"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>「不夠善良的我們」導演兼編劇徐譽庭終於來了！ <br />（大家都看了吧？我們的對談涉及劇透喔，沒看的這是防雷線😆） <br /> <br />到底是什麼樣的人會寫出這麼好看細膩的戲？原來，徐導私底下的人生更像台劇，壓抑的年代，勇於追愛的母親離了前夫與孩子，才能與父親誕下獨生女的她，一家三口，卻也因此揹負內心的罪業⋯⋯學生時期則極度叛逆，繼承父母親既壓抑又勇於追愛特質，還曾談過師生戀（哇😳） <br />徐導還自述，喜歡誰都能發展感情（桃花簡直太旺，非要看她命盤不可！） <br /> <br />各、位、觀、眾，她原來，真的，是個五宮人啊！！（驚嘆❗️） <br />難怪那麼會刻劃戀愛，也讓人隨著她對戀愛有幻想，且能在創作的舞台發光發熱，這就是五宮的魔法。🪄 <br /> <br />大家不要著急，我也替大家問了「看完本劇最過不去的幾個點」，包括為什麼要安排雷掰咖死（明明都是她的投射）、簡慶芬真的被何瑞之愛嗎？還有女主角們不像水瓶，及何瑞之是什麼星座？ <br />來聽聽徐大編導的真實答案，以及偷看她腦袋到底都在想什麼吧～ <br /> <br />EP321菜單： <br />魔羯最怕大頭症 <br />金星六宮親自做事情才會變好 <br />存款只剩ｘｘｘ元 <br />何瑞之的星座揭曉！！！ <br />爆買東西是在追求理想的自己 <br />每個月亮星座都有一座地獄 <br />月亮獅子養老村新住戶確認 <br />失戀的創作力簡直領域展開</p>"
@@ -454,7 +423,6 @@ category = []
 [jst00505]
 name = "EP320 占星冷知識 (水瓶的淚腺?"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clw7nyzij05c101w7ao2141wj/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclw7nyzik05c201w72463460n.mp3?v=1715768039433"
-apple = "https://podcasts.apple.com/tw/podcast/ep320-%E5%8D%A0%E6%98%9F%E5%86%B7%E7%9F%A5%E8%AD%98-%E6%B0%B4%E7%93%B6%E7%9A%84%E6%B7%9A%E8%85%BA/id1536374746?i=1000655656240"
 spotify = "https://open.spotify.com/episode/60LM4w15aKZGenMO01uBND"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>今天podcast內容是「大家的星座觀察」，不得不說，有些真是精闢到讓我噗哧爆笑出來，只能說高手在民間哪😆 <br />例如，世界上最不可能的三件事：巨蟹為你放棄備胎、水瓶為你流淚、魔羯主動求和…（準不準你說😂）個人認為最不能相信的是「天秤喜歡你」，覺得對你好就是喜歡你？只能說千萬不要……想、太、多。 <br />網友還有哪些有趣的星座觀察？（也會聊聊我的意見跟觀察喔），進來玩玩吧！ <br /> <br />EP319菜單：&nbsp; <br />天秤喜歡或討厭你到底看不看得出？ <br />水瓶有淚腺嗎XD <br />魔羯裝沒事，就是在道歉 <br />交往前後反差最大的星座 <br />水星射手的吹牛會成真！ <br />土星八宮付出越多得到越多 <br />弱點最少的星座 <br />火星金牛vs火星巨蟹，誰愛生悶氣</p>"
@@ -465,7 +433,6 @@ category = []
 [jst00504]
 name = "【本週提醒】水星進金牛，揭露你對自己滿不滿意"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clw2vb2x60ts001wg6hpb2iwm/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclw2vb2x60ts101wg6rkh5hhk.mp3?v=1715478007712"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E6%B0%B4%E6%98%9F%E9%80%B2%E9%87%91%E7%89%9B-%E6%8F%AD%E9%9C%B2%E4%BD%A0%E5%B0%8D%E8%87%AA%E5%B7%B1%E6%BB%BF%E4%B8%8D%E6%BB%BF%E6%84%8F/id1536374746?i=1000655315605"
 spotify = "https://open.spotify.com/episode/2Dku230aizINCCO2iANOVY"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽5/13-5/19星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】處女 天秤 水瓶 雙魚 <br /> <br />處女：追求完美處處不順眼，感情別任意疏遠 <br />天秤：工作須配合對方好辛苦，感情上要小心伺候 <br />水瓶：工作需重整內部有點悶，感情當心有散夥危機 <br />雙魚：工作要更強硬有章法，感情考驗對方接受度 <br /> <br />【穩的】金牛 巨蟹 射手 魔羯 <br /> <br />金牛：有點過勞要注意休息，感情要放輕鬆點 <br />巨蟹：可找人幫忙建立人脈，感情上鈔能力提升魅力 <br />射手：財務危機能帶來動力，感情約會講究CP值 <br />魔羯：工作有女性貴人可信任，感情相處別管太多 <br /> <br />【讚的】牡羊 雙子 獅子 天蠍 <br /> <br />牡羊：步調乾脆爽快好開心，感情有機會爭取成功 <br />雙子：揮別陰霾財運滾滾來，感情穩定勝券在握 <br />獅子：與職場夥伴敞開交流，感情有年輕健談的桃花 <br />天蠍：保守進行表現更好，感情的付出要務實評估</p>"
@@ -476,7 +443,6 @@ category = []
 [jst00503]
 name = "EP319 真的沒曖昧過ft. 驚奇玩起來Eko、Sandra"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clw0gqsgf000301udclhz440z/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclw0gqsgg000401ud46lhfluk.mp3?v=1715332661689"
-apple = "https://podcasts.apple.com/tw/podcast/ep319-%E7%9C%9F%E7%9A%84%E6%B2%92%E6%9B%96%E6%98%A7%E9%81%8Eft-%E9%A9%9A%E5%A5%87%E7%8E%A9%E8%B5%B7%E4%BE%86eko-sandra/id1536374746?i=1000655156223"
 spotify = "https://open.spotify.com/episode/7pRnUFLzUTpiKCGF5PYjNx"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>平常活碰亂跳的人，星盤中可以看出反差的一面 <br />歡迎驚奇玩起來，雙魚座Sandra跟獅子座Eko👏 <br />網路上最紅的英文老師，星盤長怎樣？ <br />原來Eko臭跩是因為有三倍的射手，月亮四宮的Sandra，對自己超高標、對未來的擔憂也在這集小小透露了一番。 <br />開錄前Eko真情告白了一下，小時候的他是如何透過模仿，用視覺系來保護自己。這很十宮，十宮人總是這麼努力讓自己看起來更合群。 <br />這對雙魚獅子，看了看合盤，兩位木土合，難怪湊在一起能有社會影響力，一起來聽聽看吧～ <br /> <br />EP319菜單： <br />Eko被霸凌的經驗 <br />9宮太強需要被拉回地面 <br />全家人都吸血鬼 <br />唐老師畫歌德蘿莉妝 <br />越長大越社恐的雙魚 <br />三個月看20本書 <br />至少要跟阿滴一樣乖？ <br />Sandra是水星水瓶 <br />獅子2024適合轉型</p>"
@@ -487,7 +453,6 @@ category = []
 [jst00502]
 name = "EP318 有星系列(牡羊)：獨特的配置"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvw5dcl61u6201ur0c0m7d5c/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvw5dcl61u6301ur8jvsg1gb.mp3?v=1715071699007"
-apple = "https://podcasts.apple.com/tw/podcast/ep318-%E6%9C%89%E6%98%9F%E7%B3%BB%E5%88%97-%E7%89%A1%E7%BE%8A-%E7%8D%A8%E7%89%B9%E7%9A%84%E9%85%8D%E7%BD%AE/id1536374746?i=1000654790915"
 spotify = "https://open.spotify.com/episode/0FiyP6UeNAqmfvgJ8WuYJV"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>本集乾爹：【惜惜康普茶】Sio-Sioh Kombucha&nbsp; <br />簡單的「水、糖、茶、益生菌」發酵，  <br />無香料、無色素、無酒精，  <br />安心誠實，給你看得懂的成分表。 <br />氣泡爽口，微酸微甜，療你生活的傷；  <br />好菌發酵，幫助腸道環境，陪你在平衡中前進。  <br />&nbsp; <br />&nbsp;2024氣泡系列好評再延續&nbsp;&nbsp; <br />『檸檬薄荷氣泡』 清爽上市！  <br />✅天然薄荷萃取  <br />✅綿密氣泡口感  <br />✅低熱量少負擔&nbsp; <br />&nbsp; <br />✨全系列口味：檸檬薄荷氣泡、醇厚果香、酸甜青梅氣泡、台灣香檬氣泡  <br />&nbsp;🛒販售通路：全聯福利中心、萊爾富、家樂福、momo購物網、PChome、屈臣氏  <br />📣momo購物網 五月品牌週年優惠 420mL箱購 $599 免運送到家 <br />📣惜惜官網也買到唷：https://bit.ly/3JlrtbC&nbsp; <br />- <br />你星盤中有星在牡羊嗎？ <br />要說那是領導力的配置嗎？不，那是你做自己指數的配置。且有星在牡羊的人，都不喜歡輸的感覺… <br />所以，那可是你最有競爭力之處，又兼…白目指數高的地方喔 <br />你星盤裡有星在牡羊嗎？ <br /> <br />菜單： <br />太陽牡羊的客套面具 <br />重感情的牡羊 <br />火牡羊喜歡先斬後奏 <br />木星牡羊就是別人的前輩 <br />水星牡羊話題之跳躍 <br />會得罪人但還是想說 <br />永遠年輕的金星牡羊 <br />感情中輸不起的金牡羊 <br />月牡羊心中關著瘋狗 <br />不守規矩就受傷的土牡羊 <br /> <br /></p>"
@@ -498,7 +463,6 @@ category = []
 [jst00501]
 name = "【本週提醒】找回生活秩序吧！"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvtbpf42000201wq79be0j80/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvtbpf42000301wq3dvshxmh.mp3?v=1714900889903"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E6%89%BE%E5%9B%9E%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F%E5%90%A7/id1536374746?i=1000654578211"
 spotify = "https://open.spotify.com/episode/0Pvw5BnevdL8UEq3F2chMx"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽5/6-5/12星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 雙子 天蠍 水瓶&nbsp; <br /> <br />牡羊：向前衝時別太自我，感情喜歡自己的相似型 <br />雙子：稍安勿躁當心業力爆發，感情上先理智一點 <br />天蠍：讓自己休息平復心靈，感情等待珍惜你的人 <br />水瓶：別太固執要接納意見，感情上要聽對方想法 <br /> <br />【穩的】金牛 處女 射手 魔羯 <br /> <br />金牛：按部就班有進度，感情順利別踩雷 <br />處女：多和你愛的人相處，感情很受自己人影響 <br />射手：樂於助人有好報，在感情裡能激發能力 <br />魔羯：適時讓步更有進度，職場戀情機會高 <br /> <br />【讚的】巨蟹 獅子 天秤 雙魚 <br /> <br />巨蟹：事業有機會大躍進，感情的選擇權在你手上 <br />獅子：不順眼反而激發動力，感情上要收斂氣勢 <br />天秤：運勢轉好有貴人扶持，感情行情夯別亂放電 <br />雙魚：麻煩事漸漸釐清解決，感情能有共同目標 <br /> <br /></p>"
@@ -509,7 +473,6 @@ category = []
 [jst00500]
 name = "EP317 海王星(下)，給你大好或大壞"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvqhako00ddy01vzgdp1fpf1/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvqhako00ddz01vzesdx4jys.mp3?v=1714728916706"
-apple = "https://podcasts.apple.com/tw/podcast/ep317-%E6%B5%B7%E7%8E%8B%E6%98%9F-%E4%B8%8B-%E7%B5%A6%E4%BD%A0%E5%A4%A7%E5%A5%BD%E6%88%96%E5%A4%A7%E5%A3%9E/id1536374746?i=1000654417808"
 spotify = "https://open.spotify.com/episode/3JOHUgecqEh5lY2RFTR62N"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>海王星下集來了 <br />聽完海王星上集，許多同學反饋不特別求就有的「超額幸運」，例如不求就有人主動出錢帶他出國旅行、不用花錢就有房子住等等，海王星就是不求、先付出，沒什麼期待卻莫名其妙回到自己的身上，這樣有神蹟的星星。 <br />那麼下集的海王宮位，也一樣有多出來的好運、充滿理想性又無法強求之處，是既倒楣又幸運的地方，希望聽完這集，大家好好感受，那些悄悄降臨在自己身上的神祕遭遇在哪裡，也記得跟我分享喔～ <br /> <br />EP317菜單：&nbsp; <br />海王星上集反饋 <br />海王一宮高標看自己 <br />被海王五宮愛上的人形象都變好？ <br />很難拒絕別人的海王七宮 <br />有機會成為傳奇人物的海王十宮 <br />小心成為工具人的海王星 <br />圈子裡有魅力的海王11宮 <br />精神上有遁入空門的勇氣 <br />海王12宮能讀懂人的心聲</p>"
@@ -520,7 +483,6 @@ category = []
 [jst00499]
 name = "EP316 喊我就爛的人其實超努力"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvm891c8000c01wqc74z8mji/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvm891c8000d01wq4k27bgpt.mp3?v=1714472059475"
-apple = "https://podcasts.apple.com/tw/podcast/ep316-%E5%96%8A%E6%88%91%E5%B0%B1%E7%88%9B%E7%9A%84%E4%BA%BA%E5%85%B6%E5%AF%A6%E8%B6%85%E5%8A%AA%E5%8A%9B/id1536374746?i=1000654155026"
 spotify = "https://open.spotify.com/episode/79V8UApUBAeylRL5xuCMC2"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>你，自我感覺良好嗎？還是自我感覺不良好？ <br /> <br />你們一定不敢相信，我就是「自我感覺不好」一族，受折磨一生，現在回頭想想，好像也不是什麼壞處，正因為這樣，才會一生都不敢放鬆，逼自己端出更好品質。 <br /> <br />今天就來聊聊，什麼是「自我感覺不好的星盤配置」？你是其中之一嗎？是的話也沒關係，因為跟優不優秀沒啥關係，表現很好的人一樣可能自我感覺不好，重點是怎麼跟這個感覺共處？以及希望你明白，正因如此，反而成為務實世界裡有超凡表現的人，這樣，感覺有沒有稍微好一點呢？XD <br /> <br />EP316菜單： <br />I人雙子座 <br />拖延症背後的優點 <br />自我感覺不好帶來的好處 <br />土星給你的調整期 <br />陰性星座的自我感覺不好 <br />陽性星座自我感覺先良好 <br />喊我就爛的真實意義 <br />土星相位帶來的自我感覺不好</p>"
@@ -531,7 +493,6 @@ category = []
 [jst00498]
 name = "【本週提醒】記得把焦點放回自己身上👀"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvictx260jt601x6fq46b5t5/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvictx260jt701x6dsmk0we5.mp3?v=1714237650847"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E8%A8%98%E5%BE%97%E6%8A%8A%E7%84%A6%E9%BB%9E%E6%94%BE%E5%9B%9E%E8%87%AA%E5%B7%B1%E8%BA%AB%E4%B8%8A/id1536374746?i=1000653819969"
 spotify = "https://open.spotify.com/episode/1yWoqvoU4JVuskDbvzVOac"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽4/29-5/5星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br />&nbsp; <br />【累的】天秤 天蠍 水瓶 雙魚 <br />&nbsp; <br />天秤：工作上有人跟自己過不去，感情上別惹毛對方 <br />天蠍：不能憑直覺要更有策略，感情上要走溝通路線 <br />水瓶：專注在自己能做的地方，感情對方很有個性吧！ <br />雙魚：工作訂出SOP別再過勞，感情想太多會干擾進度 <br />&nbsp; <br />【穩的】巨蟹 獅子 處女 射手 <br />&nbsp; <br />巨蟹：人際主控權自己掌握，感情處在曖昧階段 <br />獅子：工作上安全保守較好，新桃花要讓人評鑑一下 <br />處女：打開思維危機變轉機，感情上別太僵化 <br />射手：時機未到請放慢速度，有職場戀情的機會 <br />&nbsp; <br />【讚的】牡羊 金牛 雙子 魔羯 <br />&nbsp; <br />牡羊：有機會爆紅財運佳，感情能與人開心相處 <br />金牛：心想事成財運旺，感情自身特質受到喜愛 <br />雙子：撥雲見日好運到，感情上你說了算 <br />魔羯：企圖心能化為動力，感情有翻盤機會</p>"
@@ -542,7 +503,6 @@ category = []
 [jst00497]
 name = "EP315 向宇宙下訂單的體質 ft.蔡健雅"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvghvjew0agt01x75kqt3v9h/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvghvjew0agu01x70ffyc1bc.mp3?v=1714125223682"
-apple = "https://podcasts.apple.com/tw/podcast/ep315-%E5%90%91%E5%AE%87%E5%AE%99%E4%B8%8B%E8%A8%82%E5%96%AE%E7%9A%84%E9%AB%94%E8%B3%AA-ft-%E8%94%A1%E5%81%A5%E9%9B%85/id1536374746?i=1000653671059"
 spotify = "https://open.spotify.com/episode/2qynfmaULm1aWxmshY0Usx"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>最近討論度超高的「不夠善良的我們」，大家都說蔡健雅的歌是驚喜點。 <br />今天我們就找Tanya 來聊聊，她可是連劇中角色台詞都還沒出來時，就加入劇組創作主題曲跟配樂😳👏 <br />九宮強的Tanya ，也超多與神連結的經驗，包括買下現在房子的神奇經歷，向宇宙許願希望配樂，不久就受到徐譽庭邀約。 <br />最誇張的是….兩位女主角不是被設定成太陽水瓶、上升雙子嗎，跟Tanya的太陽和上升星座一模模一樣樣(雞皮疙瘩) <br />在看這齣劇時，不由自主地會看見自己心裡Rebecca或簡慶芬的影子，火星魔羯的Tanya是怎麼不放過自己？在本週迎來「不夠善良的我們」大結局前，來聽聽不一樣、卻相同精彩的幕後花絮吧。 <br /> <br />放心本集無雷👌 <br /> <br />EP315菜單：&nbsp; <br />九宮人腦中的聲音 <br />能寫出神曲的房子 <br />魔羯跟魔羯工作高效率 <br />何瑞之是什麼星座？ <br />水瓶跟牆都能說話 <br />土星巨蟹心中缺幸福感 <br />金星水瓶怎麼戀愛 <br />地震三次 <br />不夠善良的大結局？</p>"
@@ -553,7 +513,6 @@ category = []
 [jst00496]
 name = "EP314 九宮飛星，星盤中藏不住的幸運(下)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clvc21bn402mt01xi5pmb6d5i/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclvc21bn402mu01xi9iug9mua.mp3?v=1713856751341"
-apple = "https://podcasts.apple.com/tw/podcast/ep314-%E4%B9%9D%E5%AE%AE%E9%A3%9B%E6%98%9F-%E6%98%9F%E7%9B%A4%E4%B8%AD%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%B9%B8%E9%81%8B-%E4%B8%8B/id1536374746?i=1000653315133"
 spotify = "https://open.spotify.com/episode/0JZRXlhyBCtXaseiAjMoge"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>經過了上集的「九宮飛星」，有沒有體認到自己很幸運（又機歪）之處呢？（嗯，我知道要九宮強的人自覺有難度XD） <br />所以很高興看到那麼多九飛四的朋友自己招認，自己有多難搞跟多被包容🤣（乖，所以這麼自覺的你們很棒） <br />這集就來講上集沒講到的宮位，有許多人怕怕的八宮、十二宮，哎呀知道你們怕不幸，但，會這樣嗎？還有九飛九，會不會就給它飛到外太空呢？不不不，它可是會飛得更高喔😜 <br /> <br />EP314菜單： <br />九飛七做自己的合夥運 <br />九飛八的金鋼不壞之身 <br />只有神能說服九飛九 <br />九飛十才不想被綁住 <br />怪傑九飛十一 <br />當九飛十二被誘惑時 <br />撿到50萬你會....</p>"
@@ -564,7 +523,6 @@ category = []
 [jst00495]
 name = "【本週提醒】比起自我欺騙，不如好好修補錯誤🔧"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clv9gwlxj09a001vveu2b566w/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclv9gwlxj09a101vv1xhggel4.mp3?v=1713700314000"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E6%AF%94%E8%B5%B7%E8%87%AA%E6%88%91%E6%AC%BA%E9%A8%99-%E4%B8%8D%E5%A6%82%E5%A5%BD%E5%A5%BD%E4%BF%AE%E8%A3%9C%E9%8C%AF%E8%AA%A4/id1536374746?i=1000653110310"
 spotify = "https://open.spotify.com/episode/0lh33qOgHkUojT2WBXHtMb"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽4/22-4/28星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】巨蟹 天蠍 水瓶 雙魚 <br /> <br />巨蟹：當心過勞的健康問題，感情上別太敏感多疑 <br />天蠍：當心壞習慣影響健康，感情當心被下最後通牒 <br />水瓶：溝通要抓住重點，感情當心踩對方雷 <br />雙魚：努力爭取是必要之惡，面對感情要感性一點 <br /> <br />【穩的】牡羊 天秤 射手 魔羯 <br /> <br />牡羊：工作上別鑽牛角尖，感情別太執著計較 <br />天秤：工作被人情世故困擾，感情要注意表現模式 <br />射手：資源短缺被耽誤，感情上相處時間較少 <br />魔羯：注意理財要省一點，感情當心為錢爭執 <br /> <br />【讚的】金牛 雙子 獅子 處女 <br /> <br />金牛：工作有成受誇獎，感情人紅氣勢旺 <br />雙子：好運來臨貴人是長輩，感情能得對方青睞 <br />獅子：要順勢四兩撥千金，感情以柔克剛更有魅力 <br />處女：撥雲見日有升官運，感情的計畫效果好 <br /></p>"
@@ -575,7 +533,6 @@ category = []
 [jst00494]
 name = "EP313 海王星，給你大好或大壞"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clv6g8pg403dk01wt2zyxcjvc/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclv6g8pg403dl01wtgsri1f39.mp3?v=1713517831195"
-apple = "https://podcasts.apple.com/tw/podcast/ep313-%E6%B5%B7%E7%8E%8B%E6%98%9F-%E7%B5%A6%E4%BD%A0%E5%A4%A7%E5%A5%BD%E6%88%96%E5%A4%A7%E5%A3%9E/id1536374746?i=1000652956688"
 spotify = "https://open.spotify.com/episode/6WvZCdAKZNwxtAPhMl0Rgt"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>該來的還是會來，總想逃避面對的海王星，還是來了😅 <br />逃避是因為海王實在…很難詮釋呢，一來它很隱晦，二來又「充滿矛盾」（像雙魚一樣矛盾xd），有混亂的一面，又有高度理想性、挑剔，導致無力的現象，真的很難詮釋啊。 <br />所以宮位一旦有海王落入，就會有些神奇現象，像是刻意求卻未必求得到，不特別求又默默就會有（搞不好得到的還比預期多，很振奮人心吧），但表象上，又是「最混亂、沒章法」的地方，是不是很矛盾？ <br />你海王落入哪個宮位？那裡也蘊藏著你獨一無二、深層的寶藏喔，但可不能強挖，而是要「無所求」才能得到，有點抽象是嗎？別擔心，這次也用輕鬆的聊天方式，讓大家更好理解這顆矛盾的海王星，來聽聽吧～ <br /> <br />EP313菜單：&nbsp; <br />海王星的神話有點GG <br />海王是高階木星 <br />薪水比別人多一倍的海王二宮 <br />海王四宮房間＝潘朵拉的盒子🤣 <br />海王六宮的同情心 <br />海王三宮請當一塊海綿 <br />海王八宮是不死鳥 <br />直覺跟鬼一樣的海王九宮</p>"
@@ -586,7 +543,6 @@ category = []
 [jst00493]
 name = "EP312 道理我都懂，啊又做不到ft.周慕姿"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clv28abya002r01vx4jyrhrj8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclv28abya002s01vxdj7ifjc0.mp3?v=1713262604011"
-apple = "https://podcasts.apple.com/tw/podcast/ep312-%E9%81%93%E7%90%86%E6%88%91%E9%83%BD%E6%87%82-%E5%95%8A%E5%8F%88%E5%81%9A%E4%B8%8D%E5%88%B0ft-%E5%91%A8%E6%85%95%E5%A7%BF/id1536374746?i=1000652601337"
 spotify = "https://open.spotify.com/episode/1LTfVsFl2v9vuvT2F0ehsR"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>道理都懂，但該怎麼做？這是很多人的問題。 <br />心理諮商師周慕姿又來啦，星盤中很多天秤的她，來和大家聊聊，為什麼，我們，總是，這麼、愛、忍、耐？ <br />（天秤強的人尤其是，總為表面和平，先把情緒藏起來） <br />道理都懂，就算想改、知道自己這樣，該怎麼改怎麼付諸行動呢？感覺卻又這麼難…. <br />來聽聽這集，希望你會有收穫。 <br /> <br />EP312菜單： <br />資訊太多犯罪模式也會變 <br />很多殺人犯是雙魚？ <br />怎麼建立起自己的界限感？ <br />不要小看天秤的忍耐力 <br />天秤可以同理別人到不可思議 <br />焦慮自我評估 <br />判斷恐怖情人 <br />- <br />【周慕姿的全方位關係應用課】超過4600 位學員加入的療癒好課❤️ <br />🔸多情境療癒故事：自我/ 伴侶/ 家庭/ 職場/ 人際，超過20組種案例解析 <br />🔸改變解決根本問題：情緒剖析、拆解深層內心問題，找到情緒根源擬定有效解決方式 <br />🔸最完整心理諮商課程：專業諮商心理師，11 小時完整內容、無限次數重複觀看 <br />#再也不用被情緒綁架#變成更好的自己 <br />詳細課程介紹👉https://hi.sat.cool/AvvNL <br />💰結帳輸入專屬優惠碼：唐陽雞500，再折$500 元！ <br />#唐老師粉絲專屬限時優於62 折快閃一週#0423前優惠倒數</p>"
@@ -597,7 +553,6 @@ category = []
 [jst00492]
 name = "【本週提醒】覺得不對勁的事情，可以開始改變了"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cluz3pm7j0we801uj64kvclkr/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcluz3pm7j0we901ujaqct8m2v.mp3?v=1713073475136"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E8%A6%BA%E5%BE%97%E4%B8%8D%E5%B0%8D%E5%8B%81%E7%9A%84%E4%BA%8B%E6%83%85-%E5%8F%AF%E4%BB%A5%E9%96%8B%E5%A7%8B%E6%94%B9%E8%AE%8A%E4%BA%86/id1536374746?i=1000652390689"
 spotify = "https://open.spotify.com/episode/4bK2wj3OcMj1LaAlTqDwQQ"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽4/15-4/21星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子 巨蟹 魔羯 天秤 <br /> <br />雙子：弄巧成拙水逆中，感情先稍安勿躁 <br />巨蟹：多觀察別輕易承諾，感情走慢點比較好 <br />魔羯：事情多變別太抗拒，感情溝通別太尖銳 <br />天秤：看清人際有點失落，感情上要注意小警訊 <br /> <br />【穩的】金牛 處女 射手 雙魚 <br /> <br />金牛：財運不錯有貴人協助，感情上品味相合更融洽 <br />處女：靠專業能力逆風飛行，感情請再柔軟一點 <br />射手：工作可趁勢衝刺，感情需對方配合指揮 <br />雙魚：請和同事打成一片，感情適合居家約會 <br /> <br />【讚的】牡羊 獅子 天蠍 水瓶 <br /> <br />牡羊：有貴人且合作機會多，桃花降臨別太酷 <br />獅子：順應變化省時省力，感情放下反而得到 <br />天蠍：受年輕貴人喜愛，感情有年輕桃花出現 <br />水瓶：有長輩貴人欣賞創意，感情上有機會見家長</p>"
@@ -608,7 +563,6 @@ category = []
 [jst00491]
 name = "EP311 九宮飛星，星盤中藏不住的幸運"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cluwi2gcp0fuj01vv7xga9tyf/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcluwi2gcp0fuk01vvag0mhzw0.mp3?v=1712916233154"
-apple = "https://podcasts.apple.com/tw/podcast/ep311-%E4%B9%9D%E5%AE%AE%E9%A3%9B%E6%98%9F-%E6%98%9F%E7%9B%A4%E4%B8%AD%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%B9%B8%E9%81%8B/id1536374746?i=1000652241550"
 spotify = "https://open.spotify.com/episode/09MWIbJR2GodXtiVV26kXp"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>「飛星系列」又來了，終於 <br />這次是9宮飛星，這個連結到理念、理想跟信念等，看似抽象又高遠的宮位，也是我們「得到幸運」的地方喔 <br />為什麼會幸運？因為那也是我們有自信能貫徹理念之處，不知道哪來的信心（神給的吧），竟也能一路過關斬將，往目標挺進，這也是為什麼…會有點孤傲臭屁，藏不住跩樣，這年頭，恩，還是慎之吧🤣 <br />也要偷偷告訴大家，９宮飛星，也是你「有獨特魅力」的地方喔😉，進來瞭解一下吧！ <br /> <br />EP311菜單： <br />9宮展現此生最強信念 <br />9飛1想幸運就勇敢做自己 <br />9飛2磨難多但總被眷顧 <br />大家都想聽9飛3說話 <br />9飛4家中的特殊存在 <br />永遠C位的9飛5 <br />努力的9飛6幸運加倍</p>"
@@ -619,7 +573,6 @@ category = []
 [jst00490]
 name = "EP310 保持焦慮是有野心的表現？"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clus6ttvt00y001v6dqvb0wej/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclus6ttvt00y101v6a4pj6wlb.mp3?v=1712716377124"
-apple = "https://podcasts.apple.com/tw/podcast/ep310-%E4%BF%9D%E6%8C%81%E7%84%A6%E6%85%AE%E6%98%AF%E6%9C%89%E9%87%8E%E5%BF%83%E7%9A%84%E8%A1%A8%E7%8F%BE/id1536374746?i=1000651875987"
 spotify = "https://open.spotify.com/episode/146nk3vQjDAAmbidXkB99P"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>來談談焦慮 <br />如果你時常感到焦慮，覺得自己要三十歲了覺得徬徨，快四十歲了感覺焦慮，其實也正常，幸好有年齡數字擺在那裡提醒我們，不然還真以為永遠都是十五歲呢XD <br />所以意識到年齡，就算會焦慮，我覺得也不是壞事 <br />會焦慮，也意味我們「對自己的成長還不夠滿意」，也不想滿足於現狀，其實是逼自己生出力量，去改變現狀。 <br />你靈魂挺有野心啊，不想你只過小日子。 <br />所以有不滿意，代表你覺得自己可以更好，對自己有所期待，對生命還有盼望。（哎呦被我講得好正能量XD） <br />請好好跟焦慮夠通，讓焦慮成為成長的養份吧。 <br /> <br />今天podcast聊長大焦慮，你覺得自己有長大嗎？必須說，活到這把年紀我都不確定自己到底長大沒，但我有轉化焦慮的經驗，這集就把療癒的方式送給大家。 <br /> <br />#有療癒就會變美喔😆</p>"
@@ -630,7 +583,6 @@ category = []
 [jst00489]
 name = "【本週提醒】主動迎來改變吧！"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clumvmjhj0jyb011wg27x99y8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclumvmjhj0jyc011w4anv8b9u.mp3?v=1712334300805"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E4%B8%BB%E5%8B%95%E8%BF%8E%E4%BE%86%E6%94%B9%E8%AE%8A%E5%90%A7/id1536374746?i=1000651675606"
 spotify = "https://open.spotify.com/episode/5hVA6DgUk9Nhbg4jrGhZTm"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽4/8-4/14星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】巨蟹 獅子 處女 雙魚 <br /> <br />巨蟹：可能遇到難溝通的女性，感情相處別太尖銳 <br />獅子：工作忙著交際應酬，感情當心爛桃花來亂 <br />處女：檢視目標調整步伐，感情也需校正與調整 <br />雙魚：工作要注意小細節，感情請化干戈為玉帛 <br /> <br />【穩的】牡羊 雙子 天秤 魔羯 <br /> <br />牡羊：工作卡關須從長計議，感情選擇要仔細分辨 <br />雙子：容易覺得被忽略，感情上花點時間獨處 <br />天秤：適合交流有討論有進步，感情能面對現實溝通 <br />魔羯：長官的意見請好好參考，感情的掌控欲要注意 <br /> <br />【讚的】金牛 天蠍 射手 水瓶&nbsp; <br /> <br />金牛：直覺能力強有如神助，感情別選到爛桃花 <br />天蠍：工作凡事配合就對了，感情要安撫另一半 <br />射手：工作上收到回報與感謝，感情要兌現承諾 <br />水瓶：把握機會修補缺失，感情有機會復合</p>"
@@ -641,7 +593,6 @@ category = []
 [jst00488]
 name = "EP309 金星進牡羊，你的水逆救生圈"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cluiaevs000kc010vg0zf7quz/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcluiaevs000kd010v5l452z3q.mp3?v=1712056854774"
-apple = "https://podcasts.apple.com/tw/podcast/ep309-%E9%87%91%E6%98%9F%E9%80%B2%E7%89%A1%E7%BE%8A-%E4%BD%A0%E7%9A%84%E6%B0%B4%E9%80%86%E6%95%91%E7%94%9F%E5%9C%88/id1536374746?i=1000651178684"
 spotify = "https://open.spotify.com/episode/7eoIGBGecA9lGJbEhVAwlS"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>本集乾爹【光茵樂活】 <br /> <br />【光茵樂活】機能銀耳飲—不只有料！更有內涵！ <br />科技環控栽培，每一口都吃得到整朵鮮銀耳，機能添加更有體感 <br />新口味「双纖鮮銀耳」 極致順暢，不容錯過 !! <br />⭐熱量僅65大卡，L-阿拉伯糖添加，低GI更健康 <br />⭐每天2罐，輕鬆滿足80%膳食纖維所需 <br />⭐双纖淨順暢，養成健康體質基礎 <br />4/1-4/10官網婦幼展聯慶 優惠好禮拿不完  <br />4/4-4/7台北婦幼展【免費試飲】，還有多款好禮等著你!! <br />線上連結 https://nanobiolight.us/5ToCE <br />- <br />水逆在牡羊感覺不順，吉祥的金星也在不久(4/5)進入牡羊。 <br />所以是會順還是不順XD？ <br />這個清明連假，心情也會跟著三溫暖一下就對了♨️（連天氣也是） <br />說到最近星象，諸星進牡羊會如何？水逆牡羊讓我們後悔衝動，那金星牡羊會怎麼讓「衝動」變美事？該不會水逆讓人跌一跤，金星卻讓人「跌得很漂亮」吧👏🏻 <br />( 沒錯，該跌還是會跌喔😂) <br />今天主聊金星，進的宮位不同，12星座「遇難成祥」的地方也不同，想知道自己哪方面這麼有戲嗎？ <br />一起來聽聽看吧 <br /> <br />EP309菜單：&nbsp; <br />牡羊一點點就影響全局 <br />想變美能得償所願的星座 <br />射手碰上天菜對象 <br />天秤水逆在夫妻宮 <br />雙魚巨蟹荷包受到挑戰 <br />天蠍想把混亂一次大整理 <br />積極起來的金牛運很好</p>"
@@ -652,7 +603,6 @@ category = []
 [jst00487]
 name = "【本週提醒】讓子彈飛一會，不要太快反應⚡️"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cluebz4zn0hmn01x19xj1f8ro/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcluebz4zo0hmo01x10oxcepzo.mp3?v=1711817569092"
-apple = "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E9%80%B1%E6%8F%90%E9%86%92-%E8%AE%93%E5%AD%90%E5%BD%88%E9%A3%9B%E4%B8%80%E6%9C%83-%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%BF%AB%E5%8F%8D%E6%87%89/id1536374746?i=1000650980471"
 spotify = "https://open.spotify.com/episode/1fr5xM2KypVbE73rsqdMci"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>【唐綺陽4/1-4/7星座運勢週報】 <br /> <br />★對12星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子 處女 魔羯 水瓶 <br /> <br />雙子：事情停頓要有耐心，感情有時多說多錯 <br />處女：溝通容易卡頓不順，感情表達太含蓄了 <br />魔羯：直覺不妙就先等等，感情請多給點反應 <br />水瓶：當心太疏離讓人失望，感情適合斷捨離 <br /> <br />【穩的】金牛 巨蟹 天秤 射手 <br /> <br />金牛：太投入會過度消耗，感情避免太強勢 <br />巨蟹：選擇困難找人理性判斷，有行動才有桃花 <br />天秤：合作協商有發展性，感情別被工作佔據 <br />射手：與夥伴溝通要有技巧，感情的意見紛歧有殺傷力 <br /> <br />【讚的】牡羊 獅子 天蠍 雙魚 <br /> <br />牡羊：態度柔軟成效佳，桃花靠朋友介紹更好 <br />獅子：升官揚名有奇怪貴人，專業特色更吸引桃花 <br />天蠍：工作要對事不對人，桃花有自信就能開花 <br />雙魚：工作棋逢對手更順利，感情表達當心太犀利</p>"
@@ -663,7 +613,6 @@ category = []
 [jst00486]
 name = "EP308 感情不順都是肝的問題？ft.簡少年"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cluccu3jk0a1701x7fu70fnsr/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcluccu3jk0a1801x7bzdx0i70.mp3?v=1711698130742"
-apple = "https://podcasts.apple.com/tw/podcast/ep308-%E6%84%9F%E6%83%85%E4%B8%8D%E9%A0%86%E9%83%BD%E6%98%AF%E8%82%9D%E7%9A%84%E5%95%8F%E9%A1%8C-ft-%E7%B0%A1%E5%B0%91%E5%B9%B4/id1536374746?i=1000650824762"
 spotify = "https://open.spotify.com/episode/13fLQwBdcYMEzdwl1yBFSH"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>今天podcast，除了聽占星還可以聊紫微，有趣的簡少年來啦！ <br />有沒有覺得最近到處都能看到他？身為雙子座，他的確能說會道，但也讓人好奇，私下的他，是怎樣的人，訪談過程中意外得知「他竟然信過三種宗教」，哇，那他是幾宮人很明顯了吧？ <br />我喜歡雙子靈活的腦袋，由他來對傳統看法給出新詮釋、新觀點，刷新我們看世界的角度，這是我最愛的，就像他會說，感情不順都是肝的問題，肝不好，感情就不會好...... <br />呃，我是不是該早點睡了呢？（強烈懷疑他是為了推廣早睡xd）&nbsp; <br />信奉道教「命運由我不由天」的簡少年，這集也小聊他認為的改運方法，跟人生的傳奇遭遇，一起來認識這位有趣的雙子男。 <br />（最可怕的是，他幫我看盤的結果，說我九十幾才會退休😱.... 好的，只好從現在起小心使用身體零件了）。 <br /> <br />EP308菜單： <br />9宮神秘的海外運 <br />肝好不好決定桃花 <br />黑人也可以看面相 <br />長生不老的秘密 <br />祖先療癒法 <br />洩漏天機的代價 <br />客死他鄉=得到綠卡 <br />福德宮的力量</p>"
@@ -674,7 +623,6 @@ category = []
 [jst00485]
 name = "EP307 12星座男的戀愛空間"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/clu86q4m702tb012c3a6z39is/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fclu86q4m702tc012c6roo1v7h.mp3?v=1711445995373"
-apple = "https://podcasts.apple.com/tw/podcast/ep307-12%E6%98%9F%E5%BA%A7%E7%94%B7%E7%9A%84%E6%88%80%E6%84%9B%E7%A9%BA%E9%96%93/id1536374746?i=1000650471319"
 spotify = "https://open.spotify.com/episode/0HKleXlWZFW6WoInhPC2mz"
 image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
 description = "<p>戀愛中給的空間有多大=有多愛？ <br />不盡然喔～ <br />有些星座戀愛時愛搞消失，但他還是愛你。有些星座則需要一天18小時黏TT 才覺得有愛(睡著除外)😉 <br />12星座男戀愛空間鬆緊不一，你身邊的他是脫韁野馬型，還是形影不離型？ 看懂這些空間背後的密語 <br />鬆弛有度，戀愛相處更自在順利喔，來聽這集吧 <br /> <br />EP307菜單：&nbsp; <br />放金牛吃草也不會跑 <br />靠獨處充電的天秤 <br />雙子的你追我跑 <br />不理他他越愛你的星座 <br />發電機星座男必須列管 <br />魔羯憨厚外表下有顆想壞壞的心 <br />跟牡羊男相處像養狗 <br />獅子男可以黏但不能管</p>"

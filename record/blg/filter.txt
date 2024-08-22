@@ -333,7 +333,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (273)
+  found in: (274)
+    blg00831
     blg00828
     blg00825
     blg00822
@@ -1281,6 +1282,12 @@ Process: record/blg/keyword-6-beta.toml
     blg00650
     blg00509
     blg00223
+  Excluded: (0)
+    
+[蔡阿嘎]
+  found in: (2)
+    blg00831
+    blg00669
   Excluded: (0)
     
 [邱 grr]
