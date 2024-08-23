@@ -101,6 +101,12 @@ Process: record/asc/keyword-1-guest.toml
     asc00024
   Excluded: (0)
     
+[人類圖]
+  found in: (2)
+    asc00123
+    asc00086
+  Excluded: (0)
+    
 [夢]
   found in: (6)
     asc00087
