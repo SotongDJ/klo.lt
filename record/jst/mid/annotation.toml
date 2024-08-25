@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00549]
+name = "【本週提醒】過去有什麼不足的，這週可以來好好補補"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm09ni5y9002q01w3a880fazi/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm09ni5y9002r01w38aq0dzpv.mp3?v=1724595296643"
+spotify = "https://open.spotify.com/episode/6MNPe4UygFkR7KicUUSgvk"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽8/26-9/1星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 金牛 巨蟹 雙魚 <br /> <br />牡羊：資源缺乏向現實低頭，感情要多了解對方 <br />金牛：暗潮洶湧別太自我，感情陷入懷疑別玩火 <br />巨蟹：工作上別在意流言紛擾，感情要當心犯小人 <br />雙魚：要睜亮眼睛判斷周遭變數，感情當心爛桃花 <br /> <br />【穩的】雙子 獅子 處女 魔羯 <br /> <br />雙子：工作上別太獨斷，感情太強勢容易起紛爭 <br />獅子：工作上別被細節卡住，感情上別太多自責 <br />處女：溝通傳話好內傷，感情當心小吵變大吵 <br />魔羯：工作多溝通才能順利，感情有點貌合神離 <br /> <br />【讚的】天秤 天蠍 射手 水瓶 <br /> <br />天秤：合作運佳人見人愛，善良個性吸引桃花 <br />天蠍：順風順水受表揚，感情上散發無比魅力 <br />射手：工作上機會多需抉擇，感情兩難多聽聽對方意見 <br />水瓶：工作砸下重金賺名聲，感情運旺別亂玩 <br /></p>"
+names = ["【本週提醒】過去有什麼不足的，這週可以來好好補補"]
+tag = ["Aug 25, 2024", "Aug 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00548]
 name = "EP349練就幸運的能力ft陳月卿"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm06f17nb07l701ws7ebfcic8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm06f17nb07l801wsaifq82li.mp3?v=1724399689924"
