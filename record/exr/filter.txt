@@ -1,19 +1,5 @@
 ----
 Start annotation
 Process: record/exr/keyword-0.toml
-[陰陽眼]
-  found in: (2)
-    exr00002
-    exr00001
-  Excluded: (0)
-    
-[冊封儀式]
-  found in: (4)
-    exr00112
-    exr00113
-    exr00114
-    exr00115
-  Excluded: (0)
-    
     ----
 End annotation
