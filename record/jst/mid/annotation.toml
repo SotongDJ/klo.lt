@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00552]
+name = "【本週提醒】天王星正式逆行，該為怪怪的地方做出調整囉！"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm0jo8gt2001k01u3496iar2u/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm0jo8gt2001l01u35aosg65h.mp3?v=1725201183043"
+spotify = "https://open.spotify.com/episode/7dsIRl6qrvbEPH1o0UBu3u"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽9/2-9/8星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子 獅子 射手 雙魚 <br /> <br />雙子：資源沒到要再等一下，感情相處少有點遺憾 <br />獅子：海外相關要辛苦配合，感情需用心協調一下 <br />射手：要注意身心健康，感情的問題能水落石出 <br />雙魚：提出請求要更明顯一點，感情有些陰錯陽差 <br /> <br />【穩的】巨蟹 處女 天蠍 魔羯 <br /> <br />巨蟹：週四以後柳暗花明，感情別太被動要突破它 <br />處女：因隊友散漫而激發潛能，感情可多主動關心 <br />天蠍：凡事降低標準較快樂，感情覺得沒那麼完美 <br />魔羯：進度被卡住有點悶，感情不想讓步僵持中 <br /> <br />【讚的】牡羊 金牛 天秤 水瓶 <br /> <br />牡羊：有想法有方向貴人運佳，感情當心別太自我 <br />金牛：工作穩紮穩打就能豐收，感情稍微欠缺浪漫 <br />天秤：維持人和工作更加分，感情來點撒嬌更好命 <br />水瓶：適合幕後默默推動，感情周遭的人都喜歡你 <br /></p>"
+names = ["【本週提醒】天王星正式逆行，該為怪怪的地方做出調整囉！"]
+tag = ["Sep 01, 2024", "Sep 2024", "2024", "本週提醒", "天王星"]
+category = ["運勢", "星象"]
+
 [jst00551]
 name = "EP351 居然有深情款雙子座ft. Jeffrey"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm0gj7ih705b601tect6ra9yb/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm0gj7ih705b701te185y84dr.mp3?v=1725011381066"
