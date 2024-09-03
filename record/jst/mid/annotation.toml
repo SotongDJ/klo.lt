@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00553]
+name = "EP352 12星座是哪款員工（不要讓主管聽）"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm0ky130j00ft01u20xghb7w4/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm0ky130j00fu01u2f7ls08zd.mp3?v=1725278160608"
+spotify = "https://open.spotify.com/episode/5eAxKONC1fEbOkjoalIu5w"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>上次講（罵）完12星座主管，這次來聊（不是罵）「12星座員工」吧，你是哪款員工呢？ <br />畢竟，每個人都有當員工的經驗，有人苦幹實幹，也有人很會做人、或者以機伶著稱，大家都有自己的生存之道啊 <br />既然每個人都有優點、缺點，就藉著這集，找找自己的盲點吧～ <br /> <br />EP352 菜單： <br />跟火象員工要用漢堡溝通法 <br />獅子成功前都很謙虛 <br />射手是職場發電機 <br />雙子看人辦事？ <br />主管要讓天秤心服口服 <br />誇獎水瓶他沒表情，但他會暗爽 <br />金牛的身體舒適很重要 <br />魔羯可以每天100分 <br />企業最不愛用水象？ <br />雙魚把運氣用在自己身上比較好</p>"
+names = ["EP352 12星座是哪款員工（不要讓主管聽）"]
+tag = ["Sep 03, 2024", "Sep 2024", "2024"]
+category = []
+
 [jst00552]
 name = "【本週提醒】天王星正式逆行，該為怪怪的地方做出調整囉！"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm0jo8gt2001k01u3496iar2u/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm0jo8gt2001l01u35aosg65h.mp3?v=1725201183043"
