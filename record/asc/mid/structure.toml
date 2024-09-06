@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[asc00125]
+name = "EP95｜靈性的生活指南"
+feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/ef1e225e-c529-4829-a257-fd6d44e09897/rssFileVip.mp3?timestamp=1725601817967"
+spotify = "https://open.spotify.com/episode/4RGUnXyZvJnm7tdjVTljTd"
+youtube = "https://www.youtube.com/watch?v=bQSc4kY3EjE"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "你上一次好好享受自己的一切是什麼時候？ \n我指的享受不是只有快樂愉悅這類的情緒 \n而是體驗一切發生在自己身上的事 \n  \n我今天想好好讀一本書，我想看一部電影 \n我想睡好一覺，我想告訴我愛的人我有多愛他們 \n我想沈浸式體驗人生就是所謂的靈性生活吧 \n  \n如果準備好了，那我們一起去大草原吧！ \n  \n所有平台連結在這 ➡️ <a href=\"https://linktr.ee/ascended_928\">https://linktr.ee/ascended_928</a> \n工作請洽 ➡️ shensiantutoring@gmail.com \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP95｜靈性的生活指南"]
+tag = ["Sep 06, 2024", "Sep 2024", "2024"]
+category = []
+
 [asc00124]
 name = "EP94｜丹霖療室 溫柔生產陪產員 ft.Naphy"
 feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/1416c913-b39a-4964-9e66-9961cd0bbc12/rssFileVip.mp3?timestamp=1725010729916"
