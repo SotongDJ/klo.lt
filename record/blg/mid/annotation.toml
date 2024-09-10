@@ -1,13 +1,15 @@
 # Add your own tag to each episode
 
 [blg00839]
-name = "超認真少年"
-feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15726548-.mp3"
+name = "The KK Show - 273 超認真少年"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/15726548-the-kk-show-273.mp3"
+spotify = "https://open.spotify.com/episode/3GcWoOXoHFT6zWZHX1gj7j"
+youtube = "https://www.youtube.com/watch?v=MEZRAYjHd_s"
 image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
-description = "<p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
-names = ["超認真少年"]
-tag = ["Sep 10, 2024", "Sep 2024", "2024"]
-category = []
+description = "<p>今天邀請到超認真少年的阿仔師，他帶了一整組的茶具來跟我們邊喝邊聊，剛開場的話題就一直挖洞給自己跳，不愧是做工程出來的真的很會挖。他也分享了從國中時期開始踏入工地，到如今成為工業顧問的心路歷程，以及如何打入國際市場，讓全球看見台灣的工業技術，讓人深刻感受到他對工業技術的熱情與專業。</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 273 超認真少年"]
+tag = ["Sep 10, 2024", "Sep 2024", "2024", "KK Show"]
+category = ["#節目系列"]
 
 [blg00838]
 name = "百靈果NEWS｜凱莉被自己笨哭，韓國20萬人的變態聊天室，美國右派媒體被俄國滲透"
