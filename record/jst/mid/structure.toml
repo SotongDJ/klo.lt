@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00556]
+name = "EP354 不靠長相的桃花王"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm0w8482v005w01uyfjxd7qtf/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm0w8482v005x01uy2x3c3gm9.mp3?v=1725960203885"
+spotify = "https://open.spotify.com/episode/3dJ2rXzNj0uo0KF7846XNO"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>令人五味雜陳的排行榜….. <br />來聊「不靠長相的桃花王」（有人想上榜嗎XDD） <br />看似貌不驚人，桃花卻一個接一個從來沒斷過，有這種人嗎？如果有，那真是高手在民間，不靠長相就實力堅強，值得學習😍 <br />到底他們憑啥擄獲桃花？想知道自己星座有沒有上榜，來聽這集吧！ <br /> <br />EP354菜單：&nbsp; <br />雙子有空窗期但不多 <br />跟這星座聊過天就淪陷 <br />穿再樸素都性感的天Ｘ座 <br />腦子很性感的星座 <br />唐老師年輕時是小（桃）辣（花）妹（王） <br />小30歲的鮮肉 <br />金星天秤讓人舒服 <br />星盤中有五宮的桃花旺</p>"
+names = ["EP354 不靠長相的桃花王"]
+tag = ["Sep 10, 2024", "Sep 2024", "2024"]
+category = []
+
 [jst00555]
 name = "【本週提醒】敏感的一週，與其槓上，各退一步比較好"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm0s9ff1c004f01w5h9aug57i/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm0s9ff1c004g01w5bmg4en8x.mp3?v=1725720513868"
