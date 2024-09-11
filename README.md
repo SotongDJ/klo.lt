@@ -19,29 +19,31 @@ This project is integrated from the following projects:
 
 ### 活躍 podcast
 
+- 《神仙補習班》🚀
+  - <https://instagram.com/ascended_928/>
 - Bailingguo 👌
   - <https://www.bailingguonews.com/>
-- 《潤男的Room》💦 **#**
-  - <https://instagram.com/wetboy_tw/>
+- 《唐陽雞酒屋》🪐 **#**
+  - <https://jessetang11.firstory.io/>
 - 《法客電台》📻 **#**
   - <https://plainlaw.firstory.io/>
 - 《一百趴沈》💯 **#**
   - <https://instagram.com/pws_cupid/>
-- 《唐陽雞酒屋》🪐 **#**
-  - <https://jessetang11.firstory.io/>
-- 《神仙補習班》🚀
-  - <https://instagram.com/ascended_928/>
+- 《潤男的Room》💦 **#**
+  - <https://instagram.com/wetboy_tw/>
 
 ### 停更 podcast
 
-- 眼球地下電台 👁 **#**
-  - <https://instagram.com/eyexradio/>
 - 《零捌歐北共》📢 **#**
   - <https://www.youtube.com/playlist?list=PLIjpwRtLsLapFaR8rC8yR_aSA9BcglKV->
-- 《網紅 No Filter》📼 **#**
-  - <https://instagram.com/veve.tw/>
+- 演員的副業 🎭 **#**
+  - <https://www.instagram.com/actoryaoshow/>
+- 眼球地下電台 👁 **#**
+  - <https://instagram.com/eyexradio/>
 - 《涵酸電波》📡 **#**
   - <https://www.youtube.com/@hansuandenpa>
+- 《網紅 No Filter》📼 **#**
+  - <https://instagram.com/veve.tw/>
 
 # LICENSE
 
@@ -53,24 +55,25 @@ This project is integrated from the following projects:
 ## Planning
 
 - Podcast to include
-  - [x] `wbr` 潤男的Room  **#**
+  - [x] `08c` 零捌歐北共  **#**
+  - [x] `ays` 演員的副業
+  - [ ] `fnf` 新資料夾 - 呱吉  **#**
+  - [x] `hsd` 涵酸電波  **#**
+  - [x] `inf` 《網紅 No Filter》 **#**
   - [x] `plr` 法客電台  **#**
   - [x] `pws` 一百趴沈  **#**
-  - [x] `08c` 零捌歐北共  **#**
-  - [x] `inf` 《網紅 No Filter》 **#**
-  - [x] `hsd` 涵酸電波  **#**
-  - [x] `ays` 演員的副業
-  - [ ] `twc` 台灣通勤第一品牌
+  - [x] `wbr` 潤男的Room  **#**
   - [ ] `bts` 博音
-  - [ ] `fnf` 新資料夾 - 呱吉
-  - [ ] `stp` 三尼巴掌
+  - [ ] `ct4` 娛人的喜劇日常
   - [ ] `fcf` 斐姨所思
   - [ ] `nkw` 嗚喵備忘錄
+  - [ ] `stp` 三尼巴掌
   - [ ] `tts` 瘋女人聊天室
+  - [ ] `twc` 台灣通勤第一品牌
 - Functions
   - [ ] Able to customize playback queue
   - [ ] Able to mixed episode among different podcasts
   - [ ] Able to download episode for offline playback
-    - use browser to cache podcast and manage downloaded content are too complicated
+    - [ ] use browser to cache podcast and manage downloaded content are too complicated
 
 **#** *W.I.P. - no full support keyword*
