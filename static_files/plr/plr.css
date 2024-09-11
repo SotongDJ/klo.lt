@@ -60,3 +60,8 @@
 --oddc:hsl(195, 100%,  24%);
 --evnc:hsl(195, 100%,  12%);
 }
+.topEmoji{
+font-family:"Noto Emoji";
+display:inline-block;
+/* transform:matrix(-1, 0, 0, 1, 0, 0); */
+}

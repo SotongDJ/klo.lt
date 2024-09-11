@@ -1,5 +1,5 @@
 // reference: https://github.com/mdn/sw-test
-const currentVersion = 'v01r00027';
+const currentVersion = 'v01r00028';
 const addResourcesToCache = async (resources) => {
     const cache = await caches.open(currentVersion);
     await cache.addAll(resources);
