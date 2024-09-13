@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[asc00126]
+name = "EP96 | 環島之旅與夏威夷療法"
+feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/5d3de68f-683c-49db-b21b-d63cf3da1e15/rssFileVip.mp3?timestamp=1726206617652"
+spotify = "https://open.spotify.com/episode/0iRxDwj79SQ74WNY9HpPfZ"
+youtube = "https://www.youtube.com/watch?v=lZK9V3R1Krw"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "這集有大家期待的擺馬 請記得聽到最後🐎 \n  \n既生活在寶島上 何不多多體驗？ \n東部人民環島旅行之進香團活動 \n雖然不是第一次環島 但次次有驚喜 \n果然一個快樂的旅程都會讓人想不斷分享！ \n夏威夷療法是丹丹認證愛的解毒劑 \n大家聽完之後 有試過的也跟我們分享吧～ \n  \n本集節目因小仙女燒聲所以沒有QA \n對不起 請原諒我 謝謝你 我愛你🥰 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP96 | 環島之旅與夏威夷療法"]
+tag = ["Sep 13, 2024", "Sep 2024", "2024"]
+category = []
+
 [asc00125]
 name = "EP95｜靈性的生活指南"
 feed = "https://chrt.fm/track/A9325E/rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/ef1e225e-c529-4829-a257-fd6d44e09897/rssFileVip.mp3?timestamp=1725603824293"
