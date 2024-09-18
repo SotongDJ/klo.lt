@@ -353,7 +353,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [獅子座]
-  found in: (4)
+  found in: (5)
+    jst00559
     jst00533
     jst00532
     jst00523
