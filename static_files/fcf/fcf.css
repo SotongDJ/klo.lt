@@ -1,0 +1,67 @@
+.neutral {
+--clr1:hsl(  0,   0%, 100%);
+--clr4:hsl( 32, 100%,  98%);
+--clr5:hsl( 32, 100%,  97%);
+--clr6:hsl( 32,  92%,  90%);
+--clr7:hsl( 32,  89%,  74%);
+--clr8:hsl( 32,  57%,  55%);
+--clr0:hsl( 32,  65%,  46%);
+--clr2:hsl(  0,   0%,  20%);
+--clr3:hsl(  0,   0%,   0%);
+--clr9:hsl(  0,   0%,   0%);
+--clra:hsl( 32,   0%,  90%);
+--oddc:hsl( 32,  92%,  90%);
+--evnc:hsl( 32, 100%,  97%);
+}
+@media (prefers-color-scheme:dark) {
+.neutral {
+--clr1:hsl(  0,   0%,   0%);
+--clr4:hsl( 32, 100%,   6%);
+--clr5:hsl( 32, 100%,  12%);
+--clr6:hsl( 32, 100%,  24%);
+--clr7:hsl( 32, 100%,  35%);
+--clr8:hsl( 32, 100%,  47%);
+--clr0:hsl( 32, 100%,  24%);
+--clr2:hsl(  0,   0%,  60%);
+--clr3:hsl(  0,   0%,  80%);
+--clr9:hsl(  0,   0%, 100%);
+--clra:hsl( 32,   0%,  35%);
+--oddc:hsl( 32, 100%,  24%);
+--evnc:hsl( 32, 100%,  12%);
+}
+}
+.light {
+--clr1:hsl(  0,   0%, 100%);
+--clr4:hsl( 32, 100%,  98%);
+--clr5:hsl( 32, 100%,  97%);
+--clr6:hsl( 32,  92%,  90%);
+--clr7:hsl( 32,  89%,  74%);
+--clr8:hsl( 32,  57%,  55%);
+--clr0:hsl( 32,  65%,  46%);
+--clr2:hsl(  0,   0%,  20%);
+--clr3:hsl(  0,   0%,   0%);
+--clr9:hsl(  0,   0%,   0%);
+--clra:hsl( 32,   0%,  90%);
+--oddc:hsl( 32,  92%,  90%);
+--evnc:hsl( 32, 100%,  97%);
+}
+.dark {
+--clr1:hsl(  0,   0%,   0%);
+--clr4:hsl( 32, 100%,   6%);
+--clr5:hsl( 32, 100%,  12%);
+--clr6:hsl( 32, 100%,  24%);
+--clr7:hsl( 32,  57%,  55%);
+--clr8:hsl( 32,  65%,  46%);
+--clr0:hsl( 32, 100%,  24%);
+--clr2:hsl(  0,   0%,  60%);
+--clr3:hsl(  0,   0%,  80%);
+--clr9:hsl(  0,   0%, 100%);
+--clra:hsl( 32,   0%,  35%);
+--oddc:hsl( 32, 100%,  24%);
+--evnc:hsl( 32, 100%,  12%);
+}
+.topEmoji{
+font-family:"Noto Emoji";
+display:inline-block;
+/* transform:matrix(-1, 0, 0, 1, 0, 0); */
+}
