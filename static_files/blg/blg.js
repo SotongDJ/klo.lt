@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="BLG";
 document.getElementById("sitleSec").href="https://www.bailingguonews.com/";
 document.getElementById("sitleSec").title="Bailingguo News 百靈果 News";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=true;

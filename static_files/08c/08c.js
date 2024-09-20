@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="08C";
 document.getElementById("sitleSec").href="https://www.youtube.com/playlist?list=PLIjpwRtLsLapFaR8rC8yR_aSA9BcglKV-";
 document.getElementById("sitleSec").title="零捌歐北共";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=true;

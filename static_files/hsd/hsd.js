@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="HSD";
 document.getElementById("sitleSec").href="https://www.youtube.com/@hansuandenpa";
 document.getElementById("sitleSec").title="《涵酸電波》";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=true;

@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="JST";
 document.getElementById("sitleSec").href="https://jessetang11.firstory.io/";
 document.getElementById("sitleSec").title="唐陽雞酒屋";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=true;

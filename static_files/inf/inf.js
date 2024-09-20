@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="INF";
 document.getElementById("sitleSec").href="https://instagram.com/veve.tw/";
 document.getElementById("sitleSec").title="網紅 No Filter";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=true;

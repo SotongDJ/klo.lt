@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="PLR";
 document.getElementById("sitleSec").href="https://plainlaw.firstory.io/";
 document.getElementById("sitleSec").title="《法客電台》";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=true;

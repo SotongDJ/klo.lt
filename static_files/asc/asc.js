@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="ASC";
 document.getElementById("sitleSec").href="https://instagram.com/ascended_928/";
 document.getElementById("sitleSec").title="神仙補習班";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=true;

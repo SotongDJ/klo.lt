@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="EXR";
 document.getElementById("sitleSec").href="https://instagram.com/eyexradio/";
 document.getElementById("sitleSec").title="眼球地下電台";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=true;

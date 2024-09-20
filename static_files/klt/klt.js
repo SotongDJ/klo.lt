@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="ALL";
 document.getElementById("sitleSec").href="https://xn--2os22eixx6na.xn--kpry57d/category/KLOLT/";
 document.getElementById("sitleSec").title="所有";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=false;

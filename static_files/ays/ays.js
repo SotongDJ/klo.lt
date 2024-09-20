@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="AYS";
 document.getElementById("sitleSec").href="https://instagram.com/ascended_928/";
 document.getElementById("sitleSec").title="演員的副業";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=false;

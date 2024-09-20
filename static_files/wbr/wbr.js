@@ -16,7 +16,7 @@ document.getElementById("sitleESpan").innerText="WBR";
 document.getElementById("sitleSec").href="https://instagram.com/wetboy_tw/";
 document.getElementById("sitleSec").title="《潤男的Room》";
 
-show_apple=true;
+show_apple=false;
 show_google=false;
 show_spotify=true;
 show_youtube=false;
