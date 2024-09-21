@@ -145,7 +145,7 @@ jobs:
         run: |
           echo git_status: ${{ steps.check_git_status.outputs.git_status }}
           git add -A
-          git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" [bot action]"
+          git commit -S -m "___ RSS FEED UPDATE "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" #bot_action"
           git push https://${{ secrets.PAT }}@github.com/SotongDJ/klo.lt.git
       - name: Echo status
         run: |
