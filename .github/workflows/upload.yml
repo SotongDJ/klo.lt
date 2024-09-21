@@ -1,19 +1,29 @@
-name: Semi-automatically update podcast content to Pages
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
 
 on:
+  # Runs on pushes targeting the default branch
+  # push:
+  #   branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  Initial:
+  # Single deploy job since we're just deploying
+  deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -35,169 +45,12 @@ jobs:
         run: |
           7z x ./klolt_docs.7z
           rm -v ./klolt_docs.7z
-      - name: Pull records
-        run: |
-          rsync -Prc /mnt/sd3/record/klo.lt/record/blg/record ./record/blg/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/exr/record ./record/exr/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/jst/record ./record/jst/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/asc/record ./record/asc/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/ays/record ./record/ays/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/08c/record ./record/08c/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/inf/record ./record/inf/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/hsd/record ./record/hsd/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/pws/record ./record/pws/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/plr/record ./record/plr/
-          rsync -Prc /mnt/sd3/record/klo.lt/record/wbr/record ./record/wbr/
-      - name: record
+      - name: Deploy statics
         run: |
           rsync -Prc ./static_files/* ./docs/
-      - name: check py requirements
-        run: |
-          pip3 install -r requirements.txt
-      - name: Update rss - prepare Spotify
-        env:
-          SPT_ID: ${{ secrets.spotify_client_id }}
-          SPT_SC: ${{ secrets.spotify_client_secret }}
-        run: |
-          python3 secret.py --spotify_id "$SPT_ID" --spotify_secret "$SPT_SC"
-  Update:
-    needs: Initial
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: self-hosted
-    steps:
-      - name: Update rss - update BLG
-        run: |
-          python3 update.py blg
-          sleep 10
-      - name: Update rss - update EXR
-        run: |
-          python3 update.py exr
-          sleep 8
-      - name: Update rss - update JST
-        run: |
-          python3 update.py jst
-          sleep 9
-      - name: Update rss - update AYS
-        run: |
-          python3 update.py ays
-          sleep 5
-      - name: Update rss - update ASC
-        run: |
-          python3 update.py asc
-          sleep 7
-      - name: Update rss - update 08C
-        run: |
-          python3 update.py 08c
-          sleep 6
-      - name: Update rss - update inf
-        run: |
-          python3 update.py inf
-          sleep 9
-      - name: Update rss - update hsd
-        run: |
-          python3 update.py hsd
-          sleep 8
-      - name: Update rss - update pws
-        run: |
-          python3 update.py pws
-          sleep 10
-      - name: Update rss - update plr
-        run: |
-          python3 update.py plr
-          sleep 7
-      - name: Update rss - update wbr
-        run: |
-          python3 update.py wbr
-          sleep 6
-      - name: Merge feed source
-        run: |
-          python3 merge.py blg
-          python3 merge.py exr
-          python3 merge.py jst
-          python3 merge.py asc
-          python3 merge.py ays
-          python3 merge.py 08c
-          python3 merge.py inf
-          python3 merge.py hsd
-          python3 merge.py pws
-          python3 merge.py plr
-          python3 merge.py wbr
-      - name: Annotate feed with various info
-        run: |
-          python3 annotate.py blg > record/blg/filter.txt
-          python3 annotate.py exr > record/exr/filter.txt
-          python3 annotate.py jst > record/jst/filter.txt
-          python3 annotate.py asc > record/asc/filter.txt
-          python3 annotate.py ays > record/ays/filter.txt
-          python3 annotate.py 08c > record/08c/filter.txt
-          python3 annotate.py inf > record/inf/filter.txt
-          python3 annotate.py hsd > record/hsd/filter.txt
-          python3 annotate.py pws > record/pws/filter.txt
-          python3 annotate.py plr > record/plr/filter.txt
-          python3 annotate.py wbr > record/wbr/filter.txt
-      - name: Export feed into js file
-        run: |
-          touch docs/klt-playlist.json
-          touch docs/klt-tag_class.json
-          touch docs/klt-class_tag.json
-          rm -v docs/klt-playlist.json docs/klt-tag_class.json docs/klt-class_tag.json
-          python3 export.py blg `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py exr `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py jst `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py asc `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py ays `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py 08c `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py inf `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py hsd `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py pws `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py plr `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-          python3 export.py wbr `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
-  Deploy:
-    needs: Update
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: self-hosted
-    steps:
-      - name: Setup git config
-        env:
-          EMAIL: ${{ secrets.email }}
-          KEY: ${{ secrets.key }}
-        run: |
-          git config user.name "RSS Update Bot"
-          git config user.email "$EMAIL"
-          git config user.signingkey "$KEY"
-      - name: Check git status
-        id: check_git_status
-        run: |
-          echo "git_status="`git status --porcelain`
-          echo "git_status="`git status --porcelain` >> $GITHUB_OUTPUT
-      - name: Commit updates
-        if: ${{ steps.check_git_status.outputs.git_status != '' }}
-        run: |
-          echo git_status: ${{ steps.check_git_status.outputs.git_status }}
-          git add -A
-          git commit -S -m "update rss feed "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" [bot action]"
-          git push https://${{ secrets.PAT }}@github.com/SotongDJ/klo.lt.git
-      - name: Echo status
-        run: |
-          echo ${{ needs.build.outputs.git_status }}
-      - name: Save changes
+      - name: RUN - Save changes
         run: |
           rsync -Prc ./docs /mnt/sd3/record/klo.lt/
-          rsync -Prc ./record/blg/record /mnt/sd3/record/klo.lt/record/blg/
-          rsync -Prc ./record/exr/record /mnt/sd3/record/klo.lt/record/exr/
-          rsync -Prc ./record/jst/record /mnt/sd3/record/klo.lt/record/jst/
-          rsync -Prc ./record/asc/record /mnt/sd3/record/klo.lt/record/asc/
-          rsync -Prc ./record/ays/record /mnt/sd3/record/klo.lt/record/ays/
-          rsync -Prc ./record/08c/record /mnt/sd3/record/klo.lt/record/08c/
-          rsync -Prc ./record/inf/record /mnt/sd3/record/klo.lt/record/inf/
-          rsync -Prc ./record/hsd/record /mnt/sd3/record/klo.lt/record/hsd/
-          rsync -Prc ./record/pws/record /mnt/sd3/record/klo.lt/record/pws/
-          rsync -Prc ./record/plr/record /mnt/sd3/record/klo.lt/record/plr/
-          rsync -Prc ./record/wbr/record /mnt/sd3/record/klo.lt/record/wbr/
       - name: Backup changes
         run: |
           if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b%d_%Y.7z'` ]; then
@@ -209,6 +62,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          # Upload entire repository
           path: './docs/'
       - name: Deploy to GitHub Pages
         id: deployment
