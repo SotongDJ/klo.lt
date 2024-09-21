@@ -1,0 +1,11 @@
+----
+Start annotation
+Process: record/nkw/keyword-0.toml
+[微雷]
+  found in: (2)
+    nkw00198
+    nkw00082
+  Excluded: (0)
+    
+    ----
+End annotation

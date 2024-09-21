@@ -1,0 +1,74 @@
+----
+Start annotation
+Process: record/stp/keyword-0.toml
+[S4怪新聞]
+  found in: (5)
+    stp00162
+    stp00161
+    stp00140
+    stp00137
+    stp00129
+  Excluded: (0)
+    
+[S5怪新聞]
+  found in: (56)
+    stp00248
+    stp00245
+    stp00244
+    stp00243
+    stp00242
+    stp00241
+    stp00240
+    stp00239
+    stp00238
+    stp00237
+    stp00234
+    stp00233
+    stp00232
+    stp00230
+    stp00228
+    stp00226
+    stp00225
+    stp00222
+    stp00220
+    stp00219
+    stp00218
+    stp00217
+    stp00216
+    stp00214
+    stp00213
+    stp00210
+    stp00209
+    stp00208
+    stp00207
+    stp00204
+    stp00203
+    stp00202
+    stp00200
+    stp00199
+    stp00197
+    stp00196
+    stp00195
+    stp00192
+    stp00191
+    stp00189
+    stp00186
+    stp00185
+    stp00183
+    stp00182
+    stp00181
+    stp00180
+    stp00179
+    stp00177
+    stp00176
+    stp00175
+    stp00174
+    stp00172
+    stp00171
+    stp00170
+    stp00169
+    stp00168
+  Excluded: (0)
+    
+    ----
+End annotation

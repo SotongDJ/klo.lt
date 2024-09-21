@@ -1,0 +1,9 @@
+["微雷"]
+inclusive = ["微雷"]
+exclusive = []
+category = ["暴雷"]
+
+["完整暴雷"]
+inclusive = ["完整暴雷"]
+exclusive = []
+category = ["暴雷"]
