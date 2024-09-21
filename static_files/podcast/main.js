@@ -87,8 +87,8 @@ let tagDownStr = "fa-solid fa-tags fa-fw";
 let moreUpStr = "fa-solid fa-square-minus fa-fw";
 let moreDownStr = "fa-solid fa-bars fa-fw";
 let sortFaStr = "fa-solid fa-sort fa-fw";
-let sortUpStr = "fa-solid fa-sort-up fa-fw";
-let sortDownStr = "fa-solid fa-sort-down fa-fw";
+let sortNewStr = "fa-solid fa-arrow-up-1-9 fa-fw";
+let sortOldStr = "fa-solid fa-arrow-down-1-9 fa-fw";
 let contrastOnStr = "fa-solid fa-circle-half-stroke fa-fw";
 let contrastOffStr = "fa-solid fa-circle-half-stroke fa-fw fa-flip-horizontal";
 let neutralColourStr = "fa-solid fa-cloud fa-fw";
@@ -110,8 +110,8 @@ let themeObj = {"colour":0,"contrast":1};
 let paramObj = {
 "sort":{
 "neutral":{"text":"排序","class":sortFaStr,"next":"oldest"},
-"oldest":{"text":"最舊","class":sortUpStr,"next":"newest"},
-"newest":{"text":"最新","class":sortDownStr,"next":"neutral"},
+"oldest":{"text":"最舊","class":sortOldStr,"next":"newest"},
+"newest":{"text":"最新","class":sortNewStr,"next":"neutral"},
 },
 "colour":{
 "position":0,
@@ -316,6 +316,9 @@ var sortStr = storage.getItem(`${channel}_sort`);
 var filtered = new Array();
 var filterKeyArr = getArr(storage.getItem(`${channel}_key`));
 var playlistKeyArr = Object.keys(playlist);
+// default: old to new (oldest) # in playlist
+// true: new to old (newest)
+// false: old to new (oldest)
 // no filterKey (true) + "neutral":newest first (true)
 // no filterKey (true) + "newest":newest first (true)
 // no filterKey (true) + "oldest":oldest first (false)
@@ -325,7 +328,7 @@ var playlistKeyArr = Object.keys(playlist);
 for (let nub = 0; nub < playlistKeyArr.length; nub++) {
 var filteredBool = (filterKeyArr.length == 0);
 var sortKeyBool = filteredBool?(sortStr != "oldest"):(sortStr == "newest");
-ord = sortKeyBool?playlistKeyArr[nub] :playlistKeyArr[playlistKeyArr.length - nub - 1];
+ord = sortKeyBool?playlistKeyArr[playlistKeyArr.length - nub - 1] :playlistKeyArr[nub];
 if (filteredBool) {
 filtered.push(ord);
 } else { // if filterKeyArr.length > 0
