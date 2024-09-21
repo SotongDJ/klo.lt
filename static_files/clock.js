@@ -33,6 +33,11 @@ document.getElementById("bound").className = "center";
 document.querySelector("body").style = "background-color: white; color: black;";
 document.getElementById("bound").style = "background-color: white; color: black;";
 }
+function turnBlackStill() {
+document.getElementById("bound").className = "center";
+document.querySelector("body").style = "background-color: black; color: white;";
+document.getElementById("bound").style = "background-color: black; color: white;";
+}
 function turnAmoled() {
 document.getElementById("bound").className = "bound";
 document.querySelector("body").style = "background-color: black; color: white;";
