@@ -109,10 +109,8 @@ def do_job(target_str,configing):
         #   "/mid/youtube_extra.toml",
         #   note="# Need to clear for annotate.py\n\n"
         # )
-        anntt_list = annotation.values()
-        lack_fn_str = "/mid/list_lack_youtube.txt"
-        lack_content = ["\""+n["name"]+"\"\n" for n in anntt_list if "youtube" not in n.keys()]
-        configing.xmlw("".join(lack_content),lack_fn_str)
+        lack_fn_str = "/mid/list_lack_youtube.toml"
+        configing.toml({key: ["valuen"] for key,value in annotation.items() if "youtube" not in value.keys()},lack_fn_str)
         only_fn_str = "/mid/list_youtube_only.toml"
         configing.toml({n["name"]:"extra" for n in youtube_entities.values() if 'name' in n.keys()},only_fn_str)
     print("    ----\nEnd merge")
