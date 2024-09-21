@@ -1,0 +1,8 @@
+"rss"     = "https://feeds.soundon.fm/podcasts/ecd31076-d12d-46dc-ba11-32d24b41cca5.xml"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E5%91%B1%E5%90%89/id1477164549"
+"spotify" = "https://api.spotify.com/v1/shows/7gCtD8zX1EzD6xaPjvoLz3/episodes?market=TW&limit=50"
+"title"   = "FNF《新資料夾》"
+"channel" = "fnf"
+
+[correct]
+"\u200b" = ""

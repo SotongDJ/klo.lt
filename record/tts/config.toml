@@ -1,0 +1,8 @@
+"rss"     = "https://feeds.soundon.fm/podcasts/ea1ced16-be9e-400f-a353-03f56d06958b.xml"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E7%98%8B%E5%A5%B3%E4%BA%BA%E8%81%8A%E5%A4%A9%E5%AE%A4/id1535487671"
+"spotify" = "https://api.spotify.com/v1/shows/7LEP6K6SzFxbXCjvuTArgI/episodes?market=TW&limit=50"
+"title"   = "TTS《瘋女人聊天室》"
+"channel" = "tts"
+
+[correct]
+"\u200b" = ""

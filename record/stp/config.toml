@@ -1,0 +1,8 @@
+"rss"     = "https://feeds.soundon.fm/podcasts/1ba1d999-c8b1-46ed-89b1-a093535d6570.xml"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E4%B8%89%E5%B0%BC%E5%B7%B4%E6%8E%8C-%E6%80%AA%E6%96%B0%E8%81%9E/id1530016140"
+"spotify" = "https://api.spotify.com/v1/shows/2XtezD8aU8XpJTfNzQPTUY/episodes?market=TW&limit=50"
+"title"   = "STP《三尼巴掌》"
+"channel" = "stp"
+
+[correct]
+"\u200b" = ""

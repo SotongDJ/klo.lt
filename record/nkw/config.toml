@@ -1,0 +1,8 @@
+"rss"     = "https://feeds.soundon.fm/podcasts/7ed92c43-f670-4ab7-ae95-8aed63ba7171.xml"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E5%97%9A%E5%96%B5%E5%82%99%E5%BF%98%E9%8C%84/id1533574623"
+"spotify" = "https://api.spotify.com/v1/shows/1N0M2laYCwxP9NrK28gyJt/episodes?market=TW&limit=50"
+"title"   = "NKW《嗚喵備忘錄》"
+"channel" = "nkw"
+
+[correct]
+"\u200b" = ""

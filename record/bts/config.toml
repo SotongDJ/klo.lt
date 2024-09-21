@@ -1,0 +1,8 @@
+"rss"     = "https://feed.firstory.me/rss/user/ckyjmnkp0166d0830od1kznfj"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E5%8D%9A%E9%9F%B3/id1605731163"
+"spotify" = "https://api.spotify.com/v1/shows/6IInPbIa0NLWw2bUuWthUL/episodes?market=TW&limit=50"
+"title"   = "BTS《博音》"
+"channel" = "bts"
+
+[correct]
+"\u200b" = ""

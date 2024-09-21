@@ -1,0 +1,8 @@
+"rss"     = "https://feeds.soundon.fm/podcasts/821bcdc9-2973-436e-88b5-e96405729e45.xml"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E5%A8%9B%E4%BA%BA%E7%9A%84%E5%96%9C%E5%8A%87%E6%97%A5%E5%B8%B8/id1553776387"
+"spotify" = "https://api.spotify.com/v1/shows/5NEemZbGLWIZqNXnuGURkP/episodes?market=TW&limit=50"
+"title"   = "CT4《娛人的喜劇日常》"
+"channel" = "ct4"
+
+[correct]
+"\u200b" = ""

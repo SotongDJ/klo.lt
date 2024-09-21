@@ -1,0 +1,8 @@
+"rss"     = "https://anchor.fm/s/1ea77470/podcast/rss"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E5%8F%B0%E7%81%A3%E9%80%9A%E5%8B%A4%E7%AC%AC%E4%B8%80%E5%93%81%E7%89%8C/id1510554676"
+"spotify" = "https://api.spotify.com/v1/shows/2Csh9YythT4tGLk0S1vehS/episodes?market=TW&limit=50"
+"title"   = "TWC《台灣通勤第一品牌》"
+"channel" = "twc"
+
+[correct]
+"\u200b" = ""

@@ -1,0 +1,8 @@
+"rss"     = "https://feed.firstory.me/rss/user/ckoh7hg5k053b0888d62mkdtq"
+"apple"   = "https://podcasts.apple.com/tw/podcast/%E6%96%90%E5%A7%A8%E6%89%80%E6%80%9D/id1566871414"
+"spotify" = "https://api.spotify.com/v1/shows/6pUWAuEHr6fTpGu0x6Mtp5/episodes?market=TW&limit=50"
+"title"   = "FCF《斐姨所思》"
+"channel" = "fcf"
+
+[correct]
+"\u200b" = ""
