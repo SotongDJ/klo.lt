@@ -78,7 +78,7 @@ exclusive = []
 category = ["時事","記者"]
 
 ["鄒宗翰 @德國之聲"]
-inclusive = ["鄒宗翰"]
+inclusive = ["鄒宗翰","男同志生小孩?"]
 exclusive = []
 category = ["時事","記者"]
 
@@ -224,10 +224,15 @@ inclusive = ["從泌尿科開始"]
 exclusive = []
 category = ["醫學","學者"]
 
+["謝佳琳醫師"]
+inclusive = ["謝佳琳醫師"]
+exclusive = []
+category = ["醫學","學者"]
+
 ["阿江營養師"]
 inclusive = ["阿江"]
 exclusive = []
-category = ["醫學","學者"]
+category = ["學者"]
 
 # 運動
 
@@ -259,7 +264,7 @@ category = ["運動"]
 ["館長"]
 inclusive = ["館長"]
 exclusive = ["聊聊館長"]
-category = ["時事","專業人士","健身","教練","運動","老闆"]
+category = ["時事","Youtuber","專業人士","健身","教練","運動","老闆"]
 
 ["剛哥"]
 inclusive = ["剛哥"]
