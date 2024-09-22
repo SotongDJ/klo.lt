@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00405]
+name = "EP403 年輕人，我知道你去哪裡"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/92032148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2F3137fab4-6cd8-8ec1-e1af-73b69a65cebf.mp3"
+spotify = "https://open.spotify.com/episode/1XXEUtPAWIl4RM3eWzhQGb"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【樂天國際銀行】 合作播出</p>\n<p>你500我500光榮回歸～把握機會只到 10/31</p>\n<p>🔥每推1人領500、推2人領1,000 ～幫自己額荷包補血！</p>\n<p>🔥6個月2%高利定存，額度無上限～無論新舊戶都能參加！</p>\n<p>🔥 綁定國票證券數位帳戶～新戶省600元手續費！</p>\n<p>#推多賺多無上限  #高利定存  #開戶推薦選樂天</p>\n<p>👉你500我500，推薦獎金無上限!</p>\n<p>登入網銀立刻推薦 ➡️<a href=\"https://pse.is/6dqbuk\">https://pse.is/6dqbuk</a> </p>\n<p>👉 6個月2%高利定存 ，存多利息賺越多  ! </p>\n<p>高利存款優惠看這裡 ➡️ <a href=\"https://pse.is/6dqbx3\">https://pse.is/6dqbx3</a> </p>\n<p>👉 國票證券新戶綁定 ，向財富自由邁進  !</p>\n<p>投資優惠立即了解➡️ <a href=\"https://pse.is/6dqbye\">https://pse.is/6dqbye</a> </p>\n<p><br>\n\n</p>\n"
+names = ["EP403 年輕人，我知道你去哪裡"]
+tag = ["Sep 22, 2024", "Sep 2024", "2024"]
+category = []
+
 [twc00404]
 name = "EP402 我全都要 ft.江松長"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/91879096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-18%2F02465ff9-ab56-a183-20a3-1d4bcd33f875.mp3"
