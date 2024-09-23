@@ -43,6 +43,14 @@ var reverseShortDict = {
 "WHITE": {
 "en":   ["WHITE"],
 "hant": ["WHITE"]
+},
+"THREADS": {
+"en":   ["THREADS","@"],
+"hant": ["THREADS","@"]
+},
+"INSTAGRAM": {
+"en":   ["INSTAGRAM","IG"],
+"hant": ["INSTAGRAM","IG"]
 }
 }
 var jumpDict = {
@@ -71,6 +79,16 @@ var jumpDict = {
 "hant": "\u6df1\u6d77\u58a8\u5ba2\u7684\u58a8\u7389\u7a0b\u5e02",
 "url":  "https://xn--2os22eixx6na.xn--kpry57d/"
 },
+"THREADS": {
+"en":   "klo.lt Podcast Player (Threads)",
+"hant":   "klo.lt Podcast Player (Threads)",
+"url":  "https://threads.net/@klolt_podcast"
+},
+"INSTAGRAM": {
+"en":   "klo.lt Podcast Player (Instagram)",
+"hant":   "klo.lt Podcast Player (Instagram)",
+"url":  "https://instagram.com/klolt_podcast"
+},
 "PEAZIP": {
 "en":   "PeaZip - Windows x64 - Download Page",
 "hant": "PeaZip - Windows x64 - Download Page",
@@ -79,6 +97,6 @@ var jumpDict = {
 "WHITE": {
 "en":   "White - Solid Backgrounds",
 "hant": "\u5168\u767d\u80cc\u666f\u5716",
-"url":  "https://www.solidbackgrounds.com/white-solid-color-background.html"
+"url":  "https://solidbackgrounds.com/white-solid-color-background.html"
 }
 }

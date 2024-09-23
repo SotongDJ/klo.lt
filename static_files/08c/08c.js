@@ -9,11 +9,11 @@ document.getElementById("infoA").href="https://github.com/SotongDJ/klo.lt/wiki";
 document.getElementById("titleCSpan").innerText="零捌歐北共";
 document.getElementById("titleEmoji").innerText="📢";
 document.getElementById("titleESpan").innerText="08C";
-document.getElementById("titleSec").href="https://www.youtube.com/playlist?list=PLIjpwRtLsLapFaR8rC8yR_aSA9BcglKV-";
+document.getElementById("titleSec").href="https://youtube.com/playlist?list=PLIjpwRtLsLapFaR8rC8yR_aSA9BcglKV-";
 document.getElementById("titleSec").title="零捌歐北共";
 document.getElementById("sitleEmoji").innerText="📢";
 document.getElementById("sitleESpan").innerText="08C";
-document.getElementById("sitleSec").href="https://www.youtube.com/playlist?list=PLIjpwRtLsLapFaR8rC8yR_aSA9BcglKV-";
+document.getElementById("sitleSec").href="https://youtube.com/playlist?list=PLIjpwRtLsLapFaR8rC8yR_aSA9BcglKV-";
 document.getElementById("sitleSec").title="零捌歐北共";
 
 show_apple=false;

@@ -9,11 +9,11 @@ document.getElementById("infoA").href="https://github.com/SotongDJ/klo.lt/wiki";
 document.getElementById("titleCSpan").innerText="百靈果";
 document.getElementById("titleEmoji").innerText="👌";
 document.getElementById("titleESpan").innerText="BLG";
-document.getElementById("titleSec").href="https://www.bailingguonews.com/";
+document.getElementById("titleSec").href="https://bailingguonews.com/";
 document.getElementById("titleSec").title="Bailingguo News 百靈果 News";
 document.getElementById("sitleEmoji").innerText="👌";
 document.getElementById("sitleESpan").innerText="BLG";
-document.getElementById("sitleSec").href="https://www.bailingguonews.com/";
+document.getElementById("sitleSec").href="https://bailingguonews.com/";
 document.getElementById("sitleSec").title="Bailingguo News 百靈果 News";
 
 show_apple=false;

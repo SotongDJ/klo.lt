@@ -9,11 +9,11 @@ document.getElementById("infoA").href="https://github.com/SotongDJ/klo.lt/wiki";
 document.getElementById("titleCSpan").innerText="新資料夾";
 document.getElementById("titleEmoji").innerText="🐸";
 document.getElementById("titleESpan").innerText="FNF";
-document.getElementById("titleSec").href="https://www.instagram.com/newfolderla/";
+document.getElementById("titleSec").href="https://instagram.com/newfolderla/";
 document.getElementById("titleSec").title="新資料夾";
 document.getElementById("sitleEmoji").innerText="🐸";
 document.getElementById("sitleESpan").innerText="FNF";
-document.getElementById("sitleSec").href="https://www.instagram.com/newfolderla/";
+document.getElementById("sitleSec").href="https://instagram.com/newfolderla/";
 document.getElementById("sitleSec").title="新資料夾";
 
 show_apple=false;

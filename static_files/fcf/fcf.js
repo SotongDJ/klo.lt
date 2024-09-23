@@ -9,11 +9,11 @@ document.getElementById("infoA").href="https://github.com/SotongDJ/klo.lt/wiki";
 document.getElementById("titleCSpan").innerText="斐姨所思";
 document.getElementById("titleEmoji").innerText="📰";
 document.getElementById("titleESpan").innerText="FCF";
-document.getElementById("titleSec").href="https://www.youtube.com/@fanamericantime/";
+document.getElementById("titleSec").href="https://youtube.com/@fanamericantime/";
 document.getElementById("titleSec").title="斐姨所思";
 document.getElementById("sitleEmoji").innerText="📰";
 document.getElementById("sitleESpan").innerText="FCF";
-document.getElementById("sitleSec").href="https://www.youtube.com/@fanamericantime/";
+document.getElementById("sitleSec").href="https://youtube.com/@fanamericantime/";
 document.getElementById("sitleSec").title="斐姨所思";
 
 show_apple=false;

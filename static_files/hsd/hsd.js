@@ -9,11 +9,11 @@ document.getElementById("infoA").href="https://github.com/SotongDJ/klo.lt/wiki";
 document.getElementById("titleCSpan").innerText="涵酸電波";
 document.getElementById("titleEmoji").innerText="📡";
 document.getElementById("titleESpan").innerText="HSD";
-document.getElementById("titleSec").href="https://www.youtube.com/@hansuandenpa";
+document.getElementById("titleSec").href="https://youtube.com/@hansuandenpa";
 document.getElementById("titleSec").title="《涵酸電波》";
 document.getElementById("sitleEmoji").innerText="📡";
 document.getElementById("sitleESpan").innerText="HSD";
-document.getElementById("sitleSec").href="https://www.youtube.com/@hansuandenpa";
+document.getElementById("sitleSec").href="https://youtube.com/@hansuandenpa";
 document.getElementById("sitleSec").title="《涵酸電波》";
 
 show_apple=false;

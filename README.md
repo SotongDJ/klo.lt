@@ -22,15 +22,15 @@ This project is integrated from the following projects:
 - 《神仙補習班》🚀
   - <https://instagram.com/ascended_928/>
 - 百靈果 News 👌
-  - <https://www.bailingguonews.com/>
+  - <https://bailingguonews.com/>
 - 《博音》🎤
   - <https://instagram.com/brianptseng/>
 - 《娛人的喜劇日常》🎫
   - <https://instagram.com/comedytimes0401>
 - 《斐姨所思》📰
-  - <https://www.youtube.com/@fanamericantime/>
+  - <https://youtube.com/@fanamericantime/>
 - 《新資料夾》🐸
-  - <https://www.instagram.com/newfolderla/>
+  - <https://instagram.com/newfolderla/>
 - 《唐陽雞酒屋》🪐 **#**
   - <https://jessetang11.firstory.io/>
 - 《嗚喵備忘錄》🐱
@@ -53,13 +53,13 @@ This project is integrated from the following projects:
 ### 停更 podcast
 
 - 《零捌歐北共》📢 **#**
-  - <https://www.youtube.com/playlist?list=PLIjpwRtLsLapFaR8rC8yR_aSA9BcglKV->
+  - <https://youtube.com/playlist?list=PLIjpwRtLsLapFaR8rC8yR_aSA9BcglKV->
 - 演員的副業 🎭 **#**
-  - <https://www.instagram.com/actoryaoshow/>
+  - <https://instagram.com/actoryaoshow/>
 - 眼球地下電台 👁 **#**
   - <https://instagram.com/eyexradio/>
 - 《涵酸電波》📡 **#**
-  - <https://www.youtube.com/@hansuandenpa>
+  - <https://youtube.com/@hansuandenpa>
 - 《網紅 No Filter》📼 **#**
   - <https://instagram.com/veve.tw/>
 
