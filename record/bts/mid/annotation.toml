@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[bts00142]
+name = "EP139｜禮物該怎麼送才爽"
+feed = "https://chrt.fm/track/1848D5/m.cdn.firstory.me/track/ckyjmnkp0166d0830od1kznfj/cm1efk8ne3jc701wo2ka719g5/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckyjmnkp0166d0830od1kznfj%2Fcm1efk8ne3jc801wocgxhffx2.mp3?v=1727061096102"
+spotify = "https://open.spotify.com/episode/0mDxAlXQaNwQKCEQa7417p"
+image = "351e3c303f7183e557e9bfd76840e2f8c1e3ac425fbd6380198493fb6230fec5"
+description = "<p>每個節日都改紅包又不會怎樣 <br /> <br />▌#賀博台瘋 線上版 薩泰爾娛樂官網 現正預購中！  <br />🔴 早鳥優惠只要 319 元 ➟ https://str.network/TgHxr <br />⎝ 線上版預計於 2024/12/8 12：00 正式上架🍿️ ⎞ <br /> <br /> ▌《賀博台瘋》巡迴場次｜即將登陸世界各地 <br />🛫️ 立即卡位 ➟ https://str.network/2024TOUR</p> <br /> <br/>Powered by <a href=\"https://firstory.me\">Firstory Hosting</a>"
+names = ["EP139｜禮物該怎麼送才爽"]
+tag = ["Sep 23, 2024", "Sep 2024", "2024"]
+category = []
+
 [bts00141]
 name = "EP138 | Does your 個性 change when you 換語言？ft. 劉沛"
 feed = "https://chrt.fm/track/1848D5/m.cdn.firstory.me/track/ckyjmnkp0166d0830od1kznfj/cm14o2zyz0izp01t61brs9jml/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckyjmnkp0166d0830od1kznfj%2Fcm14o2zyz0izq01t63w6ubvai.mp3?v=1726470754031"
