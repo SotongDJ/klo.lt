@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00406]
+name = "EP404 數大便是美"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/92191441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F666064af-b66c-0dca-ce53-bf88336a7bfa.mp3"
+spotify = "https://open.spotify.com/episode/5RsppsJwuQIW7CnxEmOrOr"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Yahoo奇摩拍賣】贊助播出</p>\n<p>當你開心的時候我在。當你難過的時候我在。</p>\n<p>只要你需要的時候，就上Yahoo奇摩拍賣～</p>\n<p>無論想找稀有珍品、夢幻逸品、有趣古董，</p>\n<p>還是體驗免運驚喜、競標快感，馬上打開Yahoo奇摩拍賣。</p>\n<p>閒置二手物品想出清？馬上刊登沒問題！</p>\n<p>什麼都有 什麼都賣 Yahoo奇摩拍賣 我一直都在～</p>\n<p>Yahoo奇摩拍賣 23週年慶 我一直都在</p>\n<p>跟我們一起參加「我的時光事紀」小測驗，一探究竟你出生年代的大事件，</p>\n<p>還有『台通提供專屬公益競標物-月月親織佛陀帽』</p>\n<p>陪你公益我都在，成交還能做公益！</p>\n<p>最後最後記得上 Yahoo奇摩拍賣看影片參加活動</p>\n<p>還有機會抽中圓夢基金18,000</p>\n<p>&gt;&gt;&gt;<a href=\"https://bit.ly/3Z2LgWd\">https://bit.ly/3Z2LgWd</a> </p>\n<p>#Yahoo奇摩拍賣 #拍賣挖挖WOW #Yahoo奇摩拍賣陪你公益 </p>\n<p>#什麼都有什麼都賣我一直都在 </p>\n<p><br></p>\n"
+names = ["EP404 數大便是美"]
+tag = ["Sep 25, 2024", "Sep 2024", "2024"]
+category = []
+
 [twc00405]
 name = "EP403 年輕人，我知道你去哪裡"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92032148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2F3137fab4-6cd8-8ec1-e1af-73b69a65cebf.mp3"
