@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00563]
+name = "EP359 我也會內耗啊"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm1khy7gp0bh301xl477wg5y6/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm1khy7gp0bh401xlho9a07sy.mp3?v=1727427912564"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>這篇獻給常常在內耗的人（我也會） <br />容易內耗的人，其實都是想把事做好、想面面俱到的人，因為太想了才這麼耗，是不是也是種貼心？ <br /> <br />尤其現在，三王星都走到尾巴度數，人容易有「倦怠感」（是「轉型的提示」，也是一種內耗），讓很多人既勞累又迷惘。 <br />不過，我倒覺得有倦怠感是好事，那是一種提醒，代表靈魂有話要說，推動我們去尋求改變，改變死水般的現狀，尋找活力。 <br />講的雖是內耗，但這集還是輕鬆幽默聊，很解壓的，一起來聽聽我們怎麼解方吧。 <br /> <br />EP359菜單： <br />夢到💩會有錢 <br />火星巨蟹來處理不安全感 <br />內耗會發生在貼心的人 <br />內耗是來幫你煞車 <br />年紀越老越不內耗 <br />上升火象容易內耗 <br />水象火象土象風象的內耗 <br />當火象星座動起來代表… <br /></p>"
+names = ["EP359 我也會內耗啊"]
+tag = ["Sep 27, 2024", "Sep 2024", "2024"]
+category = []
+
 [jst00562]
 name = "EP358 努力一點就被用力稱讚的地方，金星(下)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm1g8znze000701xx39h3bw32/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm1g8znze000801xx15qza5pt.mp3?v=1727171011858"
