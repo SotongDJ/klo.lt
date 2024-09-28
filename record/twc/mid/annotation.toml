@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00407]
+name = "EP405 香即是臭"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/92319894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-28%2F764f65f5-b275-25be-9109-cf632269151d.mp3"
+spotify = "https://open.spotify.com/episode/6hCCQ1gvaPLN6rrkyOuo6h"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>\n</p>\n<p>本集節目由【Zenfone 11 Ultra】贊助播出</p>\n<p>最懂台灣人的 AI 旗艦手機</p>\n<p>獨家硬體搭配軟體防手震功能，適應各種拍攝場合；</p>\n<p>AI 錄音筆記、AI 即時通話口譯，唯一支援繁體中文！</p>\n<p><br />實用性超佳   <a href=\"https://reurl.cc/adeejl\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://reurl.cc/adeejl</a> \n\n</p>\n"
+names = ["EP405 香即是臭"]
+tag = ["Sep 28, 2024", "Sep 2024", "2024"]
+category = []
+
 [twc00406]
 name = "EP404 數大便是美"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92191441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F666064af-b66c-0dca-ce53-bf88336a7bfa.mp3"
