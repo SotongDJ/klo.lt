@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00408]
+name = "EP406 永遠攏是彩色的青春 ft. 宜芳"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/92388016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F60e1ad09-1eba-5882-796a-b99dd6356c24.mp3"
+spotify = "https://open.spotify.com/episode/5lXzjW27POdi45wMpjTPFI"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br />\n\n</p>\n"
+names = ["EP406 永遠攏是彩色的青春 ft. 宜芳"]
+tag = ["Sep 30, 2024", "Sep 2024", "2024"]
+category = []
+
 [twc00407]
 name = "EP405 香即是臭"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92319894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-28%2F764f65f5-b275-25be-9109-cf632269151d.mp3"
