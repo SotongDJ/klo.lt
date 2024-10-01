@@ -70,11 +70,5 @@ Process: record/stp/keyword-0.toml
     stp00168
   Excluded: (0)
     
-[S6怪新聞]
-  found in: (2)
-    stp00251
-    stp00249
-  Excluded: (0)
-    
     ----
 End annotation
