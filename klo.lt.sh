@@ -2,7 +2,7 @@
 cd /mnt/sd3/record/klo.lt/
 git pull
 rm temp
-pip3 install -r requirements.txt
+pip3 install --user -r requirements.txt
 # Update rss - update 08C
 python3 update.py 08c
 python3 merge.py 08c
