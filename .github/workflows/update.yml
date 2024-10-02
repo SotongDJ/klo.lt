@@ -1,8 +1,8 @@
 name: Update podcast content to Pages
 
 on:
-  schedule:
-    - cron: "30 */3 * * *"
+  # schedule:
+  #   - cron: "30 */3 * * *"
   workflow_dispatch:
 
 permissions:

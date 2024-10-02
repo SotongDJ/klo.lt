@@ -1,4 +1,5 @@
 #!/bin/env bash
+echo `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
 cd /mnt/sd3/record/klo.lt/
 git pull
 rm temp

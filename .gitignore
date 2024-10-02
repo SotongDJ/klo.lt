@@ -4,6 +4,7 @@ record/*/record/
 static_files/f
 static_files/p
 temp
+*.7z
 
 # Exclude Requests
 */record/*Requests.*
