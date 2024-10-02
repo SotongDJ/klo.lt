@@ -118,6 +118,7 @@ python3 annotate.py wbr > record/wbr/filter.txt
 python3 export.py wbr `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
 
 echo `git status --porcelain` > temp
+cat temp
 if [[ "$temp" == "" ]]; then
     git add -A
     git commit -S -m "___ RSS FEED UPDATE "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" #bot_action"
