@@ -462,7 +462,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [四宮]
-  found in: (3)
+  found in: (4)
+    jst00565
     jst00170
     jst00168
     jst00158
