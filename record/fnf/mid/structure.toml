@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[fnf00608]
+name = "【呱吉直播】呱吉電台EP189：臭就是救"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/85aeb6bd-63fe-4a94-a607-b0f405c2695d/rssFileVip.mp3?timestamp=1727938276764"
+spotify = "https://open.spotify.com/episode/6tofHCBsi1nUcT8Q1XNwB2"
+image = "7306dcfc4709de7f9132fdc7625a1c86f26f5feaf2bd7337f08f76fb80bc383d"
+description = "一個高智慧的問題 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP189：臭就是救"]
+tag = ["Oct 03, 2024", "Oct 2024", "2024"]
+category = []
+
 [fnf00607]
 name = "【呱吉】新資料夾(201)：️Are you 受到委屈？"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/fe9ddeee-7fd2-43a1-846f-31be17fde6b0/rssFileVip.mp3?timestamp=1727407024285"
@@ -497,7 +507,7 @@ category = []
 
 [fnf00557]
 name = "【呱吉直播】呱吉電台EP174：大聯盟愛情故事"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0f63ea02-192d-43f4-befb-104c9e78aefe/rssFileVip.mp3?timestamp=1712132908603"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0cf8de04-2b16-4224-b9e9-3ab2aab9423d/rssFileVip.mp3?timestamp=1712132818450"
 spotify = "https://open.spotify.com/episode/2XlxnseuhyvcRrh89fdmIO"
 image = "a4eb14747cea6b0b436301e0d4b73879126a2df404219caa666c6f13d7bf30fc"
 description = "有時候你需要換個角度看世界 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
