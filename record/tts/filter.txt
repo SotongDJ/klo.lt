@@ -1,27 +1,5 @@
 ----
 Start annotation
 Process: record/tts/keyword-0.toml
-[週間節目]
-  found in: (18)
-    tts00232
-    tts00222
-    tts00177
-    tts00151
-    tts00146
-    tts00144
-    tts00140
-    tts00135
-    tts00122
-    tts00115
-    tts00103
-    tts00094
-    tts00091
-    tts00076
-    tts00071
-    tts00069
-    tts00062
-    tts00055
-  Excluded: (0)
-    
     ----
 End annotation
