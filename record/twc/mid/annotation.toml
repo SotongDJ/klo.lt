@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00409]
+name = "EP407 愛玉"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/92610404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-5%2Fd99b39dc-1772-8d76-1d3f-c25ea7a7392a.mp3"
+spotify = "https://open.spotify.com/episode/0qsTRo7aT0pLPML9iPUYWB"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集由【New Balance】贊助播出</p>\n<p>你說想買鞋，但找不到理由？</p>\n<p>來啦，別再騙自己了，這理由直接送上！</p>\n<p>IU 最新著用款 WRPD Runner，一穿上保證理由多到爆❤️‍🔥</p>\n<p>未來感鞋型搭配後底增高設計，穿了瞬間視覺增高 5 公分</p>\n<p>加上頂級跑鞋的 Fuelcell 中底科技，隨便走都超級舒適時尚</p>\n<p>還在想藉口？不用想了，直接下手 IU 同款 WRPD Runner！</p>\n<p>👉https://reurl.cc/DlL8km </p>\n<p>老實說，沒試穿過真的很可惜，建議大家有空去 NB 門市親自感受一下～現在開超多間店的啊！</p>\n<p>🎉特別推薦：台北、台南最新開幕門市！🎉</p>\n<p>NB 1906 台南新天地店｜台南市中西區西門路一段658號</p>\n<p>NB 1906 西門誠品店｜台北市萬華區峨嵋街52號</p>\n<p>🔍查查附近有哪間店，再去晃晃看看👉https://pse.is/NBSTORE</p>\n"
+names = ["EP407 愛玉"]
+tag = ["Oct 05, 2024", "Oct 2024", "2024"]
+category = []
+
 [twc00408]
 name = "EP406 永遠攏是彩色的青春 ft. 宜芳"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92388016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F60e1ad09-1eba-5882-796a-b99dd6356c24.mp3"
