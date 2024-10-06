@@ -2,7 +2,8 @@
 Start annotation
 Process: record/jst/keyword-0.toml
 [本週提醒]
-  found in: (190)
+  found in: (191)
+    jst00567
     jst00564
     jst00561
     jst00558
@@ -271,7 +272,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [木星]
-  found in: (9)
+  found in: (10)
+    jst00567
     jst00514
     jst00356
     jst00302
