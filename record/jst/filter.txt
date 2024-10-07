@@ -272,8 +272,7 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [木星]
-  found in: (10)
-    jst00567
+  found in: (9)
     jst00514
     jst00356
     jst00302
