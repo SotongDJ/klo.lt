@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[bts00144]
+name = "EP141 | 誰要聊康熙啊！我只想聊歡樂三國志 ft. 蔡康永"
+feed = "https://chrt.fm/track/1848D5/m.cdn.firstory.me/track/ckyjmnkp0166d0830od1kznfj/cm1ygk4md0ffs01wygj2749mr/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckyjmnkp0166d0830od1kznfj%2Fcm1ygk4md0fft01wy5sqb0idz.mp3?v=1728272111302"
+spotify = "https://open.spotify.com/episode/0jRpVFHFti14XF4onRHOHN"
+image = "351e3c303f7183e557e9bfd76840e2f8c1e3ac425fbd6380198493fb6230fec5"
+description = "<p>從第一次接觸對口喜劇到患難中的及時雨，大家一定從來不知道康永哥是我的隱藏大恩人 <br /> <br />▌#賀博台瘋 線上版 薩泰爾娛樂官網 現正預購中！  <br />🔴 早鳥優惠只要 319 元 ➟ https://str.network/TgHxr <br />⎝ 線上版預計於 2024/12/8 12：00 正式上架🍿️ ⎞ <br /> <br /> ▌《賀博台瘋》巡迴場次｜即將登陸世界各地 <br />🛫️ 立即卡位 ➟ https://str.network/2024TOUR</p> <br /> <br/>Powered by <a href=\"https://firstory.me/zh\">Firstory Hosting</a>"
+names = ["EP141 | 誰要聊康熙啊！我只想聊歡樂三國志 ft. 蔡康永"]
+tag = ["Oct 07, 2024", "Oct 2024", "2024"]
+category = []
+
 [bts00143]
 name = "EP140 | Happy wife 並不等於 happy life ft. 盧卡斯"
 feed = "https://chrt.fm/track/1848D5/m.cdn.firstory.me/track/ckyjmnkp0166d0830od1kznfj/cm1oi1tpu015o01xq1pzn7g7e/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckyjmnkp0166d0830od1kznfj%2Fcm1oi1tpu015p01xq1dk3fvz7.mp3?v=1727669930638"
