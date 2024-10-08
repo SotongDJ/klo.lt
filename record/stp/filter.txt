@@ -71,7 +71,8 @@ Process: record/stp/keyword-0.toml
   Excluded: (0)
     
 [S6怪新聞]
-  found in: (2)
+  found in: (3)
+    stp00252
     stp00251
     stp00249
   Excluded: (0)
