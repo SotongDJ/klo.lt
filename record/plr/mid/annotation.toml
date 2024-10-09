@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[plr00582]
+name = "#34 政治歸YO智｜九月聽眾留言 Part2！"
+feed = "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cm21e5pcm0d3801w61nuz3nw0/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcm21e5pcm0d3901w63n7e062k.mp3?v=1728449473470"
+spotify = "https://open.spotify.com/episode/6davg0zCf3tXB8BOBZHXPd"
+image = "c7697b038fb70b91ff836adf72ce7abb93e3a2d6df3e75999e6743a401bd9d07"
+description = "<p>本集重點： <br />法律對於人民的保留 <br />針對留言: 鄭文燦類比柯文哲的回覆 <br />小沈 1500 回應 again again again <br />給廷亦拍拍手 <br />被聽眾罵雙標欸 Roy <br /> <br />小額贊助支持本節目： <a href=\"https://open.firstory.me/user/ckudnw7fn4tqg0870axzgirva\" target=\"_blank\">https://open.firstory.me/user/ckudnw7fn4tqg0870axzgirva</a> <br />留言告訴我你對這一集的想法： <a href=\"https://open.firstory.me/user/ckudnw7fn4tqg0870axzgirva/comments\">https://open.firstory.me/user/ckudnw7fn4tqg0870axzgirva/comments</a></p> <br /> <br/>Powered by <a href=\"https://firstory.me/zh\">Firstory Hosting</a>"
+names = ["#34 政治歸YO智｜九月聽眾留言 Part2！"]
+tag = ["Oct 09, 2024", "Oct 2024", "2024", "政治歸YO智"]
+category = ["#節目系列"]
+
 [plr00581]
 name = "#33 政治歸YO智｜九月聽眾留言來囉！"
 feed = "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cm1z9870f00ww01w6bqvh5k91/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcm1z9870f00wx01w6f6x7d37t.mp3?v=1728320267262"
