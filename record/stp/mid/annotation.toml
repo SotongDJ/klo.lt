@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[stp00253]
+name = "新聞聊三小EP1｜中國國慶日，遊客睡廁所！？"
+feed = "https://chtbl.com/track/7G2G82/rss.soundon.fm/rssf/1ba1d999-c8b1-46ed-89b1-a093535d6570/feedurl/ab081f41-d45c-42c7-b802-5a62fcdb6b45/rssFileVip.mp3?timestamp=1728428636339"
+spotify = "https://open.spotify.com/episode/64GlmnoDF6ZHpzZ9yadDLZ"
+image = "102fcc1b862ca81fdee95846334bff96d91ebb3795710c6c05a91836f4883f79"
+description = "新聞聊三小，三小聊新聞！ \n每週10分鐘，帶你掌握最新消息！ \n本集新聞：中國國慶日假期，上百名遊客竟然睡廁所？ \n  \n祝福中華民國113歲生日快樂🇹🇼 \n. \n⭐️幫我們評分5星留言起來歐～ \n👂各式合作請寄來這兒：<a href=\"mailto:sunnythreepay@gmail.com\">sunnythreepay@gmail.com</a> \n  \n<a href=\"https://reurl.cc/NXL7yQ\">追蹤三尼巴掌IG🖖</a> \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["新聞聊三小EP1｜中國國慶日，遊客睡廁所！？"]
+tag = ["Oct 08, 2024", "Oct 2024", "2024"]
+category = []
+
 [stp00252]
 name = "S6怪新聞#3｜中國女子跟猴子一起吃肯德基全家桶！"
 feed = "https://chtbl.com/track/7G2G82/rss.soundon.fm/rssf/1ba1d999-c8b1-46ed-89b1-a093535d6570/feedurl/4df6fe8a-e0c9-4e6b-80a5-5cc066870697/rssFileVip.mp3?timestamp=1728381406222"
