@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00410]
+name = "EP408 好漢來提當年不勇"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/92824576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F69227779-565b-3993-f3d6-27aeb523723c.mp3"
+spotify = "https://open.spotify.com/episode/4NxoqM0zFCv8f9RWyguoip"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【亞果元素】贊助播出</p>\n<p>iPhone 磁吸充電效率再創高峰！</p>\n<p>ADAM elements 【𝗠𝗮𝗴 𝟯 𝗣𝗿𝗼】 Qi2 15W磁吸三用無線充電座</p>\n<p>🤩 一次就能幫 iPhone / Apple Watch / AirPods 三裝置一起充電。</p>\n<p>🤩 折疊後如粉餅盒大小，比 iPhone 16 Pro Max 還輕，放入行李袋完全不佔空間、重量！</p>\n<p>🤩 獲全球最新 Qi2 標準及國家安全認證，磁吸無線充電輸出達15W，iPhone MagSafe 充電更快速。</p>\n<p>🤩 支援 FOD 異物偵測＋ ADAM三年保固，使用好安心。</p>\n<p>🆓 送100公分專用編織充電線、專屬收納袋，旅行一包搞定！</p>\n<p>🆓 送 引磁圈對位組：Android、iPhone 無線充電款舊機都可充，磁吸充電不設限。</p>\n<p>即日起至11/5</p>\n<p>透過專屬連結購買 ➡️ https://adamele.com/commuteonly </p>\n<p>並搭配台通專屬優惠碼〖commute〗即可享200元折扣優惠。</p>\n"
+names = ["EP408 好漢來提當年不勇"]
+tag = ["Oct 10, 2024", "Oct 2024", "2024"]
+category = []
+
 [twc00409]
 name = "EP407 愛玉"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92610404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-5%2Fd99b39dc-1772-8d76-1d3f-c25ea7a7392a.mp3"
