@@ -9,8 +9,8 @@ Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
   found in: (312)
-    blg00849
-    blg00846
+    blg00848
+    blg00845
     blg00843
     blg00841
     blg00838
@@ -341,9 +341,9 @@ Process: record/blg/keyword-6-beta.toml
     
 [KK Show]
   found in: (281)
-    blg00850
-    blg00847
-    blg00844
+    blg00851
+    blg00849
+    blg00846
     blg00842
     blg00839
     blg00836
@@ -1090,9 +1090,9 @@ Process: record/blg/keyword-6-beta.toml
     
 [小孩限定]
   found in: (14)
-    blg00851
-    blg00848
-    blg00845
+    blg00850
+    blg00847
+    blg00844
     blg00840
     blg00837
     blg00834
@@ -1442,7 +1442,7 @@ Process: record/blg/keyword-6-beta.toml
     
 [Roger]
   found in: (2)
-    blg00846
+    blg00845
     blg00195
   Excluded: (0)
     
