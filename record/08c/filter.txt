@@ -1,30 +1,5 @@
 ----
 Start annotation
 Process: record/08c/keyword-0.toml
-[瑞恩]
-  found in: (2)
-    08c00014
-    08c00013
-  Excluded: (0)
-    
-[東區德]
-  found in: (3)
-    08c00014
-    08c00009
-    08c00002
-  Excluded: (0)
-    
-[么么]
-  found in: (2)
-    08c00008
-    08c00007
-  Excluded: (0)
-    
-[怡岑]
-  found in: (2)
-    08c00014
-    08c00008
-  Excluded: (0)
-    
     ----
 End annotation
