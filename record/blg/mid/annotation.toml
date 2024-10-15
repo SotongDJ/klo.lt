@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[blg00853]
+name = "The KK Show - 278 Uncle Roger"
+feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/episodes/15921674-the-kk-show-278-uncle-roger.mp3"
+spotify = "https://open.spotify.com/episode/5gh3u6kzGoJgsmgQSH7Bq4"
+youtube = "https://www.youtube.com/watch?v=d01-FH0B7Tw"
+image = "15a9d554509bda4f318e61fbbe2ec27811bc92e0f82359c7c1a3a3bb1bb254c3"
+description = "<p>FUIYOH～今天我們邀請到了Uncle Roger（Nigel Ng）來跟我們聊聊天！現場直接換上橘色polo衫來評測台灣的珍珠奶茶，也分享了被中國封殺後他是如何轉換心態走向國際</p><p>=======================<br/>➤ 歡迎來我們IG玩<br/>百靈果主帳號：<a href='https://www.instagram.com/bailingguo_news/'>https://www.instagram.com/bailingguo_news/</a><br/>凱莉：<a href='https://www.instagram.com/wang.kylie/'>https://www.instagram.com/wang.kylie/</a><br/>Ken：<a href='https://www.instagram.com/thisiskenyoung/'>https://www.instagram.com/thisiskenyoung/</a><br/>神父：<a href='https://www.instagram.com/bailingguo.priest/'>https://www.instagram.com/bailingguo.priest/</a><br/>Hazel：<a href='https://instagram.com/bailingguo.hazel?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.hazel</a><br/>Stephen：<a href='https://instagram.com/bailingguo.stephen?igshid=MzRlODBiNWFlZA=='>https://instagram.com/bailingguo.stephen</a></p>"
+names = ["The KK Show - 278 Uncle Roger"]
+tag = ["Oct 15, 2024", "Oct 2024", "2024", "KK Show", "Roger"]
+category = ["#節目系列", "製作人", "影視製作"]
+
 [blg00852]
 name = "百靈果NEWS｜凱莉又被罵沒禮貌，中國滲透美國電信系統，葡萄牙計畫讓年輕人不繳稅"
 feed = "https://sw.soundon.fm/p/9U87J6/https://chrt.fm/track/346315/www.buzzsprout.com/1974862/episodes/15916141-news.mp3"
