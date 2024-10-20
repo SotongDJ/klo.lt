@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00573]
+name = "【本週提醒】放下了什麼？相信一切都是最好的安排"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm2gyszhc01e301tph3it0gj8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm2gyszhc01e401tp05510li4.mp3?v=1729391104536"
+spotify = "https://open.spotify.com/episode/1dJkxD0sNxcnAsgO3qw5Oc"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽10/21-10/27星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】獅子 處女 天秤 水瓶 <br /> <br />獅子：完美主義受到挑戰，感情上三觀相合很重要 <br />處女：太熟了反而容易內鬨，感情老夫老妻易有狀況 <br />天秤：忙著支援付出有點累，感情要多給點溫暖關心 <br />水瓶：當心周遭與自身健康，感情問題可能連環爆發 <br /> <br />【穩的】巨蟹 天蠍 魔羯 雙魚 <br /> <br />巨蟹：多休息才能保持戰力，感情問題還是要多溝通 <br />天蠍：畫出的大餅別太期望，感情曖昧以上戀人未滿 <br />魔羯：有主角光環別太獨裁，感情走霸道總裁路線 <br />雙魚：要以柔克剛別太急躁，感情放輕鬆能更順利 <br /> <br />【讚的】牡羊 金牛 雙子 射手 <br /> <br />牡羊：成功在望越要謹慎，感情要抓緊可疑線索 <br />金牛：胸有成竹穩定前行，感情穩定能展現長才&nbsp; <br />雙子：有金錢方面的好運，感情上適合討論未來 <br />射手：好事連連別沖昏頭，感情上桃花旺盛受歡迎 <br /></p>"
+names = ["【本週提醒】放下了什麼？相信一切都是最好的安排"]
+tag = ["Oct 20, 2024", "Oct 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00572]
 name = "EP365 讓12星座一掃陰霾的星象"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm2eidczs003s01sw28ahggpj/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm2eidczs003t01swatvwbosb.mp3?v=1729242614322"
