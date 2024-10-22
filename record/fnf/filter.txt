@@ -1,5 +1,13 @@
 ----
 Start annotation
 Process: record/fnf/keyword-0.toml
+[黑歷史特輯]
+  found in: (4)
+    fnf00605
+    fnf00602
+    fnf00583
+    fnf00581
+  Excluded: (0)
+    
     ----
 End annotation
