@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00574]
+name = "EP366 在韓國要紅有多難 ft.10CM"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm2k44bxs01n601yb3cka19jm/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm2k44bxs01n701ybdoa30c7i.mp3?v=1729581443699"
+spotify = "https://open.spotify.com/episode/69xHAahqFL3ijEUdLcWhw4"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>首次來唐陽雞酒屋的韓國人，是雙魚男，10CM的權正烈👏 <br />《愛的迫降》、《鬼怪》、《背著善宰跑》，紅到不行的韓劇主題曲都是他唱的（ 一現身就全公司轟動） <br />看完黑白大廚，我開始對韓國文化很有興趣，現在又來了一位韓國來賓，這是什麼Sign😍😍 <br />來幫我聽這集Podcast，分析一下～ <br /> <br />EP366菜單：&nbsp; <br />為什麼都能唱到 <br />爆紅韓劇的OST <br />火象星座forever young <br />請韓國人猜我幾歲 <br />除了歐霸還是學霸 <br />一天喝五杯冰美式也睡很好 <br />在汗蒸幕遇到BIGBANG</p>"
+names = ["EP366 在韓國要紅有多難 ft.10CM"]
+tag = ["Oct 22, 2024", "Oct 2024", "2024"]
+category = []
+
 [jst00573]
 name = "【本週提醒】放下了什麼？相信一切都是最好的安排"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm2gyszhc01e301tph3it0gj8/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm2gyszhc01e401tp05510li4.mp3?v=1729391104536"
