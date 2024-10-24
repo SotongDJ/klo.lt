@@ -8,18 +8,27 @@ function fontAwe(fontKey,fontID="") {
   return fontI;
 };
 
+let verbose = false;
 let wakeLock = null;
 async function wake(){
   if ("wakeLock" in navigator) {
-    console.log("Screen Wake Lock API supported!");
+    if (verbose){
+      console.log("Screen Wake Lock API supported!");
+    }
     try {
       wakeLock = await navigator.wakeLock.request("screen");
-      // console.log("Wake Lock is active!");
+      if (verbose){
+        console.log("Wake Lock is active!");
+      }
     } catch (err) {
-      console.log(`${err.name}, ${err.message}`);
+      if (verbose){
+        console.log(`${err.name}, ${err.message}`);
+      }
     }
   } else {
-    console.log("Wake lock is not supported by this browser.");
+    if (verbose){
+      console.log("Wake lock is not supported by this browser.");
+    }
   }
 }
 
@@ -28,20 +37,19 @@ function updateFieldIfNotNull(fieldName, value, precision=1){
     document.getElementById(fieldName).innerHTML = value.toFixed(precision);
 }
 
-function turnEink() {
+function turnStatic() {
 document.getElementById("bound").className = "center";
+}
+function turnMove() {
+document.getElementById("bound").className = "bound";
+}
+function turnDay() {
 document.querySelector("body").style = "background-color: white; color: black;";
 document.getElementById("bound").style = "background-color: white; color: black;";
 }
-function turnBlackStill() {
-document.getElementById("bound").className = "center";
+function turnNight() {
 document.querySelector("body").style = "background-color: black; color: white;";
 document.getElementById("bound").style = "background-color: black; color: white;";
-}
-function turnAmoled() {
-document.getElementById("bound").className = "bound";
-document.querySelector("body").style = "background-color: black; color: white;";
-document.getElementById("bound").style = "";
 }
 
 function currentTime(precision=1) {
@@ -105,20 +113,34 @@ function currentTime(precision=1) {
       document.getElementById("power").append(battery_str);
       document.getElementById("power").append(" ");
 
-      let mov = document.createElement("a");
-      mov.href = "javascript: void(turnAmoled())";
-      mov.appendChild(fontAwe("fa-solid fa-shoe-prints fa-fw"));
-      document.getElementById("power").appendChild(mov);
+
+      let btnStatic = document.createElement("a");
+      btnStatic.href = "javascript: void(turnStatic())";
+      btnStatic.appendChild(fontAwe("fa-solid fa-thumbtack fa-fw"));
+      document.getElementById("power").appendChild(btnStatic);
       document.getElementById("power").append(" ");
 
-      let eink = document.createElement("a");
-      eink.href = "javascript: void(turnEink())";
-      eink.appendChild(fontAwe("fa-solid fa-thumbtack fa-fw"));
-      document.getElementById("power").appendChild(eink);
+      let btnMove = document.createElement("a");
+      btnMove.href = "javascript: void(turnMove())";
+      btnMove.appendChild(fontAwe("fa-solid fa-shoe-prints fa-fw"));
+      document.getElementById("power").appendChild(btnMove);
+      document.getElementById("power").append(" ");
+
+      let btnDay = document.createElement("a");
+      btnDay.href = "javascript: void(turnDay())";
+      btnDay.appendChild(fontAwe("fa-solid fa-sun fa-fw"));
+      document.getElementById("power").appendChild(btnDay);
+      document.getElementById("power").append(" ");
+
+      let btnNight = document.createElement("a");
+      btnNight.href = "javascript: void(turnNight())";
+      btnNight.appendChild(fontAwe("fa-solid fa-moon fa-fw"));
+      document.getElementById("power").appendChild(btnNight);
+      document.getElementById("power").append(" ");
     };
   });
 
   document.getElementById("clock").innerText = time_str;
   document.getElementById("day").innerText = date_str;
-  let t = setTimeout(function(){ currentTime() }, 1000);
+  let t = setTimeout(function(){ currentTime() }, 10000);
 }
