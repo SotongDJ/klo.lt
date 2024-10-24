@@ -126,7 +126,48 @@ if [[ "$temp" == "" ]]; then
     git push
 fi
 
-if [ ! -f `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b%d_%Y.7z'` ]; then
-    echo "Creating baseline archive: "`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b%d_%Y.7z'`
-    7z a -r `TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-%b%d_%Y.7z'` /mnt/sd3/record/klo.lt
+# 7z u -up0q0r2x2y2z1w2
+#     -u[-][p#][q#][r#][x#][y#][z#][!newArchiveName]
+#         Update options
+#         p	File exists in archive, but is not matched with wildcard
+#             0	Ignore file (don't create item in new archive for this file)
+#         q	File exists in archive, but doesn't exist on disk.
+#             0	Ignore file (don't create item in new archive for this file)
+#         r	File doesn't exist in archive, but exists on disk.
+#             2	Compress (compress file from disk to new archive)
+#         x	File in archive is newer than the file on disk.
+#             2	Compress (compress file from disk to new archive)
+#         y	File in archive is older than the file on disk.
+#             2	Compress (compress file from disk to new archive)
+#         z	File in archive is same as the file on disk
+#             1	Copy file (copy from old archive to new)
+#         w	Can not be detected what file is newer (times are the same, sizes are different)
+#             2	Compress (compress file from disk to new archive)
+full_backup=`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-Full-%b_%Y.7z'`
+if [ ! -f $full_backup ]; then
+    echo "Creating baseline archive: "$full_backup
+    7z u -up0q0r2x2y2z1w2 $full_backup /mnt/sd3/record/klo.lt/*
+fi
+
+# 7z u -u- -"up0q3r2x2y2z0w2!{incr_backup}"
+#     -u[-][p#][q#][r#][x#][y#][z#][!newArchiveName]
+#         Update options
+#         p	File exists in archive, but is not matched with wildcard
+#             0	Ignore file (don't create item in new archive for this file)
+#         q	File exists in archive, but doesn't exist on disk.
+#             3	Create Anti-item (item that will delete file or directory during extracting)
+#         r	File doesn't exist in archive, but exists on disk.
+#             2	Compress (compress file from disk to new archive)
+#         x	File in archive is newer than the file on disk.
+#             2	Compress (compress file from disk to new archive)
+#         y	File in archive is older than the file on disk.
+#             2	Compress (compress file from disk to new archive)
+#         z	File in archive is same as the file on disk
+#             0	Ignore file (don't create item in new archive for this file)
+#         w	Can not be detected what file is newer (times are the same, sizes are different)
+#             2	Compress (compress file from disk to new archive)
+incr_backup=`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-Incr-%b%d_%Y.7z'`
+if [ ! -f $incr_backup ]; then
+    echo "Creating baseline archive: "$incr_backup
+    7z u -u- $full_backup /mnt/sd3/record/klo.lt/* -"up0q3r2x2y2z0w2!"`TZ='<UTC+8>-8' date +'/mnt/sd3/record/backup/klolt-Incr-%b%d_%Y.7z'`  
 fi
