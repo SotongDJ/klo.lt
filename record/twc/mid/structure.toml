@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00412]
+name = "EP410 到底在吵三小，全網最完整真粉深度解析以及十六個你沒發現的彩蛋"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/93470536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-24%2F1e8ca71a-433c-2edc-4859-0ecb462c86d6.mp3"
+spotify = "https://open.spotify.com/episode/4ugJ0KgP7HGEHxqElJlJhT"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【亞果元素】贊助播出</p>\n<p>迎向全 USB-C 新時代，2024年必備潮流充電配件：</p>\n<p>ADAM elements 【GRAVITY 30W】 USB-C 自帶線快充行動電源</p>\n<p>✧ 內建 USB-C 充電線，出門不怕忘帶線</p>\n<p>✧ 自帶線設計，幫手機充還可以直接幫行動電源充電</p>\n<p>✧ 內建 USB-C ＋ USB-A 孔，多裝置同時充</p>\n<p>✧ 10,000 mAh 大電量，電力滿足一整天 </p>\n<p>✧ USB-C 最大 30W 輸出，手機、平板、MacBook Air 隨時滿電</p>\n<p>✧ LED 數字顯示螢幕，剩餘電量精準掌握</p>\n<p>✧ 同級行動電源 #體積最小，輕巧時尚多色設計 #任意百搭</p>\n<p>✧ ADAM 安心一年保固，全台據點為您服務 #使用最放心</p>\n<p>即日起至11/5</p>\n<p>透過專屬連結購買 ➡️ <a href=\"https://adamele.com/commuteonly\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://adamele.com/commuteonly</a> </p>\n<p>並搭配台通專屬優惠碼〖commute〗即可享200元折扣優惠。</p>\n<p><br /></p>\n"
+names = ["EP410 到底在吵三小，全網最完整真粉深度解析以及十六個你沒發現的彩蛋"]
+tag = ["Oct 24, 2024", "Oct 2024", "2024"]
+category = []
+
 [twc00411]
 name = "EP409 已購買小孩愛吃"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/93220862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-18%2Ffb234177-4e0a-4b53-e9dd-91be50ba1938.mp3"
