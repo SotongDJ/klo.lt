@@ -83,11 +83,11 @@ function currentTime(precision=1) {
   let date_str = month_str + " " + day_int + ", " + year_int + " " + week_str;
 
   wake();
+  document.getElementById("power").innerHTML = "";
   navigator.getBattery().then((battery) => {
     let batteryLevel = false;
     batteryLevel = battery.level;
     if (batteryLevel) {
-      document.getElementById("power").innerHTML = "";
       if (wakeLock.released) {
         document.getElementById("power").appendChild(fontAwe("fa-solid fa-mug-saucer fa-fw"));
         document.getElementById("power").append(" ");
@@ -113,32 +113,32 @@ function currentTime(precision=1) {
       document.getElementById("power").append(battery_str);
       document.getElementById("power").append(" ");
 
-
-      let btnStatic = document.createElement("a");
-      btnStatic.href = "javascript: void(turnStatic())";
-      btnStatic.appendChild(fontAwe("fa-solid fa-thumbtack fa-fw"));
-      document.getElementById("power").appendChild(btnStatic);
-      document.getElementById("power").append(" ");
-
-      let btnMove = document.createElement("a");
-      btnMove.href = "javascript: void(turnMove())";
-      btnMove.appendChild(fontAwe("fa-solid fa-shoe-prints fa-fw"));
-      document.getElementById("power").appendChild(btnMove);
-      document.getElementById("power").append(" ");
-
-      let btnDay = document.createElement("a");
-      btnDay.href = "javascript: void(turnDay())";
-      btnDay.appendChild(fontAwe("fa-solid fa-sun fa-fw"));
-      document.getElementById("power").appendChild(btnDay);
-      document.getElementById("power").append(" ");
-
-      let btnNight = document.createElement("a");
-      btnNight.href = "javascript: void(turnNight())";
-      btnNight.appendChild(fontAwe("fa-solid fa-moon fa-fw"));
-      document.getElementById("power").appendChild(btnNight);
-      document.getElementById("power").append(" ");
     };
   });
+
+  let btnStatic = document.createElement("a");
+  btnStatic.href = "javascript: void(turnStatic())";
+  btnStatic.appendChild(fontAwe("fa-solid fa-thumbtack fa-fw"));
+  document.getElementById("power").appendChild(btnStatic);
+  document.getElementById("power").append(" ");
+
+  let btnMove = document.createElement("a");
+  btnMove.href = "javascript: void(turnMove())";
+  btnMove.appendChild(fontAwe("fa-solid fa-shoe-prints fa-fw"));
+  document.getElementById("power").appendChild(btnMove);
+  document.getElementById("power").append(" ");
+
+  let btnDay = document.createElement("a");
+  btnDay.href = "javascript: void(turnDay())";
+  btnDay.appendChild(fontAwe("fa-solid fa-sun fa-fw"));
+  document.getElementById("power").appendChild(btnDay);
+  document.getElementById("power").append(" ");
+
+  let btnNight = document.createElement("a");
+  btnNight.href = "javascript: void(turnNight())";
+  btnNight.appendChild(fontAwe("fa-solid fa-moon fa-fw"));
+  document.getElementById("power").appendChild(btnNight);
+  document.getElementById("power").append(" ");
 
   document.getElementById("clock").innerText = time_str;
   document.getElementById("day").innerText = date_str;
