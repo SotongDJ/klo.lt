@@ -1,5 +1,5 @@
 // reference: https://github.com/mdn/sw-test
-const currentVersion = 'v01r037';
+const currentVersion = 'v01r038';
 const addResourcesToCache = async (resources) => {
     const cache = await caches.open(currentVersion);
     await cache.addAll(resources);
@@ -53,16 +53,16 @@ const deleteOldCaches = async () => {
 precache_arr = [
     '/',
     '/index.html',
-    '/link.js?v01r037',
-    '/main.css?v01r037',
-    '/main.js?v01r037',
-    '/clock.js?v01r037',
-    '/extra.js?v01r037',
-    '/site.js?v01r037',
-    '/f/icon.css?v01r037',
-    '/f/font.css?v01r037',
-    '/podcast/main.css?v01r037',
-    '/podcast/main.js?v01r037',
+    '/link.js?v01r038',
+    '/main.css?v01r038',
+    '/main.js?v01r038',
+    '/clock.js?v01r038',
+    '/extra.js?v01r038',
+    '/site.js?v01r038',
+    '/f/icon.css?v01r038',
+    '/f/font.css?v01r038',
+    '/podcast/main.css?v01r038',
+    '/podcast/main.js?v01r038',
 ];
 self.addEventListener('activate', (event) => {
     event.waitUntil(enableNavigationPreload());

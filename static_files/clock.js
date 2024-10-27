@@ -8,6 +8,7 @@ function fontAwe(fontKey,fontID="") {
   return fontI;
 };
 
+navigator.wakeLock||console.log("Screen Wake Lock API supported!");
 let verbose = false;
 let wakeLock = null;
 async function wake(){
@@ -52,6 +53,7 @@ document.querySelector("body").style = "background-color: black; color: white;";
 document.getElementById("bound").style = "background-color: black; color: white;";
 }
 
+navigator.getBattery||console.log("Battery API is not supported by this browser.");
 function currentTime(precision=1) {
   let date_class = new Date();
   let hour_int = date_class.getHours();
@@ -84,37 +86,39 @@ function currentTime(precision=1) {
 
   wake();
   document.getElementById("power").innerHTML = "";
-  navigator.getBattery().then((battery) => {
-    let batteryLevel = false;
-    batteryLevel = battery.level;
-    if (batteryLevel) {
-      if (wakeLock.released) {
-        document.getElementById("power").appendChild(fontAwe("fa-solid fa-mug-saucer fa-fw"));
+  if (navigator.getBattery) {
+    navigator.getBattery().then((battery) => {
+      let batteryLevel = false;
+      batteryLevel = battery.level;
+      if (batteryLevel) {
+        if (wakeLock.released) {
+          document.getElementById("power").appendChild(fontAwe("fa-solid fa-mug-saucer fa-fw"));
+          document.getElementById("power").append(" ");
+        } else {
+          document.getElementById("power").appendChild(fontAwe("fa-solid fa-mug-hot fa-fw"));
+          document.getElementById("power").append(" ");
+        }
+        let battery_level = Math.round(batteryLevel*100).toFixed(precision);
+        let battery_str = " " + battery_level + "% ";
+        if (battery.charging) {
+          document.getElementById("power").appendChild(fontAwe("fa-solid fa-plug-circle-bolt fa-fw"));
+        } else if (battery_level == 100) {
+          document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-full fa-fw"));
+        } else if (battery_level >= 75) {
+          document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-three-quarters fa-fw"));
+        } else if (battery_level >= 50) {
+          document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-half fa-fw"));
+        } else if (battery_level >= 25) {
+          document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-quarter fa-fw"));
+        } else {
+          document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-empty fa-fw"));
+        };
+        document.getElementById("power").append(battery_str);
         document.getElementById("power").append(" ");
-      } else {
-        document.getElementById("power").appendChild(fontAwe("fa-solid fa-mug-hot fa-fw"));
-        document.getElementById("power").append(" ");
-      }
-      let battery_level = Math.round(batteryLevel*100).toFixed(precision);
-      let battery_str = " " + battery_level + "% ";
-      if (battery.charging) {
-        document.getElementById("power").appendChild(fontAwe("fa-solid fa-plug-circle-bolt fa-fw"));
-      } else if (battery_level == 100) {
-        document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-full fa-fw"));
-      } else if (battery_level >= 75) {
-        document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-three-quarters fa-fw"));
-      } else if (battery_level >= 50) {
-        document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-half fa-fw"));
-      } else if (battery_level >= 25) {
-        document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-quarter fa-fw"));
-      } else {
-        document.getElementById("power").appendChild(fontAwe("fa-solid fa-battery-empty fa-fw"));
+  
       };
-      document.getElementById("power").append(battery_str);
-      document.getElementById("power").append(" ");
-
-    };
-  });
+    });
+  };
 
   let btnStatic = document.createElement("a");
   btnStatic.href = "javascript: void(turnStatic())";
