@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00576]
+name = "【本週提醒】累了就休息吧，拒絕內耗❌"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm2rlxvtx0pyg01v6h13m2zfz/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm2rlxvtx0pyh01v6d9e3bc7r.mp3?v=1730034624305"
+spotify = "https://open.spotify.com/episode/4TE9AHBJLNxPaIbE2yK72m"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽10/28-11/3星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】金牛 處女 射手 雙魚 <br /> <br />金牛：容易鑽牛角尖想不通，感情難以溝通有點固執 <br />處女：是真是假要花心思研究，感情多注意對方暗示 <br />射手：太拼命了要注意健康，感情要小心第三者 <br />雙魚：狀況可能柳暗花明，感情爭執不見得是壞事 <br /> <br />【穩的】雙子 天秤 天蠍 水瓶 <br /> <br />雙子：工作與海外有緣很興奮，感情有聚少離多傾向 <br />天秤：情況觸底反彈拿回掌控，感情上是求和好時機 <br />天蠍：漏掉的進度趕快補足，感情上拿出行動別懶散 <br />水瓶：出狀況不是你的問題請放寬心，感情互不相讓卡住了 <br /> <br />【讚的】牡羊 巨蟹 獅子 魔羯 <br /> <br />牡羊：試試新方法有驚喜效果，感情上要主動大膽 <br />巨蟹：工作有女性主管帶動，感情可分享工作成就 <br />獅子：工作順利別掉以輕心，感情上有誠意比較重要 <br />魔羯：工作上有遠景計畫，感情重視未來可能性 <br /></p>"
+names = ["【本週提醒】累了就休息吧，拒絕內耗❌"]
+tag = ["Oct 27, 2024", "Oct 2024", "2024"]
+category = []
+
 [jst00575]
 name = "EP367 有星系列(處女)：精緻的配置"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm2oc6t24002i01vu71gs5xgm/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm2oc6t25002j01vuc2z29gt5.mp3?v=1729836913894"
