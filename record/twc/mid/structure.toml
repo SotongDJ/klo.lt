@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00413]
+name = "EP411 走鐘獎後之我見"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/93681414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-29%2F86f983ec-6baf-6a38-c0a0-efe23c90753a.mp3"
+spotify = "https://open.spotify.com/episode/098hQHp0C21UIlTUVC7NBl"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>\n</p>\n<p>本集節目由【Alpecin】贊助播出</p>\n<p>【Alpecin x 台通】Alpecin擊退白髮咖啡因泡沫染髮露 全新上市 </p>\n<p>🕶全新5,6-DHI黑髮再現技術，就像洗髮一樣簡單  </p>\n<p>🕶天天使用回歸自然黑髮，髮色可控， 持色效果長 </p>\n<p>🕶型男養髮首選，咖啡因複合物強健髮根 </p>\n<p>【德國原裝進口 單件即免運】 </p>\n<p>Shopee商城【Alpecin 擊退白髮咖啡因泡沫染髮露 200ml】👉 <a href=\"https://bit.ly/3NvtzYC\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/3NvtzYC</a> </p>\n<p>Momo官方商城【Alpecin擊退白髮咖啡因泡沫染髮露200ml】👉 <a href=\"https://bit.ly/48aPP3g\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/48aPP3g</a> </p>\n<p>官方商城【 Alpecin 擊退白髮咖啡因泡沫染髮露 200ml】👉 <a href=\"https://bit.ly/3BM8CpL\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/3BM8CpL</a> </p>\n<p><br /></p>\n"
+names = ["EP411 走鐘獎後之我見"]
+tag = ["Oct 29, 2024", "Oct 2024", "2024"]
+category = []
+
 [twc00412]
 name = "EP410 到底在吵三小，全網最完整真粉深度解析以及十六個你沒發現的彩蛋"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/93470536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-24%2F1e8ca71a-433c-2edc-4859-0ecb462c86d6.mp3"
