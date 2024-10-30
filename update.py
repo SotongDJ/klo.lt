@@ -16,6 +16,13 @@ import configdo
 
 user_agents = json.load(open("agent.json"))
 
+def trim_url(url_str):
+    url_list = url_str.split(".mp3?timestamp=")
+    if len(url_list) == 2:
+        return "{}.mp3".format(url_list[0])
+    else:
+        return url_str
+
 def do_job(target_str,configing):
     """Main thread"""
     result_dict = {}
@@ -63,7 +70,7 @@ def do_job(target_str,configing):
                     print("        invalid items")
             else:
                 name = unit.title.contents[0]
-                url = unit.enclosure['url']
+                url = trim_url(unit.enclosure['url'])
                 unit_description = unit.description
                 contents = unit_description.contents
                 description = str(contents[0]) if len(contents) > 0 else ""
