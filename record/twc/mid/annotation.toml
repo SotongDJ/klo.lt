@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00414]
+name = "EP412 不談錢傷感情"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/93876833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-2%2Fc24e0a1c-2749-9ff2-4084-205819b166d4.mp3"
+spotify = "https://open.spotify.com/episode/6GaWckqs3LVPZUQsUtv7Wh"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【小磨坊】贊助播出</p>\n<p>新手想自己煮頓飯到底有多難？！🤯</p>\n<p>在面對時間、技術、調味的壓力下，小磨坊主「醬」颯爽上場！🏄</p>\n<p>即使沒有下過廚，使用小磨坊熱炒醬也能輕鬆出大菜，端出快速又美味的料理，建立料理成就感，讓其他人刮目相看！</p>\n<p>🟢即日起至11/30登錄發票就醬抽iPhone</p>\n<p>活動期間購買任一件小磨坊方便醬(不限通路、口味)，至專區登錄發票立即送參加禮，加碼再抽iPhone16、LINE POINTS 20點、LINE POINTS 100點、100元現金劵 </p>\n<p><a href=\"https://shop.tomax.com.tw/twWFH\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://shop.tomax.com.tw/twWFH</a> </p>\n<p>🟢台通聽眾專屬優惠</p>\n<p>透過台通專屬連結 <a href=\"https://www.spicer.com.tw/?rcode=COMMUTE\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.spicer.com.tw/?rcode=COMMUTE</a> </p>\n<p>或結帳輸入台通專屬推薦碼【COMMUTE】，立享8折優惠</p>\n"
+names = ["EP412 不談錢傷感情"]
+tag = ["Nov 02, 2024", "Nov 2024", "2024"]
+category = []
+
 [twc00413]
 name = "EP411 走鐘獎後之我見"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/93681414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-29%2F86f983ec-6baf-6a38-c0a0-efe23c90753a.mp3"
