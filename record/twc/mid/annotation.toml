@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00415]
+name = "EP413 惦惦"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/94054879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2Fd74f016a-7590-44ad-08fb-13b53e61f3cc.mp3"
+spotify = "https://open.spotify.com/episode/1vVDsgPoO4GCKWeaMncnMJ"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【PlayStation 台灣】贊助播出</p>\n<p>雙 11 期間限定 PS5 超強優惠來了，11 月 1 日至 14 日，PS5 Slim 薄型主機光碟版與數位版於 PlayStation 全經銷通路，不論網購還是實體店家都能現折 2,500 元，主機週邊與指定遊戲也有優惠。</p>\n<p>立即入手享有豐富的遊戲陣容包含《劍星》、《浪人崛起》、適合全家大小的《宇宙機器人》、還有今年的黑馬《黑神話：悟空》，明年緊接著更有《魔物獵人：荒野》和《羊蹄戰鬼》等著你。</p>\n<p>台通聽眾專屬連結購買，再享額外加碼 500 元 PSN 點數卡回饋：<a href=\"https://www.acergaming.com/s/ys4is\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.acergaming.com/s/ys4is</a> </p>\n<p><br /></p>\n"
+names = ["EP413 惦惦"]
+tag = ["Nov 06, 2024", "Nov 2024", "2024"]
+category = []
+
 [twc00414]
 name = "EP412 不談錢傷感情"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/93876833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-2%2Fc24e0a1c-2749-9ff2-4084-205819b166d4.mp3"
