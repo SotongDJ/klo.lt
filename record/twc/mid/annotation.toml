@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00416]
+name = "EP414 不要起爭議啦"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/94184250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Ff3abe34f-f3b1-88f7-176f-2ea7aa788d7c.mp3"
+spotify = "https://open.spotify.com/episode/0Oq4H40wM0VmcD6fGyZqTG"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>\n本集節目由【plain-me】贊助播出</p>\n<p>plain-me 雙11開跑啦！！！</p>\n<p>11/25(一)前，全館指定商品滿2件88折，3件79折</p>\n<p>水洗棉多口袋短版狩獵外套優惠價$2,880</p>\n<p>還有超值優惠！買PM旅行後背包只要$1,988，再送PM旅行小包(等於買一送一）</p>\n<p>下單輸入專屬台通專屬折扣碼「commute」單筆加碼再抵100元</p>\n<p>首次購物再折 100</p>\n<p>一年一度最划算的就是這一檔！</p>\n<p>立刻選購：<a href=\"https://plain-me.life/80ve5\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://plain-me.life/80ve5</a> </p>\n<p><br /></p>\n"
+names = ["EP414 不要起爭議啦"]
+tag = ["Nov 09, 2024", "Nov 2024", "2024"]
+category = []
+
 [twc00415]
 name = "EP413 惦惦"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/94054879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2Fd74f016a-7590-44ad-08fb-13b53e61f3cc.mp3"
