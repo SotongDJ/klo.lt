@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00582]
+name = "【本週提醒】土星順行了，運氣明顯不同"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm3bvgh8q04ou01yqagqg1c5z/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm3bvgh8q04ov01yq87ed5yk3.mp3?v=1731259932558"
+spotify = "https://open.spotify.com/episode/6e1LdmBexdTgXSjIQGPtlj"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽11/11-11/17星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】雙子 巨蟹 天秤 射手 <br /> <br />雙子：看似穩妥還是要多注意，感情好壞靠心情穩定 <br />巨蟹：別無限付出要多休息，感情的問題不想忍耐 <br />天秤：休息充足能做得更好，感情上想太多無法享受 <br />射手：有資源缺乏的問題，感情上各忙各的較好 <br /> <br />【穩的】牡羊 處女 天蠍 雙魚 <br /> <br />牡羊：越需專業越非你莫屬，感情上太矜持會錯失良機 <br />處女：工作找人合作更順利，感情要小心會錯意 <br />天蠍：工作表現好壞要看心情，感情有點錯頻覺得孤單 <br />雙魚：遇事受阻可放手一下，感情越不求越得到 <br /> <br />【讚的】金牛 獅子 魔羯 水瓶 <br /> <br />金牛：發展新事務別太保守，感情上多了解一點較好 <br />獅子：事情默默進行較穩妥，感情低調神祕更有吸引力 <br />魔羯：蓄勢待發一擊必中，感情上連背影都吸睛 <br />水瓶：時來運轉貴人青睞，感情與年長者較有緣 <br /></p>"
+names = ["【本週提醒】土星順行了，運氣明顯不同"]
+tag = ["Nov 10, 2024", "Nov 2024", "2024", "本週提醒", "土星"]
+category = ["運勢", "星象"]
+
 [jst00581]
 name = "EP371 天頂星座，你的成功之路(下)"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm38jd6gw0cdh01x1885x6zqn/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm38jd6gw0cdi01x15ngr0mj3.mp3?v=1731058265021"
