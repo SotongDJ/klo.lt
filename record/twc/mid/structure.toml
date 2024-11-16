@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00417]
+name = "EP415 本集僅供直播實況學術交流使用 ft.赤鬼伯伯"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/94501777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-16%2Ffa7899b1-af33-e0db-761d-362c5f0643ba.mp3"
+spotify = "https://open.spotify.com/episode/0UypaYFCWXhscJOn1hjVyJ"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n"
+names = ["EP415 本集僅供直播實況學術交流使用 ft.赤鬼伯伯"]
+tag = ["Nov 16, 2024", "Nov 2024", "2024"]
+category = []
+
 [twc00416]
 name = "EP414 不要起爭議啦"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/94184250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Ff3abe34f-f3b1-88f7-176f-2ea7aa788d7c.mp3"
