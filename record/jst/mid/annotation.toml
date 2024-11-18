@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00586]
+name = "【本週提醒】對分相多，配合磨合一起來"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm3mlt9yn00h901wl6hxtg9hy/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm3mlt9yn00ha01wlcadc08zd.mp3?v=1731908861964"
+spotify = "https://open.spotify.com/episode/5ck12lTWn70xbC57MRMAUW"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽11/18-11/24星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】金牛 獅子 水瓶 雙魚 <br /> <br />金牛：發現內在隱憂需防範，感情問題要勇敢提出討論 <br />獅子：別自尊過高忽略實際狀況，感情問題來自心病 <br />水瓶：目標偏離要往務實靠攏，感情要多往對方靠近 <br />雙魚：容易有不當同情與付出，感情別對爛桃花心軟 <br /> <br />【穩的】巨蟹 處女 天秤 天蠍 <br /> <br />巨蟹：有上升趨勢稍安勿躁，桃花要旺需再親切一點 <br />處女：工作衝刺中或棋逢對手，感情乾脆進展迅速 <br />天秤：忙於必要的交際應酬，感情要好好思考給個說法 <br />天蠍：面對兩難局面需衡量，感情也有選擇題需面對 <br /> <br />【讚的】牡羊 雙子 射手 魔羯 <br /> <br />牡羊：向前衝也要顧慮周遭，感情有進一步的衝動 <br />雙子：受人看重合作機會多，感情能遇到貼心桃花 <br />射手：結合各方意見資源更成功，感情要討論錢的事 <br />魔羯：工作正常發揮頗有成就，感情走責任感路線</p>"
+names = ["【本週提醒】對分相多，配合磨合一起來"]
+tag = ["Nov 18, 2024", "Nov 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00585]
 name = "EP374 還是要相信愛情啦ft. 影后導演嚴藝文、詹懷雲"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm3juscnq044y01wpd4ab9fjn/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm3juscnq044z01wp32nj0lsh.mp3?v=1731756509623"
