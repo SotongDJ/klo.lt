@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00418]
+name = "EP416 先睡著的才是贏家"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/94720480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-20%2F643a695d-1d74-0edc-052f-3ac2b3f563d3.mp3"
+spotify = "https://open.spotify.com/episode/3Wh5l6zAsrpbe3iJfvazVH"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>【本節節目由LINE GO贊助播出】</p>\n<p>LINE GO 免下載 APP，用 LINE 即可輕鬆使用！</p>\n<p>TAXI、租車、機場接送，移動服務一站滿足</p>\n<p>新朋友註冊會員，免費領$1200大禮包</p>\n<p>老朋友輸入優惠碼「台灣通勤第一品牌」</p>\n<p>即可領取 TAXI 乘車券$50元！限量5,000張手刀輸入GO！</p>\n<p>👉🏻 <a href=\"https://lgo.tw/64WI2\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://lgo.tw/64WI2</a> </p>\n<p>*乘車券限量 5,000 組，11/30 23:59 前完成領取，領取後 30 天內需使用完畢</p>\n<p><br />\n\n</p>\n"
+names = ["EP416 先睡著的才是贏家"]
+tag = ["Nov 21, 2024", "Nov 2024", "2024"]
+category = []
+
 [twc00417]
 name = "EP415 本集僅供直播實況學術交流使用 ft.赤鬼伯伯"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/94501777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-16%2Ffa7899b1-af33-e0db-761d-362c5f0643ba.mp3"
