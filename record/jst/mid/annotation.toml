@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00589]
+name = "【本週提醒】所有小事，都可能是重要的事"
+feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm3vibk4m00xq01vx6ncb715a/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm3vibk4m00xr01vx87j48b9o.mp3?v=1732447189064"
+spotify = "https://open.spotify.com/episode/3SUTUNav71Mwyfnh0lzh5t"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽11/25-12/1星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 巨蟹 獅子 天秤 <br /> <br />牡羊：別因好強而過度爭執，感情上別為面子鬧彆扭 <br />巨蟹：自己按部就班別被情勒，感情不太順要多花點心思 <br />獅子：容易自我設限沒進度，感情容易自我感覺不良好 <br />天秤：工作別事事有求必應，感情不能忽視對你好的人 <br /> <br />【穩的】金牛 天蠍 水瓶 雙魚 <br /> <br />金牛：工作容易水逆要小心，感情可能被挖出黑歷史 <br />天蠍：工作上是別人的救火隊，感情走療癒路線 <br />水瓶：遭遇對手反能激發創意，感情上吵架也是一種溝通 <br />雙魚：花心思處理錢的問題，感情上價值觀相合很重要 <br /> <br />【讚的】雙子 處女 射手 魔羯 <br /> <br />雙子：工作可主動推進進度，感情要更積極一點 <br />處女：忙碌中建立可靠印象，感情記得抽空多關心對方 <br />射手：工作計畫順利能夠掌控，感情別太高冷桃花更旺 <br />魔羯：能收到稱讚或很多迴響，感情可請客送禮更加分 <br /></p>"
+names = ["【本週提醒】所有小事，都可能是重要的事"]
+tag = ["Nov 24, 2024", "Nov 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00588]
 name = "EP376 火星帶來的傷害性🔥"
 feed = "https://chrt.fm/track/DFD86F/m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm3si8jp50dr501uzd1q560qz/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm3si8jp50dr601uz06yr5xlf.mp3?v=1732265683313"
