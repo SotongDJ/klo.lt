@@ -169,7 +169,8 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [法客話題]
-  found in: (134)
+  found in: (135)
+    plr00597
     plr00586
     plr00577
     plr00573
