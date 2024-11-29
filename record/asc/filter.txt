@@ -131,6 +131,12 @@ Process: record/asc/keyword-1-guest.toml
     asc00003
   Excluded: (0)
     
+[姻緣]
+  found in: (2)
+    asc00137
+    asc00100
+  Excluded: (0)
+    
 [財神]
   found in: (2)
     asc00101
