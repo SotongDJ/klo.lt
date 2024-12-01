@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00421]
+name = "EP419 科學的盡頭"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/95201368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-1%2F024b7fa2-db75-e588-a9ec-a60894c703ce.mp3"
+spotify = "https://open.spotify.com/episode/3ss7q9WjWrJ3eaI3BwaudP"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【國際特赦組織】贊助播出</p>\n<p>呼叫內心的英雄 2024寫信馬拉松 </p>\n<p>小時候，英雄的形象可能是電影裡有超能力、拯救世界的超級英雄。長大後，發現現實生活中那些勇敢對抗不公不義的人，也逐漸成為我們心中平凡英雄。 </p>\n<p>從南韓、加拿大、沙烏地阿拉伯到越南，世界各地都有平凡英雄，他們為了改變不公義勇敢挺身而出，卻因此遭受各種人權迫害，需要你我聲援。 </p>\n<p>其實，你就是英雄！ 國際特赦組織每年都舉辦寫信馬拉松，一場平凡人寫信聲援人權的行動，多年來成功改變了超過 100 人的生命。</p>\n<p>其實，你就是那位可以透過寫信、連署，改變世界的平凡英雄！ </p>\n<p>在台北、台中、高雄，呼叫你內心的英雄！ 全台三場寫信馬拉松系列活動，有展覽、互動體驗，現場可以寫信聲援，還有多組音樂人、KOL陪你一起呼叫英雄！ </p>\n<p>12/7-8 台北華山 中4A (紅酒作業場) </p>\n<p>12/21-22 台中PARK2草悟廣場 </p>\n<p>12/28-29 駁二藝術特區 P3倉庫 </p>\n<p>你也可以現在就呼叫內心的英雄！線上行動，加入連署聲援。</p>\n<p>透過台通限定連結，連署就送感謝禮 <a href=\"https://lihi.cc/nzXFb\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://lihi.cc/nzXFb</a> </p>\n<p>———————————— </p>\n<p>✦ 演出LINE UP 滅火器、曹雅雯、黃玠、大象體操、芒果醬Mango Jump、凹與山、淺堤、好樂團、同根生、林生祥、農村武裝青年、尋人啟事、森淮 Senhuai、吉那罐子、你太白了，去曬黑、絕命青年 </p>\n<p>✦ 跨界對談 台灣通勤第一品牌、法律白話文運動、一歷百憂解李文成、UG is HOT、寶島少年兄宜蘭、旅行熱炒店、這個，我不推、人權捍衛者李明哲、地球公民基金會 </p>\n<p><br /></p>\n"
+names = ["EP419 科學的盡頭"]
+tag = ["Dec 01, 2024", "Dec 2024", "2024"]
+category = []
+
 [twc00420]
 name = "EP418 平行宇宙 ft.達康.come"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95038105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-27%2Feea1547b-6765-d13c-6588-c9286249730f.mp3"
