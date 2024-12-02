@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00592]
+name = "【本週提醒】好好觀察，是什麼讓自己那麼煩"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm46efsqw0e6401yoa2m69op0/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm46efsqw0e6501yoe5kvhghv.mp3?v=1733105800788"
+spotify = "https://open.spotify.com/episode/0mlZ7nQTFeO5m3A9kXxroI"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽12/2-12/8星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 金牛 處女 魔羯 <br /> <br />牡羊：易遇到無奈的事要面對，感情要小心第三者 <br />金牛：容易忘東忘西被批評，感情要當心亂說話 <br />處女：凡事保持彈性因應變化，感情上靜觀其變較好 <br />魔羯：休息不足會影響事業運，感情問題要好好聊聊 <br /> <br />【穩的】雙子 巨蟹 射手 雙魚 <br /> <br />雙子：遇到專家有商有量，感情可討論務實話題 <br />巨蟹：工作按部就班很平穩，感情可以來點浪漫 <br />射手：為海外傳來的消息忙碌，感情可能出現雞同鴨講 <br />雙魚：在熟悉的模式裡表現更好，感情中安全感很重要 <br /> <br />【讚的】獅子 天秤 天蠍 水瓶 <br /> <br />獅子：接受建言更能發揮力量，感情吐露心事能更靠近 <br />天秤：能化解危機或遇到英雄，感情上需要被情感安慰 <br />天蠍：人脈關係帶來好消息，感情要放下細節多些寬容 <br />水瓶：跟錢有關的事很順利，感情走舒服相處路線</p>"
+names = ["【本週提醒】好好觀察，是什麼讓自己那麼煩"]
+tag = ["Dec 02, 2024", "Dec 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00591]
 name = "EP378 迷人又危險的火星🔥(下)"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm42ifs5400hf01vjdhlyahi7/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm42ifs5500hg01vjdy6r2jmn.mp3?v=1732870692492"
