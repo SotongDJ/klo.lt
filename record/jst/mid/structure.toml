@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00593]
+name = "EP379 星盤中唯一的星 (卻一顆抵七顆)"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm48a4g1t006901y5asxh0siw/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm48a4g1u006a01y58lqz4nup.mp3?v=1733219523450"
+spotify = "https://open.spotify.com/episode/2PBqUBrhyAhduzip6cpUj6"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>今天再來個新主題：當「某元素只有一顆星」時…. <br />好比星盤只有一顆星落到風象星座，就是「只有一顆風」！只有一顆星落火象星座，就是「只有一顆火」，以此類推。 <br /> <br />應該不少人有這種情況吧？那，會發生什麼事？ <br /> <br />摒除天海冥來看（對，本集只看傳統七顆星），那我就是「只有一顆土」的代表。 <br />這個「土」就成了必須更用力求生的孤星，所以一顆抵七顆，結果就是特定時候，我覺得自己比土象還土象，有「固執、撞牆才肯放棄、其實挺保守」… <br /> <br />顯然「只有一顆…. 」反而會強化那個特質，會更想用力表現 <br />那過度用力是好是壞？又會怎樣展現呢？快打開星盤查一下，搭配這集一起服用！ <br /> <br />EP379菜單： <br />只有一個就會Over <br />一個天蠍會變深水炸彈 <br />容易暴食的巨蟹 <br />見了棺材才掉淚的土象 <br />只有一個水消化情緒要三天 <br />只有一個風不透露家住哪 <br />懶得解釋的火雙子 <br />只有一個火會超級拼命 <br />睡衣是別人禮服的獅子</p>"
+names = ["EP379 星盤中唯一的星 (卻一顆抵七顆)"]
+tag = ["Dec 03, 2024", "Dec 2024", "2024"]
+category = []
+
 [jst00592]
 name = "【本週提醒】好好觀察，是什麼讓自己那麼煩"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm46efsqw0e6401yoa2m69op0/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm46efsqw0e6501yoe5kvhghv.mp3?v=1733105800788"
