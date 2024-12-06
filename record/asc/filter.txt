@@ -57,7 +57,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [生命靈數]
-  found in: (3)
+  found in: (4)
+    asc00138
     asc00110
     asc00062
     asc00035
