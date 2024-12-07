@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00423]
+name = "EP421 要是有便利大裹巾就好"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/95497934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-7%2Fd939171f-d912-462c-5882-934bbe151722.mp3"
+spotify = "https://open.spotify.com/episode/7igUodsNtgX7M7djR22YwC"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【經脆脆 雞皮餅乾】贊助播出</p>\n<p>🌟100%原型雞皮製作，真材實料！</p>\n<p>🌟低碳水高蛋白餅乾、健身族的嘴饞救星</p>\n<p>🌟市售唯一「低裹粉工法」，口感更酥脆</p>\n<p>🌟全球熱銷 450 萬包，出口逾 10 個國家</p>\n<p>12/31前，經脆脆全系列商品滿$399，輸入優惠碼【commute】可折抵$30！</p>\n<p>專屬連結：<a href=\"https://bit.ly/3CEwg7X\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/3CEwg7X</a> </p>\n<p>好康加碼！現在到全家也買得到「雞皮餅乾、甜不辣脆片」，搭配全家火鍋季還有優惠活動，歡迎至各分店詢問！</p>\n<p><br /></p>\n"
+names = ["EP421 要是有便利大裹巾就好"]
+tag = ["Dec 07, 2024", "Dec 2024", "2024"]
+category = []
+
 [twc00422]
 name = "EP420 細數連接詞，你也是聆聽大師"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95350557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-4%2F70823f13-f38d-e9fb-f2c8-2c0805d6b1c6.mp3"
