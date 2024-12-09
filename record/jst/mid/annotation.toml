@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00595]
+name = "【本週提醒】有什麼爆炸性大事發生了嗎？"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm4gfr0e92b6l01sxcfqh6g0f/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm4gfr0e92b6m01sx8fhj2jrh.mp3?v=1733712662693"
+spotify = "https://open.spotify.com/episode/0i0dJOgTN5sCPonpEyHiLH"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽12/9-12/15星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 巨蟹 獅子 天蠍 <br /> <br />牡羊：覺得資源不夠有點急，感情要挪出時間經營 <br />巨蟹：多方協調不易要硬起來，桃花可能在職場 <br />獅子：須當心別有用心的人，感情要隔離爛桃花 <br />天蠍：用智慧拒絕人情包袱，感情要好好處理前任 <br /> <br />【穩的】金牛 處女 天秤 射手 <br /> <br />金牛：工作計畫要保有彈性，感情放鬆反而能夠得到 <br />處女：工作問題要懂得求援，感情上適合居家約會 <br />天秤：別人畫的大餅別太認真，感情來的都不是菜 <br />射手：克服逃避才能有進度，感情上有價值觀的問題 <br /> <br />【讚的】雙子 魔羯 水瓶 雙魚 <br /> <br />雙子：貴人運旺機會佳，感情有長輩加持更順利 <br />魔羯：諸事順利人和興旺，感情出現喜歡的桃花 <br />水瓶：計畫順利前景看好，感情上志同道合很重要 <br />雙魚：把握浮現的靈感，對的感情更能提升自己</p>"
+names = ["【本週提醒】有什麼爆炸性大事發生了嗎？"]
+tag = ["Dec 09, 2024", "Dec 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00594]
 name = "EP380 有星系列(天秤)：狂人的配置"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm4cimx7s0bv701uo5ck4capk/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm4cimx7s0bv801uo6vck1c7p.mp3?v=1733475694041"
