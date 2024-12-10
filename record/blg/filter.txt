@@ -349,7 +349,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (289)
+  found in: (290)
+    blg00875
     blg00872
     blg00869
     blg00866
@@ -1318,6 +1319,12 @@ Process: record/blg/keyword-6-beta.toml
   found in: (2)
     blg00525
     blg00251
+  Excluded: (0)
+    
+[Ms Puiyi]
+  found in: (2)
+    blg00875
+    blg00656
   Excluded: (0)
     
 [阿滴]
