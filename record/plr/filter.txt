@@ -394,7 +394,8 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [政治歸YO智]
-  found in: (34)
+  found in: (35)
+    plr00605
     plr00604
     plr00591
     plr00590
