@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00425]
+name = "EP423 HO A"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/95826651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-14%2Ff4b0bbfb-8e20-5164-4eb3-dbc8ce377c7e.mp3"
+spotify = "https://open.spotify.com/episode/1ppLuTMfXvVg2N475CayiS"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【大武山牧場】贊助播出</p>\n<p>來自五星級 #大武山牧場 的 #AA級鮮蛋，用一顆完美的蛋帶給人們完美的一天🍳</p>\n<p>以自家牧場100%鮮蛋製成，將對雞蛋的用心傳遞在充滿幸福的甜點中✨</p>\n<p>蛋入蛋捲，鬆脆一捲入口！濃厚雞蛋布丁，幸福一口入魂！</p>\n<p>🎁大武山牧場官網手刀下單▸▸ <a href=\"https://dan-loo.tw/commute2025\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://dan-loo.tw/commute2025</a> </p>\n<p>🧧蛋捲優惠：1/23前消費輸入【台通蛋捲88】蛋捲產品不限件數即享 88 折優惠！（優惠組合、樂禮新春禮盒除外）</p>\n<p>🧧布丁優惠：1/23前消費輸入【台通布丁92】布丁產品不限件數即享 92 折優惠！</p>\n<p>#大武山牧場 #AA級鮮蛋 #蛋入蛋捲  #濃厚雞蛋布丁</p>\n<p><br />\n</p>\n"
+names = ["EP423 HO A"]
+tag = ["Dec 14, 2024", "Dec 2024", "2024"]
+category = []
+
 [twc00424]
 name = "EP422 出師對我不利"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95740290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F5015f844-5b00-33e9-0659-03e926dfb5d5.mp3"
