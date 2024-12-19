@@ -464,11 +464,12 @@ Process: record/jst/keyword-0.toml
     jst00082
     jst00381
     jst00376
-  Excluded: (7)
+  Excluded: (8)
     jst00274
     jst00270
     jst00266
     jst00261
+    jst00600
     jst00461
     jst00459
     jst00277
@@ -558,11 +559,12 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [十二宮]
-  found in: (7)
+  found in: (8)
     jst00274
     jst00270
     jst00266
     jst00261
+    jst00600
     jst00461
     jst00459
     jst00277
