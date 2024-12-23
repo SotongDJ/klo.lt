@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00602]
+name = "EP385 月亮星座看你的舒適圈"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm50ua2sq01if01zxg3w3csla/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm50ua2sq01ig01zxcfr108wb.mp3?v=1734946423356"
+spotify = "https://open.spotify.com/episode/0fEuoJe0BIDpidgCaeTBsy"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>再次來聊來大家最愛的「月亮星座」 <br />我常分享月亮星座是影響我們最深遠，也是我們最無法控制、又最沒安全感的地方。 <br />因為沒安全感，所以讓我們想逃開，結果就是……它變成星盤中「壞了事」的角色，因為它不舒服，就會潛意識地搞破壞。 <br />唯有真正了解月亮、全然接受我們的月亮，它才會變成我們的強項，幫助我們走出最終的成功之路。 <br />一起來聽這集吧 <br /> <br />EP385菜單：&nbsp; <br />月雙魚常常法喜充滿 <br />不懷疑不舒服的月天蠍 <br />家裡是小全聯的月亮巨蟹 <br />月亮天秤：都是對的 <br />讓月雙子舒服就是別管他 <br />喜歡自己在又不在的月水瓶</p>"
+names = ["EP385 月亮星座看你的舒適圈"]
+tag = ["Dec 23, 2024", "Dec 2024", "2024"]
+category = []
+
 [jst00601]
 name = "【本週提醒】別心急，好事多磨"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm50qztw30p2d01z6571jdy77/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm50qztw30p2e01z62r4pb2e8.mp3?v=1734940873645"
