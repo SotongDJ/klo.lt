@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00601]
+name = "【本週提醒】別心急，好事多磨"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm50qztw30p2d01z6571jdy77/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm50qztw30p2e01z62r4pb2e8.mp3?v=1734940873645"
+spotify = "https://open.spotify.com/episode/5G0VeCe2E9K6tZ3Qz7Hajx"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 雙子 獅子 水瓶 <br /> <br />牡羊：稍微降低標準開心一點，感情問題可相信直覺 <br />雙子：注意健康問題避免生病，感情的問題需要溝通 <br />獅子：要鼓起勇氣解決問題，感情對方看似冷淡實則重視你 <br />水瓶：面對不滿有點挫折，感情自省與汰換都很重要 <br /> <br />【穩的】金牛 天秤 射手 魔羯 <br /> <br />金牛：多點彈性事情更順利，感情要多考慮對方感覺 <br />天秤：過度忙碌忘記照顧自己，感情上別表現太強硬 <br />射手：規劃長遠理想很興奮，感情有聚少離多的傾向 <br />魔羯：記得找人幫忙效果更好，感情可能朋友變情人 <br /> <br />【讚的】巨蟹 處女 天蠍 雙魚 <br /> <br />巨蟹：以柔克剛更容易得到，感情魅力藏在隱約之間 <br />處女：合作機會多別太完美主義，感情可多花時間推動 <br />天蠍：出現改變命運的貴人，感情關係可主動突破 <br />雙魚：工作適合展開新計畫，換新造型可讓桃花更旺</p>"
+names = ["【本週提醒】別心急，好事多磨"]
+tag = ["Dec 23, 2024", "Dec 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00600]
 name = "EP384 當12宮位變成漫畫"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm4v2mq3r000m01ytdmmh903y/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm4v2mq3s000n01ytb4cjepi9.mp3?v=1734597655660"
