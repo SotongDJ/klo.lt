@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[nkw00218]
+name = "#213 2024年的尾聲，還有什麼想做的？｜嗚喵備忘錄"
+feed = "https://rss.soundon.fm/rssf/7ed92c43-f670-4ab7-ae95-8aed63ba7171/feedurl/630cf73a-1ca4-483b-906f-960c854bacb6/rssFileVip.mp3"
+spotify = "https://open.spotify.com/episode/58iIxLiRoK8aI9jJHttWSL"
+image = "dfd072a90710b3f8c54f27e545435d074033f8e703127cc10bf1d27f3cdc15b0"
+description = "麥克風使用：SHURE MV7 \n  \n===== Podcast #嗚喵備忘錄 ===== \n  \npressplay ▶ <a href=\"https://reurl.cc/ldQXZv\">https://reurl.cc/ldQXZv</a> \napple podcast ▶ <a href=\"https://reurl.cc/N6QDR5\">https://reurl.cc/N6QDR5</a> \nspotify ▶ <a href=\"https://reurl.cc/VXzeR6\">https://reurl.cc/VXzeR6</a> \nsoundon ▶ <a href=\"https://reurl.cc/Q3RDb0\">https://reurl.cc/Q3RDb0</a> \nKKBOX ▶ <a href=\"https://reurl.cc/8nv75o\">https://reurl.cc/8nv75o</a> \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["#213 2024年的尾聲，還有什麼想做的？｜嗚喵備忘錄"]
+tag = ["Dec 23, 2024", "Dec 2024", "2024"]
+category = []
+
 [nkw00217]
 name = "#212 一句話講完《喜弒臨門》有些小孩值得被射在牆壁上｜嗚喵備忘錄"
 feed = "https://rss.soundon.fm/rssf/7ed92c43-f670-4ab7-ae95-8aed63ba7171/feedurl/5ec91860-45a8-4bcc-8629-fa6900a7d8cc/rssFileVip.mp3"
