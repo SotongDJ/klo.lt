@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00428]
+name = "EP426 行憲紀念日快樂 ft. 陸伯言老ㄙ"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/96256330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-25%2F24cdf869-3b14-4fed-f686-2335fc67a290.mp3"
+spotify = "https://open.spotify.com/episode/3Jg1Au4qGsBBlZbyHwQQRx"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p><br /></p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br /></p>\n"
+names = ["EP426 行憲紀念日快樂 ft. 陸伯言老ㄙ"]
+tag = ["Dec 25, 2024", "Dec 2024", "2024"]
+category = []
+
 [twc00427]
 name = "EP425 你的直男摯友上線了 ft. 宅女小紅"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96123823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-21%2F721e4fdd-4b42-83ca-8286-d0ea5f033766.mp3"
