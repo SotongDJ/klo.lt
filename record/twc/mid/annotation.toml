@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00429]
+name = "EP427 誰跟你一樣"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/96373691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-29%2F13b93bc2-8fd8-2c59-bbc5-b626705b8d9a.mp3"
+spotify = "https://open.spotify.com/episode/0z1c8jGpjCF3zIFprR5qAN"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【眠豆腐】贊助播出</p>\n<p>一起冬購，溫暖 don’t go</p>\n<p>買2件是95折，買4件是88折</p>\n<p>不同尺寸折扣價，官網上可以看到～</p>\n<p><a href=\"https://sleepytofu.com/duvet/\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://sleepytofu.com/duvet/</a> </p>\n<p>提供台通聽眾優惠碼「暖」</p>\n<p>再折：$500</p>\n<p>期限：即日起至2025/1/8</p>\n<p><br /></p>\n"
+names = ["EP427 誰跟你一樣"]
+tag = ["Dec 29, 2024", "Dec 2024", "2024"]
+category = []
+
 [twc00428]
 name = "EP426 行憲紀念日快樂 ft. 陸伯言老ㄙ"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96256330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-25%2F24cdf869-3b14-4fed-f686-2335fc67a290.mp3"
