@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00604]
+name = "【本週提醒】新年快樂！"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm5af52b900qu01vqhmlhhnn4/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm5af52ba00qv01vqg5mv153h.mp3?v=1735525623448"
+spotify = "https://open.spotify.com/episode/1hLbQWrwnoxJkyNB2rJ4z7"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽12/30-1/5星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】金牛 獅子 處女 魔羯 <br /> <br />金牛：別被小事卡關自找麻煩，感情上要再浪漫一點 <br />獅子：參考別人意見自我調整，感情上調整示好方式 <br />處女：注意細節防患未然，感情上當心小吵變大吵 <br />魔羯：約定好的事容易有變，感情要注意前任的問題 <br /> <br />【穩的】雙子 射手 水瓶 雙魚 <br /> <br />雙子：工作被盯能拉回正軌，感情上別太務實潑冷水 <br />射手：被卡關就先順勢躺平，感情的問題請放輕鬆 <br />水瓶：工作別急先停看聽一下，感情上有愉快的交流 <br />雙魚：工作上走隨遇而安路線，感情有由暗轉明趨勢 <br /> <br />【讚的】牡羊 巨蟹 天秤 天蠍 <br /> <br />牡羊：邀約多適合展開新計畫，感情在新交友圈裡 <br />巨蟹：稍微強硬就能為自己爭取，感情會在職場上被崇拜 <br />天秤：能低調划水穩健前行，感情太冷淡會擋住桃花 <br />天蠍：能力強員工棒很有進度，感情的小傲嬌是可愛的</p>"
+names = ["【本週提醒】新年快樂！"]
+tag = ["Dec 30, 2024", "Dec 2024", "2024", "本週提醒"]
+category = ["運勢"]
+
 [jst00603]
 name = "EP386 逢凶化吉的星盤"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm56hvyeo01bo01xf1fvpcvzp/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm56hvyeo01bp01xfc88bathd.mp3?v=1735288398280"

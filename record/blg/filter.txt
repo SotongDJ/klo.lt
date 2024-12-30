@@ -9,7 +9,7 @@ Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
   found in: (324)
-    blg00880
+    blg00881
     blg00878
     blg00876
     blg00874
@@ -352,7 +352,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (292)
+  found in: (293)
+    blg00880
     blg00879
     blg00877
     blg00875
