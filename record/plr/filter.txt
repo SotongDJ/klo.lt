@@ -314,7 +314,8 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [YO智事務所]
-  found in: (79)
+  found in: (80)
+    plr00613
     plr00606
     plr00598
     plr00596
