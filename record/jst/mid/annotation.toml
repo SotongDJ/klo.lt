@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00605]
+name = "EP387 我酷酷的大學老師ft.賴聲川"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm5bvr7d601l701uk5na24um7/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm5bvr7d701l801uk8cw37kd8.mp3?v=1735614038447"
+spotify = "https://open.spotify.com/episode/42K9SmNnfFqZboZFV9n95u"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>2024最後一天，分享我超超超超開心的一集。 <br />好久沒更新的《古人系列》，我訪問到我的大學老師，賴聲川啦！ <br />賴老師是我大學時，偶像般存在的老師，一跟他說到話大家就會超緊張，而且很多人不知道，賴老師也會專業占星，他家可是有李安星盤的唷，當年他也帶著我們全班一起查自己的上升、月亮（好懷念啊～） <br />這次來，老師是來宣傳一部他創作的超酷舞台劇（主題深度，而且一演8小時），也因此有幸聽到老師的早年故事，他是台灣戒嚴時的玩團仔、還是漫威迷，人生兩次低潮，悟出了災難其實是禮物（賴老師也是重生力超強的天蠍） <br />就來聽這個享譽國際的大師，有點好聽的故事吧 。希望各位喜歡，也預祝大家新年快樂❤️ <br /> <br />EP387菜單：&nbsp; <br />天蠍在磨難時學會看人 <br />李安的星盤 <br />在哪個經緯度上比較有前途 <br />正版賣100萬盜版賣500萬 <br />冥王一宮專挑難事做 <br />經歷過戒嚴的玩團仔 <br />如夢之夢的生與死 <br />12宮會聽到老天大聲說話</p>"
+names = ["EP387 我酷酷的大學老師ft.賴聲川"]
+tag = ["Dec 31, 2024", "Dec 2024", "2024"]
+category = []
+
 [jst00604]
 name = "【本週提醒】新年快樂！"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm5af52b900qu01vqhmlhhnn4/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm5af52ba00qv01vqg5mv153h.mp3?v=1735525623448"
