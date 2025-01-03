@@ -126,6 +126,12 @@ Process: record/asc/keyword-1-guest.toml
     asc00028
   Excluded: (0)
     
+[東方靈數]
+  found in: (2)
+    asc00142
+    asc00091
+  Excluded: (0)
+    
 [桃花]
   found in: (2)
     asc00041
