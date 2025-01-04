@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00431]
+name = "EP429 有人需要聊天嗎?"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/96582892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-4%2F405a01e4-828a-2786-8003-5ca62bac5a36.mp3"
+spotify = "https://open.spotify.com/episode/6nMIGBt9qWrnqEws3zFdVC"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【添糖】贊助播出\n</p>\n<p>即日起至114/1/8專屬台通的指定優惠：</p>\n<p>添糖官網👉 <a href=\"https://lihi.cc/aLRE3\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://lihi.cc/aLRE3</a> </p>\n<p>1.第一重：輸入『 x95 』即享有全系列產品95折優惠，每張訂單額外贈送蛇年紅包袋乙份，數量有限，送完為止。</p>\n<p>2.第二重：凡購買指定商品-(台通限定-迷你磚三入禮盒)，即贈品牌禮品袋乙只。</p>\n<p>3.第三重：台通前10名粉絲 結帳金額超過1,500元（扣除運費），贈送添糖品牌限定旅行收納包乙個</p>\n<p><br />\n\n</p>\n"
+names = ["EP429 有人需要聊天嗎?"]
+tag = ["Jan 04, 2025", "Jan 2025", "2025"]
+category = []
+
 [twc00430]
 name = "EP428 2025年還有99.566% 呢"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96505495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-2%2F51525230-1b01-99e3-20ea-6a1990e00e12.mp3"
