@@ -354,7 +354,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (293)
+  found in: (294)
+    blg00884
     blg00883
     blg00879
     blg00877
@@ -1249,7 +1250,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [賀瓏]
-  found in: (3)
+  found in: (4)
+    blg00884
     blg00703
     blg00502
     blg00137
