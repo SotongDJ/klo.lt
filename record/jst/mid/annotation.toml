@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00607]
+name = "【本週提醒】思緒很亂，有壓力是正常的呀"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm5maccy806le01uofht37127/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm5maccy806lf01uo5efj27fh.mp3?v=1736243160066"
+spotify = "https://open.spotify.com/episode/7CbY7Ww4igWuXU6yPDDR1O"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽1/6-1/12星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 金牛 巨蟹 射手 <br /> <br />牡羊：煩到睡不著很傷腦，感情太鑽牛角尖很內耗 <br />金牛：觀念不同可能被潑冷水，感情先保持平常心 <br />巨蟹：又忙又煩考驗個人修煉，感情別過度衝動 <br />射手：應付突發狀況很頭痛，感情追根究柢帶來轉折 <br /> <br />【穩的】處女 天秤 魔羯 水瓶 <br /> <br />處女：來自長輩的壓力是關愛，感情出現年長型桃花 <br />天秤：出現勁敵能激發生命力，感情要多花時間經營 <br />魔羯：出現可靠的得力幫手，感情走患難見真情路線 <br />水瓶：工作順利機會湧入，感情要保持平常心 <br /> <br />【讚的】雙子 獅子 天蠍 雙魚 <br /> <br />雙子：工作順利也別忽視靈感，感情可以先各忙各的 <br />獅子：可以撒撒嬌貴人就來了，感情上嬌弱人設較吃香 <br />天蠍：要把握生涯新規劃，感情上有新的認知或靈感 <br />雙魚：可嘗試心動的新方案，感情上能認識有趣的人</p>"
+names = ["【本週提醒】思緒很亂，有壓力是正常的呀"]
+tag = ["Jan 07, 2025", "Jan 2025", "2025", "本週提醒"]
+category = ["運勢"]
+
 [jst00606]
 name = "EP388 二0二五上半年運勢重點"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm5ghpqtt00a101w46zod71wm/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm5ghpqtt00a201w403xdgx6o.mp3?v=1735892798252"
