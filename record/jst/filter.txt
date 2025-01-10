@@ -405,7 +405,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [天蠍座]
-  found in: (2)
+  found in: (3)
+    jst00609
     jst00420
     jst00373
   Excluded: (0)
