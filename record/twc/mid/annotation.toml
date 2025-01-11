@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00433]
+name = "EP431 問神明這個好嗎"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/96891771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-11%2Fa9f9d515-4fb4-e15c-4485-e05bde57f4bb.mp3"
+spotify = "https://open.spotify.com/episode/122Ifim9EQTTB0D7FNUr9Q"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【宜得利家居】贊助播出</p>\n<p>----</p>\n<p>本節目中提及商品為：迴轉和室椅 N CRESIE、鞋櫃 MOMIJI </p>\n<p>更多相關介紹 ➥ </p>\n<p>和室椅: <a href=\"https://reurl.cc/aZedKl\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://reurl.cc/aZedKl</a> </p>\n<p>鞋櫃 MOMIJI: <a href=\"https://reurl.cc/nqmv3e\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://reurl.cc/nqmv3e</a> </p>\n<p>❮ 宜得利家居春節 ON SALE ▸即日起-02/18 ❯ </p>\n<p> ⫽ 贈 </p>\n<p> 會員消費滿一千送 100 點，滿二千送 200 點，以此類推， </p>\n<p> 贈點無上限 #1點抵1元 </p>\n<p>⫽ 抽 </p>\n<p>消費滿額再抽北海道雙人來回機票兌換券或宜得利家居高額點數 </p>\n<p>瞭解活動詳情 ➥<a href=\"https://reurl.cc/RLYeVZ\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://reurl.cc/RLYeVZ</a> </p>\n<p>#日本國民家居品牌 </p>\n<p>#宜得利春節SALE滿千贈100點一點抵一元</p>\n<p>#滿額加碼抽北海道雙人來回機票兌換券</p>\n<p>#ShareNitor</p>\n<p><br /></p>\n"
+names = ["EP431 問神明這個好嗎"]
+tag = ["Jan 11, 2025", "Jan 2025", "2025"]
+category = []
+
 [twc00432]
 name = "EP430 土城吟遊詩人"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96771684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-8%2Fd9206a8f-ce06-d550-1bf9-56ef22d905f4.mp3"
