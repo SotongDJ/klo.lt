@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00610]
+name = "【本週提醒】這陣子不宜做重大決定喔"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm5uglegg00b501yv6dhz0yb5/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm5uglegg00b601yv6kvxbo2z.mp3?v=1736737388738"
+spotify = "https://open.spotify.com/episode/4I5WjuM2fZUn7KOXB96N3K"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽1/13-1/19星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】巨蟹 天秤 魔羯 水瓶 <br /> <br />巨蟹：諸事看不順眼有點悶，感情別內外不分亂生氣 <br />天秤：忙於工作和夥伴協調，感情上對方會胡思亂想 <br />魔羯：忙碌中注意腸胃健康，感情的狀況要面對處理 <br />水瓶：要抽離感情做理性判斷，感情容易悲觀膽小怯步 <br /> <br />【穩的】牡羊 獅子 處女 雙魚 <br /> <br />牡羊：要面對現實評估可行性，感情要花時間經營維持 <br />獅子：後起之秀帶來刺激與動力，感情要注意說話技巧 <br />處女：幫忙支援滅火好辛苦，有新桃花可聽家人意見 <br />雙魚：新機會來臨但先別搞怪，新的桃花要再多觀察 <br /> <br />【讚的】金牛 雙子 天蠍 射手 <br /> <br />金牛：能展現能力贏得信賴，感情上要記得體貼對方 <br />雙子：工作成績亮眼有好消息，感情上人紅氣勢旺 <br />天蠍：工作順利進行中別亂來，感情適合走高冷路線 <br />射手：有古板型的貴人出現，感情是強勢主導的一方</p>"
+names = ["【本週提醒】這陣子不宜做重大決定喔"]
+tag = ["Jan 13, 2025", "Jan 2025", "2025"]
+category = []
+
 [jst00609]
 name = "EP390 有星系列（天蠍）：命很硬的配置"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm5qgr7oa003m01yi7r8sf0ls/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm5qgr7oa003n01yi5pq125no.mp3?v=1736495851696"
