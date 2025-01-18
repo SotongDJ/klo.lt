@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00435]
+name = "EP433 專程去還是順便來"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/97222575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-18%2F482f05c4-ba61-8893-d670-62a901303882.mp3"
+spotify = "https://open.spotify.com/episode/4r39yOjLyp5R4u8sqB9ygL"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【台灣啤酒】贊助播出</p>\n<p> </p>\n<p>過年聚餐 一定要有「金牌ONE」 </p>\n<p>輕盈的『0糖質』輕鬆享受暢快感</p>\n<p>金牌ONE，你的美食最佳搭配 .ᐟ.ᐟ.ᐟ</p>\n<p>新的一年 就用「金牌ONE」開啟一切可能吧</p>\n<p>超商、量販等各大通路都買得到</p>\n<p>點我看更多: <a href=\"https://reurl.cc/26D206\">https://reurl.cc/26D206</a> </p>\n<p><a href=\"https://www.youtube.com/watch?v=pXJ7yhPzT_I\">https://www.youtube.com/watch?v=pXJ7yhPzT_I</a> </p>\n<p>▲禁止酒駕 未滿十八歲禁止飲酒</p>\n<p><br></p>\n"
+names = ["EP433 專程去還是順便來"]
+tag = ["Jan 18, 2025", "Jan 2025", "2025"]
+category = []
+
 [twc00434]
 name = "EP432 大概是九十歲"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/97130773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F75133009-a23b-7ea3-0928-dda9d56e9c95.mp3"
