@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00614]
+name = "【2025解答之書】預告"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm64zlpsf000c01svfctvddjn/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm64zlpsf000d01sv1erpbdjb.mp3?v=1737373971558"
+spotify = "https://open.spotify.com/episode/2Z2ov9MfbjIUXB1MFspUzr"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>2025解答之書有聲版，上線囉～ <br />https://book2025.firstory.com.tw</p>"
+names = ["【2025解答之書】預告"]
+tag = ["Jan 20, 2025", "Jan 2025", "2025"]
+category = []
+
 [jst00613]
 name = "【本週提醒】凡事都不要心急，過年先穩住"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm64hea5r000h01x97ibvef9d/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm64hea5r000i01x9dqnt3imx.mp3?v=1737343398176"
