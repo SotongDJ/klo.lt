@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00436]
+name = "EP434 詐騙腳本分享 ft.仇仇、刑警小吳"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/97358359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2Fea251618-62dd-4391-0256-76be116935ce.mp3"
+spotify = "https://open.spotify.com/episode/6e1TBiepMBcG04TcVQDGqK"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Saily】贊助播出</p>\n<p>前往 <a href=\"https://saily.com/commute\">https://saily.com/commute</a></p>\n<p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p>\n<p>立即享有專屬 eSIM 方案 85 折優惠！ </p>\n<p>#SailyeSIM</p>\n<p><br>\n\n</p>\n"
+names = ["EP434 詐騙腳本分享 ft.仇仇、刑警小吳"]
+tag = ["Jan 21, 2025", "Jan 2025", "2025"]
+category = []
+
 [twc00435]
 name = "EP433 專程去還是順便來"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/97222575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-18%2F482f05c4-ba61-8893-d670-62a901303882.mp3"
