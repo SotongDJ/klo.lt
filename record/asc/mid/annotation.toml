@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[asc00145]
+name = "EP115｜2024回顧"
+feed = "https://rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/8c8044a1-489e-46e6-8aa4-c1cadc94fc35/rssFileVip.mp3"
+spotify = "https://open.spotify.com/episode/228bKNdpkHcrB2mC9cIfdF"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "時光飛逝 轉眼就2025年了！ \n去年也是充滿挑戰、成長與美好回憶的一年 \n每次錄影我們都充滿著真誠與感恩 \n讓我們一起回顧這一年 重溫歡笑與淚水！ \n  \n感謝各位觀眾與嘉賓陪伴我們 \n感謝所有的相遇 \n感謝每一天清晨的陽光 \n感謝每一次的清醒 \n感謝每一份回饋 \n感謝所有的蛻變 \n感謝生活帶來的熱情 \n感謝自己的努力 \n感謝每一段旅程 \n感謝時光的沈澱 \n感謝每一個平凡的日子 \n感謝所有的喜悅 \n讓我們一起迎接嶄新的開始！ \n  \n下次再見的時候已經是農曆新年了 \n正式的與龍年告別迎接蛇年 \n如果要用一句話總結你的2024年 你會怎麼形容呢？ \n期待大家分享屬於自己的答案！ \n  \n所有平台連結在這 ➡️ <a href=\"https://linktr.ee/ascended_928\">https://linktr.ee/ascended_928</a> \n工作請洽 ➡️ <a href=\"mailto:shensiantutoring@gmail.com\">shensiantutoring@gmail.com</a> \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP115｜2024回顧"]
+tag = ["Jan 24, 2025", "Jan 2025", "2025"]
+category = []
+
 [asc00144]
 name = "EP114｜靈性壞蛋"
 feed = "https://rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/fa415e98-d0f7-4be3-bb26-eafbf844257a/rssFileVip.mp3"
