@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00437]
+name = "EP435 一起新年快樂"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/97543773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-25%2Fcc36471f-c59a-de3a-e1de-b1dc2bacbd8a.mp3"
+spotify = "https://open.spotify.com/episode/1Es5Id4Miht8EUlEFjFW1J"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Seagate】贊助播出</p>\n<p>一年一度歲末大掃「儲」🧹即將到來。</p>\n<p>年關將進，家裡的任何一個角落都需要除舊佈新，你的電腦也不例外！</p>\n<p>按慣例，快用Seagate 為你備份任何有用無用的檔案。</p>\n<p>桌機，筆電，手機，平板，地上撿到的記憶卡，隨身碟通通一起備份起來！</p>\n<p>🏆SEAGATE值得信賴的品質，來自出廠前通過 160 道嚴苛檢測</p>\n<p>🛒各型各色，豪宅小宅任君挑選。滿足你的各種需求</p>\n<p>🛡業界唯一３年保固＋資料救援服務 </p>\n<p>⛑️心血備份趁現在，資料遺失不遺憾！</p>\n<p>🔥 即日起至 2/2 好市多門市限定 🔥</p>\n<p>EXPANSION 10TB桌上型硬碟年度強檔促銷：活動期間原售價現折 1,100 元！供貨數量有限，售完為止，錯過再等一年👋</p>\n<p>#Seagate #希捷 #硬碟首選 #備份必買</p>\n<p><br></p>\n"
+names = ["EP435 一起新年快樂"]
+tag = ["Jan 25, 2025", "Jan 2025", "2025"]
+category = []
+
 [twc00436]
 name = "EP434 詐騙腳本分享 ft.仇仇、刑警小吳"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/97358359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2Fea251618-62dd-4391-0256-76be116935ce.mp3"
