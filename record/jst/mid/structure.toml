@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00618]
+name = "【本週提醒】別抗拒情緒起伏，跟隨你的心行動吧💛"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm6ogyj9v00b801y8gy7g3gck/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm6ogyj9v00b901y88dzf15fa.mp3?v=1738552258225"
+spotify = "https://open.spotify.com/episode/6xVzayvMyL6xvOIyasvMCy"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>2025解答之書有聲版，上線囉～ <br />https://book2025.firstory.com.tw <br /> <br />【唐綺陽星座運勢週報2/3-2/9】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】巨蟹 天蠍 水瓶 雙魚 <br /> <br />巨蟹：要處理金錢資源問題，感情容易有心魔 <br />天蠍：出現有心人來較勁，感情容易悲觀要堅強 <br />水瓶：突然的轉折不是壞事，感情進退的關鍵時期 <br />雙魚：出現變數好壞要看長遠，感情上要相信直覺 <br /> <br />【穩的】金牛 雙子 處女 魔羯 <br /> <br />金牛：放慢速度能避免疏漏，感情上別為反對而反對 <br />雙子：找自己人更可靠，感情適合居家或見家長 <br />處女：工作分配出去更順利，感情上要自己掌握節奏 <br />魔羯：工作上有女性貴人，感情上有破局可能性 <br /> <br />【讚的】牡羊 獅子 天秤 射手 <br /> <br />牡羊：工作上能遇到好幫手，感情上拿出強項更加分 <br />獅子：主動積極成功機率高，感情與年輕人很有緣份 <br />天秤：水到渠成合作運佳，感情適合做重大決定 <br />射手：合作順利問題有解，感情甜蜜可進一步</p>"
+names = ["【本週提醒】別抗拒情緒起伏，跟隨你的心行動吧💛"]
+tag = ["Feb 03, 2025", "Feb 2025", "2025"]
+category = []
+
 [jst00617]
 name = "EP395 🐍年新目標"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm6aqbh14008601v5ahpxctzq/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm6aqbh15008701v52ey92ebx.mp3?v=1737721208384"
