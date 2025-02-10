@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00620]
+name = "【本週提醒】你敢真正的做自己嗎？"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm6yg67dt04ec01tifgqlebsa/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm6yg67dt04ed01tie6ok9itf.mp3?v=1739155327067"
+spotify = "https://open.spotify.com/episode/4zhFUcdX97E80GQQJpK7tt"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>2025解答之書有聲版，上線囉～ <br />https://book2025.firstory.com.tw <br /> <br />【唐綺陽2/10-2/16星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】牡羊 射手 魔羯 雙魚 <br /> <br />牡羊：多溝通避免合作破局，感情不和諧容易爭執 <br />射手：要注意檯面下的狀況，感情當心有三角關係 <br />魔羯：當心突發狀況破壞計劃，感情爭吵容易有變數 <br />雙魚：柔軟一點別不聽勸，感情別只顧著發洩 <br /> <br />【穩的】雙子 巨蟹 處女 天蠍 <br /> <br />雙子：有自願的大型支出，感情好壞要看觀念差異 <br />巨蟹：衝動後悔需要反思，感情選擇要看價值觀 <br />處女：工作提案多有可能性，感情能遇到理想型 <br />天蠍：情緒波動要自我調整，感情抱怨別太用力 <br /> <br />【讚的】金牛 獅子 天秤 水瓶 <br /> <br />金牛：好運來臨可一飛沖天，感情豐收人緣佳 <br />獅子：想要東西都能得到，感情能遇見你的菜 <br />天秤：忙於職責並創造佳績，感情有職場戀情機會 <br />水瓶：財運亨通事業有成，感情有無看自己選擇</p>"
+names = ["【本週提醒】你敢真正的做自己嗎？"]
+tag = ["Feb 10, 2025", "Feb 2025", "2025"]
+category = []
+
 [jst00619]
 name = "EP396 水星，看你聰明在哪"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm6ujfgrk004k01ti5bcbgvfw/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm6ujfgrk004l01tihlxd2fzn.mp3?v=1738918977968"
