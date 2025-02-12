@@ -1,7 +1,5 @@
 # klo.lt Podcast Player
 
-![Deploy static content to Pages](https://gitlab.com/djtratoh/klolt/badges/main/pipeline.svg?ignore_skipped=true)
-
 klo.lt is a podcast player I created to organize my favorite podcasts and streamline my listening experience.
 
 ![klo.lt Podcast Player](cover.jpg)
