@@ -1,0 +1,17 @@
+
+image: python:3.12
+before_script:
+  - pip install MaLTHA idna
+pages:
+  tags:
+    - klolt
+  script:
+    - rm -rvf docs public
+    - rsync -Pr /store/record/klo.lt/docs ./
+    - mv -v ./docs ./public
+    - rsync -Prc ./static_files/* ./public/
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
