@@ -1,5 +1,6 @@
 # Exclude
 docs/
+public/
 record/*/record/
 static_files/f
 static_files/p
