@@ -1,6 +1,6 @@
 # klo.lt Podcast Player
 
-[![Deploy static content to Pages](https://github.com/SotongDJ/klo.lt/actions/workflows/upload.yml/badge.svg)](https://github.com/SotongDJ/klo.lt/actions/workflows/upload.yml)
+![Deploy static content to Pages](https://gitlab.com/djtratoh/klolt/badges/main/pipeline.svg?ignore_skipped=true)
 
 klo.lt is a podcast player I created to organize my favorite podcasts and streamline my listening experience.
 

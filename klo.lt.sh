@@ -127,6 +127,7 @@ if [[ -s temp ]]; then
     git add -A
     git commit -S -m "___ RSS FEED UPDATE "`TZ='<UTC+8>-8' date +'%b_%d,_%Y_%H:%M:%S'`" #bot_action"
     git push
+    git push github main
 fi
 
 # 7z u -up0q0r2x2y2z1w2
