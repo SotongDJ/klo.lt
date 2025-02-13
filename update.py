@@ -17,11 +17,20 @@ import configdo
 user_agents = json.load(open("agent.json"))
 
 def trim_url(url_str):
-    url_list = url_str.split(".mp3?timestamp=")
-    if len(url_list) == 2:
-        return "{}.mp3".format(url_list[0])
-    else:
+    output_str = ""
+    target_dict = {
+        ".mp3?timestamp=":".mp3",
+        ".mp3?v=":".mp3",
+    }
+    for target_split, target_ext in target_dict.items():
+        if output_str == "":
+            url_list = url_str.split(target_split)
+            if len(url_list) == 2:
+                return "{}{}".format(url_list[0],target_ext)
+    if output_str == "":
         return url_str
+    else:
+        return output_str
 
 def do_job(target_str,configing):
     """Main thread"""
