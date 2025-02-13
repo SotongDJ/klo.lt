@@ -26,7 +26,7 @@ def trim_url(url_str):
         if output_str == "":
             url_list = url_str.split(target_split)
             if len(url_list) == 2:
-                return "{}{}".format(url_list[0],target_ext)
+                output_str = "{}{}".format(url_list[0],target_ext)
     if output_str == "":
         return url_str
     else:
