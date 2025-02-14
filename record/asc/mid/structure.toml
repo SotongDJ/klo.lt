@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[asc00148]
+name = "EP118｜靈魂的彼岸"
+feed = "https://rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/6f3a77b2-a6de-4afd-92cf-7c56ce0e8a69/rssFileVip.mp3"
+spotify = "https://open.spotify.com/episode/0K6T779jo0yk7UXPyonrr1"
+youtube = "https://www.youtube.com/watch?v=v9GG4T0jdpU"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "死亡是什麼 我們理解與否？ \n身體機能完全停止 \n心跳歸零，大腦停止運作 \n還是靈魂受到審判 \n歸於天堂或地獄 \n亦或者進入輪迴投胎轉世 \n不管你如何相信 \n死亡都是我們無可避免的 \n也許是生命的終點 \n也許是另一種開始 \n你曾經也考慮過自己的死亡嗎 \n當你看著名叫一生的電影 \n還有什麼事沒做完 \n什麼夢想還沒實現 \n什麼新鮮還沒品嚐 \n什麼未知還沒體驗 \n還有什麼遺憾嗎？ \n就趁著這場遊戲吧。 \n  \n所有平台連結在這 ➡️<a href=\"https://linktr.ee/ascended_928\">https://linktr.ee/ascended_928</a> \n工作請洽 ➡️<a href=\"mailto:shensiantutoring@gmail.com\">shensiantutoring@gmail.com</a> \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP118｜靈魂的彼岸"]
+tag = ["Feb 14, 2025", "Feb 2025", "2025"]
+category = []
+
 [asc00147]
 name = "EP117｜勇於面對真實的自己"
 feed = "https://rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/4be51670-68e3-4a7f-beda-372387c404a4/rssFileVip.mp3"
