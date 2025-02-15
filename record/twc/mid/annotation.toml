@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00440]
+name = "EP438 個人經驗分享"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/98535602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-15%2F092a80d2-0ab9-fb3c-20ab-b989a94c9561.mp3"
+spotify = "https://open.spotify.com/episode/3NSJTRMYdGcALoZOjBaQ3F"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【YODEE 優迪】與【L’Ange 棉之境】贊助播出！</p><p><br></p><p>是時候該把家裡的浴巾都替換一下啦！大至成人、小至嬰幼兒都可以使用的【L’Ange 棉之境】不僅顏色質感好看，品質更會顛覆你對浴巾的想像，讓你重新認識什麼叫吸水效果滿分的「浴巾」！</p><p><br></p><p>【純棉紗布巾】是我們最愛的系列，採用抗菌包裝，開封即用免清洗，加上吸水力超強，洗完澡後輕輕按壓，身體和頭髮上的水分就能快速被吸乾！而且透氣、乾得快，細菌不易孳生，自然就沒什麼臭霉味的困擾啦！</p><p><br></p><p>全系列不含人工纖維、柔軟劑、甲醛、螢光劑，更通過SGS多項安全檢測，讓你洗後的觸感會越來越柔軟，真的一用就會愛上！一共有三種層數厚度、多種尺寸，適用範圍超廣，全家大小使用都很適合喔！</p><p><br></p><p>即日起至3/13，點擊下方連結，即可享有台通聽眾專屬限時優惠，滿額再加贈超實用的【9層紗布小方巾】！</p><p><br></p><p>台通專屬優惠連結👉 https://yodee.tw/台通聽眾xLAnge棉之境專屬優惠 </p><p><br></p><p><br></p>\n"
+names = ["EP438 個人經驗分享"]
+tag = ["Feb 15, 2025", "Feb 2025", "2025"]
+category = []
+
 [twc00439]
 name = "EP437 不就是產氣而已"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/98321824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-11%2Faf12911f-4236-147d-71ec-592a908cbd4e.mp3"
