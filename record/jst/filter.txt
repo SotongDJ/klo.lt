@@ -215,7 +215,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [水星]
-  found in: (13)
+  found in: (14)
+    jst00624
     jst00619
     jst00596
     jst00504
