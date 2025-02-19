@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00441]
+name = "EP439 家已的啦"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/98733544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2F8d20642d-df49-89be-14d1-718d5fc4da7f.mp3"
+spotify = "https://open.spotify.com/episode/2fapEMufQv74Q0sCWQEVJ0"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【創世紀戰M阿修羅計畫】贊助播出</p><p>韓國殿堂級戰棋遊戲：創世紀戰M：阿修羅計畫正式上線，</p><p>經典戰棋爽快制敵，下載連結：<a href=\"https://tpgm.onelink.me/vQbR/0oftb0ek\"><u>https://tpgm.onelink.me/vQbR/0oftb0ek</u></a> </p><p>使用台通專屬優惠碼：COMMUTE，獲得專屬獎勵！</p><p><br></p>\n"
+names = ["EP439 家已的啦"]
+tag = ["Feb 19, 2025", "Feb 2025", "2025"]
+category = []
+
 [twc00440]
 name = "EP438 個人經驗分享"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/98535602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-15%2F092a80d2-0ab9-fb3c-20ab-b989a94c9561.mp3"
