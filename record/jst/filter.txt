@@ -233,7 +233,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [金星]
-  found in: (17)
+  found in: (18)
+    jst00625
     jst00562
     jst00560
     jst00533
@@ -347,7 +348,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [牡羊座]
-  found in: (5)
+  found in: (6)
+    jst00625
     jst00502
     jst00488
     jst00435

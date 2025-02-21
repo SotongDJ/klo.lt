@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00625]
+name = "EP400 金星進牡羊，如何做自己又不被打"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm7eftqwp00f801w6d3ye7sgc/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm7eftqwq00f901w6058w6zb2.mp3"
+spotify = "https://open.spotify.com/episode/5hr819u0INe1520wd3nsNT"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>2025解答之書有聲版，上線囉～ <br />https://book2025.firstory.com.tw <br /> <br />牡羊，是2025年最重要的主題。因為會有很多顆星輪流進入，且咖位不小，因此 ，「自己」這議題一定凸顯。 <br />金星，就是打頭陣的第一顆星。 <br />所以，有感受到「因強烈特色、獨特個性，而嶄露了頭角」嗎？嗯，因為牡羊能量開始發揮作用。 <br />我們也被金牡羊指定「尋找什麼是自己」這個作業，透過對金星的了解與感應，好為未來諸星一路擠進牡羊做準備（太晚準備就只會措手不及） <br />所以，金星進牡羊我們一般人會怎麼樣、發生什麼事呢？還有這趟金牡羊會「逆」，所以此刻又有什麼該注意的「以免未來被倒打一耙」？ <br />這次金星牡羊可會待上三個月，時間很長，趕緊聽一下吧～ <br /> <br />EP400 菜單： <br />牡羊優缺點都會被看見 <br />射手去開發新東西 <br />開始省錢的雙魚 <br />巨蟹出頭露臉了 <br />天秤必須配合很多人 <br />處女的重新開始 <br />金牛請佛系一點</p>"
+names = ["EP400 金星進牡羊，如何做自己又不被打"]
+tag = ["Feb 21, 2025", "Feb 2025", "2025"]
+category = []
+
 [jst00624]
 name = "EP399 水星，看你聰明在哪(下)"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm7a6vs91004f01yl0xbo2e2r/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm7a6vs91004g01ylhifb3bxs.mp3"
