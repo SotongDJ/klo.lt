@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00442]
+name = "EP440 家裡不是K書中心"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/98856346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-22%2F1e6f5c67-780a-8a29-e153-7f5f23c79979.mp3"
+spotify = "https://open.spotify.com/episode/2X5GD5DUFtAFZuBY8x1Jkc"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Saily】贊助播出</p><p>前往 https://saily.com/commute</p><p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p><p>立即享有專屬 eSIM 方案 85 折優惠！</p><p>#SailyeSIM</p><p><br></p>\n"
+names = ["EP440 家裡不是K書中心"]
+tag = ["Feb 22, 2025", "Feb 2025", "2025"]
+category = []
+
 [twc00441]
 name = "EP439 家已的啦"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/98733544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2F8d20642d-df49-89be-14d1-718d5fc4da7f.mp3"
