@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00626]
+name = "【本週提醒】火星順行了！可以順一點了👏"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm7ejiibq00mb010400i64f2w/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm7ejiibr00mc0104cf8mfhyc.mp3"
+spotify = "https://open.spotify.com/episode/7lA6665XzxSZ2LusFPG9P2"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>2025解答之書有聲版，上線囉～ <br />https://book2025.firstory.com.tw <br /> <br />【唐綺陽2/24-3/2星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】金牛 巨蟹 魔羯 水瓶 <br /> <br />金牛：思考別太固執鑽牛角尖，感情別太悲觀才能順利 <br />巨蟹：破財有時能讓事情變好，感情別小氣才能更加分 <br />魔羯：工作需要進行磨合，感情掌握主導就沒問題 <br />水瓶：放鬆心情保持彈性，感情別因外務多而疏忽 <br /> <br />【穩的】獅子 天秤 天蠍 雙魚 <br /> <br />獅子：當前抉擇與未來有關，感情與事業要求平衡 <br />天秤：工作上適合展望未來，感情雙方有共識很重要 <br />天蠍：海外事務機會多易推進，感情保持距離更美好 <br />雙魚：高標準能激發動力，感情可表達自己的需求 <br /> <br />【讚的】牡羊 雙子 處女 射手&nbsp; <br /> <br />牡羊：主導推動展現魄力，感情表達犀利小心傷害 <br />雙子：好消息降臨有決策幸運，閃閃發光吸引桃花圍繞 <br />處女：心情順暢事務順利推進，桃花旺盛特質受肯定 <br />射手：好人緣能化險為夷，感情順利滿有長輩緣</p>"
+names = ["【本週提醒】火星順行了！可以順一點了👏"]
+tag = ["Feb 24, 2025", "Feb 2025", "2025", "本週提醒", "火星"]
+category = ["運勢", "星象"]
+
 [jst00625]
 name = "EP400 金星進牡羊，如何做自己又不被打"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm7eftqwp00f801w6d3ye7sgc/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm7eftqwq00f901w6058w6zb2.mp3"
