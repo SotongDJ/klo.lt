@@ -360,7 +360,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (300)
+  found in: (301)
+    blg00900
     blg00897
     blg00895
     blg00893
