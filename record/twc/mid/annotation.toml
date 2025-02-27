@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00443]
+name = "EP441 隔空抓藥"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/99122134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2F751c9eb1-fe19-b036-4e07-6f045aa57d76.mp3"
+spotify = "https://open.spotify.com/episode/5f06L4sPGKPqE4bFmLjSCt"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p></p><p>本集節目由【NordVPN】贊助播出</p><p>現在只要搜尋 nordvpn.com/commute</p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p><br></p>\n"
+names = ["EP441 隔空抓藥"]
+tag = ["Feb 27, 2025", "Feb 2025", "2025"]
+category = []
+
 [twc00442]
 name = "EP440 家裡不是K書中心"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/98856346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-22%2F1e6f5c67-780a-8a29-e153-7f5f23c79979.mp3"
