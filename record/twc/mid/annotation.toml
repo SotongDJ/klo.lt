@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00444]
+name = "EP442 魷魚絲的味"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/99357624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F17361b78-fa1b-d3e6-1eec-8ae335c90cfe.mp3"
+spotify = "https://open.spotify.com/episode/1KatFsACs22AvINX2BLxbZ"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【玉山證券】贊助播出 </p><p>想要買特斯拉、輝達、亞馬遜、臉書的股票嗎？ </p><p>現在不用再到海外去開戶，直接來玉山證券開戶下單不只賺股票，還可以賺機票！ </p><p>💰 開戶 &amp; 活動詳情 立刻點擊 👉  <a href=\"https://pse.is/77f6t4\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://pse.is/77f6t4</a> </p><p>🔸美股新戶不限名額，凡交易三筆，即送Line point 500點 </p><p>🔸交易金額越多，將可獲得越多抽獎機會，每月抽出最大獎乘飛舊金山商務艙單人來回機票 </p><p>🔸針對美股高交易量顧客，達成特定里程碑或累積成交金額達前三名，即可不消耗抽獎券直接兌換機票</p><p>#玉山證券買美股 </p><p>⚠️活動辦法及參加規定請以玉山證券活動網頁公告為準 </p><p>（本服務由玉山綜合證券股份有限公司提供；投資交易具有一定風險，交易人應先評估本身資金及擔負風險之能力。）</p><p><br /></p>\n"
+names = ["EP442 魷魚絲的味"]
+tag = ["Mar 04, 2025", "Mar 2025", "2025"]
+category = []
+
 [twc00443]
 name = "EP441 隔空抓藥"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/99122134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2F93fc33f0-0f9f-329d-8c29-33e39942fe41.mp3"
