@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00445]
+name = "EP443 AI低峰會 ft.火鳥、所長"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/99509492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2Fbb74d7cd-79c2-592b-52d4-9218d14c0233.mp3"
+spotify = "https://open.spotify.com/episode/3xBKlP8rjHQsZYtPNjbiXj"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>老猴局日常。</p><p>--</p><p>本集節目由【明華園總團Ｘ熱帶天使】合作播出</p><p>【《熱帶天使》— 戰爭紀實音樂劇】  </p><p>2025年度最震撼歷史劇登場！  </p><p>金鐘獎得主楊烈攜手林雨宣、于浩威等實力派演員，演繹臺灣青年在戰火中拚命求生與追愛的故事。  </p><p>【演出日期與場次】   </p><p>3月21日至23日-國家戲劇院  </p><p>【購票方式】  </p><p>購票請上 OPENTIX 售票系統  </p><p><a href=\"https://smlproduction.art/welcome\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://smlproduction.art/welcome</a> </p><p>別錯過這場讓你哭、讓你笑、讓你深情愛上這片土地的歷史洗禮！</p><p><br></p>\n"
+names = ["EP443 AI低峰會 ft.火鳥、所長"]
+tag = ["Mar 07, 2025", "Mar 2025", "2025"]
+category = []
+
 [twc00444]
 name = "EP442 魷魚絲的味"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/99357624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F17361b78-fa1b-d3e6-1eec-8ae335c90cfe.mp3"
