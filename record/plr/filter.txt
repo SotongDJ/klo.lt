@@ -3,80 +3,80 @@ Start annotation
 Process: record/plr/keyword-0.toml
 [政治歸政治]
   found in: (170)
-    plr00635
-    plr00632
-    plr00621
-    plr00615
-    plr00610
-    plr00608
-    plr00600
-    plr00595
-    plr00587
-    plr00584
-    plr00580
-    plr00578
-    plr00576
-    plr00572
-    plr00569
-    plr00567
-    plr00564
-    plr00555
-    plr00552
-    plr00549
-    plr00547
-    plr00541
+    plr00634
+    plr00631
+    plr00620
+    plr00614
+    plr00609
+    plr00607
+    plr00599
+    plr00594
+    plr00586
+    plr00583
+    plr00579
+    plr00577
+    plr00575
+    plr00571
+    plr00568
+    plr00566
+    plr00563
+    plr00554
+    plr00551
+    plr00548
+    plr00546
     plr00540
-    plr00538
-    plr00536
-    plr00534
+    plr00539
+    plr00537
+    plr00535
     plr00533
-    plr00530
-    plr00528
-    plr00523
+    plr00532
+    plr00529
+    plr00527
     plr00522
     plr00521
-    plr00515
+    plr00520
     plr00514
-    plr00511
+    plr00513
     plr00510
-    plr00508
+    plr00509
     plr00507
-    plr00505
-    plr00501
+    plr00506
+    plr00504
     plr00500
     plr00499
-    plr00496
-    plr00492
+    plr00498
+    plr00495
     plr00491
-    plr00489
+    plr00490
     plr00488
-    plr00486
+    plr00487
     plr00485
-    plr00482
-    plr00479
-    plr00472
-    plr00466
-    plr00460
-    plr00446
-    plr00444
+    plr00484
+    plr00481
+    plr00478
+    plr00471
+    plr00465
+    plr00459
+    plr00445
     plr00443
-    plr00439
-    plr00431
+    plr00442
+    plr00438
     plr00430
-    plr00420
-    plr00413
-    plr00407
-    plr00400
-    plr00396
-    plr00393
+    plr00429
+    plr00419
+    plr00412
+    plr00406
+    plr00399
+    plr00395
     plr00392
-    plr00388
+    plr00391
     plr00387
-    plr00383
-    plr00380
-    plr00375
-    plr00373
-    plr00364
+    plr00386
+    plr00382
+    plr00379
+    plr00374
+    plr00372
+    plr00363
     plr00340
     plr00339
     plr00337
@@ -176,65 +176,64 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [法客話題]
-  found in: (143)
-    plr00642
+  found in: (142)
     plr00641
-    plr00639
-    plr00631
-    plr00626
-    plr00602
+    plr00640
+    plr00638
+    plr00630
+    plr00625
     plr00601
-    plr00599
-    plr00597
-    plr00586
-    plr00577
-    plr00573
-    plr00568
-    plr00565
-    plr00545
-    plr00539
-    plr00517
-    plr00513
-    plr00497
-    plr00495
-    plr00490
-    plr00484
-    plr00481
-    plr00478
-    plr00475
-    plr00468
-    plr00464
-    plr00462
+    plr00600
+    plr00598
+    plr00596
+    plr00585
+    plr00576
+    plr00572
+    plr00567
+    plr00564
+    plr00544
+    plr00538
+    plr00516
+    plr00512
+    plr00496
+    plr00494
+    plr00489
+    plr00483
+    plr00480
+    plr00477
+    plr00474
+    plr00467
+    plr00463
     plr00461
-    plr00457
-    plr00455
-    plr00453
+    plr00460
+    plr00456
+    plr00454
     plr00452
     plr00451
     plr00450
-    plr00447
-    plr00442
-    plr00440
-    plr00434
+    plr00449
+    plr00446
+    plr00441
+    plr00439
     plr00433
-    plr00429
-    plr00426
+    plr00432
+    plr00428
     plr00425
     plr00424
-    plr00421
-    plr00415
-    plr00411
-    plr00409
+    plr00423
+    plr00420
+    plr00414
+    plr00410
     plr00408
-    plr00404
-    plr00391
+    plr00407
+    plr00403
     plr00390
-    plr00379
-    plr00377
-    plr00370
-    plr00366
-    plr00359
-    plr00355
+    plr00389
+    plr00378
+    plr00376
+    plr00369
+    plr00365
+    plr00358
     plr00354
     plr00351
     plr00349
@@ -324,60 +323,60 @@ Process: record/plr/keyword-0.toml
     
 [YO智事務所]
   found in: (85)
-    plr00640
-    plr00638
-    plr00627
-    plr00624
-    plr00614
+    plr00639
+    plr00637
+    plr00626
+    plr00623
     plr00613
-    plr00606
-    plr00598
-    plr00596
-    plr00593
+    plr00612
+    plr00605
+    plr00597
+    plr00595
     plr00592
-    plr00585
-    plr00583
-    plr00579
-    plr00574
-    plr00570
-    plr00562
+    plr00591
+    plr00584
+    plr00582
+    plr00578
+    plr00573
+    plr00569
     plr00561
-    plr00559
+    plr00560
     plr00558
     plr00557
     plr00556
-    plr00554
-    plr00550
-    plr00548
-    plr00544
+    plr00555
+    plr00553
+    plr00549
+    plr00547
     plr00543
-    plr00537
-    plr00531
-    plr00529
-    plr00518
-    plr00516
-    plr00512
-    plr00509
-    plr00506
-    plr00502
-    plr00498
-    plr00469
-    plr00458
-    plr00456
-    plr00454
-    plr00438
-    plr00436
-    plr00428
-    plr00419
-    plr00410
-    plr00398
-    plr00394
-    plr00385
-    plr00382
-    plr00371
-    plr00362
-    plr00358
-    plr00356
+    plr00542
+    plr00536
+    plr00530
+    plr00528
+    plr00517
+    plr00515
+    plr00511
+    plr00508
+    plr00505
+    plr00501
+    plr00497
+    plr00468
+    plr00457
+    plr00455
+    plr00453
+    plr00437
+    plr00435
+    plr00427
+    plr00418
+    plr00409
+    plr00397
+    plr00393
+    plr00384
+    plr00381
+    plr00370
+    plr00361
+    plr00357
+    plr00355
     plr00338
     plr00332
     plr00323
@@ -413,39 +412,39 @@ Process: record/plr/keyword-0.toml
     
 [政治歸YO智]
   found in: (41)
-    plr00637
     plr00636
-    plr00630
-    plr00628
-    plr00619
-    plr00617
-    plr00605
+    plr00635
+    plr00629
+    plr00627
+    plr00618
+    plr00616
     plr00604
-    plr00591
+    plr00603
     plr00590
-    plr00582
+    plr00589
     plr00581
-    plr00571
-    plr00560
-    plr00546
-    plr00535
-    plr00525
-    plr00519
-    plr00504
+    plr00580
+    plr00570
+    plr00559
+    plr00545
+    plr00534
+    plr00524
+    plr00518
     plr00503
-    plr00494
-    plr00487
-    plr00449
-    plr00427
-    plr00423
-    plr00418
-    plr00402
-    plr00395
-    plr00378
-    plr00369
+    plr00502
+    plr00493
+    plr00486
+    plr00448
+    plr00426
+    plr00422
+    plr00417
+    plr00401
+    plr00394
+    plr00377
     plr00368
     plr00367
-    plr00360
+    plr00366
+    plr00359
     plr00352
     plr00343
     plr00282
@@ -453,15 +452,15 @@ Process: record/plr/keyword-0.toml
     plr00250
     plr00243
     plr00235
-    plr00493
+    plr00492
   Excluded: (0)
     
 [法客人物]
   found in: (4)
-    plr00551
-    plr00527
+    plr00550
     plr00526
-    plr00524
+    plr00525
+    plr00523
   Excluded: (0)
     
     ----
