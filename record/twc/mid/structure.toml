@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00446]
+name = "EP444 暴君養成指南"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/99795233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-13%2F53ecff9e-8603-979a-c8db-e75c18464bc1.mp3"
+spotify = "https://open.spotify.com/episode/4b6J0hP51lWoMhshPLahxP"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【NordVPN】贊助播出</p><p><br></p><p>現在只要搜尋 nordvpn.com/commute</p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p><br></p>\n"
+names = ["EP444 暴君養成指南"]
+tag = ["Mar 13, 2025", "Mar 2025", "2025"]
+category = []
+
 [twc00445]
 name = "EP443 AI低峰會 ft.火鳥、所長"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/99509492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2Fbb74d7cd-79c2-592b-52d4-9218d14c0233.mp3"
