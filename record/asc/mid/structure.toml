@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[asc00152]
+name = "EP122｜別忘了你想去哪"
+feed = "https://rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/44c0ddfe-ed80-47f1-9eda-2c8c6a1b1210/rssFileVip.mp3"
+spotify = "https://open.spotify.com/episode/3A13fopOTS5v6JDZUTWVDr"
+youtube = "https://www.youtube.com/watch?v=ae2UEiGUFbw"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "曾經為了目標而前進的你 \n現在是不是忘了什麼？ \n是迫於現實而低頭 \n或者目光轉移到別的事物 \n還是你還沒找到你的樂園呢？ \n我們今天就是想告訴大家 \n你 並 不 孤 單 ！ \n我們都是一樣的 \n都有迷惘的時候 \n但你千萬別忘記 \n你就是自己的主人 \n照顧好自己等於照顧好世界 \n因為在你的世界你最重要。 \n  \n所有平台連結在這 ➡️ <a href=\"https://linktr.ee/ascended_928\">https://linktr.ee/ascended_928</a> \n工作請洽 ➡️ shensiantutoring@gmail.com \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP122｜別忘了你想去哪"]
+tag = ["Mar 14, 2025", "Mar 2025", "2025"]
+category = []
+
 [asc00151]
 name = "EP121｜迷失靈魂方向的旅人 ft.人安基金會吉安平安站站長佳翔"
 feed = "https://rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/731eef84-d0c4-4470-a215-52a7fde653ad/rssFileVip.mp3"
