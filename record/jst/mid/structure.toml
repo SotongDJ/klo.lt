@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00634]
+name = "EP406 聊聊最近的逆行"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm88n6pfs014f01yr6arv2gs0/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm88n6pfs014g01yr0xgp227v.mp3"
+spotify = "https://open.spotify.com/episode/6GM0VncxhHQAZVhPVNBNm5"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>2025解答之書有聲版，上線囉～ <br />https://book2025.firstory.com.tw <br /> <br />（水星停滯害我本集重錄3次😱） <br /> <br />最近事很多吧？豈止是不順而已，還家人出事、心亂失眠，受傷、破財、名譽受損，或器材故障檔案遺失⋯，跌破眼鏡的事超多，覺得有無妄之災嗎？ <br /> <br />其實用占星學的角度看，星星只是在執行它份內的任務，把過去沒處理好的部分，可能會釀成災禍的地方點出來。 <br /> <br />這集就陪大家聊近日讓大家有感的事件，該怎麼度過逆行，與科普一下逆行的相關 知識吧💪 <br /> <br /> <br />EP406菜單： <br />火逆帶來內耗 <br />金星逆行的感情舊帳 <br />前男友前女友來囉 <br />不要馬上改行程 <br />水逆必須簽約怎麼辦 <br />沒有逆行你就會爆衝 <br />土星逆行檢查你努力不夠的地方 <br />低潮時的態度</p>"
+names = ["EP406 聊聊最近的逆行"]
+tag = ["Mar 14, 2025", "Mar 2025", "2025"]
+category = []
+
 [jst00633]
 name = "EP405 地獄來的魔羯前女友ft.宅女小紅"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm849um2m005s010y4tc8bl7m/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm849um2m005t010y57mu7ols.mp3"
