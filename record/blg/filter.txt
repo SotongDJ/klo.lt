@@ -8,7 +8,8 @@ Process: record/blg/keyword-4-professional.toml
 Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
-  found in: (334)
+  found in: (335)
+    blg00908
     blg00905
     blg00902
     blg00899
@@ -1294,7 +1295,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [呱吉]
-  found in: (9)
+  found in: (10)
+    blg00908
     blg00797
     blg00754
     blg00689
