@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[jst00635]
+name = "【本週提醒】所有亂七八糟都是為了新局勢做準備啊"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm8cj2sem002401zi89ht32wa/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm8cj2sem002501zi9qqzdepe.mp3"
+spotify = "https://open.spotify.com/episode/4PrEuKEup21ikeRkwPhiPm"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽3/17-3/23星座運勢週報】 <br /> <br />★對十二星座的影響： <br />(可參考太陽、上升星座) <br /> <br />【累的】獅子 處女 射手 水瓶 <br /> <br />獅子：就事論事別太壓抑，感情別出餿主意 <br />處女：對方爽約需再協調，感情面臨關鍵考驗 <br />射手：工作需獨立自主了，感情略感不自由 <br />水瓶：事務繁多需適時推拒，感情誤解仍要溝通 <br /> <br />【穩的】金牛 雙子 天秤 天蠍 <br /> <br />金牛：當心臨門一腳的生變，感情需履行承諾 <br />雙子：順其自然更順利，感情放鬆享受約會 <br />天秤：團隊實力影響成敗，感情太實際惹對方傷心 <br />天蠍：掌握主導突破箝制，感情先轉移一下重心吧 <br /> <br />【讚的】牡羊 巨蟹 魔羯 雙魚 <br /> <br />牡羊：聚會帶來機會與貴人，感情魅力不經意展現 <br />巨蟹：周遭出現關心與支持，感情重視家人看法 <br />魔羯：親力親為帶來好運，感情吸引年輕桃花 <br />雙魚：受限來自上級的看重，感情直話直說更有利</p>"
+names = ["【本週提醒】所有亂七八糟都是為了新局勢做準備啊"]
+tag = ["Mar 17, 2025", "Mar 2025", "2025"]
+category = []
+
 [jst00634]
 name = "EP406 聊聊最近的逆行"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cm88n6pfs014f01yr6arv2gs0/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcm88n6pfs014g01yr0xgp227v.mp3"
