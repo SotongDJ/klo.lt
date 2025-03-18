@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00447]
+name = "EP445 「哼，李屏瑤最討厭了！！」ft.李屏瑤"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/100037322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-18%2Fc340372b-6685-97cc-70b7-f1668adebea4.mp3"
+spotify = "https://open.spotify.com/episode/3DeG44lfMt9q6LqnGxoGwZ"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Saily】贊助播出</p><p>前往 https://saily.com/commute</p><p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p><p>立即享有專屬 eSIM 方案 85 折優惠！</p><p>#SailyeSIM</p><p><br /></p>\n"
+names = ["EP445 「哼，李屏瑤最討厭了！！」ft.李屏瑤"]
+tag = ["Mar 18, 2025", "Mar 2025", "2025"]
+category = []
+
 [twc00446]
 name = "EP444 資料暴君養成指南"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/99795233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-13%2F53ecff9e-8603-979a-c8db-e75c18464bc1.mp3"
