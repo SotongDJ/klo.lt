@@ -132,6 +132,12 @@ Process: record/asc/keyword-1-guest.toml
     asc00091
   Excluded: (0)
     
+[神仙雜貨殿]
+  found in: (2)
+    asc00153
+    asc00092
+  Excluded: (0)
+    
 [桃花]
   found in: (2)
     asc00041
