@@ -1137,7 +1137,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [小孩限定]
-  found in: (26)
+  found in: (27)
+    blg00912
     blg00907
     blg00904
     blg00901
@@ -1298,7 +1299,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [呱吉]
-  found in: (10)
+  found in: (11)
+    blg00912
     blg00908
     blg00797
     blg00754
@@ -1333,7 +1335,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [范琪斐]
-  found in: (7)
+  found in: (8)
+    blg00912
     blg00832
     blg00695
     blg00255
