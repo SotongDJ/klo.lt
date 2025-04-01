@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00450]
+name = "EP448 四處留心"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/100682359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F7ddaa122-30d2-c1bc-1d9e-425334f73c46.mp3"
+spotify = "https://open.spotify.com/episode/1TQTHOr5iPiJRms8Ihx2zq"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【眠豆腐】贊助播出</p><p>眠豆腐「滿意媽媽 瞬間感動」套餐</p><p>即日起至5/11母親節前</p><p>上眠豆腐官網組合優惠頁面</p><p>買芝麻/全熟芝麻豆腐+匹馬棉床包，結帳輸入折扣碼「 mom 」可享95折！</p><p>再贈眠豆腐自有品牌「豆服」 長版家居服一件，台灣布料台灣設計台灣製造，讓媽咪穿的感動、躺的蘇湖！</p><p>（原價NT$1980 可選卡其/藏青 M/S ，顏色尺寸請填於備註）</p><p>傳送門🚪：<a href=\"https://link.sleepytofu.com/commute_mothersday\"><u>https://link.sleepytofu.com/commute_mothersday</u></a> </p><p><br></p>\n"
+names = ["EP448 四處留心"]
+tag = ["Apr 01, 2025", "Apr 2025", "2025"]
+category = []
+
 [twc00449]
 name = "EP447 適時知酷 ft.李英宏 aka ㄕㄨㄟˇ ㄍ aka DJ Didilong"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/100446161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2Ff5d5deb2-5976-943d-98d0-62d2eb353638.mp3"
