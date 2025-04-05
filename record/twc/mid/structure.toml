@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00451]
+name = "EP449 清明連假降雨機率百分百"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/100881510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-5%2F877a1383-f377-0eb2-3d9b-0ab2990c2919.mp3"
+spotify = "https://open.spotify.com/episode/6B95vWSjMs8HWuFRclR1SF"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【小磨坊】贊助播出</p><p>撒撒變呵呷！拯救無聊外食，沾灑即刻美味</p><p>🟢 4/18-5/1全聯瓶裝香辛料全品項第二件5折</p><p>🟢 即日起至4/30，不限通路只要購買新品登錄發票，馬上送10點LINE POINTS。加碼再抽全聯禮劵5000元。</p><p>詳細活動說明請見活動網頁 <a href=\"https://shop.tomax.com.tw/RBKKq\"><u>https://shop.tomax.com.tw/RBKKq</u></a> </p><p>台通聽眾專屬優惠</p><p>購買指定優惠組合 <a href=\"https://shop.tomax.com.tw/hR1Jl\"><u>https://shop.tomax.com.tw/hR1Jl</u></a> </p><p>結帳輸入台通專屬折扣碼【COMMUTE】，立享8折優惠</p>\n"
+names = ["EP449 清明連假降雨機率百分百"]
+tag = ["Apr 05, 2025", "Apr 2025", "2025"]
+category = []
+
 [twc00450]
 name = "EP448 四處留心"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/100682359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F7ddaa122-30d2-c1bc-1d9e-425334f73c46.mp3"
