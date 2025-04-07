@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[bts00172]
+name = "EP169 | 你的AI訓練不好就該試這些方法 ft. 陳緼儂教授"
+feed = "https://m.cdn.firstory.me/track/ckyjmnkp0166d0830od1kznfj/cm96fwd2004da01tmfq3iefyl/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckyjmnkp0166d0830od1kznfj%2Fcm96fwd2104db01tmab3c1lmd.mp3"
+spotify = "https://open.spotify.com/episode/1V07cvDtOWMhO1lGS4YQt6"
+image = "351e3c303f7183e557e9bfd76840e2f8c1e3ac425fbd6380198493fb6230fec5"
+description = "<p>這一集我們討論了AI角色扮演、分段生成、本土語言模型如何讓你得到更接近理想的答案 <br /> <br />▹ ▹ 追蹤看更多 <br />訂閱最新消息 »&nbsp;https://str.network/rnbrian <br />Instagram » https://www.instagram.com/brianptseng/ <br />Facebook » https://www.facebook.com/brianstandup <br />YouTube »&nbsp; <br />｜曾博恩：https://www.youtube.com/@brianptseng <br />｜博恩站起來：https://www.youtube.com/@StandupBrian <br />⠀ <br />小額贊助支持本節目： <a href=\"https://open.firstory.me/user/ckyjmnkp0166d0830od1kznfj\" target=\"_blank\">https://open.firstory.me/user/ckyjmnkp0166d0830od1kznfj</a> <br /> <br />本節目由【月城南廣告】業務代理及製作 <br />💌Podcast 商業合作信箱：business@lumosads.biz</p> <br /> <br/>Powered by <a href=\"https://firstory.me/zh\">Firstory Hosting</a>"
+names = ["EP169 | 你的AI訓練不好就該試這些方法 ft. 陳緼儂教授"]
+tag = ["Apr 07, 2025", "Apr 2025", "2025"]
+category = []
+
 [bts00171]
 name = "EP168 | 加密貨幣不就是在割韭菜嗎 ft. 呢喃貓"
 feed = "https://m.cdn.firstory.me/track/ckyjmnkp0166d0830od1kznfj/cm8pbv0a4042301vxew7zazgl/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckyjmnkp0166d0830od1kznfj%2Fcm8pbv0a4042401vx6o792249.mp3"
