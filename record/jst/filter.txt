@@ -2,7 +2,8 @@
 Start annotation
 Process: record/jst/keyword-0.toml
 [本週提醒]
-  found in: (216)
+  found in: (217)
+    jst00645
     jst00643
     jst00641
     jst00639
@@ -362,7 +363,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [牡羊座]
-  found in: (6)
+  found in: (7)
+    jst00645
     jst00625
     jst00502
     jst00488
