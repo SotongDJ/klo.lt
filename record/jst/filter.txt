@@ -287,7 +287,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [火星]
-  found in: (19)
+  found in: (20)
+    jst00646
     jst00636
     jst00630
     jst00626
@@ -404,7 +405,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [獅子座]
-  found in: (5)
+  found in: (6)
+    jst00646
     jst00559
     jst00533
     jst00532
