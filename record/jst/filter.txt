@@ -2,7 +2,8 @@
 Start annotation
 Process: record/jst/keyword-0.toml
 [本週提醒]
-  found in: (217)
+  found in: (218)
+    jst00648
     jst00645
     jst00643
     jst00641
