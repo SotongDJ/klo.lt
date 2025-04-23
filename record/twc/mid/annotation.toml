@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00456]
+name = "EP454 誰來演戲 ft. 劉品言"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/101672696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-23%2Fbbb4f9b4-0c8a-55f7-05af-aab18bb3ccec.mp3"
+spotify = "https://open.spotify.com/episode/0p5PDVIfFuXbnXMfYDnb7o"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Saily】贊助播出</p><p>前往 <a href=\"https://saily.com/commute\"><u>https://saily.com/commute</u></a> </p><p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p><p>立即享有專屬 eSIM 方案 85 折優惠！</p><p>#SailyeSIM</p><p><br></p>\n"
+names = ["EP454 誰來演戲 ft. 劉品言"]
+tag = ["Apr 23, 2025", "Apr 2025", "2025"]
+category = []
+
 [twc00455]
 name = "EP453 愛吹牛的大嘴龜"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101499400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-19%2Fca9962d8-786b-432e-2e64-ae14f2970ba0.mp3"
