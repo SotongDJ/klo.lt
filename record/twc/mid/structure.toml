@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00457]
+name = "EP455 龍王攻略戰"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/101812212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-26%2F4a5eba30-da1e-20ae-30d9-8ce2eb0bf96e.mp3"
+spotify = "https://open.spotify.com/episode/42xVXNznBLcOxYpwN7EQ1V"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【YODEE 優迪】與【Brush Baby】贊助播出！</p><p>來自英國的嬰幼兒口腔保健專家【Brush Baby】，專為小朋友設計一系列潔牙用品，從剛長牙的寶寶到大童都能找到合適的選擇。</p><p>其中最受歡迎的【WildOnes】兒童聲波電動牙刷系列也是我們最喜歡的！搭載軟毛震動技術、智能計時與換區提醒功能，能幫助培養正確刷牙習慣；還有超可愛的動物造型，讓孩子每天刷牙都變得超期待！</p><p>也有針對不同年齡的電動牙刷可選擇，柔軟雙刷毛幫助清潔力加倍，連齒縫也不放過！全機更是IPX7防水等級，小孩邊洗澡邊刷牙也OK，根本懶人救星。</p><p>不只牙刷，Brush Baby還有手指棉巾、固齒器牙刷，以及最高含氟量達1350ppmF的木醣醇兒童牙膏，系列超齊全，全面守護從嬰兒到兒童的口腔健康！</p><p>即日起至5/26，點擊下方連結，即可享有台通聽眾專屬限時優惠，滿額再加贈【木醣醇牙膏12ml】！<br>台通專屬優惠連結👉 <a href=\"https://yodee.tw/%E5%8F%B0%E9%80%9A%E8%81%BD%E7%9C%BExBrushBaby%E5%B0%88%E5%B1%AC%E5%84%AA%E6%83%A0\"><u>https://yodee.tw/台通聽眾xBrushBaby專屬優惠</u></a> </p>\n"
+names = ["EP455 龍王攻略戰"]
+tag = ["Apr 26, 2025", "Apr 2025", "2025"]
+category = []
+
 [twc00456]
 name = "EP454 誰來演戲 ft. 劉品言"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101672696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-23%2Fbbb4f9b4-0c8a-55f7-05af-aab18bb3ccec.mp3"
