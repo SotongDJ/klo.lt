@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00458]
+name = "EP456 情和義"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/102040148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-1%2F0fc020d3-6d9c-3c4b-a054-7e7095c4b3cc.mp3"
+spotify = "https://open.spotify.com/episode/4DKAGhw581bOsNCQwmKm5r"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【經脆脆 雞皮餅乾】贊助播出</p><p>台灣雞皮餅乾領導品牌「經脆脆」，不只將鹹酥雞攤的必點菜單炸雞皮、甜不辣變成涮嘴零食，2025更推出新品「素米血脆片」！</p><p>🌟原料嚴選新鮮糯米製成的素米血糕</p><p>🌟完美還原鹹酥雞攤的白胡椒香氣</p><p>🌟全素可食！</p><p>6/3前，經脆脆全系列商品滿$399，輸入優惠碼【commute2025】可折抵$30！</p><p>專屬連結：<a href=\"https://eternal.pse.is/commuteforme\"><u>https://eternal.pse.is/commuteforme</u></a> </p><p>#經脆脆 #雞皮餅乾 #素米血脆片</p>\n"
+names = ["EP456 情和義"]
+tag = ["May 01, 2025", "May 2025", "2025"]
+category = []
+
 [twc00457]
 name = "EP455 龍王攻略戰"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101812212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-26%2F4a5eba30-da1e-20ae-30d9-8ce2eb0bf96e.mp3"
