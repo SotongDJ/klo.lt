@@ -1,7 +1,7 @@
 
 image: python:3.12
-before_script:
-  - pip install MaLTHA idna
+# before_script:
+#   - pip install MaLTHA idna
 pages:
   tags:
     - klolt

@@ -65,7 +65,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [星座]
-  found in: (2)
+  found in: (3)
+    asc00159
     asc00063
     asc00020
   Excluded: (0)
