@@ -1,5 +1,15 @@
 # Add your own tag to each episode
 
+[twc00459]
+name = "EP457 閏年要不要算"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/102123501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-3%2F9ecaab9d-3ec0-a7ca-6503-15c30b0bed0a.mp3"
+spotify = "https://open.spotify.com/episode/6gQiTsuI70CSDAeqWBH4n4"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【雷霆特攻隊*】贊助播出</p><p>漫威最新電影《雷霆特攻隊*》全台戲院熱映中！</p><p>這部被外媒譽為「MCU全新轉折點」的電影集結了一群魅力十足的反英雄</p><p>充滿衝撞火花與獨特魅力，顛覆你對漫威宇宙所有的想像</p><p>片尾彩蛋超驚喜！將撼動漫威宇宙未來！</p><p>不想被暴雷？立即衝戲院，見證漫威新篇章！</p><p>#漫威回來了 #動作爽度爆表 #幽默與情感兼具 #今年不容錯過的一部電影</p><p><br></p><p><br></p>\n"
+names = ["EP457 閏年要不要算"]
+tag = ["May 03, 2025", "May 2025", "2025"]
+category = []
+
 [twc00458]
 name = "EP456 情和義"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/102040148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-1%2F0fc020d3-6d9c-3c4b-a054-7e7095c4b3cc.mp3"

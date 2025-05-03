@@ -3,7 +3,7 @@ echo `TZ='<UTC+8>-8' date +'d%y%m%dt%H%M'`
 cd /store/record/klo.lt/
 git pull
 rm temp
-pip3 install -r requirements.txt
+# pip3 install -r requirements.txt
 
 echo Update rss - update 08C
 python3 update.py 08c
