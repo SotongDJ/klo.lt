@@ -370,7 +370,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (310)
+  found in: (311)
+    blg00928
     blg00925
     blg00922
     blg00919
@@ -1670,6 +1671,12 @@ Process: record/blg/keyword-6-beta.toml
   found in: (2)
     blg00683
     blg00682
+  Excluded: (0)
+    
+[雕大 @IEObserve]
+  found in: (2)
+    blg00928
+    blg00582
   Excluded: (0)
     
 [沈伯洋（助理）教授]
