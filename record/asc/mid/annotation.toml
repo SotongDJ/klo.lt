@@ -1,5 +1,16 @@
 # Add your own tag to each episode
 
+[asc00160]
+name = "EP130｜今年的我，有比去年好一點嗎？"
+feed = "https://rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/adcb59d6-db5e-4e65-a9b0-df556b0c0565/rssFileVip.mp3"
+spotify = "https://open.spotify.com/episode/4fK5uymMvdDrwpdha0bQof"
+youtube = "https://www.youtube.com/watch?v=ov1hRSAA69Q"
+image = "d858afdd167af8f2d197a68fee5c15d169949b97aace6e23af05100b30f2227c"
+description = "這個世界很急 但你的靈魂不急 \n我們只想陪你溫柔地回顧自己 \n你是否對自己變得更溫柔了？ \n是否開始站在自己的立場說話？ \n是否學會在混亂中停下來 \n安靜地聽見自己內心的聲音？ \n這集是一場寫給自己的祝福儀式 \n我們聊成長、聊彈性、聊那些被你忽略 \n但其實很了不起的微小進步 \n從討好別人到勇敢說出「我不想」 \n從焦慮逃避，到試著寫日記釐清情緒 \n從在意他人眼光到開始問自己我覺得舒服嗎？ \n你不需要變成一個全新的自己 \n而是慢慢放下那些不屬於你的 \n留下真正重要的 \n進步不是往前衝 \n而是越來越像你自己 \n讓我們一起回顧這一年 \n寫下給自己的祝福 \n然後繼續往心裡的方向 \n穩穩地走去。 \n我們，一起🫶 \n  \n所有平台連結在這 ➡️ <a href=\"https://linktr.ee/ascended_928\">https://linktr.ee/ascended_928</a> \n工作請洽 ➡️ shensiantutoring@gmail.com \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP130｜今年的我，有比去年好一點嗎？"]
+tag = ["May 09, 2025", "May 2025", "2025"]
+category = []
+
 [asc00159]
 name = "EP129｜星座讓我準到沒隱私 ft. 白瑜"
 feed = "https://rss.soundon.fm/rssf/77c51a83-c5c5-460d-8363-0deec983efe1/feedurl/8cfa4cf1-d776-4b15-898b-1a4f1b24c825/rssFileVip.mp3"
