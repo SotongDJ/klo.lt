@@ -168,8 +168,8 @@ fi
 #             0	Ignore file (don't create item in new archive for this file)
 #         w	Can not be detected what file is newer (times are the same, sizes are different)
 #             2	Compress (compress file from disk to new archive)
-incr_backup=`TZ='<UTC+8>-8' date +'/store/record/backup/klolt-Incr-%b%d_%Y.7z'`
-if [ ! -f $incr_backup ]; then
-    echo "Creating baseline archive: "$incr_backup
-    7z u -u- $full_backup /store/record/klo.lt/* -"up0q3r2x2y2z0w2!"`TZ='<UTC+8>-8' date +'/store/record/backup/klolt-Incr-%b%d_%Y.7z'`  
-fi
+# incr_backup=`TZ='<UTC+8>-8' date +'/store/record/backup/klolt-Incr-%b%d_%Y.7z'`
+# if [ ! -f $incr_backup ]; then
+#     echo "Creating baseline archive: "$incr_backup
+#     7z u -u- $full_backup /store/record/klo.lt/* -"up0q3r2x2y2z0w2!"`TZ='<UTC+8>-8' date +'/store/record/backup/klolt-Incr-%b%d_%Y.7z'`  
+# fi
