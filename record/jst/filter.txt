@@ -381,7 +381,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [金牛座]
-  found in: (7)
+  found in: (8)
+    jst00658
     jst00590
     jst00511
     jst00504
