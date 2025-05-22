@@ -8,7 +8,8 @@ Process: record/blg/keyword-4-professional.toml
 Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
-  found in: (343)
+  found in: (344)
+    blg00932
     blg00930
     blg00927
     blg00924
@@ -352,11 +353,14 @@ Process: record/blg/keyword-6-beta.toml
     blg00603
     blg00597
     blg00593
-  Excluded: (5)
+  Excluded: (8)
     blg00093
     blg00091
     blg00077
+    blg00052
+    blg00048
     blg00044
+    blg00040
     blg00191
 [百靈果 Bonus]
   found in: (8)
@@ -371,7 +375,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (312)
+  found in: (313)
+    blg00933
     blg00931
     blg00928
     blg00925
@@ -722,7 +727,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [讀書會]
-  found in: (138)
+  found in: (139)
+    blg00934
     blg00929
     blg00704
     blg00692
@@ -1008,8 +1014,9 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [Rage by Bob Woodward]
-  found in: (2)
+  found in: (3)
     blg00258
+    blg00255
     blg00252
   Excluded: (0)
     
@@ -1092,12 +1099,13 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [暫代讀書會]
-  found in: (10)
+  found in: (11)
     blg00093
     blg00305
     blg00547
     blg00444
     blg00454
+    blg00400
     blg00261
     blg00249
     blg00199
@@ -1316,7 +1324,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [呱吉]
-  found in: (11)
+  found in: (12)
+    blg00933
     blg00912
     blg00908
     blg00797
@@ -1531,12 +1540,6 @@ Process: record/blg/keyword-6-beta.toml
     blg00077
   Excluded: (0)
     
-[龍哥（影視）]
-  found in: (2)
-    blg00594
-    blg00405
-  Excluded: (0)
-    
 [Roger]
   found in: (3)
     blg00853
@@ -1578,9 +1581,10 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [鄒宗翰 @德國之聲]
-  found in: (2)
+  found in: (3)
     blg00661
     blg00624
+    blg00820
   Excluded: (0)
     
 [Jason 劉致昕]
@@ -1707,8 +1711,9 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [裴洛西訪台事件]
-  found in: (3)
+  found in: (4)
     blg00544
+    blg00545
     blg00547
     blg00548
   Excluded: (0)

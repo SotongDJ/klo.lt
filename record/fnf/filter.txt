@@ -2,7 +2,9 @@
 Start annotation
 Process: record/fnf/keyword-0.toml
 [黑歷史特輯]
-  found in: (5)
+  found in: (7)
+    fnf00654
+    fnf00636
     fnf00619
     fnf00605
     fnf00602

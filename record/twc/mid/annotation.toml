@@ -1,9 +1,17 @@
 # Add your own tag to each episode
 
+[twc00462]
+name = "EP460「滿車的梅花啦」"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/102785989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-17%2F327e1ce2-b5ae-c6d4-7552-221e76c52fa9.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Saily】贊助播出</p><p>現在前往 </p><p><a href=\"https://saily.com/commute\"><u>https://saily.com/commute</u></a> </p><p>下載 Saily APP</p><p>並在結帳時使用優惠代碼 【commute】</p><p>立即享有專屬 eSIM 方案 85 折優惠！</p><p>#SailyeSIM</p><p><br></p>\n"
+names = ["EP460「滿車的梅花啦」"]
+tag = ["May 17, 2025", "May 2025", "2025"]
+category = []
+
 [twc00461]
 name = "EP459 生不沉默，長成閉嘴 ft. 許正泰、馬摳"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/102467253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-10%2Fad3151a8-5d3a-f286-4787-f9cd7669006d.mp3"
-spotify = "https://open.spotify.com/episode/4QFmlsuEaIugP1ke4uy9Xv"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p><p>現在只要搜尋 </p><p><a href=\"https://nordvpn.com/commute\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://nordvpn.com/commute</a></p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p>--</p><p>*開頭：台北流浪指南/ 結尾：進城</p><p><br></p>\n"
 names = ["EP459 生不沉默，長成閉嘴 ft. 許正泰、馬摳"]
@@ -13,7 +21,6 @@ category = []
 [twc00460]
 name = "EP458 LOVE MYSELF ft. 小雞"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/102322099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-7%2Fae9d75fa-e195-d7a7-1072-1b162cc37327.mp3"
-spotify = "https://open.spotify.com/episode/3Oitt5IS2CpmtsgLWwQYU4"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【臺北市文化局】贊助播出</p><p>▐ 第 29 屆臺北文化獎 ​ • ​ 現正開放徵選 ▐</p><p>The 29th Taipei Culture Award Announces Call for Entries</p><p>第29屆臺北文化獎徵選開跑啦！</p><p>即日起至6月17日(二)17:30受理申請</p><p>​</p><p>自 1997 年創辦至今，「臺北文化獎」已表揚超過 80 位傑出文化人與團體！</p><p>感謝這些年每一位文化人的投入，也感謝市民對文化持續的參與與關注。</p><p>臺北文化獎之受獎者，每年至多以2名為原則，每名受獎者可獲頒獎座1座、獎金新臺幣100萬元。</p><p>獎勵重點：落實文化深入生活、傳統開出現代、本土面向國際，對臺北市文化特質之形塑有特殊貢獻者。</p><p>參選辦法：</p><p>(一) 凡個人、團體，不限國籍、性別、年齡，均可自行參選或接受推薦參選。</p><p>(二) 個人、政府機關、民間團體等，均可推薦參選人。</p><p>(三) 曾獲得本獎項者，請勿重複參選或推薦。</p><p>🌟 報名截止時間：2025年6月17日 17:30止</p><p>🌟 每位得主獲頒新臺幣壹佰萬元及獎座</p><p>🌟  歡迎報名或推薦傑出的文化工作者與團體，一起讓文化被看見！</p><p>--</p><p>臺北文化獎報名及推薦訊息：<a href=\"https://reurl.cc/qGpRQ0\"><u>https://reurl.cc/qGpRQ0</u></a> </p><p>臺北市政府文化局 粉絲專頁：<a href=\"https://reurl.cc/XA2nkD\"><u>https://reurl.cc/XA2nkD</u></a> </p>\n"
 names = ["EP458 LOVE MYSELF ft. 小雞"]
@@ -23,7 +30,6 @@ category = []
 [twc00459]
 name = "EP457 閏年要不要算"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/102123501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-3%2F9ecaab9d-3ec0-a7ca-6503-15c30b0bed0a.mp3"
-spotify = "https://open.spotify.com/episode/6gQiTsuI70CSDAeqWBH4n4"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【雷霆特攻隊*】贊助播出</p><p>漫威最新電影《雷霆特攻隊*》全台戲院熱映中！</p><p>這部被外媒譽為「MCU全新轉折點」的電影集結了一群魅力十足的反英雄</p><p>充滿衝撞火花與獨特魅力，顛覆你對漫威宇宙所有的想像</p><p>片尾彩蛋超驚喜！將撼動漫威宇宙未來！</p><p>不想被暴雷？立即衝戲院，見證漫威新篇章！</p><p>#漫威回來了 #動作爽度爆表 #幽默與情感兼具 #今年不容錯過的一部電影</p><p><br></p><p><br></p>\n"
 names = ["EP457 閏年要不要算"]
@@ -33,7 +39,6 @@ category = []
 [twc00458]
 name = "EP456 情和義"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/102040148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-1%2F0fc020d3-6d9c-3c4b-a054-7e7095c4b3cc.mp3"
-spotify = "https://open.spotify.com/episode/4DKAGhw581bOsNCQwmKm5r"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【經脆脆 雞皮餅乾】贊助播出</p><p>台灣雞皮餅乾領導品牌「經脆脆」，不只將鹹酥雞攤的必點菜單炸雞皮、甜不辣變成涮嘴零食，2025更推出新品「素米血脆片」！</p><p>🌟原料嚴選新鮮糯米製成的素米血糕</p><p>🌟完美還原鹹酥雞攤的白胡椒香氣</p><p>🌟全素可食！</p><p>6/3前，經脆脆全系列商品滿$399，輸入優惠碼【commute2025】可折抵$30！</p><p>專屬連結：<a href=\"https://eternal.pse.is/commuteforme\"><u>https://eternal.pse.is/commuteforme</u></a> </p><p>#經脆脆 #雞皮餅乾 #素米血脆片</p>\n"
 names = ["EP456 情和義"]
@@ -43,7 +48,6 @@ category = []
 [twc00457]
 name = "EP455 龍王攻略戰"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101812212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-26%2F4a5eba30-da1e-20ae-30d9-8ce2eb0bf96e.mp3"
-spotify = "https://open.spotify.com/episode/42xVXNznBLcOxYpwN7EQ1V"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【YODEE 優迪】與【Brush Baby】贊助播出！</p><p>來自英國的嬰幼兒口腔保健專家【Brush Baby】，專為小朋友設計一系列潔牙用品，從剛長牙的寶寶到大童都能找到合適的選擇。</p><p>其中最受歡迎的【WildOnes】兒童聲波電動牙刷系列也是我們最喜歡的！搭載軟毛震動技術、智能計時與換區提醒功能，能幫助培養正確刷牙習慣；還有超可愛的動物造型，讓孩子每天刷牙都變得超期待！</p><p>也有針對不同年齡的電動牙刷可選擇，柔軟雙刷毛幫助清潔力加倍，連齒縫也不放過！全機更是IPX7防水等級，小孩邊洗澡邊刷牙也OK，根本懶人救星。</p><p>不只牙刷，Brush Baby還有手指棉巾、固齒器牙刷，以及最高含氟量達1350ppmF的木醣醇兒童牙膏，系列超齊全，全面守護從嬰兒到兒童的口腔健康！</p><p>即日起至5/26，點擊下方連結，即可享有台通聽眾專屬限時優惠，滿額再加贈【木醣醇牙膏12ml】！<br>台通專屬優惠連結👉 <a href=\"https://yodee.tw/%E5%8F%B0%E9%80%9A%E8%81%BD%E7%9C%BExBrushBaby%E5%B0%88%E5%B1%AC%E5%84%AA%E6%83%A0\"><u>https://yodee.tw/台通聽眾xBrushBaby專屬優惠</u></a> </p>\n"
 names = ["EP455 龍王攻略戰"]
@@ -53,7 +57,6 @@ category = []
 [twc00456]
 name = "EP454 誰來演戲 ft. 劉品言"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101672696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-23%2Fbbb4f9b4-0c8a-55f7-05af-aab18bb3ccec.mp3"
-spotify = "https://open.spotify.com/episode/0p5PDVIfFuXbnXMfYDnb7o"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Saily】贊助播出</p><p>前往 <a href=\"https://saily.com/commute\"><u>https://saily.com/commute</u></a> </p><p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p><p>立即享有專屬 eSIM 方案 85 折優惠！</p><p>#SailyeSIM</p><p><br></p>\n"
 names = ["EP454 誰來演戲 ft. 劉品言"]
@@ -63,7 +66,6 @@ category = []
 [twc00455]
 name = "EP453 愛吹牛的大嘴龜"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101499400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-19%2Fca9962d8-786b-432e-2e64-ae14f2970ba0.mp3"
-spotify = "https://open.spotify.com/episode/5H0b8nuwPM7231sg2zeLmK"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【光茵樂活】贊助播出 </p><p>媽媽說保養品太多？那你該換個方式寵她了💡</p><p>今年就送媽媽「喝得下的保養」，光茵樂活鮮銀耳禮盒 </p><p>是媽媽真的會打開喝完、還會問你在哪買的貼心禮💝</p><p>👉<a href=\"https://nanobiolight.us/WXwE3\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://nanobiolight.us/WXwE3</a> </p><p>🎁 母親節推出2大重磅銀耳禮盒 </p><p>✨ 有機鮮銀耳禮盒 </p><p>阿里山原生菌種 × 台灣製造 </p><p>復古花磚包裝超有質感，長輩一看就愛上 </p><p>✨ 纖潤鮮銀耳禮盒 </p><p>玻尿酸鈉含量提升59%，使用日本專利Hyabest®原料</p><p>加量不加價，膠潤感升級，保養更有感！ </p><p>✅ 常溫保存不佔冰箱空間  </p><p>✅ 低糖低熱量，即開即飲免烹煮 </p><p>✅ 無添加防腐劑，兩年保鮮就像現煮 </p><p>-----------------------------------------------</p><p> </p><p>💝【寵愛媽咪無極限】台通專屬的好康👇</p><p>⏱ 每周一品：限時搶購➡️買箱裝，$199禮盒帶回家  </p><p>🎁 指定禮盒三盒組只要 $1699，前100名下單還送品牌針織袋 👜  </p><p>⭐輸入折扣碼【台通】，本島免運直接送到家 </p><p>國師唐綺陽最愛的銀耳飲，連續兩年代言的機能銀耳飲 </p><p>今年就用光茵樂活銀耳飲，光明正大寵爆媽媽吧  </p><p>👉 <a href=\"https://nanobiolight.us/WXwE3\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://nanobiolight.us/WXwE3</a></p><p>#光茵樂活 #纖潤銀耳禮盒全新升級 #母親節限定有機銀耳禮盒新登場</p><p></p>\n"
 names = ["EP453 愛吹牛的大嘴龜"]
@@ -73,7 +75,6 @@ category = []
 [twc00454]
 name = "EP452 哪來的美國時間 ft. DJ Mish"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101368342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-16%2Faeba657e-b4cc-bc37-23e1-dac37056f269.mp3"
-spotify = "https://open.spotify.com/episode/3B9ue71eitLeW6bvCLtqER"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p><p>現在只要搜尋 </p><p><a href=\"https://nordvpn.com/commute\"><u>https://nordvpn.com/commute</u></a></p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p><br></p>\n"
 names = ["EP452 哪來的美國時間 ft. DJ Mish"]
@@ -83,7 +84,6 @@ category = []
 [twc00453]
 name = "EP451 街頭有智慧"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101216483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-13%2F65c6e657-7004-ccc0-ff05-7c83de409897.mp3"
-spotify = "https://open.spotify.com/episode/2abrigz4UAHfv3a5j3bAgC"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【芳茲滴雞精】贊助播出</p><p>什麼!? 滴雞精也能shot!!!</p><p>快來聽我們的新吃法，一起跟媽媽歡慶母親節</p><p>👉<a href=\"https://fun-s.cc/commuteforme?sl-ref=commuteforme\"><u>https://fun-s.cc/commuteforme?sl-ref=commuteforme</u></a> </p><p>帶媽媽、老婆吃”Fine Dining”不是問題 </p><p>在家就能變帥廚，2025犒賞心中最愛的人</p><p>放大絕加入這兩味最對味👨‍🍳</p><p>#芳茲滴雞精 #芳茲滴魚精</p><p>🟡常溫好喝無腥味</p><p>🟡蛋白質、總支鏈胺基酸、膠原蛋白</p><p>🟡牛磺酸、鈣質、深海魚軟骨素</p><p>一家大小照顧穩妥妥</p><p>多元營養打好一整年健康基礎🙌</p><p>母親節送禮越來越靠近</p><p>買芳茲保媽媽一生健康</p><p>還有機會拿鑽石項鍊💎</p><p>讓媽媽老婆越來越漂亮的機會不可錯過</p><p>好康就是要大聲說📢</p><p>4/9～5/11</p><p>💎全館單筆消費滿 6,800元即有機會抽中京華鑽石項鍊共一名</p><p>💎全館單筆消費滿10,888元送芳茲滴雞精、芳茲滴魚精環保包各一包(不累贈)</p><p>詳細資訊可參考芳茲官網</p><p><br></p>\n"
 names = ["EP451 街頭有智慧"]
@@ -93,7 +93,6 @@ category = []
 [twc00452]
 name = "EP450 小時候都覺得走好遠"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/101067921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-9%2F4282414b-7f15-3f79-65ff-c372f9e33d17.mp3"
-spotify = "https://open.spotify.com/episode/130oaTMXHYd0R3f5aueOTL"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【谷溜谷溜】贊助播出</p><p>鮮蝦挺的禮盒好厝邊《谷溜谷溜》來囉！</p><p>買禮盒送阿母順道做公益 &gt; <a href=\"https://guliuguliu.tw/PyB3w\"><u>https://guliuguliu.tw/PyB3w</u></a> </p><p>「舊事新意」母親節6入禮盒非常國際化特地重金禮聘</p><p>享譽巴黎的台灣時尚插畫家秉御老師主繪視覺</p><p>一盒兼具國際時尚x營養x美味，送禮的最佳首選！</p><p>每年這時候就是谷溜的公益月，與「現代婦女基金會」合作</p><p>▹只要購買一盒禮盒即代捐30元給基金會</p><p>一起協助在家暴受害者、目睹家暴的兒少等協助對象給予更多支持與關懷，希望透過小凝聚小善小愛的力量，為這個社會貢獻一份心力！</p><p>【台通獨家優惠】下單前100名贈仙草涼露X1（贈完為止）</p><p>●滿額贈好禮送</p><p>●免費代寫貼心賀卡 #下單備註送</p><p>*下單優惠方案以台通頁面/粉專公告為準</p><p>母親節送禮給阿母、太座，不單只是一份心意</p><p>更是乘載著讓協助者感受到眾人的關懷與祝福</p><p>電話洽詢：0800529696</p><p>線上客服：谷溜粉絲團、LINE @guliuguliu</p><p>歡迎企業、大宗訂購！</p><p><br></p>\n"
 names = ["EP450 小時候都覺得走好遠"]
@@ -103,7 +102,6 @@ category = []
 [twc00451]
 name = "EP449 清明連假降雨機率百分百"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/100881510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-5%2F877a1383-f377-0eb2-3d9b-0ab2990c2919.mp3"
-spotify = "https://open.spotify.com/episode/6B95vWSjMs8HWuFRclR1SF"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【小磨坊】贊助播出</p><p>撒撒變呵呷！拯救無聊外食，沾灑即刻美味</p><p>🟢 4/18-5/1全聯瓶裝香辛料全品項第二件5折</p><p>🟢 即日起至4/30，不限通路只要購買新品登錄發票，馬上送10點LINE POINTS。加碼再抽全聯禮劵5000元。</p><p>詳細活動說明請見活動網頁 <a href=\"https://shop.tomax.com.tw/RBKKq\"><u>https://shop.tomax.com.tw/RBKKq</u></a> </p><p>台通聽眾專屬優惠</p><p>購買指定優惠組合 <a href=\"https://shop.tomax.com.tw/hR1Jl\"><u>https://shop.tomax.com.tw/hR1Jl</u></a> </p><p>結帳輸入台通專屬折扣碼【COMMUTE】，立享8折優惠</p>\n"
 names = ["EP449 清明連假降雨機率百分百"]
@@ -113,7 +111,6 @@ category = []
 [twc00450]
 name = "EP448 四處留心"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/100682359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-1%2F7ddaa122-30d2-c1bc-1d9e-425334f73c46.mp3"
-spotify = "https://open.spotify.com/episode/1TQTHOr5iPiJRms8Ihx2zq"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【眠豆腐】贊助播出</p><p>眠豆腐「滿意媽媽 瞬間感動」套餐</p><p>即日起至5/11母親節前</p><p>上眠豆腐官網組合優惠頁面</p><p>買芝麻/全熟芝麻豆腐+匹馬棉床包，結帳輸入折扣碼「 mom 」可享95折！</p><p>再贈眠豆腐自有品牌「豆服」 長版家居服一件，台灣布料台灣設計台灣製造，讓媽咪穿的感動、躺的蘇湖！</p><p>（原價NT$1980 可選卡其/藏青 M/S ，顏色尺寸請填於備註）</p><p>傳送門🚪：<a href=\"https://link.sleepytofu.com/commute_mothersday\"><u>https://link.sleepytofu.com/commute_mothersday</u></a> </p><p><br></p>\n"
 names = ["EP448 四處留心"]
@@ -123,7 +120,6 @@ category = []
 [twc00449]
 name = "EP447 適時知酷 ft.李英宏 aka ㄕㄨㄟˇ ㄍ aka DJ Didilong"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/100446161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2Ff5d5deb2-5976-943d-98d0-62d2eb353638.mp3"
-spotify = "https://open.spotify.com/episode/2jwwz3HfdtUOR9UqsUZX9s"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p><p>現在只要搜尋 </p><p><a href=\"https://nordvpn.com/commute\"><u>https://nordvpn.com/commute</u></a></p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消<br></p>\n"
 names = ["EP447 適時知酷 ft.李英宏 aka ㄕㄨㄟˇ ㄍ aka DJ Didilong"]
@@ -133,7 +129,6 @@ category = []
 [twc00448]
 name = "EP446 我素誰"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/100222410/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-22%2F60005675-2f07-30e9-c9ad-63935f5b7790.mp3"
-spotify = "https://open.spotify.com/episode/00LEJ4RFec9cYd1cnXntU1"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【夕陽小鎮】贊助播出</p><p>由夕陽音樂、涅所未來聯手打造打造的虛擬音樂節品牌《夕陽小鎮 SUNSET TOWN FESTIVAL》，將於 2025 年 4 月 19 - 20日、26 - 27 日連續兩週末舉辦全新企劃《燒胎祭》！本次集結  30 組橫跨台、日、韓、泰等地的出演音樂單位，吳赫 OHHYUK、Balming Tiger、竇靖童、Phum Viphurit、林強、巨大的轟鳴、美秀集團、Gummy B 等多組強力表演者。演出者皆會化身Q版虛擬角色在舞台上與民眾狂歡，當遊客踏入島嶼的那刻，就自動具備挑戰者的身分，加入島上 3 大勢力的家族車隊，透過與 NPC 對話解鎖彩蛋與專屬車款，讓你在小鎮中線上狂飆，準備體驗台灣第一個結合音樂演出及賽車遊戲的虛擬音樂祭吧！</p><p>夕陽小鎮官網：<a href=\"https://www.sunset.town/\"><u>https://www.sunset.town/</u></a> </p><p>這次夕陽小鎮更準備了線下動土典禮邀請鎮民一起同歡，等著各位鎮民跟何代理一起燒胎軋車！活動將於 4/19 (六) 16:00－21:00 在花博園區流行館舉行，現場除了小鎮鎮長、貴賓出席外，也會有小鎮藝人代表進行街頭賣藝現場演出、實體燒胎賽車生死鬥、品味攤位進駐等多樣精彩活動</p><p>台通專屬優惠連結：<a href=\"https://naxsun.kktix.cc/events/89fa9a2a\"><u>https://naxsun.kktix.cc/events/89fa9a2a</u></a> </p><p>小鎮動土典禮購票：<a href=\"https://naxsun.kktix.cc/events/3c35b653\"><u>https://naxsun.kktix.cc/events/3c35b653</u></a> </p><p>準備在夕陽小鎮狂飆吧！燒胎～～～</p>\n"
 names = ["EP446 我素誰"]
@@ -143,7 +138,6 @@ category = []
 [twc00447]
 name = "EP445 「哼，李屏瑤最討厭了！！」ft.李屏瑤"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/100037322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-18%2Fc340372b-6685-97cc-70b7-f1668adebea4.mp3"
-spotify = "https://open.spotify.com/episode/3DeG44lfMt9q6LqnGxoGwZ"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Saily】贊助播出</p><p>前往 https://saily.com/commute</p><p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p><p>立即享有專屬 eSIM 方案 85 折優惠！</p><p>#SailyeSIM</p><p><br /></p>\n"
 names = ["EP445 「哼，李屏瑤最討厭了！！」ft.李屏瑤"]
@@ -153,9 +147,8 @@ category = []
 [twc00446]
 name = "EP444 資料暴君養成指南"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/99795233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-13%2F53ecff9e-8603-979a-c8db-e75c18464bc1.mp3"
-spotify = "https://open.spotify.com/episode/4b6J0hP51lWoMhshPLahxP"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
-description = "<p>本集節目由【NordVPN】贊助播出</p><p><br /></p><p>現在只要搜尋 nordvpn.com/commute</p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p><br /></p>\n"
+description = "<p>本集節目由【NordVPN】贊助播出</p><p><br></p><p>現在只要搜尋 </p><p>https://nordvpn.com/commute</p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p><br></p>\n"
 names = ["EP444 資料暴君養成指南"]
 tag = ["Mar 13, 2025", "Mar 2025", "2025"]
 category = []
@@ -163,7 +156,6 @@ category = []
 [twc00445]
 name = "EP443 AI低峰會 ft.火鳥、所長"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/99509492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-7%2Fbb74d7cd-79c2-592b-52d4-9218d14c0233.mp3"
-spotify = "https://open.spotify.com/episode/3xBKlP8rjHQsZYtPNjbiXj"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>老猴局日常。</p><p>--</p><p>本集節目由【明華園總團Ｘ熱帶天使】合作播出</p><p>【《熱帶天使》— 戰爭紀實音樂劇】  </p><p>2025年度最震撼歷史劇登場！  </p><p>金鐘獎得主楊烈攜手林雨宣、于浩威等實力派演員，演繹臺灣青年在戰火中拚命求生與追愛的故事。  </p><p>【演出日期與場次】   </p><p>3月21日至23日-國家戲劇院  </p><p>【購票方式】  </p><p>購票請上 OPENTIX 售票系統  </p><p><a href=\"https://smlproduction.art/welcome\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://smlproduction.art/welcome</a> </p><p>別錯過這場讓你哭、讓你笑、讓你深情愛上這片土地的歷史洗禮！</p><p><br></p>\n"
 names = ["EP443 AI低峰會 ft.火鳥、所長"]
@@ -173,7 +165,6 @@ category = []
 [twc00444]
 name = "EP442 魷魚絲的味"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/99357624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F17361b78-fa1b-d3e6-1eec-8ae335c90cfe.mp3"
-spotify = "https://open.spotify.com/episode/1KatFsACs22AvINX2BLxbZ"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【玉山證券】贊助播出 </p><p>想要買特斯拉、輝達、亞馬遜、臉書的股票嗎？ </p><p>現在不用再到海外去開戶，直接來玉山證券開戶下單不只賺股票，還可以賺機票！ </p><p>💰 開戶 &amp; 活動詳情 立刻點擊 👉  <a href=\"https://pse.is/77f6t4\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://pse.is/77f6t4</a> </p><p>🔸美股新戶不限名額，凡交易三筆，即送Line point 500點 </p><p>🔸交易金額越多，將可獲得越多抽獎機會，每月抽出最大獎乘飛舊金山商務艙單人來回機票 </p><p>🔸針對美股高交易量顧客，達成特定里程碑或累積成交金額達前三名，即可不消耗抽獎券直接兌換機票</p><p>#玉山證券買美股 </p><p>⚠️活動辦法及參加規定請以玉山證券活動網頁公告為準 </p><p>（本服務由玉山綜合證券股份有限公司提供；投資交易具有一定風險，交易人應先評估本身資金及擔負風險之能力。）</p><p><br /></p>\n"
 names = ["EP442 魷魚絲的味"]
@@ -183,7 +174,6 @@ category = []
 [twc00443]
 name = "EP441 隔空抓藥"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/99122134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-27%2F93fc33f0-0f9f-329d-8c29-33e39942fe41.mp3"
-spotify = "https://open.spotify.com/episode/5f06L4sPGKPqE4bFmLjSCt"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p></p><p>本集節目由【NordVPN】贊助播出</p><p>現在只要搜尋 nordvpn.com/commute</p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p><br></p>\n"
 names = ["EP441 隔空抓藥"]
@@ -193,7 +183,6 @@ category = []
 [twc00442]
 name = "EP440 家裡不是K書中心"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/98856346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-22%2F1e6f5c67-780a-8a29-e153-7f5f23c79979.mp3"
-spotify = "https://open.spotify.com/episode/2X5GD5DUFtAFZuBY8x1Jkc"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Saily】贊助播出</p><p>前往 https://saily.com/commute</p><p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p><p>立即享有專屬 eSIM 方案 85 折優惠！</p><p>#SailyeSIM</p><p><br></p>\n"
 names = ["EP440 家裡不是K書中心"]
@@ -203,7 +192,6 @@ category = []
 [twc00441]
 name = "EP439 家已的啦"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/98733544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-19%2F8d20642d-df49-89be-14d1-718d5fc4da7f.mp3"
-spotify = "https://open.spotify.com/episode/2fapEMufQv74Q0sCWQEVJ0"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【創世紀戰M阿修羅計畫】贊助播出</p><p>韓國殿堂級戰棋遊戲：創世紀戰M：阿修羅計畫正式上線，</p><p>經典戰棋爽快制敵，下載連結：<a href=\"https://tpgm.onelink.me/vQbR/0oftb0ek\"><u>https://tpgm.onelink.me/vQbR/0oftb0ek</u></a> </p><p>使用台通專屬優惠碼：COMMUTE，獲得專屬獎勵！</p><p><br></p>\n"
 names = ["EP439 家已的啦"]
@@ -213,7 +201,6 @@ category = []
 [twc00440]
 name = "EP438 個人經驗分享"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/98535602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-15%2F092a80d2-0ab9-fb3c-20ab-b989a94c9561.mp3"
-spotify = "https://open.spotify.com/episode/3NSJTRMYdGcALoZOjBaQ3F"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【YODEE 優迪】與【L’Ange 棉之境】贊助播出！</p><p><br></p><p>是時候該把家裡的浴巾都替換一下啦！大至成人、小至嬰幼兒都可以使用的【L’Ange 棉之境】不僅顏色質感好看，品質更會顛覆你對浴巾的想像，讓你重新認識什麼叫吸水效果滿分的「浴巾」！</p><p><br></p><p>【純棉紗布巾】是我們最愛的系列，採用抗菌包裝，開封即用免清洗，加上吸水力超強，洗完澡後輕輕按壓，身體和頭髮上的水分就能快速被吸乾！而且透氣、乾得快，細菌不易孳生，自然就沒什麼臭霉味的困擾啦！</p><p><br></p><p>全系列不含人工纖維、柔軟劑、甲醛、螢光劑，更通過SGS多項安全檢測，讓你洗後的觸感會越來越柔軟，真的一用就會愛上！一共有三種層數厚度、多種尺寸，適用範圍超廣，全家大小使用都很適合喔！</p><p><br></p><p>即日起至3/13，點擊下方連結，即可享有台通聽眾專屬限時優惠，滿額再加贈超實用的【9層紗布小方巾】！</p><p><br></p><p>台通專屬優惠連結👉 https://yodee.tw/台通聽眾xLAnge棉之境專屬優惠 </p><p><br></p><p><br></p>\n"
 names = ["EP438 個人經驗分享"]
@@ -223,7 +210,6 @@ category = []
 [twc00439]
 name = "EP437 不就是產氣而已"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/98321824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-11%2Faf12911f-4236-147d-71ec-592a908cbd4e.mp3"
-spotify = "https://open.spotify.com/episode/1NEQb7eIR86CZxhbEqO4nh"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Sony】贊助播出</p><p>@SonyTaiwan</p><p>#LinkBudsOpen</p><p>開放式設計聽音樂的同時也不怕漏掉跟身邊朋友、女友的對話</p><p>配戴上輕巧舒適，空氣耳勾的特殊設計舒適而且超穩固</p><p>就算運動時也穩如泰山，牢牢貼合耳朵</p><p>#LinkBudsFit</p><p>不僅能自動調節降噪等級</p><p>自然環境音模式讓你戴著耳機卻像在房間、客廳、咖啡廳裡享受音樂</p><p>特殊的大理石外觀充電盒，簡約又好看</p><p>兩款耳機只要跟設備配對完成，每次使用連線都很快速</p><p>手機切換到平板也是超滑順</p><p>Open充電3分鐘、Fit充電5分鐘就能聽1小時，帶著充飽電的充電盒，一天超過20小時也不是問題</p><p>還可以選購不同顏色的耳勾和個別保護套，幫自己的耳機打造專屬配色</p><p>同系列今年還出了#LinkBuds Speaker 藍牙喇叭，高音單體+低音單體特別適合用來聽Podcast或是流行音樂、無方向性的充電座只要放上去就會開始充電 </p><p>自動切換功能可以在LinkBuds Speaker 和 LinkBuds 系列以及1000XM5系列耳機之間無縫切換播放</p><p>有興趣的人可以直接到門市試聽挑選自己喜歡的款式</p><p>或點擊以下連結了解更多產品資訊</p><p>LinkBuds Open 開放式耳機<a href=\"https://go.sony.tw/15ftg3y7\">https://go.sony.tw/15ftg3y7</a> </p><p>LinkBuds Fit 降噪耳機<a href=\"https://go.sony.tw/jsb3kl93\">https://go.sony.tw/jsb3kl93</a> </p><p>LinkBuds Speaker藍牙喇叭<a href=\"https://go.sony.tw/2za9yzek\">https://go.sony.tw/2za9yzek</a> </p><p>#Sony #LinkBuds #AlwaysOn</p><p><br></p>\n"
 names = ["EP437 不就是產氣而已"]
@@ -233,7 +219,6 @@ category = []
 [twc00438]
 name = "EP436 人來就好怎麼還帶禮盒啦三八"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/97887697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-2%2F6094af45-9293-7971-d5cd-1687e271683b.mp3"
-spotify = "https://open.spotify.com/episode/4doOCn8MLh5EltsyivtSLR"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n"
 names = ["EP436 人來就好怎麼還帶禮盒啦三八"]
@@ -243,7 +228,6 @@ category = []
 [twc00437]
 name = "EP435 一起新年快樂"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/97543773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-25%2Fcc36471f-c59a-de3a-e1de-b1dc2bacbd8a.mp3"
-spotify = "https://open.spotify.com/episode/1Es5Id4Miht8EUlEFjFW1J"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Seagate】贊助播出</p>\n<p>一年一度歲末大掃「儲」🧹即將到來。</p>\n<p>年關將進，家裡的任何一個角落都需要除舊佈新，你的電腦也不例外！</p>\n<p>按慣例，快用Seagate 為你備份任何有用無用的檔案。</p>\n<p>桌機，筆電，手機，平板，地上撿到的記憶卡，隨身碟通通一起備份起來！</p>\n<p>🏆SEAGATE值得信賴的品質，來自出廠前通過 160 道嚴苛檢測</p>\n<p>🛒各型各色，豪宅小宅任君挑選。滿足你的各種需求</p>\n<p>🛡業界唯一３年保固＋資料救援服務 </p>\n<p>⛑️心血備份趁現在，資料遺失不遺憾！</p>\n<p>🔥 即日起至 2/2 好市多門市限定 🔥</p>\n<p>EXPANSION 10TB桌上型硬碟年度強檔促銷：活動期間原售價現折 1,100 元！供貨數量有限，售完為止，錯過再等一年👋</p>\n<p>#Seagate #希捷 #硬碟首選 #備份必買</p>\n<p><br></p>\n"
 names = ["EP435 一起新年快樂"]
@@ -253,7 +237,6 @@ category = []
 [twc00436]
 name = "EP434 詐騙腳本分享 ft.仇仇、刑警小吳"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/97358359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-21%2Fea251618-62dd-4391-0256-76be116935ce.mp3"
-spotify = "https://open.spotify.com/episode/6e1TBiepMBcG04TcVQDGqK"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Saily】贊助播出</p>\n<p>前往 <a href=\"https://saily.com/commute\">https://saily.com/commute</a></p>\n<p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p>\n<p>立即享有專屬 eSIM 方案 85 折優惠！ </p>\n<p>#SailyeSIM</p>\n<p><br>\n\n</p>\n"
 names = ["EP434 詐騙腳本分享 ft.仇仇、刑警小吳"]
@@ -263,7 +246,6 @@ category = []
 [twc00435]
 name = "EP433 專程去還是順便來"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/97222575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-18%2F482f05c4-ba61-8893-d670-62a901303882.mp3"
-spotify = "https://open.spotify.com/episode/4r39yOjLyp5R4u8sqB9ygL"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【台灣啤酒】贊助播出</p>\n<p> </p>\n<p>過年聚餐 一定要有「金牌ONE」 </p>\n<p>輕盈的『0糖質』輕鬆享受暢快感</p>\n<p>金牌ONE，你的美食最佳搭配 .ᐟ.ᐟ.ᐟ</p>\n<p>新的一年 就用「金牌ONE」開啟一切可能吧</p>\n<p>超商、量販等各大通路都買得到</p>\n<p>點我看更多: <a href=\"https://reurl.cc/26D206\">https://reurl.cc/26D206</a> </p>\n<p><a href=\"https://www.youtube.com/watch?v=pXJ7yhPzT_I\">https://www.youtube.com/watch?v=pXJ7yhPzT_I</a> </p>\n<p>▲禁止酒駕 未滿十八歲禁止飲酒</p>\n<p><br></p>\n"
 names = ["EP433 專程去還是順便來"]
@@ -273,7 +255,6 @@ category = []
 [twc00434]
 name = "EP432 大概是九十歲"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/97130773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-16%2F75133009-a23b-7ea3-0928-dda9d56e9c95.mp3"
-spotify = "https://open.spotify.com/episode/6p9gcCSh7A53tSuPtIi9ax"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【HARU】贊助播出</p>\n<p>1.DESIRE 大麻玫瑰激潮露</p>\n<p>全新高潮液，火力全開，熱感再升級</p>\n<p>粉色液體打造曖昧氛圍，淡淡玫瑰色誘香氣</p>\n<p>添加珍貴的冬蟲夏草及靈芝配方，私密享受與保養一次到位</p>\n<p>本身體質較敏感者，請斟酌使用！發炎者請勿使用</p>\n<p>2.XOXO 0.03保險套</p>\n<p>加量潤滑液添加，薄不怕乾尬</p>\n<p>享受戴比不戴更舒暢</p>\n<p>3.XOXO Long Lasting提耐型保險套</p>\n<p>衛福部核准，添加足量苯佐卡因麻醉劑</p>\n<p>享受更長久的激愛體驗</p>\n<p>結帳輸入專屬折扣碼「commute」</p>\n<p>即享有單品9折優惠</p>\n<p>加碼好禮 憑折扣碼滿$1000再送潤滑液15ml單支(款式隨機)</p>\n<p>潤滑液 <a href=\"https://letsharu.cc/locJB\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://letsharu.cc/locJB</a> </p>\n<p>保險套 <a href=\"https://letsharu.cc/4FSPf\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://letsharu.cc/4FSPf</a> </p>\n<p><br /></p>\n"
 names = ["EP432 大概是九十歲"]
@@ -283,7 +264,6 @@ category = []
 [twc00433]
 name = "EP431 問神明這個好嗎"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96891771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-11%2Fa9f9d515-4fb4-e15c-4485-e05bde57f4bb.mp3"
-spotify = "https://open.spotify.com/episode/122Ifim9EQTTB0D7FNUr9Q"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【宜得利家居】贊助播出</p>\n<p>----</p>\n<p>本節目中提及商品為：迴轉和室椅 N CRESIE、鞋櫃 MOMIJI </p>\n<p>更多相關介紹 ➥ </p>\n<p>和室椅: <a href=\"https://reurl.cc/aZedKl\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://reurl.cc/aZedKl</a> </p>\n<p>鞋櫃 MOMIJI: <a href=\"https://reurl.cc/nqmv3e\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://reurl.cc/nqmv3e</a> </p>\n<p>❮ 宜得利家居春節 ON SALE ▸即日起-02/18 ❯ </p>\n<p> ⫽ 贈 </p>\n<p> 會員消費滿一千送 100 點，滿二千送 200 點，以此類推， </p>\n<p> 贈點無上限 #1點抵1元 </p>\n<p>⫽ 抽 </p>\n<p>消費滿額再抽北海道雙人來回機票兌換券或宜得利家居高額點數 </p>\n<p>瞭解活動詳情 ➥<a href=\"https://reurl.cc/RLYeVZ\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://reurl.cc/RLYeVZ</a> </p>\n<p>#日本國民家居品牌 </p>\n<p>#宜得利春節SALE滿千贈100點一點抵一元</p>\n<p>#滿額加碼抽北海道雙人來回機票兌換券</p>\n<p>#ShareNitor</p>\n<p><br /></p>\n"
 names = ["EP431 問神明這個好嗎"]
@@ -293,7 +273,6 @@ category = []
 [twc00432]
 name = "EP430 土城吟遊詩人"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96771684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-8%2Fd9206a8f-ce06-d550-1bf9-56ef22d905f4.mp3"
-spotify = "https://open.spotify.com/episode/6zdrB5SjuJUsgVbNpd2isy"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【光茵樂活 機能銀耳飲】贊助播出 </p>\n<p>《光茵樂活》機能銀耳飲－不只滿滿好料，更富健康內涵！😍 </p>\n<p> 科技環控栽培，每一口都有大朵銀耳瓣，機能添加，體感升級！ </p>\n<p>是一款全家大小、孕補媽咪都能安心吃的健康美味♥ </p>\n<p>💕絕不能錯過的─2025春節限定｜有機鮮銀耳禮盒 </p>\n<p>特邀台灣文化設計品牌 老屋顏 跨界打造 </p>\n<p>以復古馬賽克磚為靈感，帶來充滿懷舊氛圍的限量設計 </p>\n<p>這款禮盒傳遞「懷念的時光，溫潤的美味」，如同美好的記憶一代代傳承 </p>\n<p>  </p>\n<p>【台通聽眾專屬 71折起】前150名下單+贈3罐膠原奶茶鮮銀耳 </p>\n<p>🏮禮盒系列1盒即免運，精選【新年開運禮盒3件組】更只要$1688 </p>\n<p>🎁豐富下單禮/滿額禮：品牌紅包袋、特製花磚杯墊、精美禮盒 等你帶回家 </p>\n<p>🔥熱門活動立即看：<a href=\"https://nanobiolight.us/%E5%8F%B0%E9%80%9A%E5%B0%88%E5%B1%AC\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://nanobiolight.us/台通專屬</a> </p>\n<p>#光茵樂活  #春節送禮 #銀耳飲 #有機鮮銀耳 </p>\n<p><br /></p>\n"
 names = ["EP430 土城吟遊詩人"]
@@ -303,7 +282,6 @@ category = []
 [twc00431]
 name = "EP429 有人需要聊天嗎?"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96582892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-4%2F405a01e4-828a-2786-8003-5ca62bac5a36.mp3"
-spotify = "https://open.spotify.com/episode/6nMIGBt9qWrnqEws3zFdVC"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【添糖】贊助播出\n</p>\n<p>即日起至114/1/8專屬台通的指定優惠：</p>\n<p>添糖官網👉 <a href=\"https://lihi.cc/aLRE3\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://lihi.cc/aLRE3</a> </p>\n<p>1.第一重：輸入『 x95 』即享有全系列產品95折優惠，每張訂單額外贈送蛇年紅包袋乙份，數量有限，送完為止。</p>\n<p>2.第二重：凡購買指定商品-(台通限定-迷你磚三入禮盒)，即贈品牌禮品袋乙只。</p>\n<p>3.第三重：台通前10名粉絲 結帳金額超過1,500元（扣除運費），贈送添糖品牌限定旅行收納包乙個</p>\n<p><br />\n\n</p>\n"
 names = ["EP429 有人需要聊天嗎?"]
@@ -313,7 +291,6 @@ category = []
 [twc00430]
 name = "EP428 2025年還有99.566% 呢"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96505495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-2%2F51525230-1b01-99e3-20ea-6a1990e00e12.mp3"
-spotify = "https://open.spotify.com/episode/6XmXbQRGtVi4pkhXDPyjpb"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【LG】贊助播出</p>\n<p>還在等待「蛇」棄舊家電的好時機嗎？</p>\n<p>LG ThinQ智慧家電物聯網技術，無論是遠端遙控、行程監控、能源監控、行程下載等，都能一鍵操控！</p>\n<p> </p>\n<p>台通心動的底家：</p>\n<p>⭐️LG PuriCare 雙變頻除濕機</p>\n<p>搭配ThinQ APP遠端開啟除濕機，查看目前室內濕度，並對濕度進行控制。</p>\n<p>節能省電不擔心荷包失血</p>\n<p> </p>\n<p>⭐️LG Styler蒸氣電子衣櫥</p>\n<p>具殺菌、除塵、平整衣物、除濕、除臭等多重功能</p>\n<p>輕鬆為你心愛的娃娃、精緻衣物、皮件品做保養！</p>\n<p> </p>\n<p>＼LG新年滿額贈禮開跑啦／</p>\n<p>即日起至2025/2/9買LG指定家電就送精美好禮！</p>\n<p>單筆發票總金額滿30萬元(含)，登錄再送LG gram極致輕薄筆電</p>\n<p>立刻跟著LG一起開啟美型新生活，享樂迎新春!</p>\n<p>※活動詳情，請上台灣 LG 官網查詢</p>\n<p> </p>\n<p>💪🏻聽完台灣通勤第一品牌，你該試試LG智慧居家環境首選品牌</p>\n<p><a href=\"https://www.lg.com/tw/promotions/2025-cny-sp/?utm_source=FB&amp;utm_medium=&amp;utm_campaign=TW_HA_OTH_TW_25_Q4_PHD_2025_CNY_SP_Jan_Campaign_Podcastcommuteforme__\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.lg.com/tw/promotions/2025-cny-sp/?utm_source=FB&amp;utm_medium=&amp;utm_campaign=TW_HA_OTH_TW_25_Q4_PHD_2025_CNY_SP_Jan_Campaign_Podcastcommuteforme__</a></p>\n<p><br />\n\n</p>\n"
 names = ["EP428 2025年還有99.566% 呢"]
@@ -323,9 +300,8 @@ category = []
 [twc00429]
 name = "EP427 誰跟你一樣"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96373691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-29%2F13b93bc2-8fd8-2c59-bbc5-b626705b8d9a.mp3"
-spotify = "https://open.spotify.com/episode/0z1c8jGpjCF3zIFprR5qAN"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
-description = "<p>本集節目由【眠豆腐】贊助播出</p>\n<p>一起冬購，溫暖 don’t go</p>\n<p>買2件是95折，買4件是88折</p>\n<p>不同尺寸折扣價，官網上可以看到～</p>\n<p><a href=\"https://sleepytofu.com/duvet/\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://sleepytofu.com/duvet/</a> </p>\n<p>提供台通聽眾優惠碼「暖」</p>\n<p>再折：$500</p>\n<p>期限：即日起至2025/1/8</p>\n<p><br /></p>\n"
+description = "<p>本集節目由【眠豆腐】贊助播出</p>\n<p>一起冬購，溫暖 don’t go</p>\n<p>買2件是95折，買4件是88折</p>\n<p>不同尺寸折扣價，官網上可以看到～</p>\n<p><a href=\"https://sleepytofu.com/duvet/\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://sleepytofu.com/duvet/</a> </p>\n<p>提供台通聽眾優惠碼「暖」</p>\n<p>再折：$500</p>\n<p>期限：即日起至2025/1/8</p>\n<p><br /></p>\n"
 names = ["EP427 誰跟你一樣"]
 tag = ["Dec 29, 2024", "Dec 2024", "2024"]
 category = []
@@ -333,7 +309,6 @@ category = []
 [twc00428]
 name = "EP426 行憲紀念日快樂 ft. 陸伯言老ㄙ"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96256330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-25%2F24cdf869-3b14-4fed-f686-2335fc67a290.mp3"
-spotify = "https://open.spotify.com/episode/3Jg1Au4qGsBBlZbyHwQQRx"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p><br /></p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br /></p>\n"
 names = ["EP426 行憲紀念日快樂 ft. 陸伯言老ㄙ"]
@@ -343,7 +318,6 @@ category = []
 [twc00427]
 name = "EP425 你的直男摯友上線了 ft. 宅女小紅"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/96123823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-21%2F721e4fdd-4b42-83ca-8286-d0ea5f033766.mp3"
-spotify = "https://open.spotify.com/episode/5s8gSz555iqGI6nbIMIUUK"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Saily】贊助播出</p>\n<p>前往 <a href=\"https://saily.com/commute\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://saily.com/commute</a></p>\n<p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p>\n<p>立即享有專屬 eSIM 方案 85 折優惠！ </p>\n<p>#SailyeSIM</p>\n<p><br /></p>\n"
 names = ["EP425 你的直男摯友上線了 ft. 宅女小紅"]
@@ -353,7 +327,6 @@ category = []
 [twc00426]
 name = "EP424 全方位超男子 ft. 美麗本人"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95995732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-20%2F3519a266-e0ed-1783-8f47-c421c6008fa6.mp3"
-spotify = "https://open.spotify.com/episode/0ulct4taW98l2KfDQTkgye"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br />\n\n</p>\n"
 names = ["EP424 全方位超男子 ft. 美麗本人"]
@@ -363,7 +336,6 @@ category = []
 [twc00425]
 name = "EP423 HO A"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95826651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-14%2Ff4b0bbfb-8e20-5164-4eb3-dbc8ce377c7e.mp3"
-spotify = "https://open.spotify.com/episode/1ppLuTMfXvVg2N475CayiS"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【大武山牧場】贊助播出</p>\n<p>來自五星級 #大武山牧場 的 #AA級鮮蛋，用一顆完美的蛋帶給人們完美的一天🍳</p>\n<p>以自家牧場100%鮮蛋製成，將對雞蛋的用心傳遞在充滿幸福的甜點中✨</p>\n<p>蛋入蛋捲，鬆脆一捲入口！濃厚雞蛋布丁，幸福一口入魂！</p>\n<p>🎁大武山牧場官網手刀下單▸▸ <a href=\"https://dan-loo.tw/commute2025\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://dan-loo.tw/commute2025</a> </p>\n<p>🧧蛋捲優惠：1/23前消費輸入【台通蛋捲88】蛋捲產品不限件數即享 88 折優惠！（優惠組合、樂禮新春禮盒除外）</p>\n<p>🧧布丁優惠：1/23前消費輸入【台通布丁92】布丁產品不限件數即享 92 折優惠！</p>\n<p>#大武山牧場 #AA級鮮蛋 #蛋入蛋捲  #濃厚雞蛋布丁</p>\n<p><br />\n</p>\n"
 names = ["EP423 HO A"]
@@ -373,7 +345,6 @@ category = []
 [twc00424]
 name = "EP422 出師對我不利"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95740290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F5015f844-5b00-33e9-0659-03e926dfb5d5.mp3"
-spotify = "https://open.spotify.com/episode/4eNmJnzn3gvkdbZcclNFsS"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【芳茲滴雞精】贊助播出</p>\n<p>旅遊出差想念家鄉味怎麼辦?</p>\n<p>備好常溫保存又攜帶方便的滴雞精準沒錯!</p>\n<p>👉<a href=\"https://fun-s.cc/commuteforme?sl-ref=commuteforme\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://fun-s.cc/commuteforme?sl-ref=commuteforme</a></p>\n<p>熱銷突破 6,000萬包 </p>\n<p>明星商品 #芳茲滴雞精</p>\n<p>融合高奢食材 #黑松露</p>\n<p>獨家首創出中西合併新滋味  #黑鑽松露滴雞精</p>\n<p>2024年末送禮越來越靠近</p>\n<p>不論是挑選黑鑽松露滴雞精禮盒</p>\n<p>還是 #日月養生滴雞精 禮盒</p>\n<p>讓你今年送禮誠意十足💕</p>\n<p>好康優惠大聲說📢</p>\n<p>芳茲年末回饋台通聽友</p>\n<p>前10名消費滿$6000者，送松露滴雞精1包</p>\n<p>台通專屬優惠63折起，早買早享受💨</p>\n<p>另官網還有其他滿額活動==詳細優惠資訊==</p>\n<p>即日起-12/17全館滿$5800送$200折價卷</p>\n<p>單筆滿$8888抽PS5數位板主機版1名</p>\n<p>新春首波優惠活動</p>\n<p>12/18-1/2全館單筆滿$5800贈刮刮卡1張，張張有獎</p>\n<p>頭獎為捷安特電動自行車1名~~</p>\n<p>詳細資訊可參考芳茲官網</p>\n<p><br /></p>\n"
 names = ["EP422 出師對我不利"]
@@ -383,9 +354,8 @@ category = []
 [twc00423]
 name = "EP421 要是有便利大裹巾就好"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95497934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-7%2Fd939171f-d912-462c-5882-934bbe151722.mp3"
-spotify = "https://open.spotify.com/episode/7igUodsNtgX7M7djR22YwC"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
-description = "<p>本集節目由【經脆脆 雞皮餅乾】贊助播出</p>\n<p>🌟100%原型雞皮製作，真材實料！</p>\n<p>🌟低碳水高蛋白餅乾、健身族的嘴饞救星</p>\n<p>🌟市售唯一「低裹粉工法」，口感更酥脆</p>\n<p>🌟全球熱銷 450 萬包，出口逾 10 個國家</p>\n<p>12/31前，經脆脆全系列商品滿$399，輸入優惠碼【commute】可折抵$30！</p>\n<p>專屬連結：<a href=\"https://bit.ly/3CEwg7X\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/3CEwg7X</a> </p>\n<p>好康加碼！現在到全家也買得到「雞皮餅乾、甜不辣脆片」，搭配全家火鍋季還有優惠活動，歡迎至各分店詢問！</p>\n<p><br /></p>\n"
+description = "<p>本集節目由【經脆脆 雞皮餅乾】贊助播出</p>\n<p>🌟100%原型雞皮製作，真材實料！</p>\n<p>🌟低碳水高蛋白餅乾、健身族的嘴饞救星</p>\n<p>🌟市售唯一「低裹粉工法」，口感更酥脆</p>\n<p>🌟全球熱銷 450 萬包，出口逾 10 個國家</p>\n<p>12/31前，經脆脆全系列商品滿$399，輸入優惠碼【commute】可折抵$30！</p>\n<p>專屬連結：</p>\n<p><a href=\"https://bit.ly/3CEwg7X\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://bit.ly/3CEwg7X</a> </p>\n<p>好康加碼！現在到全家也買得到「雞皮餅乾、甜不辣脆片」，搭配全家火鍋季還有優惠活動，歡迎至各分店詢問！</p>\n<p><br /></p>\n"
 names = ["EP421 要是有便利大裹巾就好"]
 tag = ["Dec 07, 2024", "Dec 2024", "2024"]
 category = []
@@ -393,7 +363,6 @@ category = []
 [twc00422]
 name = "EP420 細數連接詞，你也是聆聽大師"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95350557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-4%2F70823f13-f38d-e9fb-f2c8-2c0805d6b1c6.mp3"
-spotify = "https://open.spotify.com/episode/0UaMEeroToHTpdrqlhUeTU"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【谷溜谷溜】贊助播出</p>\n<p>買過年禮盒我知道你在等【台通專屬優惠】！</p>\n<p>點這進入優惠▻ <a href=\"https://guliuguliu.tw/IJK02\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://guliuguliu.tw/IJK02</a> </p>\n<p>財蛇到！過年送禮選谷溜谷溜夠蝦趴、夠健康、夠潮流</p>\n<p>８瓶都沒放防腐劑、化學劑、色素都是最的天然ㄟ</p>\n<p>阿嬤等級的塞爆料一開就喝、未開封前放常溫免冰</p>\n<p>口感真實、飽滿顆粒真的會愛，送給長官、客戶、長輩就對了</p>\n<p>　</p>\n<p>\\鮮蝦挺最多人購買的組合/</p>\n<p>首次下單跟著學長姐這樣買#好喝到翻天</p>\n<p>●擁抱幸福8入禮盒 #8種口味全都包</p>\n<p>●珍愛元氣滿滿6入禮盒 #買6入首推組合</p>\n<p>●井裡月6入禮盒 #鮮嫩白木耳熱銷王</p>\n<p>▸風生蛇起過年限定6入禮盒 #數量有限售完為止</p>\n<p>▸養生飲禮盒有6入、8入兩種規格</p>\n<p>#還有粥品禮盒歡迎選購</p>\n<p>▸紅包袋也準備好了#下單送</p>\n<p>▸下單限量贈送CSD中衛副品牌W博拭純水清淨棉#送完為止</p>\n<p>▸需代寫過年賀卡#下單備註送</p>\n<p>電話訂購：0800529696</p>\n<p>線上客服：谷溜粉絲團、LINE @guliuguliu</p>\n<p>*下單優惠方案以台通頁面為準</p>\n<p><br />\n\n</p>\n"
 names = ["EP420 細數連接詞，你也是聆聽大師"]
@@ -403,7 +372,6 @@ category = []
 [twc00421]
 name = "EP419 科學的盡頭"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95201368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-1%2F024b7fa2-db75-e588-a9ec-a60894c703ce.mp3"
-spotify = "https://open.spotify.com/episode/3ss7q9WjWrJ3eaI3BwaudP"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【國際特赦組織】贊助播出</p>\n<p>呼叫內心的英雄 2024寫信馬拉松 </p>\n<p>小時候，英雄的形象可能是電影裡有超能力、拯救世界的超級英雄。長大後，發現現實生活中那些勇敢對抗不公不義的人，也逐漸成為我們心中平凡英雄。 </p>\n<p>從南韓、加拿大、沙烏地阿拉伯到越南，世界各地都有平凡英雄，他們為了改變不公義勇敢挺身而出，卻因此遭受各種人權迫害，需要你我聲援。 </p>\n<p>其實，你就是英雄！ 國際特赦組織每年都舉辦寫信馬拉松，一場平凡人寫信聲援人權的行動，多年來成功改變了超過 100 人的生命。</p>\n<p>其實，你就是那位可以透過寫信、連署，改變世界的平凡英雄！ </p>\n<p>在台北、台中、高雄，呼叫你內心的英雄！ 全台三場寫信馬拉松系列活動，有展覽、互動體驗，現場可以寫信聲援，還有多組音樂人、KOL陪你一起呼叫英雄！ </p>\n<p>12/7-8 台北華山 中4A (紅酒作業場) </p>\n<p>12/21-22 台中PARK2草悟廣場 </p>\n<p>12/28-29 駁二藝術特區 P3倉庫 </p>\n<p>你也可以現在就呼叫內心的英雄！線上行動，加入連署聲援。</p>\n<p>透過台通限定連結，連署就送感謝禮 <a href=\"https://lihi.cc/nzXFb\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://lihi.cc/nzXFb</a> </p>\n<p>———————————— </p>\n<p>✦ 演出LINE UP 滅火器、曹雅雯、黃玠、大象體操、芒果醬Mango Jump、凹與山、淺堤、好樂團、同根生、林生祥、農村武裝青年、尋人啟事、森淮 Senhuai、吉那罐子、你太白了，去曬黑、絕命青年 </p>\n<p>✦ 跨界對談 台灣通勤第一品牌、法律白話文運動、一歷百憂解李文成、UG is HOT、寶島少年兄宜蘭、旅行熱炒店、這個，我不推、人權捍衛者李明哲、地球公民基金會 </p>\n<p><br /></p>\n"
 names = ["EP419 科學的盡頭"]
@@ -413,7 +381,6 @@ category = []
 [twc00420]
 name = "EP418 平行宇宙 ft.達康.come"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/95038105/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-27%2Feea1547b-6765-d13c-6588-c9286249730f.mp3"
-spotify = "https://open.spotify.com/episode/0I4EjHkuEaTIIQi0iQQmlz"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br />\n\n</p>\n"
 names = ["EP418 平行宇宙 ft.達康.come"]
@@ -423,7 +390,6 @@ category = []
 [twc00419]
 name = "EP417 三文教子"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/94870226/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-24%2F0ef3a06e-11f0-0b1e-b956-705dc3a99e9f.mp3"
-spotify = "https://open.spotify.com/episode/4H297sMUdQ5OkyrAST3l7f"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Saily】贊助播出</p>\n<p>前往 <a href=\"https://saily.com/commute\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://saily.com/commute</a></p>\n<p>下載 Saily APP，並在結帳時使用優惠代碼 【commute】</p>\n<p>立即享有專屬 eSIM 方案 85 折優惠！ </p>\n<p>#SailyeSIM<br /></p>\n"
 names = ["EP417 三文教子"]
@@ -433,9 +399,8 @@ category = []
 [twc00418]
 name = "EP416 先睡著的才是贏家"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/94720480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-20%2F643a695d-1d74-0edc-052f-3ac2b3f563d3.mp3"
-spotify = "https://open.spotify.com/episode/3Wh5l6zAsrpbe3iJfvazVH"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
-description = "<p>【本節節目由LINE GO贊助播出】</p>\n<p>LINE GO 免下載 APP，用 LINE 即可輕鬆使用！</p>\n<p>TAXI、租車、機場接送，移動服務一站滿足</p>\n<p>新朋友註冊會員，免費領$1200大禮包</p>\n<p>老朋友輸入優惠碼「台灣通勤第一品牌」</p>\n<p>即可領取 TAXI 乘車券$50元！限量5,000張手刀輸入GO！</p>\n<p>👉🏻 <a href=\"https://lgo.tw/64WI2\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://lgo.tw/64WI2</a> </p>\n<p>*乘車券限量 5,000 組，11/30 23:59 前完成領取，領取後 30 天內需使用完畢</p>\n<p><br />\n\n</p>\n"
+description = "<p>本集節目由【LINE GO】贊助播出</p>\n<p>LINE GO 免下載 APP，用 LINE 即可輕鬆使用！</p>\n<p>TAXI、租車、機場接送，移動服務一站滿足</p>\n<p>新朋友註冊會員，免費領$1200大禮包</p>\n<p>老朋友輸入優惠碼「台灣通勤第一品牌」</p>\n<p>即可領取 TAXI 乘車券$50元！限量5,000張手刀輸入GO！</p>\n<p>👉🏻 <a href=\"https://lgo.tw/64WI2\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://lgo.tw/64WI2</a> </p>\n<p>*乘車券限量 5,000 組，11/30 23:59 前完成領取，領取後 30 天內需使用完畢</p>\n<p><br /></p>\n"
 names = ["EP416 先睡著的才是贏家"]
 tag = ["Nov 21, 2024", "Nov 2024", "2024"]
 category = []
@@ -443,7 +408,6 @@ category = []
 [twc00417]
 name = "EP415 本集僅供直播實況學術交流使用 ft.赤鬼伯伯"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/94501777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-16%2Ffa7899b1-af33-e0db-761d-362c5f0643ba.mp3"
-spotify = "https://open.spotify.com/episode/0UypaYFCWXhscJOn1hjVyJ"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n"
 names = ["EP415 本集僅供直播實況學術交流使用 ft.赤鬼伯伯"]
@@ -453,9 +417,8 @@ category = []
 [twc00416]
 name = "EP414 不要起爭議啦"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/94184250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-9%2Ff3abe34f-f3b1-88f7-176f-2ea7aa788d7c.mp3"
-spotify = "https://open.spotify.com/episode/0Oq4H40wM0VmcD6fGyZqTG"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
-description = "<p>\n本集節目由【plain-me】贊助播出</p>\n<p>plain-me 雙11開跑啦！！！</p>\n<p>11/25(一)前，全館指定商品滿2件88折，3件79折</p>\n<p>水洗棉多口袋短版狩獵外套優惠價$2,880</p>\n<p>還有超值優惠！買PM旅行後背包只要$1,988，再送PM旅行小包(等於買一送一）</p>\n<p>下單輸入專屬台通專屬折扣碼「commute」單筆加碼再抵100元</p>\n<p>首次購物再折 100</p>\n<p>一年一度最划算的就是這一檔！</p>\n<p>立刻選購：<a href=\"https://plain-me.life/80ve5\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://plain-me.life/80ve5</a> </p>\n<p><br /></p>\n"
+description = "<p>\n本集節目由【plain-me】贊助播出</p>\n<p>plain-me 雙11開跑啦！！！</p>\n<p>11/25(一)前，全館指定商品滿2件88折，3件79折</p>\n<p>水洗棉多口袋短版狩獵外套優惠價$2,880</p>\n<p><br /></p>\n<p>還有超值優惠！買PM旅行後背包只要$1,988，再送PM旅行小包(等於買一送一）</p>\n<p>需主動將PM旅行小包一同加入購物車，方能享有贈送優惠 </p>\n<p><br /></p>\n<p>下單輸入專屬台通專屬折扣碼「commute」單筆加碼再抵100元</p>\n<p>首次購物再折 100</p>\n<p>一年一度最划算的就是這一檔！</p>\n<p>立刻選購：<a href=\"https://plain-me.life/80ve5\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://plain-me.life/80ve5</a> </p>\n<p><br /></p>\n"
 names = ["EP414 不要起爭議啦"]
 tag = ["Nov 09, 2024", "Nov 2024", "2024"]
 category = []
@@ -463,7 +426,6 @@ category = []
 [twc00415]
 name = "EP413 惦惦"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/94054879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2Fd74f016a-7590-44ad-08fb-13b53e61f3cc.mp3"
-spotify = "https://open.spotify.com/episode/1vVDsgPoO4GCKWeaMncnMJ"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【PlayStation 台灣】贊助播出</p>\n<p>雙 11 期間限定 PS5 超強優惠來了，11 月 1 日至 14 日，PS5 Slim 薄型主機光碟版與數位版於 PlayStation 全經銷通路，不論網購還是實體店家都能現折 2,500 元，主機週邊與指定遊戲也有優惠。</p>\n<p>立即入手享有豐富的遊戲陣容包含《劍星》、《浪人崛起》、適合全家大小的《宇宙機器人》、還有今年的黑馬《黑神話：悟空》，明年緊接著更有《魔物獵人：荒野》和《羊蹄戰鬼》等著你。</p>\n<p>台通聽眾專屬連結購買，再享額外加碼 500 元 PSN 點數卡回饋：<a href=\"https://www.acergaming.com/s/ys4is\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.acergaming.com/s/ys4is</a> </p>\n<p><br /></p>\n"
 names = ["EP413 惦惦"]
@@ -473,9 +435,8 @@ category = []
 [twc00414]
 name = "EP412 不談錢傷感情"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/93876833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-2%2Fc24e0a1c-2749-9ff2-4084-205819b166d4.mp3"
-spotify = "https://open.spotify.com/episode/6GaWckqs3LVPZUQsUtv7Wh"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
-description = "<p>本集節目由【小磨坊】贊助播出</p>\n<p>新手想自己煮頓飯到底有多難？！🤯</p>\n<p>在面對時間、技術、調味的壓力下，小磨坊主「醬」颯爽上場！🏄</p>\n<p>即使沒有下過廚，使用小磨坊熱炒醬也能輕鬆出大菜，端出快速又美味的料理，建立料理成就感，讓其他人刮目相看！</p>\n<p>🟢即日起至11/30登錄發票就醬抽iPhone</p>\n<p>活動期間購買任一件小磨坊方便醬(不限通路、口味)，至專區登錄發票立即送參加禮，加碼再抽iPhone16、LINE POINTS 20點、LINE POINTS 100點、100元現金劵 </p>\n<p><a href=\"https://shop.tomax.com.tw/twWFH\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://shop.tomax.com.tw/twWFH</a> </p>\n<p>🟢台通聽眾專屬優惠</p>\n<p>透過台通專屬連結 <a href=\"https://www.spicer.com.tw/?rcode=COMMUTE\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://www.spicer.com.tw/?rcode=COMMUTE</a> </p>\n<p>或結帳輸入台通專屬推薦碼【COMMUTE】，立享8折優惠</p>\n"
+description = "<p>本集節目由【小磨坊】贊助播出</p>\n<p>新手想自己煮頓飯到底有多難？！🤯</p>\n<p>在面對時間、技術、調味的壓力下，小磨坊主「醬」颯爽上場！🏄</p>\n<p>即使沒有下過廚，使用小磨坊熱炒醬也能輕鬆出大菜，端出快速又美味的料理，建立料理成就感，讓其他人刮目相看！</p>\n<p>🟢即日起至11/30登錄發票就醬抽iPhone</p>\n<p>活動期間購買任一件小磨坊方便醬(不限通路、口味)，至專區登錄發票立即送參加禮，加碼再抽iPhone16、LINE POINTS 20點、LINE POINTS 100點、100元現金劵 </p>\n<p><a href=\"https://shop.tomax.com.tw/twWFH\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://shop.tomax.com.tw/twWFH</a> </p>\n<p>🟢台通聽眾專屬優惠</p>\n<p>透過台通專屬連結 </p>\n<p>https://www.spicer.com.tw/zh-TW/bundle_discounts/nov_event?rcode=COMMUTE</p>\n<p>或結帳輸入台通專屬推薦碼【COMMUTE】，立享8折優惠</p>\n"
 names = ["EP412 不談錢傷感情"]
 tag = ["Nov 02, 2024", "Nov 2024", "2024"]
 category = []
@@ -483,7 +444,6 @@ category = []
 [twc00413]
 name = "EP411 走鐘獎後之我見"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/93681414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-29%2F86f983ec-6baf-6a38-c0a0-efe23c90753a.mp3"
-spotify = "https://open.spotify.com/episode/098hQHp0C21UIlTUVC7NBl"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【Alpecin】贊助播出</p>\n<p>【Alpecin x 台通】Alpecin擊退白髮咖啡因泡沫染髮露 全新上市 </p>\n<p>🕶全新5,6-DHI黑髮再現技術，就像洗髮一樣簡單  </p>\n<p>🕶天天使用回歸自然黑髮，髮色可控， 持色效果長 </p>\n<p>🕶型男養髮首選，咖啡因複合物強健髮根 </p>\n<p>【德國原裝進口 單件即免運】 </p>\n<p>Shopee商城【Alpecin 擊退白髮咖啡因泡沫染髮露 200ml】👉 <a href=\"https://bit.ly/3NvtzYC\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/3NvtzYC</a> </p>\n<p>Momo官方商城【Alpecin擊退白髮咖啡因泡沫染髮露200ml】👉 <a href=\"https://bit.ly/48aPP3g\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/48aPP3g</a> </p>\n<p>官方商城【 Alpecin 擊退白髮咖啡因泡沫染髮露 200ml】👉 <a href=\"https://bit.ly/3BM8CpL\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://bit.ly/3BM8CpL</a> </p>\n<p><br /></p>\n"
 names = ["EP411 走鐘獎後之我見"]
@@ -493,7 +453,6 @@ category = []
 [twc00412]
 name = "EP410 到底在吵三小，全網最完整真粉深度解析以及十六個你沒發現的彩蛋"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/93470536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-24%2F1e8ca71a-433c-2edc-4859-0ecb462c86d6.mp3"
-spotify = "https://open.spotify.com/episode/4ugJ0KgP7HGEHxqElJlJhT"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【亞果元素】贊助播出</p>\n<p>迎向全 USB-C 新時代，2024年必備潮流充電配件：</p>\n<p>ADAM elements 【GRAVITY 30W】 USB-C 自帶線快充行動電源</p>\n<p>✧ 內建 USB-C 充電線，出門不怕忘帶線</p>\n<p>✧ 自帶線設計，幫手機充還可以直接幫行動電源充電</p>\n<p>✧ 內建 USB-C ＋ USB-A 孔，多裝置同時充</p>\n<p>✧ 10,000 mAh 大電量，電力滿足一整天 </p>\n<p>✧ USB-C 最大 30W 輸出，手機、平板、MacBook Air 隨時滿電</p>\n<p>✧ LED 數字顯示螢幕，剩餘電量精準掌握</p>\n<p>✧ 同級行動電源 #體積最小，輕巧時尚多色設計 #任意百搭</p>\n<p>✧ ADAM 安心一年保固，全台據點為您服務 #使用最放心</p>\n<p>即日起至11/5</p>\n<p>透過專屬連結購買 ➡️ <a href=\"https://adamele.com/commuteonly\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://adamele.com/commuteonly</a> </p>\n<p>並搭配台通專屬優惠碼〖commute〗即可享200元折扣優惠。</p>\n<p><br /></p>\n"
 names = ["EP410 到底在吵三小，全網最完整真粉深度解析以及十六個你沒發現的彩蛋"]
@@ -503,7 +462,6 @@ category = []
 [twc00411]
 name = "EP409 已購買小孩愛吃"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/93220862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-18%2Ffb234177-4e0a-4b53-e9dd-91be50ba1938.mp3"
-spotify = "https://open.spotify.com/episode/4LcBRA4QarM1wi9gMvDVd9"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br />\n\n</p>\n"
 names = ["EP409 已購買小孩愛吃"]
@@ -513,7 +471,6 @@ category = []
 [twc00410]
 name = "EP408 好漢來提當年不勇"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92824576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2F69227779-565b-3993-f3d6-27aeb523723c.mp3"
-spotify = "https://open.spotify.com/episode/4NxoqM0zFCv8f9RWyguoip"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【亞果元素】贊助播出</p>\n<p>iPhone 磁吸充電效率再創高峰！</p>\n<p>ADAM elements 【𝗠𝗮𝗴 𝟯 𝗣𝗿𝗼】 Qi2 15W磁吸三用無線充電座</p>\n<p>🤩 一次就能幫 iPhone / Apple Watch / AirPods 三裝置一起充電。</p>\n<p>🤩 折疊後如粉餅盒大小，比 iPhone 16 Pro Max 還輕，放入行李袋完全不佔空間、重量！</p>\n<p>🤩 獲全球最新 Qi2 標準及國家安全認證，磁吸無線充電輸出達15W，iPhone MagSafe 充電更快速。</p>\n<p>🤩 支援 FOD 異物偵測＋ ADAM三年保固，使用好安心。</p>\n<p>🆓 送100公分專用編織充電線、專屬收納袋，旅行一包搞定！</p>\n<p>🆓 送 引磁圈對位組：Android、iPhone 無線充電款舊機都可充，磁吸充電不設限。</p>\n<p>即日起至11/5</p>\n<p>透過專屬連結購買 ➡️ https://adamele.com/commuteonly </p>\n<p>並搭配台通專屬優惠碼〖commute〗即可享200元折扣優惠。</p>\n"
 names = ["EP408 好漢來提當年不勇"]
@@ -523,7 +480,6 @@ category = []
 [twc00409]
 name = "EP407 愛玉"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92610404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-5%2Fd99b39dc-1772-8d76-1d3f-c25ea7a7392a.mp3"
-spotify = "https://open.spotify.com/episode/0qsTRo7aT0pLPML9iPUYWB"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集由【New Balance】贊助播出</p>\n<p>你說想買鞋，但找不到理由？</p>\n<p>來啦，別再騙自己了，這理由直接送上！</p>\n<p>IU 最新著用款 WRPD Runner，一穿上保證理由多到爆❤️‍🔥</p>\n<p>未來感鞋型搭配後底增高設計，穿了瞬間視覺增高 5 公分</p>\n<p>加上頂級跑鞋的 Fuelcell 中底科技，隨便走都超級舒適時尚</p>\n<p>還在想藉口？不用想了，直接下手 IU 同款 WRPD Runner！</p>\n<p>👉https://reurl.cc/DlL8km </p>\n<p>老實說，沒試穿過真的很可惜，建議大家有空去 NB 門市親自感受一下～現在開超多間店的啊！</p>\n<p>🎉特別推薦：台北、台南最新開幕門市！🎉</p>\n<p>NB 1906 台南新天地店｜台南市中西區西門路一段658號</p>\n<p>NB 1906 西門誠品店｜台北市萬華區峨嵋街52號</p>\n<p>🔍查查附近有哪間店，再去晃晃看看👉https://pse.is/NBSTORE</p>\n"
 names = ["EP407 愛玉"]
@@ -533,7 +489,6 @@ category = []
 [twc00408]
 name = "EP406 永遠攏是彩色的青春 ft. 宜芳"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92388016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-30%2F60e1ad09-1eba-5882-796a-b99dd6356c24.mp3"
-spotify = "https://open.spotify.com/episode/5lXzjW27POdi45wMpjTPFI"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br />\n\n</p>\n"
 names = ["EP406 永遠攏是彩色的青春 ft. 宜芳"]
@@ -543,7 +498,6 @@ category = []
 [twc00407]
 name = "EP405 香即是臭"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92319894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-28%2F764f65f5-b275-25be-9109-cf632269151d.mp3"
-spotify = "https://open.spotify.com/episode/6hCCQ1gvaPLN6rrkyOuo6h"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【Zenfone 11 Ultra】贊助播出</p>\n<p>最懂台灣人的 AI 旗艦手機</p>\n<p>獨家硬體搭配軟體防手震功能，適應各種拍攝場合；</p>\n<p>AI 錄音筆記、AI 即時通話口譯，唯一支援繁體中文！</p>\n<p><br />實用性超佳   <a href=\"https://reurl.cc/adeejl\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://reurl.cc/adeejl</a> \n\n</p>\n"
 names = ["EP405 香即是臭"]
@@ -553,9 +507,8 @@ category = []
 [twc00406]
 name = "EP404 數大便是美"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92191441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F666064af-b66c-0dca-ce53-bf88336a7bfa.mp3"
-spotify = "https://open.spotify.com/episode/5RsppsJwuQIW7CnxEmOrOr"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
-description = "<p>本集節目由【Yahoo奇摩拍賣】贊助播出</p>\n<p>當你開心的時候我在。當你難過的時候我在。</p>\n<p>只要你需要的時候，就上Yahoo奇摩拍賣～</p>\n<p>無論想找稀有珍品、夢幻逸品、有趣古董，</p>\n<p>還是體驗免運驚喜、競標快感，馬上打開Yahoo奇摩拍賣。</p>\n<p>閒置二手物品想出清？馬上刊登沒問題！</p>\n<p>什麼都有 什麼都賣 Yahoo奇摩拍賣 我一直都在～</p>\n<p>Yahoo奇摩拍賣 23週年慶 我一直都在</p>\n<p>跟我們一起參加「我的時光事紀」小測驗，一探究竟你出生年代的大事件，</p>\n<p>還有『台通提供專屬公益競標物-月月親織佛陀帽』</p>\n<p>陪你公益我都在，成交還能做公益！</p>\n<p>最後最後記得上 Yahoo奇摩拍賣看影片參加活動</p>\n<p>還有機會抽中圓夢基金18,000</p>\n<p>&gt;&gt;&gt;<a href=\"https://bit.ly/3Z2LgWd\">https://bit.ly/3Z2LgWd</a> </p>\n<p>#Yahoo奇摩拍賣 #拍賣挖挖WOW #Yahoo奇摩拍賣陪你公益 </p>\n<p>#什麼都有什麼都賣我一直都在 </p>\n<p><br></p>\n"
+description = "<p>本集節目由【Yahoo奇摩拍賣】贊助播出</p>\n<p>當你開心的時候我在。當你難過的時候我在。</p>\n<p>只要你需要的時候，就上Yahoo奇摩拍賣～</p>\n<p>無論想找稀有珍品、夢幻逸品、有趣古董，</p>\n<p>還是體驗免運驚喜、競標快感，馬上打開Yahoo奇摩拍賣。</p>\n<p>閒置二手物品想出清？馬上刊登沒問題！</p>\n<p>什麼都有 什麼都賣 Yahoo奇摩拍賣 我一直都在～</p>\n<p>Yahoo奇摩拍賣 23週年慶 我一直都在</p>\n<p>跟我們一起參加「我的時光事紀」小測驗，一探究竟你出生年代的大事件，</p>\n<p>還有『台通提供專屬公益競標物-月月親織佛陀帽』</p>\n<p>陪你公益我都在，成交還能做公益！</p>\n<p>最後最後記得上 Yahoo奇摩拍賣看影片參加活動</p>\n<p>還有機會抽中圓夢基金18,000</p>\n<p>&gt;&gt;&gt;<a href=\"https://bit.ly/3Z2LgWd\"> https://bit.ly/3Z2LgWd</a> </p>\n<p>Yahoo奇摩拍賣23週年慶，快來競標做公益</p>\n<p>&gt;&gt;&gt; https://bit.ly/4exFjFa </p>\n<p>跟著台通一起做公益，讓愛心不間斷！💖</p>\n<p>#Yahoo奇摩拍賣 #拍賣挖挖WOW #Yahoo奇摩拍賣陪你公益 </p>\n<p>#什麼都有什麼都賣我一直都在 </p>\n<p><br></p>\n"
 names = ["EP404 數大便是美"]
 tag = ["Sep 25, 2024", "Sep 2024", "2024"]
 category = []
@@ -563,7 +516,6 @@ category = []
 [twc00405]
 name = "EP403 年輕人，我知道你去哪裡"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/92032148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2F3137fab4-6cd8-8ec1-e1af-73b69a65cebf.mp3"
-spotify = "https://open.spotify.com/episode/1XXEUtPAWIl4RM3eWzhQGb"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【樂天國際銀行】 合作播出</p>\n<p>你500我500光榮回歸～把握機會只到 10/31</p>\n<p>🔥每推1人領500、推2人領1,000 ～幫自己額荷包補血！</p>\n<p>🔥6個月2%高利定存，額度無上限～無論新舊戶都能參加！</p>\n<p>🔥 綁定國票證券數位帳戶～新戶省600元手續費！</p>\n<p>#推多賺多無上限  #高利定存  #開戶推薦選樂天</p>\n<p>👉你500我500，推薦獎金無上限!</p>\n<p>登入網銀立刻推薦 ➡️<a href=\"https://pse.is/6dqbuk\">https://pse.is/6dqbuk</a> </p>\n<p>👉 6個月2%高利定存 ，存多利息賺越多  ! </p>\n<p>高利存款優惠看這裡 ➡️ <a href=\"https://pse.is/6dqbx3\">https://pse.is/6dqbx3</a> </p>\n<p>👉 國票證券新戶綁定 ，向財富自由邁進  !</p>\n<p>投資優惠立即了解➡️ <a href=\"https://pse.is/6dqbye\">https://pse.is/6dqbye</a> </p>\n<p><br>\n\n</p>\n"
 names = ["EP403 年輕人，我知道你去哪裡"]
@@ -573,7 +525,6 @@ category = []
 [twc00404]
 name = "EP402 我全都要 ft.江松長"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/91879096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-18%2F02465ff9-ab56-a183-20a3-1d4bcd33f875.mp3"
-spotify = "https://open.spotify.com/episode/4DoQ6wocs1EcWY9sedqH4S"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【國際特赦組織】合作播出</p>\n<p>『噓，有怪獸！』 現實世界中常用來壓迫、限縮公民空間的手段，化身六隻令人害怕的怪獸。而制伏怪獸的好辦法之一，就是人民團結一致的聲音與力量。</p>\n<p>‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</p>\n<p>全球的示威空間正在受到嚴重限縮，即使是和平示威，政府或有權勢者仍可能用各種理由，試圖壓制、消除人民的聲音和行動。然而，示威權與你我的人權密 切相關，在這樣的打壓氛圍下，國際特赦組織台灣分會特別舉辦了一場特展，邀請大家一起來捍衛示威權、平安抗怪獸！</p>\n<p>『噓，有怪獸！』捍衛示威 Protect the Protest 特展 </p>\n<p>展期｜2024 / 9 / 21（六）— 9 / 29（日）</p>\n<p>時間｜平日 11:00 至 19:30 / 假日 11:00 至 20:00 </p>\n<p>地點｜華山 1914 文化創意產業園區中 7B（維修工廠）</p>\n<p>● 從繪本躍出、來到現實世界的巨型「近戰獸」，展覽大亮點！</p>\n<p>● 巨幅世界抗爭地圖，一覽全球公民空間現況！</p>\n<p>● 活動限定，展示曾用於台灣、香港、泰國示威的物品，帶大家親身靠近示威現場!！</p>\n<p>● 創作歌手克里夫 Cliff 音樂演出、主題演講，還有港人到場分享，全部免報名參加！</p>\n<p>加入連署聲援，特展現場免費兌換怪獸扭蛋！</p>\n<p>詳情資訊 <a href=\"https://neti.cc/od5MB9n\">https://neti.cc/od5MB9n</a> </p>\n<p>‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</p>\n<p>\\ 平凡人挑戰不平凡的改變 /  </p>\n<p>國際特赦組織自 1961 年以來</p>\n<p>為許多人權遭受迫害的人們伸張正義</p>\n<p>在 1977 年因此榮獲「諾貝爾和平獎」</p>\n<p>60 年來，協助超過 5 萬名受不公正監禁的人重獲自由</p>\n<p>小額捐款支持</p>\n<p>跟我們並肩站在捍衛人權的第一線</p>\n<p><a href=\"https://neti.cc/WDdQmx9\">https://neti.cc/WDdQmx9</a> </p>\n<p>透過『噓，有怪獸!』連結捐款，有機會獲得限量感謝禮喔!</p>\n<p><br>\n\n</p>\n"
 names = ["EP402 我全都要 ft.江松長"]
@@ -583,7 +534,6 @@ category = ["來賓"]
 [twc00403]
 name = "EP401 家族的構成 ft.簡莉穎"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/91604308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-12%2F726dd649-abfb-4519-3acf-b6067d7a53d6.mp3"
-spotify = "https://open.spotify.com/episode/3v10NRHkYMkjHBmgxPqNYF"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br></p>\n"
 names = ["EP401 家族的構成 ft.簡莉穎"]
@@ -593,7 +543,6 @@ category = []
 [twc00402]
 name = "EP400 ＣＣ"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/91291573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-4%2F206e14e1-8e63-f4e7-bbc7-042a550d2a52.mp3"
-spotify = "https://open.spotify.com/episode/5OY1pQ2v1mFfNiPoZS8qXL"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Dr.情趣】贊助播出</p>\n<p>Dr.情趣 獨家代理【性徒會長 桌下口交版飛機杯】</p>\n<p>➤ 高潮傳送門：<a href=\"https://drqqtoys.tw/commute\">https://drqqtoys.tw/commute</a> </p>\n<p>輸入台通專屬優惠碼「commute」</p>\n<p>即享全館滿千折百，買越多省越多！</p>\n<p>R-20原廠日本對子哈特推出2024最新力作！</p>\n<p>滿足男人對於桌底下的各種幻想情節😍</p>\n<p>進入會長如黑洞一般的神秘小嘴🫦給你最接近真人般的口愛體驗～</p>\n<p>每次的深入都帶給你一場震撼教育！感受超真空的漩渦包覆...</p>\n<p>讓會長大人陪著你體驗何謂欲仙欲死，共同探索桌底的秘密與愉悅吧！</p>\n<p><br></p>\n"
 names = ["EP400 ＣＣ"]
@@ -603,7 +552,6 @@ category = []
 [twc00401]
 name = "EP399 現在開始練剛好"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/91146057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-1%2F5baac2e7-1f39-eeaa-5359-b41c386f0dbb.mp3"
-spotify = "https://open.spotify.com/episode/7hC3MIP9HQj00bFJd7Dr0j"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【眠豆腐】贊助播出</p>\n<p>95%民意 vs 95%滿意</p>\n<p>即日起眠豆腐官網結帳輸入「95%」</p>\n<p>可享「眠豆腐2.0床墊」95折</p>\n<p>期限到9/20為止</p>\n<p>快點擊傳送門👉</p>\n<p><a href=\"https://link.sleepytofu.com/commute_tofu\">https://link.sleepytofu.com/commute_tofu</a> </p>\n<p><br>\n\n</p>\n"
 names = ["EP399 現在開始練剛好"]
@@ -613,7 +561,6 @@ category = []
 [twc00400]
 name = "EP398 員旅大成功"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/90996667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-28%2Fe9e2f4db-b3f2-6aa8-f75d-cde0434aebe8.mp3"
-spotify = "https://open.spotify.com/episode/71HmnYf0Ra2LOYcRMOYNmU"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【ClubMed】贊助播出</p>\n<p>即日起下訂9.10月出發</p>\n<p>Club Med 普吉島4晚全包式假期，每人最低39,000元起</p>\n<p>機票+住宿+活動+美食酒水全包♥️</p>\n<p>小朋友再享獨家優惠，4-11歲孩童食宿6折起</p>\n<p>詳情可以到 Club Med 官網了解更多喔📣 👉🏿<a href=\"https://bit.ly/46hdfDe\">https://bit.ly/46hdfDe</a> </p>\n<p>如果有20個人以上的團體旅遊，也可以跟Club Med聯繫，可以安排客製化的活動，如雞尾酒會、BBQ派對、Team building</p>\n<p><br></p>\n<p>你也曾經到Club Med全包式度假村嗎？</p>\n<p>在Facebook 貼文留言處 @一位朋友，</p>\n<p>曾經到過Club Med的朋友請分享你的美好回憶/照片</p>\n<p>還沒來過的朋友，請分享希望入住哪一間Club Med</p>\n<p>就有機會獲得Club Med獨家環保水瓶</p>\n<p>獎品會由Club Med協助寄出</p>\n"
 names = ["EP398 員旅大成功"]
@@ -623,7 +570,6 @@ category = []
 [twc00399]
 name = "EP397 為什麼沒有"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/90833353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-24%2Faf7fd4e0-53b2-db64-9c2e-4aa703e9eea1.mp3"
-spotify = "https://open.spotify.com/episode/5PLHtLG0rbAnPh0gMezGub"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【芳茲滴雞精】贊助播出</p>\n<p><br></p>\n<p>一喝就讓你感到很補的東西究竟是什麼?</p>\n<p><br></p>\n<p>去年一上市就搶購一空的松露滴雞精禮盒回來啦</p>\n<p>想再入手高奢滋味的你絕對不能錯過</p>\n<p>👉https://fun-s.cc/commuteforme?sl-ref=commuteforme </p>\n<p><br></p>\n<p>全台首創 #黑鑽松露滴雞精</p>\n<p>🏅米其林餐廳指定品牌</p>\n<p>義大利小農專業栽種 #黑松露</p>\n<p>🏅業界唯一榮獲七項大獎</p>\n<p>香醇無腥味 #日月養生滴雞精</p>\n<p><br></p>\n<p>讓你一嘗就愛不釋手😋</p>\n<p><br></p>\n<p>今年中秋除了大人專屬的高奢享受</p>\n<p>也有收服一家大小的甜蜜選擇</p>\n<p><br></p>\n<p>#滿是喜月聯名禮盒</p>\n<p>#芳茲 #簡單李 攜手合作</p>\n<p>雙層夾心焦糖+奶油，雙倍享受</p>\n<p>使用歐洲天然奶油，</p>\n<p>少油少糖無香精，爽口無負擔</p>\n<p><br></p>\n<p>台通專屬優惠63折起搶購中💨</p>\n<p><br></p>\n<p>==詳細優惠資訊==</p>\n<p><br></p>\n<p>8/12-8/25 中秋節早鳥活動</p>\n<p>滿 $5,200 送芳茲滴魚精1包</p>\n<p>滿 $6,800 抽FUJIFILM_富士富士 instax mini 12 拍立得1台(附底片)</p>\n<p>滿 $8,800 再送100元購物金</p>\n<p><br></p>\n<p>8/26-9/17 中秋節活動</p>\n<p>滿 $6,200 送燕窩胜肽美妍飲1包</p>\n<p>滿 $8,800 抽FUJIFILM_富士富士 instax mini 12 拍立得1台(附底片)</p>\n<p>滿 $10,800 再送松露滴雞精 </p>\n<p><br></p>\n<p>9/12-9/17 中秋節加碼限時6天　</p>\n<p>滿$9,800 加碼送50元購物金</p>\n<p><br></p>\n<p><br></p>\n"
 names = ["EP397 為什麼沒有"]
@@ -633,7 +579,6 @@ category = []
 [twc00398]
 name = "EP396 A A A ft. 國國、吳赫"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/90702925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-21%2Fd5ad5870-23cd-b87b-8e58-406fc9d00ba6.mp3"
-spotify = "https://open.spotify.com/episode/2HxjlkPJBArqt05ePj8fFo"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n<br></p>\n<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br>\n\n</p>\n"
 names = ["EP396 A A A ft. 國國、吳赫"]
@@ -643,7 +588,6 @@ category = []
 [twc00397]
 name = "EP395 親愛的小朋友你好嗎 ft. 謝欣芷"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/90618643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-19%2Fac92285c-9f7f-d825-53fc-5f34df43b637.mp3"
-spotify = "https://open.spotify.com/episode/4RNRA2dPEr5ThDdchDwTCm"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【司法院廣告】合作播出</p>\n<p>法院也能叫外「訟」？</p>\n<p>司法院推動「巡迴法庭」制度，讓當事人就近出庭陳述。</p>\n<p>如果當事人所在地與管轄高等行政法院相距過遠，</p>\n<p>可透過「巡迴法庭」由法官到民眾居住地的地方法院，就近開庭，</p>\n<p>實現公平正義，距離不是問題。</p>\n<p>#巡迴法庭#司法院廣告</p>\n<p><br>相關連結：<a href=\"https://www.judicial.gov.tw/tw/cp-2214-628055-cd114-1.html\">https://www.judicial.gov.tw/tw/cp-2214-628055-cd114-1.html</a> \n\n</p>\n"
 names = ["EP395 親愛的小朋友你好嗎 ft. 謝欣芷"]
@@ -653,7 +597,6 @@ category = []
 [twc00396]
 name = "EP394 壹、貳、參、肆、伍、陸、柒、捌、玖、零"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/90520972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-16%2F19b16427-5e6d-0a07-9faa-0315d4d5d666.mp3"
-spotify = "https://open.spotify.com/episode/3qiF9UIoGh4ytHeDWONeRE"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【Roichen優雅椅&amp;正脊坐墊】贊助播出</p>\n<p>#Roichen優雅椅</p>\n<p>坐墊+工作椅的形式呈現，獨家6度傾斜底座+升降設計+靜音輪。</p>\n<p>#市售唯一依男女體型設計的正脊坐墊</p>\n<p>它牌只有分大人和小孩的尺寸，但其實男女體型骨盆角度不同，需要專屬尺寸設計，市售唯一有男、女和兒童3種專屬尺寸可選購。</p>\n<p>#獨家支撐設計</p>\n<p>坐墊不易滑動，即使不搭配椅子，直接在地面或者平面使用，當作和室椅都可以。</p>\n<p>#韓國第一入口網站NAVER家飾配件使用滿意高度認證</p>\n<p>榮獲200多項專利、認證、設計以及系統認證的殊榮，其中包括紅點設計大獎、Good Design、PIN UP等獎項。</p>\n<p>#通過SGS檢測不含有毒物質與安全性測試</p>\n<p>最大可承受220~350公斤都可維持平穩正確的坐姿，不會形成椅墊扭曲或晃動。</p>\n<p>#Roichen鍋具全天然陶瓷塗層製成</p>\n<p>不含PFAS、PFOA、PFOS、鐵氟龍等有毒物質 ，專利認證多功能鍋具。</p>\n<p>台通專屬優惠：</p>\n<p>．Roichen優雅椅67折優惠 </p>\n<p>．Roichen正脊坐墊52折優惠 （奶茶色新上市）</p>\n<p>．加碼Roichen陶瓷不沾鍋 20公分深炒鍋 33折優惠</p>\n<p>這裡下單：<a href=\"https://s.add.one/5v48em\">https://s.add.one/5v48em</a> </p>\n<p>（品牌限定優惠，請使用 Fb、Line、手機號碼 登入，即可看到專屬優惠價）</p>\n<p><br></p>\n"
 names = ["EP394 壹、貳、參、肆、伍、陸、柒、捌、玖、零"]
@@ -663,7 +606,6 @@ category = []
 [twc00395]
 name = "EP393 全家福"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/90155523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-7%2F82964392-621d-e548-1485-921c7ccb9b62.mp3"
-spotify = "https://open.spotify.com/episode/34P20co5Rd5kIYqWY0RfI1"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【台北富邦銀行小事研究院】合作播出</p>\n<p>「你覺得我看起來怎樣？」</p>\n<p>「我覺得你今天的臉比平常水腫16%。」</p>\n<p>「……我是指我的新髮型。」</p>\n<p>「噢，不好意思，我沒有注意到那點。」</p>\n<p>不論你是觀察力高如福爾摩斯的細節達人，</p>\n<p>或是與不拘小節心靜自然涼的佛系賢者，</p>\n<p>只要有心，人人都可以成為替自己與別人帶來愉快的小事觀察家。</p>\n<p>和我們一起認識自己是怎樣的細節觀察家，</p>\n<p>在平凡的日常小事中，發掘更多好事：</p>\n<p><a href=\"https://bit.ly/3yc4LRf\">https://bit.ly/3yc4LRf</a> </p>\n<p>#小事研究院 #小事觀察家 #讓每一件小事都成為最好的事 #台北富邦銀行 #361度服務 #多1度心的溫度 </p>\n<p><br>\n\n</p>\n"
 names = ["EP393 全家福"]
@@ -673,7 +615,6 @@ category = []
 [twc00394]
 name = "EP392 教歹囡仔大細"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/90012824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-3%2F96220af0-58bf-97af-2bc1-6397379e495b.mp3"
-spotify = "https://open.spotify.com/episode/1q5pEm7J41K6r06ko46SvE"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Alpecin】贊助播出</p>\n<p><br></p>\n<p>【Alpecin x 台通】Doping for your hair<br>️型男養髮首選，強健髮根，天天使用提升髮魅力<br>免沖洗頭皮養護，咖啡因複合物使髮根活化+27%<br>洗髮+精華全方位養髮體驗，2步驟減緩頭髮問題發生</p>\n<p><br>Shopee【經典健髮組-咖啡因洗髮露】👉 <a href=\"https://reurl.cc/lQ8WYv\">https://reurl.cc/lQ8WYv</a><br>Shopee【免沖洗養髮組-咖啡因髮根強健精華液】👉 <a href=\"https://reurl.cc/Ajxr3p\">https://reurl.cc/Ajxr3p</a><br>Alpecin官方商城【強健髮根專區】👉 <a href=\"https://reurl.cc/bVAk0d\">https://reurl.cc/bVAk0d</a><br>Momo【經典健髮超值組-咖啡因洗髮露 3入組】👉 <a href=\"https://reurl.cc/Ejk0QA\">https://reurl.cc/Ejk0QA</a><br>Momo【免沖洗養髮超值組-咖啡因髮根強健精華液 3入組】👉 <a href=\"https://reurl.cc/70O8bk\">https://reurl.cc/70O8bk</a><br>更多Alpecin販售通路👉 https://reurl.cc/7d9Z5b⁠ </p>\n<p><br></p>\n"
 names = ["EP392 教歹囡仔大細"]
@@ -683,7 +624,6 @@ category = []
 [twc00393]
 name = "EP391 奇蹟の夏"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/89935865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-1%2Fbd3caf5d-e3db-1bb1-8589-06d3f50fbc63.mp3"
-spotify = "https://open.spotify.com/episode/3UrujIMFsd9gOJ5RyneB9W"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n<br></p>\n<p>本集節目由【谷溜谷溜】贊助播出</p>\n<p>看到谷溜就代表..送禮季又到了！</p>\n<p>鮮蝦挺專屬下單豪華包廂： <a href=\"https://guliuguliu.tw/IJK02/20240729\">https://guliuguliu.tw/IJK02/20240729</a> </p>\n<p>這次，首推台通專屬組合！三帥自己挑的愛款，一定挺爆！</p>\n<p>滿額再加贈 #芳茲滴雞精</p>\n<p>想要挑不油膩、不死甜、健康、低卡、零添加、好看、好喝</p>\n<p>送阿公阿嬤、爸媽、長官、員工、客戶都說讚，就屬台通逢送禮必備</p>\n<p>天殺的好喝養生飲</p>\n<p>\\ 傳遞幸福中秋6入禮盒/</p>\n<p>*數量有限，售完為止</p>\n<p>●共8種口味，數種組合任意挑選</p>\n<p>●每款皆能常溫保存18個月</p>\n<p>●不加防腐劑、化學品只有純食材</p>\n<p>●想配月餅、柚子都對味又解膩解渴</p>\n<p>#禮盒入數有6、8入，中秋款只有6入</p>\n<p>每種口味都來一瓶就選 #擁抱幸福8入禮盒</p>\n<p>\\同場加映 優惠滿滿/</p>\n<p>●中秋賀卡免費送，可協助代寫</p>\n<p>*張數以訂購總數量為限，下單時備註文字、數量</p>\n<p>●滿額送奢華精品級雞精 #芳茲 補充元氣</p>\n<p>●加碼提供新品0-1牛乳、真奶茶優惠價</p>\n<p>採用100%生乳製作，乳香濃郁綿密全家都能喝</p>\n<p>電話訂購：0800529696</p>\n<p>線上客服：谷溜粉絲團、LINE @guliuguliu</p>\n<p><br></p>\n"
 names = ["EP391 奇蹟の夏"]
@@ -693,7 +633,6 @@ category = []
 [twc00392]
 name = "EP390 我才知道 ft.徐漢強"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/89764341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-28%2Fb1c2d500-4bc5-5954-e1cd-5dcde4c7561b.mp3"
-spotify = "https://open.spotify.com/episode/0fYwiG46pPbSLUQ8Wty6zp"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br>\n\n</p>\n"
 names = ["EP390 我才知道 ft.徐漢強"]
@@ -703,7 +642,6 @@ category = []
 [twc00391]
 name = "EP389 颱風天幹嘛不在家吃泡麵"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/89617979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-24%2Fb744602b-d6a2-04ac-c3ea-4828f6723dd9.mp3"
-spotify = "https://open.spotify.com/episode/2LtSWwFikERTwOa5tbY794"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【霧峰農會酒莊】合作播出</p>\n<p>霧  峰  農  會  酒  莊</p>\n<p>釀造世界金牌台灣清酒</p>\n<p>不同凡響清酒藝術，而非一味追求日系清酒而欠缺台灣個性的凡庸之作！</p>\n<p>🔗霧峰區農會酒莊官網介紹</p>\n<p><a href=\"https://www.twwfsake.com\">https://www.twwfsake.com</a> </p>\n<p>酒瓶裡的職人初心，派員赴日學習最道地的清酒釀造技藝，承襲日本職人精神，堅持選用不受汙染台灣本土的「有機益全香米」、汲取台灣最清淨甘甜的埔里山泉名水，發展台灣獨有亮眼國際清酒風味。</p>\n<p>✨世界金賞酒品</p>\n<p>▪️初霧·純米吟釀-vol 15%</p>\n<p>▪️初霧·燒酎-vol 38%</p>\n<p>▪️極清·大吟釀-vol16%</p>\n<p>▪️極清·台灣清酒-vol 15%</p>\n<p>▪️醉峰46- vol 46%</p>\n<p>▪️荔枝峰蜜酒- vol 8%</p>\n<p>✨現在搭上年度最優惠！</p>\n<p>歡慶父親節💕</p>\n<p>這是您一年中最不容錯過的優惠機會，給父親送上精選美酒，讓我們一起舉杯，共度這個特別的時刻🥂</p>\n<p>🎈特別推出酒品88折活動！</p>\n<p>活動日期：113/7/20-8/11</p>\n<p>🎈同時推出【台北小巨蛋旗艦店】門市限定優惠，凡本會酒品消費滿2088(愛你爸爸)即可獲贈</p>\n<p>★玻璃蛇目杯乙個</p>\n<p>★每人限贈乙個</p>\n<p>🔗霧峰區農會酒莊官方line@</p>\n<p><a href=\"https://lin.ee/9Eyt6Q6\">https://lin.ee/9Eyt6Q6</a> </p>\n<p>酒後不開車，未滿18歲禁止飲酒\n\n</p>\n"
 names = ["EP389 颱風天幹嘛不在家吃泡麵"]
@@ -713,7 +651,6 @@ category = []
 [twc00390]
 name = "EP388 你要去哪裡"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/89460480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-20%2F193b2a27-0f60-e217-dab8-b9c5d56167fd.mp3"
-spotify = "https://open.spotify.com/episode/7ItecEqLIKOssdqnTRV656"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【BenQ】贊助播出</p>\n<p>全球第一款為躺而生的投影機</p>\n<p>360 度無死角投影</p>\n<p><a href=\"https://benqurl.biz/4cCAZnA\">https://benqurl.biz/4cCAZnA</a> </p>\n<p>實現躺著看電影的奢華享受</p>\n<p>✅ 360 度水平旋轉底座，一轉投影天花板</p>\n<p>✅ Google TV &amp; 預載正版 Netflix</p>\n<p>✅ 2.1 聲道 18W 大喇叭，低音很夠力</p>\n<p>✅ 四大智慧感測，自動調整超方便：自動對焦、自動側投影 &amp; 傾斜修正、自動畫面對框、自動障礙物迴避。</p>\n<p>🥇 三年尊爵保固。行動微型投影機第一品牌 BenQ，好品質，有信心</p>\n<p>GV50 雷射智慧微型投影機</p>\n<p>【全球首賣，限時預購】✨👉 <a href=\"https://benqurl.biz/4cCAZnA\">https://benqurl.biz/4cCAZnA</a> </p>\n<p>三大方案任你選，預購期間最優惠</p>\n<p>🟠單機方案：$18,900，預購現省 $6,000​</p>\n<p>🟠立架方案：$19,300，預購現省 $7,090</p>\n<p>🟠布幕方案：$20,500，預購現省 $9,300​</p>\n<p><br></p>\n"
 names = ["EP388 你要去哪裡"]
@@ -723,7 +660,6 @@ category = []
 [twc00389]
 name = "EP387 教學相長"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/89338577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2Fa038801b-514b-8f12-a705-fa4a397ea2ee.mp3"
-spotify = "https://open.spotify.com/episode/4jcJ5GZc8hU6nXFoEc4DGQ"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Unipapa】贊助播出</p>\n<p>Unipapa 又來了！🥺</p>\n<p>有序延長線不只顏值 100 分，內在也超有料😳</p>\n<p>Unipapa 設計師發現過傳統延長線孔距太近會讓變壓器相撞的問題，</p>\n<p>於是把孔距加大，一變壓器一插孔不打架，公平！</p>\n<p>插 4 顆 Dyson充電頭都不會撞的延長線，真的沒遇過耶！</p>\n<p>爆賣到敲碗出了第三代！</p>\n<p>這是結合前兩代優點，1+2 = 超讚的第三代！！</p>\n<p>除了自帶整齊、快充外，</p>\n<p>現在還可以把那顆拔下來、帶出去用！！！</p>\n<p>前面的 USB 孔可以快充，手機筆電都 OK，</p>\n<p>如果還沒買的話，直接買這代就對了👍👍</p>\n<p>先說到這，頁面有更詳細的講解🤩</p>\n<p>7 月底前【有序延長線 模組快充版】享預購價 8 折</p>\n<p>⚡️ 輸入台通專屬折扣碼『 台通幫你89折 』再打 89 折！</p>\n<p>🛒 第三代（模組快充版）這裡買： https://unipapa.co/bNowp  </p>\n<p>⚡️ 前兩代也有折扣碼😘 輸入『 台通幫你87折 』打 87 折不能再高！</p>\n<p>🛒 第一代（一般版）這裡買：<a href=\"https://unipapa.co/qzp9G\">https://unipapa.co/qzp9G</a> </p>\n<p>🛒 第二代（快充版）這裡買：<a href=\"https://unipapa.co/RU5Yb\">https://unipapa.co/RU5Yb</a> </p>\n<p><br></p>\n"
 names = ["EP387 教學相長"]
@@ -733,7 +669,6 @@ category = []
 [twc00388]
 name = "EP386 離島出發 ft. 何欣潔"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/89177165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-13%2F4bc2ad1e-6991-5e22-c493-a9cb16747aca.mp3"
-spotify = "https://open.spotify.com/episode/7vzyHza2FEqxkroDNH94LQ"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【離島出版】合作播出</p>\n<p><br></p>\n<p>既名為「離島」，而不只是大洋之中的一個個孤立島嶼，就表示有一個「大陸」或「本島」與之相對應。</p>\n<p><br></p>\n<p>離島是一種陰性敘事，是本島的重要他者，也是群島共同體認識彼此的必要條件。書寫離島，不只為了離島，也為了本島。</p>\n<p><br></p>\n<p>以台灣（台澎金馬）為基地，出版與全世界離島相關的內容產品：</p>\n<p>https://offshoreislands.online/ </p>\n<p><br></p>\n<p>五個關於離島的冷知識：</p>\n<p><br></p>\n<p>澎湖人不是騎海豚上學</p>\n<p>肯德基蛋塔能讓你成為離島小孩的英雄</p>\n<p>澎湖南方四島國家公園的成立跟核廢料問題有關</p>\n<p>八二三炮戰促成了澎湖的咖啡文化</p>\n<p>金門馬祖曾經有自己的貨幣</p>\n<p><br></p>\n<p>#離島 #澎湖 #金門 #馬祖 #蘭嶼</p>\n<p><br></p>\n"
 names = ["EP386 離島出發 ft. 何欣潔"]
@@ -743,7 +678,6 @@ category = []
 [twc00387]
 name = "EP385 養鴕鳥也可以試試"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/89004600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-9%2F7166d404-32c8-7d79-9b96-8600c5050e70.mp3"
-spotify = "https://open.spotify.com/episode/5KbicK9leQSkFDsXyAvRJ3"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【萬萬兩】贊助播出</p>\n<p><br></p>\n<p>就算你不是餃子控，一定也去過KTV唱過歌，邊唱邊吃的感覺就是爽到沒話說，一口咬下驚嘆怎麼蠻好吃的，然後你的歌就來了！現在你有機會好好咀嚼美食，下單萬萬兩就對了，直接讓你在客廳配啤酒爽吃一波👍</p>\n<p><br></p>\n<p>臺通限時特惠，滿999就省下250冷凍運費，滿額還可以折價，最高折500！折價就算了，單筆訂單滿2500還送泰式打拋豬，實在是有夠佛，如果廠商不是工廠直送，可能早就倒了，哈！</p>\n<p><br></p>\n<p>📣專屬臺通的優惠下單連結 <a href=\"https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://mymore.tw/commute_for_me2407%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1720513477284588%26amp;usg%3DAOvVaw14fR6YoaFPdSRNWxBNdUll&sa=D&source=docs&ust=1720513477290053&usg=AOvVaw2fTgR6f-HFvfCVRrKcPBfx\">https://mymore.tw/commute_for_me2407</a> </p>\n<p><br></p>\n<p>🥟經典熱賣6葷3素『Ｑ彈爆汁水餃』</p>\n<p>經典的高麗菜、韭菜肉餡鮮甜多汁，但最熱銷的還是微辣甘脆的剝皮辣椒餃，搭配萬萬兩獨家的香Q餃皮，吃過一顆就上癮</p>\n<p><br></p>\n<p> 🍜老饕必吃4大口味『功夫牛肉麵』</p>\n<p>#紅燒 有漢香沒漢藥味，微辣夠勁還會回甘</p>\n<p>#茄燒 吃得到整塊番茄，酸甜開胃小朋友會很愛</p>\n<p>#麻辣 嗜辣者必吃！麻香混合香辣滋味，保證一口接一口</p>\n<p>#清燉 絕對顛覆你的清燉牛肉麵的想像，吃過絕對回不去</p>\n<p><br></p>\n<p>滿滿牛腱心肉口感超嫩，配刀削麵條一口吸就是勁道！再加一把靈魂酸菜，牛肉麵老饕保證會愛👍🏻</p>\n<p><br></p>\n<p>🥮一吃回味5種內餡『金黃香酥餡餅』</p>\n<p>一顆50克大小不容易膩，當正餐或點心都行，重點是超好煎，在家也能煎到金黃酥脆恰恰恰，皮Q餡多會噴汁，尤其玉米口味每一口都超幸福</p>\n<p>\n\n</p>\n"
 names = ["EP385 養鴕鳥也可以試試"]
@@ -753,7 +687,6 @@ category = []
 [twc00386]
 name = "EP384 開出一朵最特別的花 ft.楊雅喆"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/88829614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-4%2F07c51c2b-b9f7-5cea-4b63-ac1457d37b94.mp3"
-spotify = "https://open.spotify.com/episode/3P9hrtlm4VHqF1HOCmGeBK"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br>\n\n</p>\n"
 names = ["EP384 開出一朵最特別的花 ft.楊雅喆"]
@@ -763,7 +696,6 @@ category = []
 [twc00385]
 name = "EP383 你要怎麼說他不是主角"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/88618957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-29%2Ffe80e7a2-0974-0a5d-f056-fcf5b17ad6db.mp3"
-spotify = "https://open.spotify.com/episode/7Lmh5MlNMsjQXMAABspfup"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由 【德國巴斯夫 一點絕/快點絕】贊助播出</p>\n<p><br></p>\n<p>不是吧～巴斯夫研究蟑螂太～～～透徹了吧</p>\n<p>之前「一點絕」連鎖殺蟑的效用就已經讓蟑螂一隻享用，全巢升天</p>\n<p>今年竟然還專為餐飲業者推出「快點絕」，一點速效，快點絕蟑！</p>\n<p>只要用快點絕，就能快速滅除藏匿於餐廳、咖啡廳、茶水間的德國蟑螂， </p>\n<p>現在還有🦐蝦挺獨家優惠，即日起至7/7只要輸入折扣碼「BASF01」，下單即享台通專屬5%優惠，還不快買起來：https://pest-control-basf-tw-siege-consulting.accessus.cloud/about?utm_source=podcast&amp;utm_medium=commuteforme&amp;utm_campaign=siege-2024 </p>\n<p><br></p>\n<p>－</p>\n<p>◼︎ 2024巴斯夫滅蟑諮詢室 抽獎活動現正開跑</p>\n<p>滅蟑檢測抽好禮，手刀前往▷▷▷https://pest-control-basf-tw-siege-consulting.accessus.cloud/message?utm_source=podcast&amp;utm_medium=commuteforme&amp;utm_campaign=siege-2024 </p>\n<p><br></p>\n<p>即日起至9/30，立即至活動網站進行滅蟑檢測，就有機會獲得Airpods pro2 藍牙耳機，更有機會抽到一點絕，或是新品快點絕呦！</p>\n<p><br></p>\n<p>－</p>\n<p>◼︎ 巴斯夫滅蟑體驗員 熱烈招募中.ᐟ .ᐟ .ᐟ</p>\n<p>深受蟑螂困擾，卻還在觀望的朋友們有福了，即日起只要將你的滅蟑困難，以文字敘述搭配環境圖片示意，寄送至信箱(agricultural.solutions.tw@basf.com)，經評估符合試用資格者，將會有專人接洽後續「快點絕」試用體驗服務喔！</p>\n<p>＊不符試用資格者，將不另作通知。</p>\n<p><br></p>\n<p>環藥販賣字第63-079號</p>\n<p>一點絕 環署衛輸字第0543號</p>\n<p>快點絕® 環署衛輸字第0807號</p>\n<p><br></p>\n<p><br></p>\n"
 names = ["EP383 你要怎麼說他不是主角"]
@@ -773,7 +705,6 @@ category = []
 [twc00384]
 name = "EP382 不為誰而作的 ft. wannasleep"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/88495735/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-26%2F6b156d08-2fed-784f-1d3a-5c6b350e57cf.mp3"
-spotify = "https://open.spotify.com/episode/5OA0zcaCx9iuApp8BaaPNg"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br><br>\n\n</p>\n"
 names = ["EP382 不為誰而作的 ft. wannasleep"]
@@ -783,7 +714,6 @@ category = []
 [twc00383]
 name = "EP381 泳裝回"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/88304489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-21%2F97305f5e-88de-ca32-8619-8f7c2dceb83b.mp3"
-spotify = "https://open.spotify.com/episode/4x2QT3dBB5vBYJHSymghfB"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【噤界：入侵日】贊助播出</p>\n<p>今年暑假，保持安靜，就能活命！</p>\n<p>極致恐懼 X 震撼視野 大銀幕觀影絕對激推</p>\n<p>觀賞驚悚預告：<a href=\"https://youtu.be/tLd4bhQy3qw\">https://youtu.be/tLd4bhQy3qw</a></p>\n<p>【噤界：入侵日】預售票現正熱賣中</p>\n<p>6月26日 開始噤聲 全台戲院見</p>\n<p>ScreenX、DOLBY CINEMA、4DX、MX4D、D-BOX、IMAX 同步震撼登場</p>\n<p><br></p>\n"
 names = ["EP381 泳裝回"]
@@ -793,7 +723,6 @@ category = []
 [twc00382]
 name = "EP380 易碎"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/88220295/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-19%2Fff8bf8b2-1eac-9bc7-0af1-2ab89e011cb5.mp3"
-spotify = "https://open.spotify.com/episode/2NdhHwjA0bbFdc6fMwnk7G"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【一卡通iPASS MONEY】贊助播出</p>\n<p>TWQR全面啟動！筆筆消費 筆筆10%回饋</p>\n<p>【手機支付已是標Pay】</p>\n<p>現在使用一卡通iPASS MONEY  APP到臺北市、新北市、桃園市、臺中市、臺南市以及高雄市</p>\n<p>掃描有標示 iPASS MONEY 之「TWQR」QRcode 消費付款，</p>\n<p>筆筆消費 筆筆10趴回饋</p>\n<p>時間就是金錢 湯姆就是瑪莉</p>\n<p>隨便一掃 快速結帳還能享最高200元回饋，真是賺爛了!</p>\n<p>更多活動詳情，點擊下方連結</p>\n<p>彈指付款 即享回饋 <a href=\"https://i-pass.co/62k6wq\">https://i-pass.co/62k6wq</a> </p>\n<p> #一卡通 #TWQR #iPASSMONEY</p>\n<p><br></p>\n"
 names = ["EP380 易碎"]
@@ -803,7 +732,6 @@ category = []
 [twc00381]
 name = "EP379 叔叔經"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/88027244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-14%2F9139f4d5-d492-1500-1c67-deed182058ad.mp3"
-spotify = "https://open.spotify.com/episode/2I0MVzQMFPQLeNMsQAc7dk"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【HARU】贊助播出</p>\n<p>今晚的你，想踩油門還是煞車呢？</p>\n<p>台通最愛不釋手的「HARU 含春保險套」又來啦！</p>\n<p>這次全新的XOXO系列要帶你跟著台通，</p>\n<p>一起發揮實驗家精神，挑戰情愛趣味巔峰！</p>\n<p>XOXO 0.03，最貼近彼此的零距離火熱溫度，</p>\n<p>還是XOXO提耐型，最舒暢享受的麻醉熱愛？</p>\n<p>你們，準備好一起來場矛盾大對決了嗎？</p>\n<p>-</p>\n<p>6/20前，輸入折扣碼「iwantuxoxo」享全館原價商品九折優惠，再贈HYPER 口味潤滑液一瓶(口味隨機)！</p>\n<p>XOXO 0.03保險套 這裡下單&gt;&gt;&gt;<a href=\"https://letsharu.cc/N1VcA\">https://letsharu.cc/N1VcA</a> </p>\n<p>XOXO 提耐型保險套 這裡下單&gt;&gt;&gt;<a href=\"https://letsharu.cc/v7Kvd\">https://letsharu.cc/v7Kvd</a> </p>\n<p>小朋友才做選擇，我全都要！！</p>\n<p>HARU所有保險套都在這邊&gt;&gt;&gt;<a href=\"https://letsharu.cc/73fhZ\">https://letsharu.cc/73fhZ</a> </p>\n<p>春霖國際股份有限公司 衛部醫器輸 字第036637號 北市衛器廣字第 113050209 號</p>\n<p>-</p>\n<p>偷偷跟你說，點進下單連結還能發現更多好玩的喔！</p>\n<p>追蹤HARU官方IG @letsharu 還有更多玩法分享喔～</p>\n<p>-</p>\n<p>現在登入APP還可獲得50元購物金</p>\n<p>下載網址：<a href=\"https://bmai.cc/3g77r6\">https://bmai.cc/3g77r6</a> </p>\n<p>【衛部醫器輸字第036637號/北市衛器廣字第113050209號】</p>\n<p><br></p>\n"
 names = ["EP379 叔叔經"]
@@ -813,7 +741,6 @@ category = []
 [twc00380]
 name = "EP378 出入自在 ft.楊子儀"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/87842637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-10%2F8365fe26-0c42-87e8-9879-4c97b1f087bf.mp3"
-spotify = "https://open.spotify.com/episode/086TsYaBloq5cq3763ULk7"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【飛利浦家電】贊助播出</p>\n<p>✨有星，就不怕世界上的油✨</p>\n<p>生活中，有些多餘的油膩，總是把你油的受不了嗎？</p>\n<p>像是油嘴滑舌的馬屁精、滿嘴油膩道理的親戚，</p>\n<p>又或是像 @楊子儀YankeeYang 一樣看似一表正經</p>\n<p>竟也有為人不知、油腔滑調的黑歷史❓</p>\n<p>但至少，你可以讓吃進去的少點油！</p>\n<p>懂生活的你，值得擁有一台 #飛利浦透視海星氣炸鍋</p>\n<p>🌟 獨家專利 #海星底盤 的 #熱穿透星氣旋</p>\n<p>鎖住食材美味之餘，還能減油 90%*！</p>\n<p>🌟 廣角全景 #透視視窗 設計</p>\n<p>一眼掌握食材狀況，氣炸食況輕鬆 GET！</p>\n<p>免解凍、免翻面、免預熱的夢幻減脂家電✨</p>\n<p>把油膩的留在鍋底，清爽的放進嘴裡！</p>\n<p>🛒手刀購入：<a href=\"https://bit.ly/3R9NrCI\">https://bit.ly/3R9NrCI</a> </p>\n<p>*第三方實驗室透過對薯條進行烹飪，實驗結果顯示相較於傳統油炸鍋，飛利浦海星氣炸鍋可減少油脂90%。</p>\n<p><br></p>\n"
 names = ["EP378 出入自在 ft.楊子儀"]
@@ -823,7 +750,6 @@ category = []
 [twc00379]
 name = "EP377 「最近買了什麼好東西？」"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/87781561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-8%2Fc0e43ce3-1bf5-c164-3c89-fd8a53538ba7.mp3"
-spotify = "https://open.spotify.com/episode/63qxzUVpKoRaVIalnuv4Jh"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【臺中市政府勞工局】合作播出</p>\n<p><br></p>\n<p>臺中市政府勞工局推出了一系列職前訓練班，這是您學習新技能，提升職場競爭力最佳機會，最高補助100％訓練費用，課程豐富多元，包括：工商、資訊、服務、餐飲及新興產業等六大類職訓課程，還有產訓專班，提供實務訓練與實習，結訓後無縫接軌就業市場，每年平均訓後就業率達80%以上。</p>\n<p><br></p>\n<p>一般失業勞工負擔受訓經費20％（約7,000元），曾投保過就業保險之自願、非自願失業者或特定對象者通過甄試後一律免費，除此之外，特定對象失業勞工符合資格，參加全日制訓練期間還能申請職業訓練生活津貼。</p>\n<p><br></p>\n<p>各班皆在熱烈招生中，趕緊去報名，歡迎至市府勞工局網站（<a href=\"https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://reurl.cc/3X7n7R%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1717862566051784%26amp;usg%3DAOvVaw3D16nZTEHqpldlkju0OraO&sa=D&source=docs&ust=1717862566058546&usg=AOvVaw2Duama_9xWIUVTNBJViFCX\">https://reurl.cc/3X7n7R</a> ）或台灣就業通網站（<a href=\"https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://taiwanjobs.gov.tw%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1717862566052142%26amp;usg%3DAOvVaw1pXIYuDf83ctuzBubFnzJ0&sa=D&source=docs&ust=1717862566058702&usg=AOvVaw0k-jeva5DMiMKC-z7P_vLA\">https://taiwanjobs.gov.tw</a> ）查詢各項職訓班，或電洽勞工局就業安全科04-22289111分機35615、35618、35619。</p>\n<p><br></p>\n<p>主辦單位：臺中市政府勞工局、補助單位：勞動部勞動力發展署就業安定基金補助、廣告</p>\n<p>\n</p>\n"
 names = ["EP377 「最近買了什麼好東西？」"]
@@ -833,7 +759,6 @@ category = []
 [twc00378]
 name = "EP376 查某囝歌星 ft.方宥心"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/87598433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-4%2F6e288b52-a154-4b18-f712-72bce8ff8945.mp3"
-spotify = "https://open.spotify.com/episode/3IVCM3W4vuCBqhXPBxuJZt"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br><br>\n\n</p>\n"
 names = ["EP376 查某囝歌星 ft.方宥心"]
@@ -843,7 +768,6 @@ category = []
 [twc00377]
 name = "EP375 精集"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/87452270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-31%2F39617439-3e29-be2f-29a7-b27711c53061.mp3"
-spotify = "https://open.spotify.com/episode/1ZGfl6em57laMHzloe0zV2"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【麥香】贊助播出</p>\n<p>正義終將勝利！#麥香綠茶</p>\n<p>選用甜香特色的焙香綠茶葉，萃取醇厚茶汁，搭配焙炒大麥，呈現獨特大麥風味的綠茶。</p>\n<p>你也獨愛這麥味嗎？你也是麥香綠茶死忠鐵粉嗎？</p>\n<p>快到麥香粉專證明你才是真愛！喝麥香綠茶才不小眾！</p>\n<p>就有機會成為麥香綠茶富翁！</p>\n<p>&lt;愛喝麥香綠茶的站出來&gt;</p>\n<p>到麥香粉絲團「愛喝麥香綠茶的站出來！！」貼文下方留言處</p>\n<p>留言回覆「一起喝麥香綠茶！」並於同則留言上傳「麥香綠茶元素照片」</p>\n<p>再TAG一位朋友，例：＠ｍy  一起喝麥香綠茶😆😆</p>\n<p>快點連結進入參加麥香綠茶富翁有可能就是你！！</p>\n<p>連結：<a href=\"https://www.facebook.com/uni.mineshine/posts/pfbid02vXLGsXm6cWy1Bay5A3fN1TbaXExJAFzJCov975FhwzG3vkioXwxUrojFjop3ExqYl\">https://www.facebook.com/uni.mineshine/posts/pfbid02vXLGsXm6cWy1Bay5A3fN1TbaXExJAFzJCov975FhwzG3vkioXwxUrojFjop3ExqYl</a> </p>\n<p><br></p>\n<p>#麥香 #麥香綠茶鐵粉大募集</p>\n<p><br></p>\n"
 names = ["EP375 精集"]
@@ -853,7 +777,6 @@ category = []
 [twc00376]
 name = "EP374 老麻吉"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/87306739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-28%2F00bac256-3ca1-1c88-0cd0-0d56bf892977.mp3"
-spotify = "https://open.spotify.com/episode/2U22LFhDNWv4dslljpFWQe"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【文化部】合作播出</p>\n<p>利用計次借閱書目搜尋功能，想找的書籍一鍵完成。書目搜尋功能</p>\n<p>使用流程：進入官網→書目搜尋→輸入書名或作者名稱→點選書籍封面→選擇縣市→登入該縣市圖書館借閱證帳號→登入借閱</p>\n<p><br><strong>📖 擴大電子書計次借閱官網： </strong><a href=\"https://ebook.moc.gov.tw/\">https://ebook.moc.gov.tw/</a><strong> </strong>\n\n</p>\n"
 names = ["EP374 老麻吉"]
@@ -863,7 +786,6 @@ category = []
 [twc00375]
 name = "EP373 人類的讚歌是勇氣的讚歌"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/87157391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-24%2F7f4a9fe9-cf6f-9541-c31c-a0854a70d33d.mp3"
-spotify = "https://open.spotify.com/episode/1Fs7BWX62jYCpiPqZg5GRs"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【谷溜谷溜】贊助播出</p>\n<p>＼你媽煮的最屌的那種口味／ 又來了！</p>\n<p>現主時！到 @谷溜谷溜 → </p>\n<p>#台通專屬頁面 <a href=\"https://guliuguliu.tw/IJK02/20240518\">https://guliuguliu.tw/IJK02/20240518</a> </p>\n<p>獨家寵蝦僅提供給蝦鮮挺們</p>\n<p> ✔下單滿額「送」倒梅烏梅汁、芳茲滴雞精</p>\n<p> ✔井裡月猛象禮盒組超猛下殺價</p>\n<p>谷溜把家常飲品用最便利、省時的方式，一共8款口味保證無添加、純食材製作、保留食材顆粒，無色素、香料，口感就像剛煮好的美味，長輩在家煮一鍋喝不完放到壞掉、想喝不會煮、沒空煮，一瓶解決隨時想喝就開喝！還能常溫保存，不限年齡、族群就連孕婦都可以喝</p>\n<p>/</p>\n<p>對了，端午節快到了！</p>\n<p>送禮有6入、8入禮盒多元組合任挑任選</p>\n<p>粽子吃太多胃脹氣、怕熱量爆表、解油膩想配點喝就喝谷溜</p>\n<p>從#純米湯 清淡護胃、#蜂蜜檸檬 酸甜解膩、#黑木耳促進消化</p>\n<p>給大家最全方位的照護</p>\n<p> 電話洽詢：0800529696</p>\n<p> 線上客服：谷溜粉絲團、LINE @guliuguliu</p>\n<p><br></p>\n"
 names = ["EP373 人類的讚歌是勇氣的讚歌"]
@@ -873,7 +795,6 @@ category = []
 [twc00374]
 name = "EP372 怪人34號 ft.鍾佳播"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/87012634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-21%2F98296b41-044c-5fc8-0401-8f7bf15a8fe8.mp3"
-spotify = "https://open.spotify.com/episode/6959WiMV3cAE04AzUT0eb9"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p><strong> </strong></p>\n"
 names = ["EP372 怪人34號 ft.鍾佳播"]
@@ -883,7 +804,6 @@ category = []
 [twc00373]
 name = "EP371 我等一下要出石頭喔"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/86768138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2Fe0ce7ecd-aab0-561f-67fc-7a853d485d93.mp3"
-spotify = "https://open.spotify.com/episode/2FGaIBc4thlbHzKwoQ0leH"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【@YODEE 優迪】&amp;【@Parakito 法國帕洛】贊助播出</p>\n<p>成立長達18年的法國品牌 Parakito 法國帕洛，至今遍佈全球30幾個國家，不僅採用國際認證唯一天然有效的防蚊成分PMD，更不添加易導致過敏的酒精以及界面活性劑，而是透過三項專利技術穩定配方，使 #長效防蚊 和 #天然配方，不用二選一！</p>\n<p>多款 #防蚊液、#防蚊滾珠瓶 可長效防蚊6-8小時，且味道宜人、使用起來乾爽不粘膩！配方、用途都不同，一次滿足你不同的需求！不管是嬰幼兒、孕婦、敏感肌、人體捕蚊燈，或是喜愛戶外、水上活動的人都能找到合適的產品！</p>\n<p>搭配穿戴式的 #防蚊手環、#防蚊吊環、#防蚊隨身球 幫助防蚊更全面，裡面的天然精油防蚊片，成份含有來自世界各地的7種精油，能避免蚊子輕易免疫，並干擾蚊子的嗅覺雷達，降低遠處蚊子靠近的機會，減少被叮咬的可能。</p>\n<p>出門在外，防蚊要全面，防蚊噴霧和防蚊手環、吊環、隨身球一起使用，多重保護才能不讓惱人蚊子打擾出遊的美好心情。</p>\n<p>即日起至 6/16，Parakito 法國帕洛全系列產品享88折優惠！</p>\n<p>台通專屬優惠連結👉 <a href=\"https://yodee.tw/%E5%8F%B0%E9%80%9A%E8%81%BD%E7%9C%BExParakito%E6%B3%95%E5%9C%8B%E5%B8%95%E6%B4%9B%E5%B0%88%E5%B1%AC%E5%84%AA%E6%83%A0\">https://yodee.tw/台通聽眾xParakito法國帕洛專屬優惠</a> </p>\n"
 names = ["EP371 我等一下要出石頭喔"]
@@ -893,7 +813,6 @@ category = []
 [twc00372]
 name = "EP370 電視有的我都想買"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/86604005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-11%2F1ec64412-de54-0f74-f25d-bda938c13361.mp3"
-spotify = "https://open.spotify.com/episode/0kF854BQggYTxR1xkTSGPB"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【食在好味道】贊助播出</p>\n<p>嚴選芭樂乾，</p>\n<p>何誒恨不得再囤十箱，堅持挑選產地新鮮水果製作！保證天然無添加！</p>\n<p>有沒有電影剛開始零食就吃完、野餐墊才剛鋪好點心盒就空了，野餐追劇的好朋友，大份量分享包芭樂乾。</p>\n<p>✔️ 3種規格包裝滿足所有需求</p>\n<p>✔️ 無添加色素、防腐劑、糖精</p>\n<p>✔️ 通過SGS多項檢驗</p>\n<p>新登場『旺來脆脆』</p>\n<p>不同於一般低溫烘乾，冷凍後再乾燥帶給您不同的口感並保留更多的營養！</p>\n<p>詳細資訊請參考連結 <a href=\"https://reurl.cc/09LenY\">https://reurl.cc/09LenY</a> </p>\n<p>月底前結帳輸入台通專屬碼 commute ，再享95折優惠</p>\n"
 names = ["EP370 電視有的我都想買"]
@@ -903,7 +822,6 @@ category = []
 [twc00371]
 name = "EP369 我還是Ｉ著你"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/86473999/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-8%2Fff8d08e9-7e20-91fe-aac7-7e21254ee893.mp3"
-spotify = "https://open.spotify.com/episode/6Oaf47gc6rVjZpwgU6hdsS"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br><br>\n\n</p>\n"
 names = ["EP369 我還是Ｉ著你"]
@@ -913,7 +831,6 @@ category = []
 [twc00370]
 name = "EP368 文化結合症候群"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/86294575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-4%2F5bcfe979-ae78-63a6-48d7-1fa4a8b39ded.mp3"
-spotify = "https://open.spotify.com/episode/2FM5iKo3BwlWjPnv9JDrdn"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Roichen優雅椅&amp;正脊坐墊】贊助播出</p>\n<p>#Roichen優雅椅</p>\n<p>坐墊+工作椅的形式呈現，獨家6度傾斜底座+升降設計+靜音輪。</p>\n<p>#市售唯一依男女體型設計的正脊坐墊</p>\n<p>它牌只有分大人和小孩的尺寸，但其實男女體型骨盆角度不同，需要專屬尺寸設計，市售唯一有男、女和兒童3種專屬尺寸可選購。</p>\n<p>#獨家支撐設計</p>\n<p>坐墊不易滑動，即使不搭配椅子，直接在地面或者平面使用，當作和室椅都可以。</p>\n<p>#韓國第一入口網站NAVER家飾配件使用滿意高度認證</p>\n<p>榮獲200多項專利、認證、設計以及系統認證的殊榮，其中包括紅點設計大獎、Good Design、PIN UP等獎項。</p>\n<p>#通過SGS檢測不含有毒物質與安全性測試</p>\n<p>最大可承受220~350公斤都可維持平穩正確的坐姿，不會形成椅墊扭曲或晃動。</p>\n<p>#Roichen鍋具全天然陶瓷塗層製成</p>\n<p>不含PFAS、PFOA、PFOS、鐵氟龍等有毒物質 ，專利認證多功能鍋具。</p>\n<p>台通專屬優惠：</p>\n<p>．Roichen優雅椅67折優惠 </p>\n<p>．Roichen正脊坐墊52折優惠 </p>\n<p>．加碼Roichen陶瓷不沾鍋 20公分深炒鍋 33折優惠</p>\n<p>這裡下單：<a href=\"https://s.add.one/5v48em\">https://s.add.one/5v48em</a> </p>\n<p>（品牌限定優惠，請使用 Fb、Line、手機號碼 登入，即可看到專屬優惠價）</p>\n<p>#本產品非醫療用品_不具有醫療效果<br>\n\n</p>\n"
 names = ["EP368 文化結合症候群"]
@@ -923,7 +840,6 @@ category = []
 [twc00369]
 name = "EP367 我有欠你一個Type-C喔"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/86059529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F9cf2f4ef-d848-27df-1e9e-58b291c849b6.mp3"
-spotify = "https://open.spotify.com/episode/1mR2c18MTTDGrLHiFNmeIR"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【extra®無糖口香糖】贊助播出</p>\n<p><br></p>\n<p>腦中有無解的煩惱和困擾嗎？</p>\n<p>問問潛意識，也許有答案！</p>\n<p>跟著extra ®自嚼一下，喚醒你的潛意識</p>\n<p>快來看看你的自嚼chew語錄是什麼！ <a href=\"https://reurl.cc/dLR386\">https://reurl.cc/dLR386</a> </p>\n<p> </p>\n<p>extra ®10粒裝 新上市 輕巧好攜，隨時嚼出你的好狀態</p>\n<p>即日起至5/14，於7-Eleven購買extra®10粒條裝口香糖單件只要17元！</p>\n<p> </p>\n<p> 快到extra TW粉專了解更多抽獎活動細節，讓我們一起嚼出自己的好狀態！ </p>\n<p> </p>\n<p>#extra® #益齒達 #嚼出你的好狀態  #自嚼chew語錄</p>\n<p><br>\n\n</p>\n"
 names = ["EP367 我有欠你一個Type-C喔"]
@@ -933,7 +849,6 @@ category = []
 [twc00368]
 name = "EP366 是不是沒看過喬瑟夫高登李維"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/85960365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-26%2F24fa70be-d9ca-f161-2d0e-d2a320b84c55.mp3"
-spotify = "https://open.spotify.com/episode/2G2X1oxJO5rCgl8PJk2xmZ"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【樂天Kobo 電子書】贊助播出</p>\n<p>Kobo Libra Colour、Clara Colour 及 Clara BW</p>\n<p>即日起 ~ 4/30 預購倒數中！</p>\n<p>🎁 預購購機登錄即贈 $800 購書金及 Kobo Colour 限量貼紙（共兩款隨機出貨）</p>\n<p>立即入手：<a href=\"https://lihistatus.com/QATi8\">https://lihistatus.com/QATi8</a> </p>\n<p>🧧登錄通關碼 「台通」加碼送 $200購書金</p>\n<p>※於樂天市場、PChome 預購者，請於購書金表單中「通關碼備註」欄位填寫通關碼。誠品線上或門市預購者，請於通關碼登錄表單填寫。</p>\n<p>*活動詳情請見上述連結說明，商品預計4/30起依序出貨 </p>\n<p><br><br>\n\n</p>\n"
 names = ["EP366 是不是沒看過喬瑟夫高登李維"]
@@ -943,7 +858,6 @@ category = []
 [twc00367]
 name = "EP365 這樣我算是大人了吧 ft.烏烏醫師"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/85695843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-21%2Fd8b7e213-5a23-0051-8f81-8a7f80e0cb16.mp3"
-spotify = "https://open.spotify.com/episode/1Z27tTf5cP11lmoE7MySj6"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>\n現在只要搜尋 <a href=\"http://nordvpn.com/commute?fbclid=IwZXh0bgNhZW0CMTAAAR1ykuon9Qap92HAeARbjSZkse3U29FHTvXTphFoir7Fxz4H9gUlBMMGY0E_aem_Acnjha8epC5AfrrmE7Ts0755HsANvp7al2GKDAIMpgFQ5xZYEliIAh3XQD_-5S4ExqR5kKReIY_N9CWsBMiGxpmq\" target=\"_blank\" rel=\"nofollow noreferrer\">nordvpn.com/commute</a>\n或到NordVPN官網輸入台通的專屬優惠碼【commute】\n現在購買獨家優惠方案享贈送4個月\n另有30天試用期，可以隨時取消\n\n</p>\n"
 names = ["EP365 這樣我算是大人了吧 ft.烏烏醫師"]
@@ -953,7 +867,6 @@ category = []
 [twc00366]
 name = "EP364 三招教你拍出戀愛感"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/85579859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-18%2Fd14ba169-5339-e8e8-d58b-f326261fcef7.mp3"
-spotify = "https://open.spotify.com/episode/3C10cDOcJsTqjE3H4kpuRX"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【光茵樂活 機能銀耳飲】贊助播出 </p>\n<p>超挺！任選銀耳1盒就免運！ (本島) 👉 <a href=\"https://nanobiolight.us/%E5%8F%B0%E9%80%9A%E5%B0%88%E5%B1%AC\">https://nanobiolight.us/台通專屬</a> </p>\n<p>光茵樂活的銀耳可厲害了🤩由國師 #唐綺陽 超強代言⭐ </p>\n<p>每一口都吃得到整朵鮮銀耳，不只有料！還有內涵😍😍😍 </p>\n<p>（偷偷跟你們說 唐老師也最愛膠原奶茶鮮銀耳！） </p>\n<p> \\🦐 這麼猛的銀耳，母親節肯定要讓大家安心蝦挺一波🦐 / </p>\n<p>📍 市場唯一添加機能銀耳飲讓你喝得更有感！ </p>\n<p>📍 環控栽培銀耳 營養價值高於市售銀耳70% </p>\n<p>📍 屏棄透明包裝堅持選用安全性最高的鐵罐包裝 </p>\n<p>📍 獨家特殊塗層絕無傳統鐵罐味 </p>\n<p>📍 即開即飲常溫保存，不佔冰箱空間 </p>\n<p>《母親節專屬優惠❤️》  </p>\n<p> 🎁台通新朋友專屬 熱門綜合機能銀耳組（双纖、纖潤、益菌）三種口味一次滿足！ </p>\n<p>🎁新朋友激推！任選銀耳1盒就免運(本島)  </p>\n<p>🎁老朋友全品項任選第2箱半價   </p>\n<p>🎁聽眾專屬優惠：5/12前結帳滿$1500輸入折扣碼：「台通」再贈3罐誠誠最愛の膠原奶茶鮮銀耳(市值$450)➡️ <a href=\"https://nanobiolight.us/%E5%8F%B0%E9%80%9A%E5%B0%88%E5%B1%AC\">https://nanobiolight.us/台通專屬</a>  </p>\n<p> </p>\n<p>#光茵樂活 #有機鮮銀耳 #母親節禮盒 </p>\n<p><br></p>\n"
 names = ["EP364 三招教你拍出戀愛感"]
@@ -963,7 +876,6 @@ category = []
 [twc00365]
 name = "EP363 演員的自我修養"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/85361446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-13%2F5411c029-b648-e853-b2f8-7f4052804601.mp3"
-spotify = "https://open.spotify.com/episode/6woojTDjWHaFcB3MUp5pqQ"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【全家人的健康守護者💪芳茲滴雞精】贊助播出</p>\n<p>陪你疼惜媽媽無私的付出❤️🎉芳茲滴雞精回饋聽眾朋友</p>\n<p>「雞魚饗宴母親節限定禮盒」👉<a href=\"https://fun-s.cc/%E5%8F%B0%E7%81%A3%E9%80%9A%E5%8B%A4%E7%AC%AC%E4%B8%80%E5%93%81%E7%89%8C%E5%B0%88%E5%B1%AC%E5%84%AA%E6%83%A063%E6%8A%98%E8%B5%B7\">https://fun-s.cc/台灣通勤第一品牌專屬優惠63折起</a> </p>\n<p>滿額還有價值上萬超值好禮，千萬別錯過！</p>\n<p>優惠只到：2024/5/13 23:59</p>\n<p>媽媽總掛在嘴上：「以前少女時期，我也是...」</p>\n<p>卻在結婚後為了給小孩最好</p>\n<p>自己卻捨不得吃好用好</p>\n<p>有時甚至為了家庭犧牲了夢想</p>\n<p>芳茲「雞魚饗宴母親節限定禮盒」</p>\n<p>讓媽媽再次感受被疼惜的感覺</p>\n<p>日月養生滴雞精</p>\n<p>✅業界唯一榮獲七項大獎</p>\n<p>✅全雞新鮮滴煉、真正不加一滴水的精華</p>\n<p>為媽媽補充營養無負擔</p>\n<p>日月養生滴魚精</p>\n<p>✅百位護理師及骨科醫師推薦</p>\n<p>✅獨家添加深海魚軟骨素</p>\n<p>守護媽媽關鍵行動力</p>\n<p>👍可常溫保存、不佔冰箱空間</p>\n<p>每天只要3-5分鐘，隔水加熱就能補充</p>\n<p>搭配匠人手工打造「天目釉品茗杯」送禮質感再升級</p>\n<p>2024母親節限定「雞魚饗宴禮盒」陪你輕鬆照顧媽咪</p>\n<p>讓他用健康去完成更多想做的事❤️！</p>\n<p>＝＝母親節詳細優惠資訊＝＝</p>\n<p>🌷4/8-4/21 母親節早鳥活動</p>\n<p>滿 3,800  送 三風製麵 見面幸福麵線 1 包(200 公克/2 人份)</p>\n<p>滿 6,800  抽 日本製虎牌 多功能電子鍋(價值$20,000)</p>\n<p>滿 13,888 送 NHB游離型金盞花葉黃素膠囊1 瓶(價值$1,580)</p>\n<p>🌷 4/22-5/12 母親節</p>\n<p>滿 3,800  送三風製麵 見面幸福麵線 1 包(200 公克/2 人份)</p>\n<p>滿 8,800  抽 日本製虎牌多功能電子鍋(價值$20,000)</p>\n<p>滿 15,888  送 NHB游離型金盞花葉黃素膠囊 1 瓶(價值$1,580)</p>\n<p>*日本製虎牌 IH 高火力多功能電子鍋兩檔活動共抽一台</p>\n<p><br></p>\n"
 names = ["EP363 演員的自我修養"]
@@ -973,7 +885,6 @@ category = []
 [twc00364]
 name = "EP362 是小阿姨也是大姐姐 ft.徐譽庭"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/85086312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-7%2Fd4af454e-006c-23ec-46e1-779ae205ea8c.mp3"
-spotify = "https://open.spotify.com/episode/5yKbbintUOaEDiVtAm4dvL"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p><br></p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買獨家優惠方案享贈送4個月</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br><br>\n\n</p>\n"
 names = ["EP362 是小阿姨也是大姐姐 ft.徐譽庭"]
@@ -983,7 +894,6 @@ category = []
 [twc00363]
 name = "EP361 希望大家平安"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/84908961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-3%2F9a4de1fa-f689-e5a3-505b-4619a763fdaf.mp3"
-spotify = "https://open.spotify.com/episode/1ij9Mwbtl5CGtBevc4GghK"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【 TGI FRIDAYS Taiwan  】贊助播出</p>\n<p>星期五就是要吃 TGI FRIDAYS啊！</p>\n<p>TGIFRIDAYSTaiwan 首次聯名台通挺社畜！</p>\n<p>一定蝦挺！哪次不挺！</p>\n<p>3/26~4/15聯名期間還享以下兩大優惠</p>\n<p>1. 聯名調飲買一送一</p>\n<p>2. 任點三套「挺社畜組合餐」即贈南美醬醬好半雞</p>\n<p>※活動詳情以餐廳公告為準。</p>\n<p>聯名菜單詳情 <a href=\"https://reurl.cc/A4Vgyd\">https://reurl.cc/A4Vgyd</a> </p>\n<p>立即訂位 <a href=\"https://reurl.cc/prlm9l\">https://reurl.cc/prlm9l</a> </p>\n<p>#tgifridays #TGIF挺社畜</p>\n<p><br></p>\n"
 names = ["EP361 希望大家平安"]
@@ -993,7 +903,6 @@ category = []
 [twc00362]
 name = "EP360 火車叨位去"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/84663962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-29%2F89793270-6f2e-872c-127d-dbca47ff278c.mp3"
-spotify = "https://open.spotify.com/episode/1FtnaSdoCMuJKdQqgQ1Qs0"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【Seagate 希捷科技】贊助播出</p>\n<p>關於硬碟，多的是你不知道的事…</p>\n<p>🦐 硬碟是用先進的奈米科技製成，磁頭與碟片只距離 5 萬分之一的頭髮徑長</p>\n<p>🦐 硬碟在高速運轉時，磁頭和碟片之間就像時速破千的波音 747 與地面保持 10 公分距離</p>\n<p>🦐 包含 Google、Facebook、iCloud 等全球資料中心，高達 90% 檔案存在硬碟中</p>\n<p>🦐 選擇長達 10 年以上的儲存設備，你還敢用拆封整新過的二手硬碟嗎？</p>\n<p>為什麼大家都用全球最大硬碟品牌 #Seagate #希捷 ？</p>\n<p>✅ 出廠前通過 160 項嚴格的品質測試，長時間運轉也能安心無憂</p>\n<p>✅ 市面上唯一！提供保固+資料救援服務，為資料加一道保險</p>\n<p>✅ 包含內、外接硬碟與 SSD 等各式容量商品，滿足多元需求！</p>\n<p>✅ 擁有最領先的 Mozaic 3+ 技術，讓單一硬碟突破 30TB 容量</p>\n<p>Seagate 揭櫫了大容量儲存硬碟的全新世代，重新定義未來讀寫</p>\n<p>買硬碟趁這波專屬優惠！輩分很重要的世界備份日</p>\n<p>💚 指定連結限時９折+最高現折 500 元！內外接硬碟一應俱全！</p>\n<p>💚 指定容量登錄送肯德基美食兌換券、抽 120 多項奢華豪禮！</p>\n<p>momo購物 🛒 <a href=\"https://reurl.cc/370aMj\">https://reurl.cc/370aMj</a> </p>\n<p>蝦皮購物 🛒 <a href=\"https://reurl.cc/13dYKD\">https://reurl.cc/13dYKD</a> </p>\n<p>PChome 🛒 <a href=\"https://reurl.cc/095jWA\">https://reurl.cc/095jWA</a> </p>\n<p>登錄兌換 👉 <a href=\"https://reurl.cc/Z90G2a\">https://reurl.cc/Z90G2a</a> </p>\n<p>登錄抽獎 👉 <a href=\"https://reurl.cc/370akM\">https://reurl.cc/370akM</a> </p>\n"
 names = ["EP360 火車叨位去"]
@@ -1003,7 +912,6 @@ category = []
 [twc00361]
 name = "EP359 UNCLE DOG"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/84459450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-24%2Fe0fd31ad-ed88-f6ba-699c-03e2125fdd93.mp3"
-spotify = "https://open.spotify.com/episode/550Ts17DzTTRVsGOI9RtRB"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【國泰產險】贊助播出</p>\n<p>國泰產險推出期間限定日本專屬「賞櫻限定型」海外旅遊險方案，給你最超值的旅遊保障。</p>\n<p>加入國泰產險LINE官方帳號還能即時查詢保單，需要理賠也能馬上申請，非常方便！</p>\n<p>賞櫻選日本、旅遊險選國泰產險就對了！</p>\n<p>更多詳細說明可至國泰產險官方網站看更多：<a href=\"https://cathayins.tw/vVGQRgWdwk\">https://cathayins.tw/vVGQRgWdwk</a> </p>\n<p>▼台通粉絲專屬活動！線上投保國泰產險海外旅遊險【賞櫻限定型】方案加碼抽好禮▼</p>\n<p>1.於2024/3/15~2024/5/15期間，透過專屬連結並輸入台通粉絲專屬活動碼【COMMUTE】成功線上投保海外旅遊險【賞櫻限定型】方案，就抽任天堂SWITCH電力加強版OLED主機一台。</p>\n<p>2.國泰產險將於 2024/7/1 前抽出中獎者，並在國泰產險官方網站公布中獎名單。</p>\n<p>3.活動專屬連結這邊走：<a href=\"https://cathayins.tw/vVGQRgWdwk\">https://cathayins.tw/vVGQRgWdwk</a> </p>\n<p><br></p>\n"
 names = ["EP359 UNCLE DOG"]
@@ -1013,7 +921,6 @@ category = []
 [twc00360]
 name = "EP358 看什麼新聞"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/84328186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2F2f5f6aab-de71-0009-8f4f-9e4fe80ac1ad.mp3"
-spotify = "https://open.spotify.com/episode/43POcXmB2w4bWvWTxmYCc1"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p><strong>本集節目由【HafH 赫夫】贊助播出</strong></p>\n<p><br></p>\n<p>\\ HafH 赫夫 邀請你加入我們的行列 / </p>\n<p>來自日本，HafH 赫夫™ 是世界最大的訂閱制旅宿服務</p>\n<p>✧ 嚴選世界 2000 間優質的旅宿，給你更穩定且合理的價格 ✧</p>\n<p>◍ 查詢當下 90 天內不分平假日均一價</p>\n<p>→ 訂完不用再對房價劇烈浮動而提心吊膽，把時間留給更需要的準備事項 ♡</p>\n<p>◍ 直到前一天都可以免費取消</p>\n<p>→ 免費取消的猶豫天數直接拉到最低！讓意外出現造成影響的風險降到最低 ♡</p>\n<p>◍ 三個月後自動成為 VIP 筆筆訂房 95 折，最高筆筆 9 折</p>\n<p>→ 要出門前才訂閱就太慢了，當然要把握好可以拿折扣的機制 ♡</p>\n<p>＼赫新春！即日起到3/31／</p>\n<p>❀ 使用 台灣通勤第一品牌 專屬邀請連結 <a href=\"https://supr.link/LOOSi\">https://supr.link/LOOSi</a> ，完成付費註冊好友邀請禮遇翻倍送你 200 HafH Coins！（活動結束過後恢復 100 HafH Coins）</p>\n<p>＼邀請活動再加碼／</p>\n<p>✸ 既存會員</p>\n<p>→ 感謝你一直以來的支持，同時間我們正在統計好友邀請競賽，邀請訂閱成功最多的前三名將分別依序獲得 1,000/800/500 的 HafH Coins 作為獎勵！現在就去邀請親朋好友一起加入拿新春好禮！</p>\n<p>✸ 全新會員</p>\n<p> → 把握機會使用 台灣通勤第一品牌 專屬邀請連結完成付費註冊後，就有機會獲得額外的 500 HafH Coins 新手好禮包！（隨機抽選三名）</p>\n<p>✸ HafH 保留隨時修改、變更、暫停或終止本活動內容之權利</p>\n<p>❀ 詳情請見邀請頁面的活動注意事項</p>\n<p>❀ 關於 HafH VIP：<a href=\"https://supr.link/QdcRP\">https://supr.link/QdcRP</a> </p>\n<p>❀ HafH 赫夫官網：<a href=\"https://supr.link/8zRNZ\">https://supr.link/8zRNZ</a> </p>\n<p>#HafH #HafHTaiwan #HafH赫夫 #赫夫 #HafHCoins #HafH赫新春</p>\n<p>#HafH的交換旅行 #讓旅行成為我們的日常</p>\n<p><br></p>\n"
 names = ["EP358 看什麼新聞"]
@@ -1023,7 +930,6 @@ category = []
 [twc00359]
 name = "EP357 力量，屬於你們！"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/84116690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-16%2Fb2e107e5-9ffd-dc26-dbb3-7be8f201d81c.mp3"
-spotify = "https://open.spotify.com/episode/1mmLtDMgz5hAsdEzb6ov7W"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【YODEE 優迪】與【L’Ange 棉之境】贊助播出！</p>\n<p>「L’Ange 棉之境」有成人感的莫蘭迪色系實在太好看啦！而且他們的好品質顛覆你對浴巾的想像！</p>\n<p>我們最愛他們的純棉紗布巾系列強勁的吸水力，洗完澡身體和頭髮上的水份能快速被吸乾，而且透氣又易乾，細菌不易滋生，就不易有臭霉味，觸感還越洗越柔軟，真的一用就會把家中毛巾類產品換成他們，全家大小都適合！</p>\n<p>✔️「抗菌包裝」使用前不需清洗，隨開即用</p>\n<p>✔️ 不含人造纖維、柔軟劑、甲醛、螢光劑等物質</p>\n<p>✔️ 通過SGS多項安全檢測</p>\n<p>✔️ 3種層數厚度、多種尺寸、用途超廣！</p>\n<p>/</p>\n<p>★新品登場 → 【嬰兒純棉柔濕巾】</p>\n<p>除了採用EDI超純水之外，選擇100%天然純棉材質，並捨棄不必要的成分，遵循著&quot;純淨簡單&quot;的原則，讓大家都能擁有最細膩的呵護！</p>\n<p>點擊下方連結，前往台通聽眾專屬秘密限時優惠，滿額加贈超實用的9層紗布小方巾，把握機會唷！</p>\n<p>限時購買連結👉 <a href=\"https://yodee.tw/%E5%8F%B0%E9%80%9A%E8%81%BD%E7%9C%BEx%E6%A3%89%E4%B9%8B%E5%A2%83?fbclid=IwZXh0bgNhZW0CMTAAAR0-Fzsj2SUBJgBpqjQuKlY8lLSJGGVVwH40NrzZ5-2Z1rXyYlO7YM-5xiE_aem_AfOhUhmHVaTGgVFVu0q63Q5Rq6RsKhgxXvRZrvK-KkyaY2d7K_d_COQuGnd5FjVAHqD0W9lUg75fIVFVO-R_ws2T\" target=\"_blank\" rel=\"nofollow noreferrer\">https://yodee.tw/台通聽眾x棉之境</a>\n\n</p>\n<p><br></p>\n"
 names = ["EP357 力量，屬於你們！"]
@@ -1033,7 +939,6 @@ category = []
 [twc00358]
 name = "EP356 遊樂園之星"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/83898353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-12%2F79b5af40-7c77-304f-ae96-c90c2e9151d9.mp3"
-spotify = "https://open.spotify.com/episode/6KvGa15KHxAJ8HYntTt2zq"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【國家兩廳院】贊助播出</p>\n<p>完售加開 .ᐟ.ᐟ </p>\n<p>臺日編導、演員攜手合作感官異色舞臺劇</p>\n<p>莎士比亞的妹妹們的劇團✕庭劇團PENINO《誠實浴池》</p>\n<p>𝟰.𝟮𝟲 — 𝟰.𝟮𝟴 國家戲劇院</p>\n<p>最後入浴機會 🛀 <a href=\"https://lihi1.me/1i31C\">https://lihi1.me/1i31C</a> </p>\n<p><br><br>\n\n</p>\n"
 names = ["EP356 遊樂園之星"]
@@ -1043,7 +948,6 @@ category = []
 [twc00357]
 name = "EP355 說到這個"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/83695224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-7%2Ff0d1f535-e3ef-66d8-4726-9b4c688106b7.mp3"
-spotify = "https://open.spotify.com/episode/0K3EKWAb3HdxgNfzb7HPXa"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p><br></p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買2年方案 `享贈送4個月及額外優惠好康`</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br></p>\n"
 names = ["EP355 說到這個"]
@@ -1053,7 +957,6 @@ category = []
 [twc00356]
 name = "EP354 努力的天才 ft. 郭泓志"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/83434263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-1%2F794796ce-dc33-a739-dc39-aee74693c4f4.mp3"
-spotify = "https://open.spotify.com/episode/2mCIKyCUPBXoHWCV929uRW"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>\n</p>\n<p>本集節目由【Next Master】贊助播出</p>\n<p>傳奇「不死鳥」郭泓志親自設計教學</p>\n<p>郭泓志的大聯盟棒球課｜從投打訓練到自我體能強化🔥早鳥優惠中🔥</p>\n<p>🔗 <a href=\"https://www.pressplay.cc/link/s/432E72F8\">https://www.pressplay.cc/link/s/432E72F8</a> </p>\n<p>結帳輸入【COMMUTE56】再省150元！</p>\n<p>教你從基礎到進階，自主加強肌力、體能、投打技術</p>\n<p>還有郭董旅外、從受傷到東山再起的心路歷程和面對挑戰的心法</p>\n<p>除了提升運動表現，也來學習世界級選手的奮戰精神！</p>\n<p><br><br>\n\n</p>\n"
 names = ["EP354 努力的天才 ft. 郭泓志"]
@@ -1063,7 +966,6 @@ category = []
 [twc00355]
 name = "EP353 怎麼可能拆完裝得回去啦"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/83316178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-28%2F2401b67d-3e71-7f72-7998-2061b3c08466.mp3"
-spotify = "https://open.spotify.com/episode/7m1HNKCbWwk2UcUEUhxZko"
 image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
 description = "<p>本集節目由【NordVPN】贊助播出</p>\n<p>現在只要搜尋 nordvpn.com/commute</p>\n<p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p>\n<p>現在購買2年方案 `享贈送4個月及額外優惠好康`</p>\n<p>另有30天試用期，可以隨時取消</p>\n<p><br><br>\n\n</p>\n"
 names = ["EP353 怎麼可能拆完裝得回去啦"]
