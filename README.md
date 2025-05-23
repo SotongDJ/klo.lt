@@ -1,5 +1,7 @@
 # klo.lt Podcast Player
 
+[![pipeline status](https://gitlab.com/djtratoh/klolt/badges/main/pipeline.svg)](https://gitlab.com/djtratoh/klolt/-/commits/main)
+
 klo.lt is a podcast player I created to organize my favorite podcasts and streamline my listening experience.
 
 ![klo.lt Podcast Player](cover.jpg)
