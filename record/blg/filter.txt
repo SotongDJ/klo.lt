@@ -376,7 +376,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (313)
+  found in: (314)
+    blg00936
     blg00933
     blg00931
     blg00928
@@ -1689,7 +1690,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [沈伯洋（助理）教授]
-  found in: (3)
+  found in: (4)
+    blg00936
     blg00700
     blg00647
     blg00211
