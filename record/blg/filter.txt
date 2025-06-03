@@ -8,140 +8,139 @@ Process: record/blg/keyword-4-professional.toml
 Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
-  found in: (346)
-    blg00938
-    blg00935
-    blg00932
-    blg00930
-    blg00927
-    blg00924
-    blg00921
-    blg00918
-    blg00915
-    blg00913
-    blg00910
-    blg00908
-    blg00905
-    blg00902
-    blg00899
-    blg00896
-    blg00894
-    blg00891
-    blg00889
-    blg00886
-    blg00882
+  found in: (345)
+    blg00937
+    blg00934
+    blg00931
+    blg00929
+    blg00926
+    blg00923
+    blg00920
+    blg00917
+    blg00914
+    blg00912
+    blg00909
+    blg00907
+    blg00904
+    blg00901
+    blg00898
+    blg00895
+    blg00893
+    blg00890
+    blg00888
+    blg00885
     blg00881
     blg00880
-    blg00878
-    blg00876
-    blg00874
-    blg00871
-    blg00868
-    blg00865
-    blg00863
-    blg00860
-    blg00857
-    blg00855
-    blg00852
-    blg00848
-    blg00845
-    blg00843
-    blg00841
-    blg00838
-    blg00835
-    blg00832
-    blg00830
-    blg00827
-    blg00824
-    blg00821
-    blg00818
-    blg00815
-    blg00813
-    blg00810
-    blg00803
-    blg00801
-    blg00798
-    blg00795
-    blg00792
-    blg00789
-    blg00786
-    blg00783
-    blg00780
-    blg00778
-    blg00776
-    blg00774
-    blg00770
-    blg00768
-    blg00766
-    blg00763
-    blg00757
-    blg00754
-    blg00751
-    blg00749
-    blg00741
-    blg00738
-    blg00735
-    blg00731
-    blg00728
-    blg00724
-    blg00721
-    blg00717
-    blg00714
-    blg00712
-    blg00710
-    blg00707
-    blg00705
-    blg00702
-    blg00699
-    blg00696
-    blg00690
-    blg00687
-    blg00684
-    blg00681
-    blg00678
-    blg00674
-    blg00671
-    blg00667
-    blg00664
-    blg00662
-    blg00660
-    blg00657
-    blg00653
-    blg00649
-    blg00644
-    blg00642
-    blg00638
-    blg00635
-    blg00632
-    blg00630
-    blg00625
-    blg00622
-    blg00616
-    blg00613
-    blg00610
-    blg00607
-    blg00605
-    blg00590
-    blg00585
-    blg00551
-    blg00548
-    blg00544
-    blg00542
-    blg00540
-    blg00538
-    blg00536
+    blg00879
+    blg00877
+    blg00875
+    blg00873
+    blg00870
+    blg00867
+    blg00864
+    blg00862
+    blg00859
+    blg00856
+    blg00854
+    blg00851
+    blg00847
+    blg00844
+    blg00842
+    blg00840
+    blg00837
+    blg00834
+    blg00831
+    blg00829
+    blg00826
+    blg00823
+    blg00820
+    blg00817
+    blg00814
+    blg00812
+    blg00809
+    blg00802
+    blg00800
+    blg00797
+    blg00794
+    blg00791
+    blg00788
+    blg00785
+    blg00782
+    blg00779
+    blg00777
+    blg00775
+    blg00773
+    blg00769
+    blg00767
+    blg00765
+    blg00762
+    blg00756
+    blg00753
+    blg00750
+    blg00748
+    blg00740
+    blg00737
+    blg00734
+    blg00730
+    blg00727
+    blg00723
+    blg00720
+    blg00716
+    blg00713
+    blg00711
+    blg00709
+    blg00706
+    blg00704
+    blg00701
+    blg00698
+    blg00695
+    blg00689
+    blg00686
+    blg00683
+    blg00680
+    blg00677
+    blg00673
+    blg00670
+    blg00666
+    blg00663
+    blg00661
+    blg00659
+    blg00656
+    blg00652
+    blg00648
+    blg00643
+    blg00641
+    blg00637
+    blg00634
+    blg00631
+    blg00629
+    blg00624
+    blg00621
+    blg00615
+    blg00612
+    blg00609
+    blg00606
+    blg00604
+    blg00589
+    blg00584
+    blg00550
+    blg00547
+    blg00543
+    blg00541
+    blg00539
+    blg00537
     blg00532
-    blg00528
-    blg00524
-    blg00520
-    blg00516
-    blg00512
-    blg00508
-    blg00505
-    blg00501
-    blg00497
-    blg00494
-    blg00490
+    blg00527
+    blg00523
+    blg00519
+    blg00515
+    blg00511
+    blg00507
+    blg00504
+    blg00500
+    blg00496
+    blg00493
+    blg00489
     blg00487
     blg00483
     blg00480
@@ -339,22 +338,22 @@ Process: record/blg/keyword-6-beta.toml
     blg00005
     blg00004
     blg00003
-    blg00581
-    blg00578
-    blg00575
-    blg00572
-    blg00569
-    blg00566
-    blg00563
-    blg00560
-    blg00557
-    blg00554
+    blg00580
+    blg00577
+    blg00574
+    blg00571
+    blg00568
+    blg00565
+    blg00562
+    blg00559
+    blg00556
+    blg00553
     blg00135
     blg00002
     blg00318
-    blg00603
-    blg00597
-    blg00593
+    blg00602
+    blg00596
+    blg00592
   Excluded: (8)
     blg00093
     blg00091
@@ -372,195 +371,193 @@ Process: record/blg/keyword-6-beta.toml
     blg00191
     blg00019
     blg00007
-    blg00582
-    blg00596
+    blg00581
+    blg00595
   Excluded: (0)
     
 [KK Show]
-  found in: (314)
-    blg00936
-    blg00933
-    blg00931
-    blg00928
-    blg00925
-    blg00922
-    blg00919
-    blg00916
-    blg00914
-    blg00911
-    blg00909
-    blg00906
-    blg00903
-    blg00900
-    blg00897
-    blg00895
-    blg00893
+  found in: (312)
+    blg00935
+    blg00932
+    blg00930
+    blg00927
+    blg00924
+    blg00921
+    blg00918
+    blg00915
+    blg00913
+    blg00910
+    blg00908
+    blg00905
+    blg00902
+    blg00899
+    blg00896
+    blg00894
     blg00892
-    blg00890
-    blg00887
-    blg00884
+    blg00891
+    blg00889
+    blg00886
     blg00883
-    blg00879
-    blg00877
-    blg00875
-    blg00872
-    blg00869
-    blg00866
-    blg00864
-    blg00861
-    blg00858
-    blg00856
-    blg00853
-    blg00851
-    blg00849
-    blg00846
-    blg00842
-    blg00839
-    blg00836
-    blg00833
-    blg00831
-    blg00828
-    blg00825
-    blg00822
-    blg00819
-    blg00816
-    blg00814
-    blg00811
-    blg00808
-    blg00806
+    blg00882
+    blg00878
+    blg00876
+    blg00874
+    blg00871
+    blg00868
+    blg00865
+    blg00863
+    blg00860
+    blg00857
+    blg00855
+    blg00852
+    blg00850
+    blg00848
+    blg00845
+    blg00841
+    blg00838
+    blg00835
+    blg00832
+    blg00830
+    blg00827
+    blg00824
+    blg00821
+    blg00818
+    blg00815
+    blg00813
+    blg00810
+    blg00807
     blg00805
     blg00804
-    blg00802
-    blg00799
-    blg00796
-    blg00793
-    blg00790
-    blg00787
-    blg00784
-    blg00782
+    blg00803
+    blg00801
+    blg00798
+    blg00795
+    blg00792
+    blg00789
+    blg00786
+    blg00783
     blg00781
-    blg00779
-    blg00777
-    blg00775
-    blg00773
-    blg00771
-    blg00769
-    blg00767
-    blg00765
+    blg00780
+    blg00778
+    blg00776
+    blg00774
+    blg00772
+    blg00770
+    blg00768
+    blg00766
     blg00764
-    blg00762
+    blg00763
     blg00761
-    blg00758
-    blg00755
-    blg00752
-    blg00750
-    blg00747
+    blg00760
+    blg00757
+    blg00754
+    blg00751
+    blg00749
     blg00746
     blg00745
     blg00744
-    blg00742
-    blg00740
+    blg00743
+    blg00741
     blg00739
-    blg00736
-    blg00732
-    blg00729
-    blg00726
+    blg00738
+    blg00735
+    blg00731
+    blg00728
     blg00725
-    blg00722
-    blg00720
+    blg00724
+    blg00721
     blg00719
     blg00718
-    blg00715
-    blg00713
-    blg00711
-    blg00708
-    blg00706
-    blg00703
-    blg00700
-    blg00697
-    blg00694
+    blg00717
+    blg00714
+    blg00712
+    blg00710
+    blg00707
+    blg00705
+    blg00702
+    blg00699
+    blg00696
     blg00693
-    blg00691
-    blg00688
-    blg00685
-    blg00682
-    blg00679
-    blg00677
-    blg00675
-    blg00672
-    blg00670
+    blg00692
+    blg00690
+    blg00687
+    blg00684
+    blg00681
+    blg00678
+    blg00676
+    blg00674
+    blg00671
     blg00669
     blg00668
-    blg00665
-    blg00663
-    blg00661
-    blg00659
+    blg00667
+    blg00664
+    blg00662
+    blg00660
     blg00658
-    blg00656
+    blg00657
     blg00655
     blg00654
-    blg00650
-    blg00648
+    blg00653
+    blg00649
     blg00647
-    blg00645
-    blg00643
-    blg00641
+    blg00646
+    blg00644
+    blg00642
     blg00640
     blg00639
-    blg00636
-    blg00633
-    blg00631
-    blg00628
+    blg00638
+    blg00635
+    blg00632
+    blg00630
     blg00627
     blg00626
-    blg00623
-    blg00621
+    blg00625
+    blg00622
     blg00620
-    blg00617
-    blg00614
-    blg00611
-    blg00608
-    blg00606
-    blg00604
-    blg00602
+    blg00619
+    blg00616
+    blg00613
+    blg00610
+    blg00607
+    blg00605
+    blg00603
     blg00601
-    blg00599
-    blg00594
-    blg00591
-    blg00588
+    blg00600
+    blg00598
+    blg00593
+    blg00590
     blg00587
     blg00586
-    blg00583
-    blg00579
-    blg00576
-    blg00573
-    blg00570
-    blg00567
-    blg00564
-    blg00561
-    blg00558
-    blg00555
-    blg00552
-    blg00549
-    blg00546
-    blg00543
-    blg00541
-    blg00539
-    blg00537
-    blg00533
-    blg00529
-    blg00525
-    blg00521
-    blg00517
-    blg00513
-    blg00509
-    blg00506
-    blg00502
-    blg00498
-    blg00496
+    blg00585
+    blg00582
+    blg00578
+    blg00575
+    blg00572
+    blg00569
+    blg00566
+    blg00563
+    blg00560
+    blg00557
+    blg00554
+    blg00551
+    blg00548
+    blg00545
+    blg00542
+    blg00540
+    blg00538
+    blg00536
+    blg00528
+    blg00524
+    blg00520
+    blg00516
+    blg00512
+    blg00508
+    blg00505
+    blg00501
+    blg00497
     blg00495
-    blg00491
-    blg00488
+    blg00494
+    blg00490
     blg00484
     blg00481
     blg00478
@@ -688,7 +685,7 @@ Process: record/blg/keyword-6-beta.toml
     blg00120
     blg00118
     blg00113
-    blg00646
+    blg00645
     blg00263
     blg00205
     blg00195
@@ -705,59 +702,58 @@ Process: record/blg/keyword-6-beta.toml
     
 [THE STIR]
   found in: (10)
-    blg00534
-    blg00530
-    blg00526
-    blg00522
-    blg00518
-    blg00514
-    blg00510
-    blg00507
-    blg00503
-    blg00499
+    blg00533
+    blg00529
+    blg00525
+    blg00521
+    blg00517
+    blg00513
+    blg00509
+    blg00506
+    blg00502
+    blg00498
   Excluded: (0)
     
 [Catching up]
   found in: (8)
-    blg00791
-    blg00759
-    blg00748
-    blg00743
-    blg00734
-    blg00727
-    blg00723
-    blg00730
+    blg00790
+    blg00758
+    blg00747
+    blg00742
+    blg00733
+    blg00726
+    blg00722
+    blg00729
   Excluded: (0)
     
 [讀書會]
-  found in: (140)
-    blg00937
-    blg00934
-    blg00929
-    blg00704
-    blg00692
-    blg00686
-    blg00680
-    blg00651
-    blg00637
-    blg00609
-    blg00600
-    blg00589
-    blg00580
-    blg00577
-    blg00574
-    blg00571
-    blg00568
-    blg00556
-    blg00553
-    blg00550
+  found in: (139)
+    blg00936
+    blg00933
+    blg00928
+    blg00703
+    blg00691
+    blg00685
+    blg00679
+    blg00650
+    blg00636
+    blg00608
+    blg00599
+    blg00588
+    blg00579
+    blg00576
+    blg00573
+    blg00570
+    blg00567
+    blg00555
+    blg00552
+    blg00549
     blg00535
-    blg00531
-    blg00519
-    blg00504
-    blg00500
-    blg00493
-    blg00489
+    blg00530
+    blg00518
+    blg00503
+    blg00499
+    blg00488
     blg00486
     blg00482
     blg00479
@@ -876,46 +872,45 @@ Process: record/blg/keyword-6-beta.toml
     blg00093
 [王子習近平]
   found in: (5)
-    blg00600
-    blg00589
-    blg00580
-    blg00577
-    blg00574
+    blg00599
+    blg00588
+    blg00579
+    blg00576
+    blg00573
   Excluded: (0)
     
 [Hot Money]
   found in: (4)
-    blg00704
-    blg00692
-    blg00686
-    blg00680
+    blg00703
+    blg00691
+    blg00685
+    blg00679
   Excluded: (0)
     
 [八尺門的辯護人]
   found in: (4)
-    blg00651
-    blg00637
-    blg00609
-    blg00571
+    blg00650
+    blg00636
+    blg00608
+    blg00570
   Excluded: (0)
     
 [同情者]
   found in: (7)
-    blg00568
-    blg00556
-    blg00553
-    blg00550
+    blg00567
+    blg00555
+    blg00552
+    blg00549
     blg00535
-    blg00531
-    blg00519
+    blg00530
+    blg00518
   Excluded: (0)
     
 [柏青哥]
-  found in: (7)
-    blg00504
-    blg00500
-    blg00493
-    blg00489
+  found in: (6)
+    blg00503
+    blg00499
+    blg00488
     blg00486
     blg00482
     blg00479
@@ -1106,7 +1101,7 @@ Process: record/blg/keyword-6-beta.toml
   found in: (11)
     blg00093
     blg00305
-    blg00547
+    blg00546
     blg00444
     blg00454
     blg00400
@@ -1145,8 +1140,8 @@ Process: record/blg/keyword-6-beta.toml
     
 [八角籠]
   found in: (5)
-    blg00565
-    blg00527
+    blg00564
+    blg00526
     blg00436
     blg00373
     blg00369
@@ -1154,189 +1149,189 @@ Process: record/blg/keyword-6-beta.toml
     
 [Clubhouse 直播]
   found in: (7)
-    blg00527
+    blg00526
     blg00436
     blg00373
     blg00369
-    blg00511
+    blg00510
     blg00492
-    blg00598
+    blg00597
   Excluded: (0)
     
 [小孩限定]
   found in: (29)
-    blg00926
-    blg00923
-    blg00912
-    blg00907
-    blg00904
-    blg00901
-    blg00898
-    blg00888
-    blg00885
-    blg00881
-    blg00873
-    blg00870
-    blg00867
-    blg00862
-    blg00854
-    blg00850
-    blg00847
-    blg00844
-    blg00840
-    blg00837
-    blg00834
-    blg00829
-    blg00826
-    blg00823
-    blg00820
-    blg00817
-    blg00812
-    blg00809
-    blg00800
+    blg00925
+    blg00922
+    blg00911
+    blg00906
+    blg00903
+    blg00900
+    blg00897
+    blg00887
+    blg00884
+    blg00880
+    blg00872
+    blg00869
+    blg00866
+    blg00861
+    blg00853
+    blg00849
+    blg00846
+    blg00843
+    blg00839
+    blg00836
+    blg00833
+    blg00828
+    blg00825
+    blg00822
+    blg00819
+    blg00816
+    blg00811
+    blg00808
+    blg00799
   Excluded: (0)
     
 [隱藏版 KK Show]
   found in: (13)
-    blg00523
-    blg00515
+    blg00522
+    blg00514
     blg00091
-    blg00559
+    blg00558
     blg00077
-    blg00753
-    blg00756
-    blg00785
-    blg00788
-    blg00737
-    blg00730
-    blg00794
-    blg00797
+    blg00752
+    blg00755
+    blg00784
+    blg00787
+    blg00736
+    blg00729
+    blg00793
+    blg00796
   Excluded: (0)
     
 [週二夜現場]
   found in: (17)
-    blg00716
-    blg00709
-    blg00698
-    blg00689
-    blg00683
-    blg00666
-    blg00652
-    blg00634
-    blg00629
-    blg00624
-    blg00618
-    blg00615
-    blg00612
-    blg00595
-    blg00592
-    blg00584
-    blg00562
+    blg00715
+    blg00708
+    blg00697
+    blg00688
+    blg00682
+    blg00665
+    blg00651
+    blg00633
+    blg00628
+    blg00623
+    blg00617
+    blg00614
+    blg00611
+    blg00594
+    blg00591
+    blg00583
+    blg00561
   Excluded: (0)
     
 [喬瑟夫]
   found in: (2)
-    blg00595
-    blg00591
+    blg00594
+    blg00590
   Excluded: (0)
     
 [樂樂法利]
   found in: (5)
-    blg00784
-    blg00592
-    blg00543
-    blg00597
-    blg00743
+    blg00783
+    blg00591
+    blg00542
+    blg00596
+    blg00742
   Excluded: (0)
     
 [佳諭]
   found in: (2)
-    blg00811
-    blg00794
+    blg00810
+    blg00793
   Excluded: (0)
     
 [Social]
   found in: (3)
-    blg00864
-    blg00752
+    blg00863
+    blg00751
     blg00438
   Excluded: (0)
     
 [歐馬克]
   found in: (3)
-    blg00506
+    blg00505
     blg00468
     blg00129
   Excluded: (0)
     
 [微笑丹尼]
   found in: (2)
-    blg00515
+    blg00514
     blg00358
   Excluded: (0)
     
 [博恩]
   found in: (4)
-    blg00752
-    blg00659
-    blg00595
+    blg00751
+    blg00658
+    blg00594
     blg00298
   Excluded: (3)
-    blg00705
+    blg00704
     blg00414
     blg00137
 [權樂]
   found in: (2)
-    blg00782
-    blg00549
+    blg00781
+    blg00548
   Excluded: (0)
     
 [艾董]
   found in: (2)
-    blg00716
+    blg00715
     blg00126
   Excluded: (0)
     
 [黃豪平]
   found in: (5)
-    blg00828
-    blg00771
-    blg00515
+    blg00827
+    blg00770
+    blg00514
     blg00268
     blg00123
   Excluded: (0)
     
 [賀瓏]
   found in: (4)
-    blg00884
-    blg00703
-    blg00502
+    blg00883
+    blg00702
+    blg00501
     blg00137
   Excluded: (0)
     
 [怡岑]
   found in: (2)
-    blg00654
+    blg00653
     blg00150
   Excluded: (0)
     
 [酸酸]
   found in: (3)
-    blg00523
+    blg00522
     blg00485
     blg00167
   Excluded: (0)
     
 [呱吉]
   found in: (12)
-    blg00933
-    blg00912
-    blg00908
-    blg00797
-    blg00754
-    blg00689
-    blg00629
+    blg00932
+    blg00911
+    blg00907
+    blg00796
+    blg00753
+    blg00688
     blg00628
+    blg00627
     blg00456
     blg00368
     blg00187
@@ -1345,35 +1340,35 @@ Process: record/blg/keyword-6-beta.toml
     blg00345
 [歐耶]
   found in: (3)
-    blg00771
-    blg00716
-    blg00608
+    blg00770
+    blg00715
+    blg00607
   Excluded: (0)
     
 [Jim]
   found in: (4)
-    blg00856
-    blg00761
-    blg00491
+    blg00855
+    blg00760
+    blg00490
     blg00178
   Excluded: (0)
     
 [壯壯]
   found in: (2)
-    blg00864
-    blg00675
+    blg00863
+    blg00674
   Excluded: (0)
     
 [范琪斐]
   found in: (8)
-    blg00912
-    blg00832
-    blg00695
+    blg00911
+    blg00831
+    blg00694
     blg00255
     blg00243
     blg00181
     blg00140
-    blg00512
+    blg00511
   Excluded: (0)
     
 [敏迪 @敏迪選讀]
@@ -1381,44 +1376,44 @@ Process: record/blg/keyword-6-beta.toml
     blg00389
     blg00091
     blg00243
-    blg00512
-    blg00548
+    blg00511
+    blg00547
     blg00407
     blg00476
   Excluded: (0)
     
 [志祺 @志祺七七]
   found in: (2)
-    blg00525
+    blg00524
     blg00251
   Excluded: (0)
     
 [Ms Puiyi]
   found in: (2)
-    blg00875
-    blg00656
+    blg00874
+    blg00655
   Excluded: (0)
     
 [阿滴]
   found in: (4)
-    blg00931
-    blg00525
+    blg00930
+    blg00524
     blg00365
     blg00251
   Excluded: (0)
     
 [Joeman]
   found in: (4)
-    blg00652
-    blg00650
-    blg00509
+    blg00651
+    blg00649
+    blg00508
     blg00223
   Excluded: (0)
     
 [蔡阿嘎]
   found in: (2)
-    blg00831
-    blg00669
+    blg00830
+    blg00668
   Excluded: (0)
     
 [邱 grr]
@@ -1430,30 +1425,30 @@ Process: record/blg/keyword-6-beta.toml
 [Lucas @BBK Network]
   found in: (2)
     blg00390
-    blg00672
+    blg00671
   Excluded: (0)
     
 [Eric @The DoDo Men]
   found in: (2)
-    blg00787
-    blg00732
+    blg00786
+    blg00731
   Excluded: (0)
     
 [Peggy]
   found in: (8)
-    blg00641
-    blg00791
-    blg00759
-    blg00748
-    blg00743
-    blg00734
-    blg00727
-    blg00723
+    blg00640
+    blg00790
+    blg00758
+    blg00747
+    blg00742
+    blg00733
+    blg00726
+    blg00722
   Excluded: (1)
-    blg00730
+    blg00729
 [阿爆]
   found in: (4)
-    blg00645
+    blg00644
     blg00443
     blg00322
     blg00147
@@ -1461,8 +1456,8 @@ Process: record/blg/keyword-6-beta.toml
     blg00245
 [陶晶瑩]
   found in: (2)
-    blg00805
-    blg00742
+    blg00804
+    blg00741
   Excluded: (0)
     
 [阿拉斯]
@@ -1473,44 +1468,44 @@ Process: record/blg/keyword-6-beta.toml
     
 [MATZKA]
   found in: (2)
-    blg00606
-    blg00806
+    blg00605
+    blg00805
   Excluded: (0)
     
 [中指通]
   found in: (2)
-    blg00618
     blg00617
+    blg00616
   Excluded: (0)
     
 [小澤瑪利亞]
   found in: (2)
-    blg00599
-    blg00715
+    blg00598
+    blg00714
   Excluded: (0)
     
 [石巴朝]
   found in: (2)
-    blg00698
+    blg00697
     blg00337
   Excluded: (0)
     
 [Kimberley陳芳語]
   found in: (3)
-    blg00825
+    blg00824
     blg00475
     blg00423
   Excluded: (0)
     
 [大霈]
   found in: (2)
+    blg00610
     blg00611
-    blg00612
   Excluded: (0)
     
 [布拉瑞揚 @布拉瑞揚舞團]
   found in: (2)
-    blg00645
+    blg00644
     blg00340
   Excluded: (0)
     
@@ -1522,19 +1517,19 @@ Process: record/blg/keyword-6-beta.toml
     
 [唐綺陽]
   found in: (2)
-    blg00764
+    blg00763
     blg00265
   Excluded: (0)
     
 [台灣通勤第一品牌]
   found in: (2)
-    blg00709
+    blg00708
     blg00229
   Excluded: (1)
     blg00197
 [瑞典劉先生]
   found in: (2)
-    blg00546
+    blg00545
     blg00384
   Excluded: (0)
     
@@ -1546,8 +1541,8 @@ Process: record/blg/keyword-6-beta.toml
     
 [Roger]
   found in: (3)
-    blg00853
-    blg00845
+    blg00852
+    blg00844
     blg00195
   Excluded: (0)
     
@@ -1573,22 +1568,22 @@ Process: record/blg/keyword-6-beta.toml
     
 [陳秋實]
   found in: (2)
-    blg00578
+    blg00577
     blg00481
   Excluded: (0)
     
 [王志安]
   found in: (3)
-    blg00760
-    blg00722
-    blg00623
+    blg00759
+    blg00721
+    blg00622
   Excluded: (0)
     
 [鄒宗翰 @德國之聲]
   found in: (3)
-    blg00661
-    blg00624
-    blg00820
+    blg00660
+    blg00623
+    blg00819
   Excluded: (0)
     
 [Jason 劉致昕]
@@ -1596,15 +1591,15 @@ Process: record/blg/keyword-6-beta.toml
     blg00238
     blg00376
   Excluded: (1)
-    blg00790
+    blg00789
 [小周@人渣文本]
   found in: (6)
-    blg00683
-    blg00666
-    blg00634
-    blg00587
+    blg00682
+    blg00665
+    blg00633
+    blg00586
     blg00469
-    blg00799
+    blg00798
   Excluded: (0)
     
 [Chiels]
@@ -1621,9 +1616,9 @@ Process: record/blg/keyword-6-beta.toml
     
 [葉耀元教授]
   found in: (6)
-    blg00829
-    blg00666
+    blg00828
     blg00665
+    blg00664
     blg00460
     blg00378
     blg00316
@@ -1631,16 +1626,16 @@ Process: record/blg/keyword-6-beta.toml
     
 [阿江營養師]
   found in: (2)
-    blg00785
-    blg00691
+    blg00784
+    blg00690
   Excluded: (0)
     
 [館長]
   found in: (2)
-    blg00584
     blg00583
+    blg00582
   Excluded: (1)
-    blg00603
+    blg00602
 [Angel]
   found in: (2)
     blg00287
@@ -1649,20 +1644,20 @@ Process: record/blg/keyword-6-beta.toml
     blg00164
 [Aaron]
   found in: (2)
-    blg00819
-    blg00604
+    blg00818
+    blg00603
   Excluded: (0)
     
 [李小牧]
   found in: (2)
-    blg00755
-    blg00627
+    blg00754
+    blg00626
   Excluded: (0)
     
 [曹興誠]
   found in: (2)
-    blg00562
     blg00561
+    blg00560
   Excluded: (0)
     
 [顧立楷]
@@ -1673,54 +1668,54 @@ Process: record/blg/keyword-6-beta.toml
     
 [可心]
   found in: (4)
-    blg00915
-    blg00835
-    blg00677
+    blg00914
+    blg00834
+    blg00676
     blg00328
   Excluded: (0)
     
 [咪咪]
   found in: (2)
-    blg00683
     blg00682
+    blg00681
   Excluded: (0)
     
 [雕大 @IEObserve]
   found in: (2)
-    blg00928
-    blg00582
+    blg00927
+    blg00581
   Excluded: (0)
     
 [沈伯洋（助理）教授]
   found in: (4)
-    blg00936
-    blg00700
-    blg00647
+    blg00935
+    blg00699
+    blg00646
     blg00211
   Excluded: (0)
     
 [2022台灣地方選舉]
   found in: (4)
-    blg00596
-    blg00590
-    blg00588
+    blg00595
+    blg00589
     blg00587
+    blg00586
   Excluded: (0)
     
 [日本遶境]
   found in: (4)
-    blg00544
-    blg00569
-    blg00572
-    blg00590
+    blg00543
+    blg00568
+    blg00571
+    blg00589
   Excluded: (0)
     
 [裴洛西訪台事件]
   found in: (4)
+    blg00543
     blg00544
-    blg00545
+    blg00546
     blg00547
-    blg00548
   Excluded: (0)
     
 [五月天事件]
@@ -1732,15 +1727,15 @@ Process: record/blg/keyword-6-beta.toml
     
 [《還有第七人》宣傳]
   found in: (2)
-    blg00794
-    blg00788
+    blg00793
+    blg00787
   Excluded: (0)
     
 [百靈果立院事件]
   found in: (3)
-    blg00799
     blg00798
     blg00797
+    blg00796
   Excluded: (0)
     
     ----
