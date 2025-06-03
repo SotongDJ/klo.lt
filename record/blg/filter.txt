@@ -376,7 +376,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (312)
+  found in: (313)
+    blg00938
     blg00935
     blg00932
     blg00930
@@ -1227,6 +1228,12 @@ Process: record/blg/keyword-6-beta.toml
     blg00591
     blg00583
     blg00561
+  Excluded: (0)
+    
+[瑞恩]
+  found in: (2)
+    blg00938
+    blg00642
   Excluded: (0)
     
 [喬瑟夫]
