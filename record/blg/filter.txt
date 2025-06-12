@@ -730,7 +730,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [讀書會]
-  found in: (140)
+  found in: (141)
+    blg00942
     blg00939
     blg00936
     blg00933
