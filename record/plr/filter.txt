@@ -2,17 +2,22 @@
 Start annotation
 Process: record/plr/keyword-0.toml
 [政治歸政治]
-  found in: (181)
-    plr00673
-    plr00670
+  found in: (186)
+    plr00691
+    plr00689
+    plr00683
+    plr00677
+    plr00675
+    plr00672
     plr00669
-    plr00666
+    plr00668
     plr00665
-    plr00662
-    plr00660
-    plr00658
-    plr00654
-    plr00652
+    plr00664
+    plr00661
+    plr00659
+    plr00657
+    plr00653
+    plr00651
     plr00644
     plr00634
     plr00631
@@ -187,9 +192,13 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [法客話題]
-  found in: (146)
-    plr00667
-    plr00655
+  found in: (150)
+    plr00687
+    plr00685
+    plr00682
+    plr00680
+    plr00666
+    plr00654
     plr00650
     plr00642
     plr00641
@@ -337,11 +346,19 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [YO智事務所]
-  found in: (92)
-    plr00664
-    plr00661
-    plr00657
-    plr00653
+  found in: (100)
+    plr00697
+    plr00696
+    plr00690
+    plr00684
+    plr00681
+    plr00678
+    plr00676
+    plr00673
+    plr00663
+    plr00660
+    plr00656
+    plr00652
     plr00649
     plr00645
     plr00643
@@ -433,10 +450,11 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [政治歸YO智]
-  found in: (45)
-    plr00672
+  found in: (46)
+    plr00694
     plr00671
-    plr00656
+    plr00670
+    plr00655
     plr00646
     plr00636
     plr00635

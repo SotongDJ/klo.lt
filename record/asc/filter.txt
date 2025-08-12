@@ -48,12 +48,19 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [冥想]
-  found in: (5)
+  found in: (6)
+    asc00168
     asc00052
     asc00045
     asc00016
     asc00053
     asc00034
+  Excluded: (0)
+    
+[許願]
+  found in: (2)
+    asc00169
+    asc00008
   Excluded: (0)
     
 [生命靈數]
@@ -96,7 +103,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [高我]
-  found in: (4)
+  found in: (5)
+    asc00168
     asc00084
     asc00039
     asc00032
@@ -111,7 +119,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [夢]
-  found in: (6)
+  found in: (7)
+    asc00170
     asc00087
     asc00085
     asc00076

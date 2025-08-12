@@ -8,7 +8,14 @@ Process: record/blg/keyword-4-professional.toml
 Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
-  found in: (347)
+  found in: (354)
+    blg00961
+    blg00958
+    blg00956
+    blg00953
+    blg00951
+    blg00949
+    blg00946
     blg00943
     blg00940
     blg00937
@@ -378,7 +385,14 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (315)
+  found in: (322)
+    blg00959
+    blg00957
+    blg00955
+    blg00954
+    blg00952
+    blg00950
+    blg00947
     blg00944
     blg00941
     blg00938
@@ -1167,7 +1181,9 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [小孩限定]
-  found in: (29)
+  found in: (31)
+    blg00960
+    blg00948
     blg00925
     blg00922
     blg00911
@@ -1235,6 +1251,12 @@ Process: record/blg/keyword-6-beta.toml
     blg00591
     blg00583
     blg00561
+  Excluded: (0)
+    
+[Atsuko Okatsuka]
+  found in: (2)
+    blg00954
+    blg00657
   Excluded: (0)
     
 [瑞恩]
@@ -1353,7 +1375,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (1)
     blg00345
 [歐耶]
-  found in: (3)
+  found in: (4)
+    blg00955
     blg00770
     blg00715
     blg00607
@@ -1425,9 +1448,16 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [蔡阿嘎]
-  found in: (2)
+  found in: (3)
+    blg00960
     blg00830
     blg00668
+  Excluded: (0)
+    
+[二伯]
+  found in: (2)
+    blg00960
+    blg00830
   Excluded: (0)
     
 [邱 grr]
