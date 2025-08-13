@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[fnf00708]
+name = "【呱吉直播】呱吉電台EP220：我們都是一家人嗎？"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/d02f17d0-fa90-407e-af62-697f9ef4a673/rssFileVip.mp3"
+image = "64e42ec69879b743091e18d36f4c24f53896359beafbcd4587a79bb101603fe0"
+description = "快來加入LCL \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP220：我們都是一家人嗎？"]
+tag = ["Aug 13, 2025", "Aug 2025", "2025"]
+category = []
+
 [fnf00707]
 name = "【呱吉】新資料夾(244)：一年半的糧食"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/572f015e-e46d-4e1e-a680-597949641593/rssFileVip.mp3"
@@ -1352,7 +1361,7 @@ category = []
 
 [fnf00557]
 name = "【呱吉直播】呱吉電台EP174：大聯盟愛情故事"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0cf8de04-2b16-4224-b9e9-3ab2aab9423d/rssFileVip.mp3"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0f63ea02-192d-43f4-befb-104c9e78aefe/rssFileVip.mp3"
 image = "a4eb14747cea6b0b436301e0d4b73879126a2df404219caa666c6f13d7bf30fc"
 description = "有時候你需要換個角度看世界 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】呱吉電台EP174：大聯盟愛情故事"]
