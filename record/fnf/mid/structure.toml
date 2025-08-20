@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[fnf00710]
+name = "【呱吉直播】呱吉電台EP221：我不要厭女的蘋果派"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f3935fd9-2e5c-4b4d-88f3-a1f1e22d6fc0/rssFileVip.mp3"
+image = "8ca67582f321546e0be4921f60393ff01d47c7ae637057841aca86548dfa368f"
+description = "當然敢聊 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP221：我不要厭女的蘋果派"]
+tag = ["Aug 20, 2025", "Aug 2025", "2025"]
+category = []
+
 [fnf00709]
 name = "【呱吉】新資料夾(245)：鏗鏗鏘鏘"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/78957e00-4e08-44df-9d94-cbd331982254/rssFileVip.mp3"
