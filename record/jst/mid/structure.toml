@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00699]
+name = "【本週提醒】努力，是不靠運氣就能成功的關鍵✨"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmeqixvvm011g01zie9u39h61/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmeqixvvm011h01zi4jn2bcdz.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽8/25-8/31星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br /> <br />【累的】牡羊 雙子 獅子 天秤 <br /> <br />牡羊：可能需支援長輩狀況，感情浪漫點別太呆板 <br />雙子：當心做事失去許多彈性，感情別因小事起爭執 <br />獅子：處理小事是有意義的，感情要放下面子維護 <br />天秤：放下過去成功重新開始，感情該斷則斷更輕鬆 <br /> <br />【穩的】金牛 處女 射手 水瓶 <br /> <br />金牛：事業太旺反而難消化，感情注意爛桃花多 <br />處女：順行中仍需積極維護，感情小心情敵出現 <br />射手：中階主管意見多，感情中要收斂脾氣 <br />水瓶：別太拒人於千里之外，感情有人放電卻忽略 <br /> <br />【讚的】巨蟹 天蠍 魔羯 雙魚 <br /> <br />巨蟹：受女性貴人提拔提攜，感情可期待年下戀 <br />天蠍：合作順利進展快速，感情有機會一見鍾情 <br />魔羯：事業單打獨鬥更順利，感情自己作主最安穩 <br />雙魚：創作性工作更順暢，感情太多情緒顯得花心</p>"
+names = ["【本週提醒】努力，是不靠運氣就能成功的關鍵✨"]
+tag = ["Aug 25, 2025", "Aug 2025", "2025"]
+category = []
+
 [jst00698]
 name = "EP447 當地球的bug越來越多（鬼月特輯）"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmemlaa6g002s01ylahbc0b1t/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmemlaa6g002t01yl25zg6kmp.mp3"
