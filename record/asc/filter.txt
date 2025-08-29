@@ -162,7 +162,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [財神]
-  found in: (2)
+  found in: (3)
+    asc00177
     asc00101
     asc00037
   Excluded: (0)
