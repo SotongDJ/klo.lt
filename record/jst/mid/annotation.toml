@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00702]
+name = "【本週提醒】靜下來，回到內心世界"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmf0etvhb03ou01s32t4chusi/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmf0etvhb03ov01s31al5e00j.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽9/1-9/7星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br /> <br />【累的】雙子 天秤 天蠍 射手 <br /> <br />雙子：無法兼顧需做抉擇，感情也是二選一 <br />天秤：好好守法避免踩線，感情不要過度付出 <br />天蠍：提防被詐騙或被辜負，感情要張大眼看清真相 <br />射手：一定要注意身體健康，感情爭執可能白熱化 <br /> <br />【穩的】牡羊 金牛 水瓶 雙魚 <br /> <br />牡羊：工作計畫逐步成形中，感情和另一半錢要談清楚 <br />金牛：出現強勁對手考驗志氣，感情可能情緒爆發 <br />水瓶：原則堅定難商量，感情被認為太過守舊頑固 <br />雙魚：可停看聽暫緩前行，感情適合度假或再觀望 <br /> <br />【讚的】巨蟹 獅子 處女 魔羯 <br /> <br />巨蟹：財運佳適合談錢，感情運旺告白易成功 <br />獅子：工作貴人多有助力，感情出現許多愛慕者 <br />處女：好人緣帶動業績上升，感情變身魅力發電機 <br />魔羯：內部運作順利流暢，感情居家魅力更突出</p>"
+names = ["【本週提醒】靜下來，回到內心世界"]
+tag = ["Sep 01, 2025", "Sep 2025", "2025", "本週提醒"]
+category = ["運勢"]
+
 [jst00701]
 name = "EP449 不是聰明就夠了ft.侯文詠"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmewoqxrd023p01v9g267bouy/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmewoqxrd023q01v91bnp7ari.mp3"
