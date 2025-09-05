@@ -103,7 +103,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [高我]
-  found in: (5)
+  found in: (6)
+    asc00178
     asc00168
     asc00084
     asc00039
