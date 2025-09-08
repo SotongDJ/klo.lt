@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00705]
+name = "【本週提醒】別擔心，危機就是轉機"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmfakerqt05ia01qf0f9ih02p/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmfakerqt05ib01qf0kb2heuq.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽9/8-9/14星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br /> <br />【累的】牡羊 金牛 天蠍 水瓶 <br /> <br />牡羊：遠景規劃不可輕信，感情拖延導致關係卡住 <br />金牛：面對卡關需積極突圍，感情小心致命吸引力 <br />天蠍：以柔克剛更有效果，感情退一步反而更靠近 <br />水瓶：合作狀況需緊密追蹤，感情容易爭執請多關心 <br /> <br />【穩的】處女 天秤 魔羯 雙魚 <br /> <br />處女：海外相關運勢表現強，感情有旅行計畫更加分 <br />天秤：關鍵是下屬表現需關注，感情少說少錯免翻車 <br />魔羯：工作穩定安全過關，感情過於平淡添些驚喜 <br />雙魚：臨時動議能有驚喜，感情出外走走更有趣 <br /> <br />【讚的】雙子 巨蟹 獅子 射手 <br /> <br />雙子：專業人士合作助力強，感情高冷反而有魅力 <br />巨蟹：臨場靈感幫助解難題，感情裡有犀利女強人 <br />獅子：走人和路線諸事順遂，感情家人影響是關鍵 <br />射手：有機會爭取升遷或主導，感情少說多做主動追</p>"
+names = ["【本週提醒】別擔心，危機就是轉機"]
+tag = ["Sep 08, 2025", "Sep 2025", "2025", "本週提醒"]
+category = ["運勢"]
+
 [jst00704]
 name = "EP451 水星進處女，整理人生趁現在🧹"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmf6lj92q01me01sad4se1uxf/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmf6lj92r01mf01sa6uyecm3c.mp3"
