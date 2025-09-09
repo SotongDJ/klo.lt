@@ -389,7 +389,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (326)
+  found in: (327)
+    blg00971
     blg00968
     blg00966
     blg00964
@@ -1514,7 +1515,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [阿拉斯]
-  found in: (2)
+  found in: (3)
+    blg00971
     blg00443
     blg00322
   Excluded: (0)
