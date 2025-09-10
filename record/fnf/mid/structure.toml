@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[fnf00717]
+name = "【呱吉直播】名古屋野外露台：對啦寰宇龍虎豹啦"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/81fbdce4-514f-4d6b-93ac-14fab58cac8c/rssFileVip.mp3"
+image = "ca9ff42aa0d1b39f3e5928f647f2774c6554bdc567098b65c050c369ee24571f"
+description = "**本週乾爹：NordVPN \n現在前往 <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbHQ4QlYyd05TZ2h0eW9MRThWRnFZZGdUY0Itd3xBQ3Jtc0tsd1hLdWxBS0p1UTBlQjBiUGVtX2NpRmhpZEJDek5GWnVYQklOTUpfSW45N3ZldU5GeHRyU3pwcm85ZUtOTWVMOVhPYnNjUlA5SWlJTzdFTHhKOUhOUDhicERhRGtSWWhWWWhCWFhmblhLSTJiaDRvUQ&amp;q=https%3A%2F%2Fnordvpn.com%2Fnewfolder&amp;v=4r1ZnkbK66I\">https://nordvpn.com/newfolder</a> \n並在結帳時使用優惠代碼 [newfolder] \n購買兩年方案加贈4個月，還有30天內退款保證！ \n  \n<a href=\"https://www.youtube.com/hashtag/nordvpn\">#NordVPN</a> \n  \n要來了啦 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】名古屋野外露台：對啦寰宇龍虎豹啦"]
+tag = ["Sep 10, 2025", "Sep 2025", "2025"]
+category = []
+
 [fnf00716]
 name = "【呱吉】新資料夾(248)：殺雞拔毛"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/71fc9d6f-6428-4706-8dc0-118ad36bbdff/rssFileVip.mp3"
@@ -1433,7 +1442,7 @@ category = []
 
 [fnf00557]
 name = "【呱吉直播】呱吉電台EP174：大聯盟愛情故事"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0f63ea02-192d-43f4-befb-104c9e78aefe/rssFileVip.mp3"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0cf8de04-2b16-4224-b9e9-3ab2aab9423d/rssFileVip.mp3"
 image = "a4eb14747cea6b0b436301e0d4b73879126a2df404219caa666c6f13d7bf30fc"
 description = "有時候你需要換個角度看世界 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】呱吉電台EP174：大聯盟愛情故事"]
