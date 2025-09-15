@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00708]
+name = "【本週提醒】問題會出現，代表都是可以修正的🔨"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmfkj6dzm001d01uzcagi0oar/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmfkj6dzn001e01uz987ug8ey.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽9/15-9/21星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br /> <br />【累的】巨蟹 魔羯 水瓶 雙魚 <br /> <br />巨蟹：完美主義犯了需放鬆，感情看誰都不順眼宜獨處 <br />魔羯：事業責任與壓力加重，感情低調避免曝光 <br />水瓶：注意健康與內部隱憂，感情有不滿需溝通 <br />雙魚：事業暫遇瓶頸需休養，感情須調整付出方向 <br /> <br />【穩的】牡羊 金牛 處女 天秤 <br /> <br />牡羊：注意同事協調合作，感情出現年輕桃花 <br />金牛：財務往來需謹慎處理，感情冷淡恐陷停滯 <br />處女：單打獨鬥效率高，感情聚少離多難契合 <br />天秤：小細節能影響全局，感情要再多些浪漫 <br /> <br />【讚的】雙子 獅子 天蠍 射手 <br /> <br />雙子：工作照計劃順利推進，感情自信魅力提升 <br />獅子：事業選擇新方向，感情有新的發展機會 <br />天蠍：衝突化解成新轉機，感情鬥嘴更添親密 <br />射手：工作奔波快速推進，感情主動展現誠意</p>"
+names = ["【本週提醒】問題會出現，代表都是可以修正的🔨"]
+tag = ["Sep 15, 2025", "Sep 2025", "2025", "本週提醒"]
+category = ["運勢"]
+
 [jst00707]
 name = "EP453 當個混蛋才能保護人ft.博恩"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmfgijqx1010s01tjeizl0w00/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmfgijqx1010t01tjfbadfj98.mp3"
