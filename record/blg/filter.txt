@@ -1193,7 +1193,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [小孩限定]
-  found in: (31)
+  found in: (32)
+    blg00975
     blg00960
     blg00948
     blg00925
