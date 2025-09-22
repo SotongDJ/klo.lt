@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00711]
+name = "【本週提醒】注意脾氣💥"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmfukiqwa03tf01z4f98c937o/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmfukiqwa03tg01z4ccd58ub2.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽9/22-9/28星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br /> <br />【累的】牡羊 金牛 處女 天秤 <br /> <br />牡羊：事業若破局乾脆重練，感情爭執要懂得止血 <br />金牛：拿出真本事鬥智鬥勇，感情以機智化解爭執 <br />處女：工作分身乏術放過自己，感情別抓緊小爭執 <br />天秤：遭遇卡關不要硬闖，感情曖昧尷尬需溝通 <br /> <br />【穩的】雙子 獅子 天蠍 射手 <br /> <br />雙子：人情往來運作頻繁，感情遇到有脾氣的對象 <br />獅子：勇敢溝通會順很多，感情少說少錯多觀察 <br />天蠍：請專注舊案先別嘗鮮，感情當心難聽話衝口而出 <br />射手：低調努力能成果亮眼，感情經營需付出行動 <br /> <br />【讚的】巨蟹 魔羯 水瓶 雙魚 <br /> <br />巨蟹：人脈給力有實質幫助，感情可能友情轉曖昧 <br />魔羯：事業計畫與海外連結，感情可以主動積極 <br />水瓶：事業勝負關鍵在細節，感情有年輕桃花來臨 <br />雙魚：工作上遇知音夥伴，感情老夫老妻能重燃熱情</p>"
+names = ["【本週提醒】注意脾氣💥"]
+tag = ["Sep 22, 2025", "Sep 2025", "2025", "本週提醒"]
+category = ["運勢"]
+
 [jst00710]
 name = "EP455 行星分佈看你走早運或晚運"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmfqnb9y201ww01xthy5mf3uz/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmfqnb9y201wx01xt6sgzg1kh.mp3"
