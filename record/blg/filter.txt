@@ -392,7 +392,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (328)
+  found in: (329)
+    blg00977
     blg00974
     blg00971
     blg00968
