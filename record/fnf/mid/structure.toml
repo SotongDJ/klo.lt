@@ -1505,7 +1505,7 @@ category = []
 
 [fnf00557]
 name = "【呱吉直播】呱吉電台EP174：大聯盟愛情故事"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0f63ea02-192d-43f4-befb-104c9e78aefe/rssFileVip.mp3"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0cf8de04-2b16-4224-b9e9-3ab2aab9423d/rssFileVip.mp3"
 image = "a4eb14747cea6b0b436301e0d4b73879126a2df404219caa666c6f13d7bf30fc"
 description = "有時候你需要換個角度看世界 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】呱吉電台EP174：大聯盟愛情故事"]
@@ -5401,15 +5401,6 @@ tag = ["Jul 02, 2020", "Jul 2020", "2020"]
 category = []
 
 [fnf00124]
-name = "【呱吉直播】呱吉電台EP42：要不要來我家聽重金屬"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/973b03f5-7067-416c-9bda-146c28a0e5ff/rssFileVip.mp3"
-image = "996d5cce775f191205a9639e63d2e1dcbb20f90992a54bae5e7c13cc2de184b3"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP42：要不要來我家聽重金屬"]
-tag = ["Jun 03, 2020", "Jun 2020", "2020"]
-category = []
-
-[fnf00123]
 name = "【呱吉直播】呱吉電台EP43：上上下下左右左右BA"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/8689eb83-43eb-4784-8967-26d13d3de2f4/rssFileVip.mp3"
 image = "33ac26e39e93381924d79df0ed7b59476d9afc8c82f000a47cb27d868a7f7f0d"
@@ -5418,30 +5409,39 @@ names = ["【呱吉直播】呱吉電台EP43：上上下下左右左右BA"]
 tag = ["Jun 03, 2020", "Jun 2020", "2020"]
 category = []
 
-[fnf00122]
-name = "【呱吉直播】呱吉電台EP34：喉嚨破了該怎辦 貧窮人的台北"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/3fac8865-564d-48a6-a8f9-27408da17742/rssFileVip.mp3"
-image = "65a3647be49ede6ba145f0d49ac31219dcbc351ea1dd83c1c398ae6f3f7e902c"
+[fnf00123]
+name = "【呱吉直播】呱吉電台EP42：要不要來我家聽重金屬"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/973b03f5-7067-416c-9bda-146c28a0e5ff/rssFileVip.mp3"
+image = "996d5cce775f191205a9639e63d2e1dcbb20f90992a54bae5e7c13cc2de184b3"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP34：喉嚨破了該怎辦 貧窮人的台北"]
+names = ["【呱吉直播】呱吉電台EP42：要不要來我家聽重金屬"]
+tag = ["Jun 03, 2020", "Jun 2020", "2020"]
+category = []
+
+[fnf00122]
+name = "【呱吉直播】呱吉電台EP40：2020我就爛"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c30e2817-e1a4-46a1-94c8-58c574416663/rssFileVip.mp3"
+image = "aa15663c0baddf610fc98cc2732fbf83fb9e6e517984de1ae5c67dcdf451c3a2"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP40：2020我就爛"]
 tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
 [fnf00121]
-name = "【呱吉直播】呱吉電台EP33：團結的人民永遠不被擊潰"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/734fa916-663b-401a-911e-b3cb0fd75a1f/rssFileVip.mp3"
-image = "86d6e4799e30201babf0e40263726c1882ab13c807e68d2529dc815eae791193"
+name = "【呱吉直播】呱吉電台EP39：九十倍的校長演講"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/7624b5dd-fc1a-496b-b4f3-1b3b197e75c5/rssFileVip.mp3"
+image = "0df98aca6b0587c8eee1f08adcc66cddee725d6c3c5c4b2ca11d6f9a0d63630d"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP33：團結的人民永遠不被擊潰"]
+names = ["【呱吉直播】呱吉電台EP39：九十倍的校長演講"]
 tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
 [fnf00120]
-name = "【呱吉直播】呱吉電台EP41：春節無聊指南"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/60f0d3a5-75ef-4132-a0cc-3856c10797ec/rssFileVip.mp3"
-image = "95dafbe6827ffbf47f8e82331fbafd0d089e6b2581db32f57479e825f74a7bd4"
+name = "【呱吉直播】呱吉電台EP37：困難無法擋"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/86801e94-a702-42e2-97e8-deadf941c84a/rssFileVip.mp3"
+image = "5687485c0c198d2eed059c33cdb6a33ef80c32bbea43627d19c1dfa6d77a5a02"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP41：春節無聊指南"]
+names = ["【呱吉直播】呱吉電台EP37：困難無法擋"]
 tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
@@ -5455,24 +5455,15 @@ tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
 [fnf00118]
-name = "【呱吉直播】呱吉電台EP39：九十倍的校長演講"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/7624b5dd-fc1a-496b-b4f3-1b3b197e75c5/rssFileVip.mp3"
-image = "0df98aca6b0587c8eee1f08adcc66cddee725d6c3c5c4b2ca11d6f9a0d63630d"
+name = "【呱吉直播】呱吉電台EP41：春節無聊指南"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/60f0d3a5-75ef-4132-a0cc-3856c10797ec/rssFileVip.mp3"
+image = "95dafbe6827ffbf47f8e82331fbafd0d089e6b2581db32f57479e825f74a7bd4"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP39：九十倍的校長演講"]
+names = ["【呱吉直播】呱吉電台EP41：春節無聊指南"]
 tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
 [fnf00117]
-name = "【呱吉直播】呱吉電台EP40：2020我就爛"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c30e2817-e1a4-46a1-94c8-58c574416663/rssFileVip.mp3"
-image = "aa15663c0baddf610fc98cc2732fbf83fb9e6e517984de1ae5c67dcdf451c3a2"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP40：2020我就爛"]
-tag = ["May 11, 2020", "May 2020", "2020"]
-category = []
-
-[fnf00116]
 name = "【呱吉直播】呱吉電台EP36：歡樂無法擋"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f7cbc1b1-14c9-403b-8349-e60083630562/rssFileVip.mp3"
 image = "cd90742b46471918a912b6ce6b2889fd520ae51d932827e6d02e43f426f3bbe9"
@@ -5481,12 +5472,21 @@ names = ["【呱吉直播】呱吉電台EP36：歡樂無法擋"]
 tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
-[fnf00115]
-name = "【呱吉直播】呱吉電台EP38：歡樂（沒有）終點"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f67c5d5f-8fea-426f-ba8c-4020068ea7fa/rssFileVip.mp3"
-image = "50f119387435da94b4c024576497f85b49db43ac03e456b79daf2ee373bdb43f"
+[fnf00116]
+name = "【呱吉直播】呱吉電台EP34：喉嚨破了該怎辦 貧窮人的台北"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/3fac8865-564d-48a6-a8f9-27408da17742/rssFileVip.mp3"
+image = "65a3647be49ede6ba145f0d49ac31219dcbc351ea1dd83c1c398ae6f3f7e902c"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP38：歡樂（沒有）終點"]
+names = ["【呱吉直播】呱吉電台EP34：喉嚨破了該怎辦 貧窮人的台北"]
+tag = ["May 11, 2020", "May 2020", "2020"]
+category = []
+
+[fnf00115]
+name = "【呱吉直播】呱吉電台EP33：團結的人民永遠不被擊潰"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/734fa916-663b-401a-911e-b3cb0fd75a1f/rssFileVip.mp3"
+image = "86d6e4799e30201babf0e40263726c1882ab13c807e68d2529dc815eae791193"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP33：團結的人民永遠不被擊潰"]
 tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
@@ -5500,11 +5500,11 @@ tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
 [fnf00113]
-name = "【呱吉直播】呱吉電台EP37：困難無法擋"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/86801e94-a702-42e2-97e8-deadf941c84a/rssFileVip.mp3"
-image = "5687485c0c198d2eed059c33cdb6a33ef80c32bbea43627d19c1dfa6d77a5a02"
+name = "【呱吉直播】呱吉電台EP38：歡樂（沒有）終點"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f67c5d5f-8fea-426f-ba8c-4020068ea7fa/rssFileVip.mp3"
+image = "50f119387435da94b4c024576497f85b49db43ac03e456b79daf2ee373bdb43f"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP37：困難無法擋"]
+names = ["【呱吉直播】呱吉電台EP38：歡樂（沒有）終點"]
 tag = ["May 11, 2020", "May 2020", "2020"]
 category = []
 
@@ -5518,69 +5518,6 @@ tag = ["Apr 14, 2020", "Apr 2020", "2020"]
 category = []
 
 [fnf00111]
-name = "【呱吉直播】呱吉電台EP25：老婆的炸牛肉餅"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/772ab8f7-79a4-4641-a892-0ddd3c549780/rssFileVip.mp3"
-image = "5d75b173e0aafaafe51954db1e1960d213d795e2e90adb81346ee8b379208cf4"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP25：老婆的炸牛肉餅"]
-tag = ["Apr 14, 2020", "Apr 2020", "2020"]
-category = []
-
-[fnf00110]
-name = "【呱吉直播】呱吉電台EP23：我要那個小兔崽子付出代價"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/cd692ab8-ac45-414a-af7f-8bd5269d3682/rssFileVip.mp3"
-image = "8708f54db35e41b7b08a6d275e6959f13cee2218e7dea3ae07bab2efcde4df8d"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP23：我要那個小兔崽子付出代價"]
-tag = ["Apr 14, 2020", "Apr 2020", "2020"]
-category = []
-
-[fnf00109]
-name = "【呱吉直播】呱吉電台EP30：誒我記錯了鄭家純下禮拜來啦"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f770319b-edbd-47b2-a960-d85250b95b8b/rssFileVip.mp3"
-image = "31bc62e0a407dbada8814ceccd1fc9c670cd35c8e0eff6f771841a893110dc1e"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP30：誒我記錯了鄭家純下禮拜來啦"]
-tag = ["Apr 14, 2020", "Apr 2020", "2020"]
-category = []
-
-[fnf00108]
-name = "【呱吉直播】呱吉電台EP21：你在準備指考我在家裡睡覺"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/303e2846-a4ce-4014-8b11-9abb74b5e403/rssFileVip.mp3"
-image = "d40558ff211d1946aeee2e8c8980f1447ccb521d866b76402456b827af309b72"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP21：你在準備指考我在家裡睡覺"]
-tag = ["Apr 14, 2020", "Apr 2020", "2020"]
-category = []
-
-[fnf00107]
-name = "【呱吉直播】呱吉電台EP22：L.O.V.E. 愛"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c26cf880-d327-4a6d-b6cf-8ff30b60b393/rssFileVip.mp3"
-image = "9f8d5a53d69db9dacc2c6f9ce089a63f9ea76ba3555f9a9b4ac8445c15e3fa84"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP22：L.O.V.E. 愛"]
-tag = ["Apr 14, 2020", "Apr 2020", "2020"]
-category = []
-
-[fnf00106]
-name = "【呱吉直播】呱吉電台EP24：原力覺醒了嗎"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/8a68dd54-f380-4b96-bb8c-ad25f87ca20b/rssFileVip.mp3"
-image = "de61d54514de77e692e392a94798d3bf76363e832075cf37f225e7b2f725f5cc"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP24：原力覺醒了嗎"]
-tag = ["Apr 14, 2020", "Apr 2020", "2020"]
-category = []
-
-[fnf00105]
-name = "【呱吉直播】呱吉電台EP27：里斯本的憂鬱"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c20a7c4a-4006-4895-9e12-89117091eaf6/rssFileVip.mp3"
-image = "bdc55686a3e8030061c8301639b885d93e6a140bb27166d04820028568b39452"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP27：里斯本的憂鬱"]
-tag = ["Apr 14, 2020", "Apr 2020", "2020"]
-category = []
-
-[fnf00104]
 name = "【呱吉直播】呱吉電台EP28：劍華出來打球"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/2f686f9a-a05d-41ab-bdcf-9255f31b0d71/rssFileVip.mp3"
 image = "1df812b1bb68969d40d32944cc5a372a56dbf8c2af55ef6f9c9409a748622d6a"
@@ -5589,7 +5526,25 @@ names = ["【呱吉直播】呱吉電台EP28：劍華出來打球"]
 tag = ["Apr 14, 2020", "Apr 2020", "2020"]
 category = []
 
-[fnf00103]
+[fnf00110]
+name = "【呱吉直播】呱吉電台EP30：誒我記錯了鄭家純下禮拜來啦"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f770319b-edbd-47b2-a960-d85250b95b8b/rssFileVip.mp3"
+image = "31bc62e0a407dbada8814ceccd1fc9c670cd35c8e0eff6f771841a893110dc1e"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP30：誒我記錯了鄭家純下禮拜來啦"]
+tag = ["Apr 14, 2020", "Apr 2020", "2020"]
+category = []
+
+[fnf00109]
+name = "【呱吉直播】呱吉電台EP24：原力覺醒了嗎"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/8a68dd54-f380-4b96-bb8c-ad25f87ca20b/rssFileVip.mp3"
+image = "de61d54514de77e692e392a94798d3bf76363e832075cf37f225e7b2f725f5cc"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP24：原力覺醒了嗎"]
+tag = ["Apr 14, 2020", "Apr 2020", "2020"]
+category = []
+
+[fnf00108]
 name = "【呱吉直播】呱吉電台EP31：大港我輸了"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/24aae1c3-ad0b-4291-ae03-3137708a203e/rssFileVip.mp3"
 image = "caa3718c0ad2eae79b6132c4ad385ed8ec41fbe8e0aaf4997bb9250d2865b6bf"
@@ -5598,43 +5553,52 @@ names = ["【呱吉直播】呱吉電台EP31：大港我輸了"]
 tag = ["Apr 14, 2020", "Apr 2020", "2020"]
 category = []
 
+[fnf00107]
+name = "【呱吉直播】呱吉電台EP21：你在準備指考我在家裡睡覺"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/303e2846-a4ce-4014-8b11-9abb74b5e403/rssFileVip.mp3"
+image = "d40558ff211d1946aeee2e8c8980f1447ccb521d866b76402456b827af309b72"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP21：你在準備指考我在家裡睡覺"]
+tag = ["Apr 14, 2020", "Apr 2020", "2020"]
+category = []
+
+[fnf00106]
+name = "【呱吉直播】呱吉電台EP25：老婆的炸牛肉餅"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/772ab8f7-79a4-4641-a892-0ddd3c549780/rssFileVip.mp3"
+image = "5d75b173e0aafaafe51954db1e1960d213d795e2e90adb81346ee8b379208cf4"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP25：老婆的炸牛肉餅"]
+tag = ["Apr 14, 2020", "Apr 2020", "2020"]
+category = []
+
+[fnf00105]
+name = "【呱吉直播】呱吉電台EP22：L.O.V.E. 愛"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c26cf880-d327-4a6d-b6cf-8ff30b60b393/rssFileVip.mp3"
+image = "9f8d5a53d69db9dacc2c6f9ce089a63f9ea76ba3555f9a9b4ac8445c15e3fa84"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP22：L.O.V.E. 愛"]
+tag = ["Apr 14, 2020", "Apr 2020", "2020"]
+category = []
+
+[fnf00104]
+name = "【呱吉直播】呱吉電台EP23：我要那個小兔崽子付出代價"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/cd692ab8-ac45-414a-af7f-8bd5269d3682/rssFileVip.mp3"
+image = "8708f54db35e41b7b08a6d275e6959f13cee2218e7dea3ae07bab2efcde4df8d"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP23：我要那個小兔崽子付出代價"]
+tag = ["Apr 14, 2020", "Apr 2020", "2020"]
+category = []
+
+[fnf00103]
+name = "【呱吉直播】呱吉電台EP27：里斯本的憂鬱"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c20a7c4a-4006-4895-9e12-89117091eaf6/rssFileVip.mp3"
+image = "bdc55686a3e8030061c8301639b885d93e6a140bb27166d04820028568b39452"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP27：里斯本的憂鬱"]
+tag = ["Apr 14, 2020", "Apr 2020", "2020"]
+category = []
+
 [fnf00102]
-name = "【呱吉直播】呱吉電台EP019數位修復版：星夜裡在陸橋上走著（修正爆音、電流聲、以及影音不同步等問題）"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/57fccea0-48fe-4274-a252-ec5dcd1dc6cf/rssFileVip.mp3"
-image = "39e754bbc7c60315c81f9fb0bc422d7005dae9c27c9b1fe2287c937751bab17f"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP019數位修復版：星夜裡在陸橋上走著（修正爆音、電流聲、以及影音不同步等問題）"]
-tag = ["Mar 16, 2020", "Mar 2020", "2020"]
-category = []
-
-[fnf00101]
-name = "【呱吉直播】呱吉電台EP20：不想ㄍㄢˋ了蛤"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/44b49dc4-398a-4766-8589-383d154d2fe6/rssFileVip.mp3"
-image = "9cd581240f431674cb143ff98da5edc8ae839bb2c22cc31c1de6f0274a3e1acb"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP20：不想ㄍㄢˋ了蛤"]
-tag = ["Mar 16, 2020", "Mar 2020", "2020"]
-category = []
-
-[fnf00100]
-name = "【呱吉】呱吉電台EP018：呱吉我一定要判你有罪"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/225e0dba-5736-4000-ae31-e199c8613877/rssFileVip.mp3"
-image = "43a58b864f9b6f266d22e9599d4a55ff56230dc51eba7af4a28d09dfc6456360"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉】呱吉電台EP018：呱吉我一定要判你有罪"]
-tag = ["Mar 16, 2020", "Mar 2020", "2020"]
-category = []
-
-[fnf00099]
-name = "【呱吉直播】呱吉電台EP011：除夕的深夜放送"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/645851fa-f871-47b1-9e73-584c27354523/rssFileVip.mp3"
-image = "479e1a984f9830839a7873ab3ffa173cd14eb4a069657b0ea6ca97b3fca36910"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP011：除夕的深夜放送"]
-tag = ["Mar 16, 2020", "Mar 2020", "2020"]
-category = []
-
-[fnf00098]
 name = "【呱吉直播】呱吉電台EP013：還願直播？誒不是"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f1ae1a59-b373-48db-a652-25958ff3f19b/rssFileVip.mp3"
 image = "0af8bd66b90eed33fd6df8839e4aa099463463e08814abbcc2ab65522197d9a6"
@@ -5643,7 +5607,7 @@ names = ["【呱吉直播】呱吉電台EP013：還願直播？誒不是"]
 tag = ["Mar 16, 2020", "Mar 2020", "2020"]
 category = []
 
-[fnf00097]
+[fnf00101]
 name = "【呱吉直播】呱吉電台EP016：市議會之後的人生改版"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b58a7be7-67f5-4947-ae25-164b8668293e/rssFileVip.mp3"
 image = "21d606952f87fdf346e3353b0236c1e998687a166dd3719403494b4a1e3fd169"
@@ -5652,12 +5616,48 @@ names = ["【呱吉直播】呱吉電台EP016：市議會之後的人生改版"]
 tag = ["Mar 16, 2020", "Mar 2020", "2020"]
 category = []
 
-[fnf00096]
+[fnf00100]
+name = "【呱吉直播】呱吉電台EP011：除夕的深夜放送"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/645851fa-f871-47b1-9e73-584c27354523/rssFileVip.mp3"
+image = "479e1a984f9830839a7873ab3ffa173cd14eb4a069657b0ea6ca97b3fca36910"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP011：除夕的深夜放送"]
+tag = ["Mar 16, 2020", "Mar 2020", "2020"]
+category = []
+
+[fnf00099]
+name = "【呱吉直播】呱吉電台EP019數位修復版：星夜裡在陸橋上走著（修正爆音、電流聲、以及影音不同步等問題）"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/57fccea0-48fe-4274-a252-ec5dcd1dc6cf/rssFileVip.mp3"
+image = "39e754bbc7c60315c81f9fb0bc422d7005dae9c27c9b1fe2287c937751bab17f"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP019數位修復版：星夜裡在陸橋上走著（修正爆音、電流聲、以及影音不同步等問題）"]
+tag = ["Mar 16, 2020", "Mar 2020", "2020"]
+category = []
+
+[fnf00098]
 name = "【呱吉直播】呱吉電台EP015：秘密 深夜對談 不想變成那種人"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/accff059-0aca-48bd-b92b-8e639ca7eafd/rssFileVip.mp3"
 image = "4a6cd10465c0747d3b0397983d740e541c8bb9b11f8a2dc44e8383b5028ea727"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】呱吉電台EP015：秘密 深夜對談 不想變成那種人"]
+tag = ["Mar 16, 2020", "Mar 2020", "2020"]
+category = []
+
+[fnf00097]
+name = "【呱吉直播】呱吉電台EP017：站著沒掙錢也不寒磣"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/357db7c8-cba8-4b50-8069-9bc978a4ce64/rssFileVip.mp3"
+image = "15e3cf23502a2d96c6168db50f2049a4ce93fe0837aac728e07d57c133e0ff2d"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP017：站著沒掙錢也不寒磣"]
+tag = ["Mar 16, 2020", "Mar 2020", "2020"]
+category = []
+
+[fnf00096]
+name = "【呱吉直播】呱吉電台EP20：不想ㄍㄢˋ了蛤"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/44b49dc4-398a-4766-8589-383d154d2fe6/rssFileVip.mp3"
+image = "9cd581240f431674cb143ff98da5edc8ae839bb2c22cc31c1de6f0274a3e1acb"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP20：不想ㄍㄢˋ了蛤"]
 tag = ["Mar 16, 2020", "Mar 2020", "2020"]
 category = []
 
@@ -5671,29 +5671,29 @@ tag = ["Mar 16, 2020", "Mar 2020", "2020"]
 category = []
 
 [fnf00094]
-name = "【呱吉直播】呱吉電台EP017：站著沒掙錢也不寒磣"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/357db7c8-cba8-4b50-8069-9bc978a4ce64/rssFileVip.mp3"
-image = "15e3cf23502a2d96c6168db50f2049a4ce93fe0837aac728e07d57c133e0ff2d"
+name = "【呱吉】呱吉電台EP018：呱吉我一定要判你有罪"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/225e0dba-5736-4000-ae31-e199c8613877/rssFileVip.mp3"
+image = "43a58b864f9b6f266d22e9599d4a55ff56230dc51eba7af4a28d09dfc6456360"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP017：站著沒掙錢也不寒磣"]
+names = ["【呱吉】呱吉電台EP018：呱吉我一定要判你有罪"]
 tag = ["Mar 16, 2020", "Mar 2020", "2020"]
 category = []
 
 [fnf00093]
-name = "【呱吉直播】呱吉電台EP001：開夜車"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f6b1a9b3-7a9c-489a-b96a-9b7a4422860a/rssFileVip.mp3"
-image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
+name = "【呱吉直播】呱吉電台EP009：選舉後動物感傷"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b3d0d2fe-9d01-4bb3-beba-260e6de6779d/rssFileVip.mp3"
+image = "47c4a1eeb2e0e310b85d9d48b7b0328e0e2a636f11cd83068c51151cbb72eb0b"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP001：開夜車"]
+names = ["【呱吉直播】呱吉電台EP009：選舉後動物感傷"]
 tag = ["Mar 03, 2020", "Mar 2020", "2020"]
 category = []
 
 [fnf00092]
-name = "【呱吉直播】呱吉電台EP006：我的心裡在下雨"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/3dda9a15-cd27-4663-ae7b-7c24fe06eba9/rssFileVip.mp3"
-image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
+name = "【呱吉直播】呱吉電台EP004：男偶像"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/81acbcf8-4248-4713-9521-be7948acff09/rssFileVip.mp3"
+image = "7ff046000331f88de308e4e7e645db9c32a7dc6b78fae44648a2267623bbf6ac"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP006：我的心裡在下雨"]
+names = ["【呱吉直播】呱吉電台EP004：男偶像"]
 tag = ["Mar 03, 2020", "Mar 2020", "2020"]
 category = []
 
@@ -5707,42 +5707,15 @@ tag = ["Mar 03, 2020", "Mar 2020", "2020"]
 category = []
 
 [fnf00090]
-name = "【呱吉直播】呱吉電台EP010：孤獨的直播廢人"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/dacde1c6-115c-4975-8bbf-d034f770a5d0/rssFileVip.mp3"
-image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
+name = "【呱吉直播】呱吉電台EP003：草地"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/d00e33d5-3eb0-4bee-b6c9-3cf48f04fbc2/rssFileVip.mp3"
+image = "d124d6af440cee69f5789ad8cd0ae13e4d574fd6ca1bc15fd93cdda2bce789af"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP010：孤獨的直播廢人"]
-tag = ["Sep 18, 2019", "Sep 2019", "2019"]
+names = ["【呱吉直播】呱吉電台EP003：草地"]
+tag = ["Mar 03, 2020", "Mar 2020", "2020"]
 category = []
 
 [fnf00089]
-name = "【呱吉直播】呱吉電台EP004：男偶像"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/81acbcf8-4248-4713-9521-be7948acff09/rssFileVip.mp3"
-image = "7ff046000331f88de308e4e7e645db9c32a7dc6b78fae44648a2267623bbf6ac"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP004：男偶像"]
-tag = ["Mar 03, 2020", "Mar 2020", "2020"]
-category = []
-
-[fnf00088]
-name = "【呱吉直播】呱吉電台EP007：又累又開心也許是腦內啡也許是因為你"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c6e6e6d2-63c3-44bb-af66-679ae7e1f53d/rssFileVip.mp3"
-image = "e5ed7f1e1a00e7c92ca76a63943b50e657e1743db86812282e26253da4509ad5"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP007：又累又開心也許是腦內啡也許是因為你"]
-tag = ["Mar 03, 2020", "Mar 2020", "2020"]
-category = []
-
-[fnf00087]
-name = "【呱吉直播】呱吉電台EP009：選舉後動物感傷"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b3d0d2fe-9d01-4bb3-beba-260e6de6779d/rssFileVip.mp3"
-image = "47c4a1eeb2e0e310b85d9d48b7b0328e0e2a636f11cd83068c51151cbb72eb0b"
-description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP009：選舉後動物感傷"]
-tag = ["Mar 03, 2020", "Mar 2020", "2020"]
-category = []
-
-[fnf00086]
 name = "【呱吉直播】呱吉電台EP005：戀愛"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/eb1bc260-9a5e-4af5-a29a-af503c92384e/rssFileVip.mp3"
 image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
@@ -5751,12 +5724,39 @@ names = ["【呱吉直播】呱吉電台EP005：戀愛"]
 tag = ["Mar 03, 2020", "Mar 2020", "2020"]
 category = []
 
-[fnf00085]
-name = "【呱吉直播】呱吉電台EP003：草地"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/d00e33d5-3eb0-4bee-b6c9-3cf48f04fbc2/rssFileVip.mp3"
-image = "d124d6af440cee69f5789ad8cd0ae13e4d574fd6ca1bc15fd93cdda2bce789af"
+[fnf00088]
+name = "【呱吉直播】呱吉電台EP001：開夜車"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f6b1a9b3-7a9c-489a-b96a-9b7a4422860a/rssFileVip.mp3"
+image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
 description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】呱吉電台EP003：草地"]
+names = ["【呱吉直播】呱吉電台EP001：開夜車"]
+tag = ["Mar 03, 2020", "Mar 2020", "2020"]
+category = []
+
+[fnf00087]
+name = "【呱吉直播】呱吉電台EP006：我的心裡在下雨"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/3dda9a15-cd27-4663-ae7b-7c24fe06eba9/rssFileVip.mp3"
+image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP006：我的心裡在下雨"]
+tag = ["Mar 03, 2020", "Mar 2020", "2020"]
+category = []
+
+[fnf00086]
+name = "【呱吉直播】呱吉電台EP010：孤獨的直播廢人"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/dacde1c6-115c-4975-8bbf-d034f770a5d0/rssFileVip.mp3"
+image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP010：孤獨的直播廢人"]
+tag = ["Sep 18, 2019", "Sep 2019", "2019"]
+category = []
+
+[fnf00085]
+name = "【呱吉直播】呱吉電台EP007：又累又開心也許是腦內啡也許是因為你"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c6e6e6d2-63c3-44bb-af66-679ae7e1f53d/rssFileVip.mp3"
+image = "e5ed7f1e1a00e7c92ca76a63943b50e657e1743db86812282e26253da4509ad5"
+description = "【呱吉直播】呱吉電台系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】呱吉電台EP007：又累又開心也許是腦內啡也許是因為你"]
 tag = ["Mar 03, 2020", "Mar 2020", "2020"]
 category = []
 
@@ -5770,24 +5770,6 @@ tag = ["Feb 03, 2020", "Feb 2020", "2020"]
 category = []
 
 [fnf00083]
-name = "【呱吉直播】人生晚長EP082：2020政黨票投票指南"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c298b210-7ea4-4497-bdde-fcec146a595a/rssFileVip.mp3"
-image = "0aa073b273cc688f941f343fe5d96fadd3695fb86f018aa226f72d64cf842a97"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP082：2020政黨票投票指南"]
-tag = ["Feb 03, 2020", "Feb 2020", "2020"]
-category = []
-
-[fnf00082]
-name = "【呱吉直播】人生晚長EP084：2019年離開人世的文化英雄"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/9014adeb-2287-4ff1-a5a9-b7f1803e1f0e/rssFileVip.mp3"
-image = "8694d9f6a2338587c42b6733b73c94f06ecb062e055a40a697d5c3354f168299"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP084：2019年離開人世的文化英雄"]
-tag = ["Feb 03, 2020", "Feb 2020", "2020"]
-category = []
-
-[fnf00081]
 name = "【呱吉直播】人生晚長EP083：台灣情色島 X 台灣好色"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/135e6f3e-7897-4604-8866-c6cc213f90af/rssFileVip.mp3"
 image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
@@ -5796,12 +5778,30 @@ names = ["【呱吉直播】人生晚長EP083：台灣情色島 X 台灣好色"]
 tag = ["Feb 03, 2020", "Feb 2020", "2020"]
 category = []
 
-[fnf00080]
+[fnf00082]
 name = "【呱吉直播】人生晚長EP081：早安，音樂祭 特別來賓：楊大正"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/9a5ff603-b781-4965-95fa-cd14e803a9a0/rssFileVip.mp3"
 image = "0f6d44910f33b749642edb096d4a45cb01450a22fe4d7f1220e0e79592b91324"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP081：早安，音樂祭 特別來賓：楊大正"]
+tag = ["Feb 03, 2020", "Feb 2020", "2020"]
+category = []
+
+[fnf00081]
+name = "【呱吉直播】人生晚長EP084：2019年離開人世的文化英雄"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/9014adeb-2287-4ff1-a5a9-b7f1803e1f0e/rssFileVip.mp3"
+image = "8694d9f6a2338587c42b6733b73c94f06ecb062e055a40a697d5c3354f168299"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP084：2019年離開人世的文化英雄"]
+tag = ["Feb 03, 2020", "Feb 2020", "2020"]
+category = []
+
+[fnf00080]
+name = "【呱吉直播】人生晚長EP082：2020政黨票投票指南"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c298b210-7ea4-4497-bdde-fcec146a595a/rssFileVip.mp3"
+image = "0aa073b273cc688f941f343fe5d96fadd3695fb86f018aa226f72d64cf842a97"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP082：2020政黨票投票指南"]
 tag = ["Feb 03, 2020", "Feb 2020", "2020"]
 category = []
 
@@ -5815,15 +5815,6 @@ tag = ["Feb 03, 2020", "Feb 2020", "2020"]
 category = []
 
 [fnf00078]
-name = "【呱吉直播】人生晚長EP071：1987年一個小學生的日記本"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/76aa0330-4567-410a-ad2f-283029dd4cf1/rssFileVip.mp3"
-image = "37b5928048fe965fcdd1e487879e444797820b73f0bc8cb6c4bfb192b5c84838"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP071：1987年一個小學生的日記本"]
-tag = ["Jan 21, 2020", "Jan 2020", "2020"]
-category = []
-
-[fnf00077]
 name = "【呱吉直播】人生晚長EP078：平庸之上 特別來賓：9m88"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/be4c93da-2800-4054-8dbb-1a66efb40f61/rssFileVip.mp3"
 image = "aeac56532b54c98026ff54ece66adbc9d2de8c8b9e8a78e63765471c887217e4"
@@ -5832,7 +5823,7 @@ names = ["【呱吉直播】人生晚長EP078：平庸之上 特別來賓：9m88
 tag = ["Jan 21, 2020", "Jan 2020", "2020"]
 category = []
 
-[fnf00076]
+[fnf00077]
 name = "【呱吉直播】人生晚長EP072：令人怦然心動的二次元女孩紙"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/1e50f7b1-cd25-4c31-b8f8-2534198f6aeb/rssFileVip.mp3"
 image = "670ac3fef886fd5878800a633088dbfed1c3585603600aa363ec2bc31090d344"
@@ -5841,7 +5832,7 @@ names = ["【呱吉直播】人生晚長EP072：令人怦然心動的二次元�
 tag = ["Jan 21, 2020", "Jan 2020", "2020"]
 category = []
 
-[fnf00075]
+[fnf00076]
 name = "【呱吉直播】人生晚長EP074：我們與“我們與惡的距離 的距離"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/cc8ab9f9-daec-496d-8027-4834e42fa52c/rssFileVip.mp3"
 image = "bee8687c4a8b36e1fdc83e3d96c3f469315ef6f9e3c870463c0a13d8ae29a53c"
@@ -5850,21 +5841,30 @@ names = ["【呱吉直播】人生晚長EP074：我們與“我們與惡的距�
 tag = ["Jan 21, 2020", "Jan 2020", "2020"]
 category = []
 
-[fnf00074]
-name = "【呱吉直播】人生晚長EP073：秘密的告白 #4"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/2ed14d1f-28dc-40e0-a1ed-8d95a42302a9/rssFileVip.mp3"
-image = "0dce92846db34e201a1025d30c049c633d7cc039d55df3fd25325816a3b04a23"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP073：秘密的告白 #4"]
-tag = ["Jan 21, 2020", "Jan 2020", "2020"]
-category = []
-
-[fnf00073]
+[fnf00075]
 name = "【呱吉直播】人生晚長EP075：人生 浣腸 我想活下去"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/ebe801cf-9ee5-47f7-9932-587294537380/rssFileVip.mp3"
 image = "31e2273135cd9c6c738a505c917df8fb2a6ef076596cf94d3af8d9afb7894f16"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP075：人生 浣腸 我想活下去"]
+tag = ["Jan 21, 2020", "Jan 2020", "2020"]
+category = []
+
+[fnf00074]
+name = "【呱吉直播】人生晚長EP071：1987年一個小學生的日記本"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/76aa0330-4567-410a-ad2f-283029dd4cf1/rssFileVip.mp3"
+image = "37b5928048fe965fcdd1e487879e444797820b73f0bc8cb6c4bfb192b5c84838"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP071：1987年一個小學生的日記本"]
+tag = ["Jan 21, 2020", "Jan 2020", "2020"]
+category = []
+
+[fnf00073]
+name = "【呱吉直播】人生晚長EP073：秘密的告白 #4"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/2ed14d1f-28dc-40e0-a1ed-8d95a42302a9/rssFileVip.mp3"
+image = "0dce92846db34e201a1025d30c049c633d7cc039d55df3fd25325816a3b04a23"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP073：秘密的告白 #4"]
 tag = ["Jan 21, 2020", "Jan 2020", "2020"]
 category = []
 
@@ -5878,6 +5878,15 @@ tag = ["Jan 17, 2020", "Jan 2020", "2020"]
 category = []
 
 [fnf00071]
+name = "【呱吉直播】人生晚長EP068：如果可以走春誰想要走心"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b94107ca-5dd1-4518-a0b5-0781d06e71f6/rssFileVip.mp3"
+image = "8d32b2aca43002bb4413daf73b383db283c4bc4add6db9d9b8c93d3cc4026d4e"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP068：如果可以走春誰想要走心"]
+tag = ["Jan 17, 2020", "Jan 2020", "2020"]
+category = []
+
+[fnf00070]
 name = "【呱吉直播】人生晚長EP070：Youtuber經濟學2019春季版"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/4db3354c-45c2-4b0c-b701-48ab8e77873a/rssFileVip.mp3"
 image = "d344b94daeb8962d92a6bd49e9eda80b3ef37ecd9e72d17fde6226e216b39faf"
@@ -5886,7 +5895,7 @@ names = ["【呱吉直播】人生晚長EP070：Youtuber經濟學2019春季版"]
 tag = ["Jan 17, 2020", "Jan 2020", "2020"]
 category = []
 
-[fnf00070]
+[fnf00069]
 name = "【呱吉直播】人生晚長EP067：十大潮流服飾真相"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/a264e884-5aca-4bbd-bd79-f451361a8e28/rssFileVip.mp3"
 image = "522b49fb112ec05465c33a22d02d24749c1002ba57826f5213ddf22521eed578"
@@ -5895,21 +5904,12 @@ names = ["【呱吉直播】人生晚長EP067：十大潮流服飾真相"]
 tag = ["Jan 17, 2020", "Jan 2020", "2020"]
 category = []
 
-[fnf00069]
+[fnf00068]
 name = "【呱吉直播】人生晚長EP069：情人節一起莫名其妙地可愛"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/698112ff-3f3f-4633-8fa8-416cda7eea5b/rssFileVip.mp3"
 image = "b2b6ef2227c5db01da9d7d4e81874e93dd76daffcd2aeceee159fcd8325a2978"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP069：情人節一起莫名其妙地可愛"]
-tag = ["Jan 17, 2020", "Jan 2020", "2020"]
-category = []
-
-[fnf00068]
-name = "【呱吉直播】人生晚長EP068：如果可以走春誰想要走心"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b94107ca-5dd1-4518-a0b5-0781d06e71f6/rssFileVip.mp3"
-image = "8d32b2aca43002bb4413daf73b383db283c4bc4add6db9d9b8c93d3cc4026d4e"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP068：如果可以走春誰想要走心"]
 tag = ["Jan 17, 2020", "Jan 2020", "2020"]
 category = []
 
@@ -5950,42 +5950,6 @@ tag = ["Jan 16, 2020", "Jan 2020", "2020"]
 category = []
 
 [fnf00063]
-name = "【呱吉直播】人生晚長EP061：Youtuber經濟學2018秋季版"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/90fce3d3-3a5d-4a02-9d79-c9827d7b9d52/rssFileVip.mp3"
-image = "d15d20684db375ffa14b9be0dd74209a5f32cf2c526253ee79e7b1b79eeb7631"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP061：Youtuber經濟學2018秋季版"]
-tag = ["Dec 19, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00062]
-name = "【呱吉直播】人生晚長EP055：呱老闆的奮鬥#4 下集"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/4890c533-b3a9-42ca-835d-414e612f69c8/rssFileVip.mp3"
-image = "22cffed56fb402aa19cab917f08795537f9a9c267a5bc5c0b8a7baaccc82e9c6"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP055：呱老闆的奮鬥#4 下集"]
-tag = ["Dec 19, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00061]
-name = "【呱吉直播】人生晚長EP056：我們的愛情是秘密不能成立 #3"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/ae0bf260-9e58-44a8-9400-253c810e4528/rssFileVip.mp3"
-image = "316cb68c5fc639046ad93ba259d348ed19c3abc61303df981bfe540fcdeea576"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP056：我們的愛情是秘密不能成立 #3"]
-tag = ["Dec 19, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00060]
-name = "【呱吉直播】人生晚長EP055：呱老闆的奮鬥#4 上集"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/6534fe21-3eee-4835-9680-c24759d21360/rssFileVip.mp3"
-image = "22cffed56fb402aa19cab917f08795537f9a9c267a5bc5c0b8a7baaccc82e9c6"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP055：呱老闆的奮鬥#4 上集"]
-tag = ["Dec 19, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00059]
 name = "【呱吉直播】人生晚長EP058：從一個經理到一個總監"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/588bbc0d-5da3-4591-a465-45423b68955b/rssFileVip.mp3"
 image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
@@ -5994,16 +5958,7 @@ names = ["【呱吉直播】人生晚長EP058：從一個經理到一個總監"]
 tag = ["Dec 19, 2019", "Dec 2019", "2019"]
 category = []
 
-[fnf00058]
-name = "【呱吉直播】人生晚長EP060：風流韻事審查委員會台拷版#1"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/3a4f5723-12d7-489a-a97a-e1b3433d44c5/rssFileVip.mp3"
-image = "01c0f7d906e9992c4c49f9006f935b15c168bbce4351232194a6e44af7849fdb"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP060：風流韻事審查委員會台拷版#1"]
-tag = ["Dec 19, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00057]
+[fnf00062]
 name = "【呱吉直播】人生晚長EP057：從一個專員到一個經理"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/2b62d4cb-61be-4b85-b515-2f33b0632113/rssFileVip.mp3"
 image = "a80e77dace90a675c311cddf265dd5db5d4acca643ebe8487f77e328bae3f5b5"
@@ -6012,12 +5967,57 @@ names = ["【呱吉直播】人生晚長EP057：從一個專員到一個經理"]
 tag = ["Dec 19, 2019", "Dec 2019", "2019"]
 category = []
 
-[fnf00056]
+[fnf00061]
+name = "【呱吉直播】人生晚長EP055：呱老闆的奮鬥#4 上集"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/6534fe21-3eee-4835-9680-c24759d21360/rssFileVip.mp3"
+image = "22cffed56fb402aa19cab917f08795537f9a9c267a5bc5c0b8a7baaccc82e9c6"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP055：呱老闆的奮鬥#4 上集"]
+tag = ["Dec 19, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00060]
+name = "【呱吉直播】人生晚長EP060：風流韻事審查委員會台拷版#1"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/3a4f5723-12d7-489a-a97a-e1b3433d44c5/rssFileVip.mp3"
+image = "01c0f7d906e9992c4c49f9006f935b15c168bbce4351232194a6e44af7849fdb"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP060：風流韻事審查委員會台拷版#1"]
+tag = ["Dec 19, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00059]
+name = "【呱吉直播】人生晚長EP061：Youtuber經濟學2018秋季版"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/90fce3d3-3a5d-4a02-9d79-c9827d7b9d52/rssFileVip.mp3"
+image = "d15d20684db375ffa14b9be0dd74209a5f32cf2c526253ee79e7b1b79eeb7631"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP061：Youtuber經濟學2018秋季版"]
+tag = ["Dec 19, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00058]
+name = "【呱吉直播】人生晚長EP055：呱老闆的奮鬥#4 下集"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/4890c533-b3a9-42ca-835d-414e612f69c8/rssFileVip.mp3"
+image = "22cffed56fb402aa19cab917f08795537f9a9c267a5bc5c0b8a7baaccc82e9c6"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP055：呱老闆的奮鬥#4 下集"]
+tag = ["Dec 19, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00057]
 name = "【呱吉直播】人生晚長EP059：從一個總監到一個首腦"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c0fb8a00-5334-48cc-86de-6a46125996f9/rssFileVip.mp3"
 image = "323e76e1457c7b74bf8e6848d58a04f47c1c3e41e2f5bfaca60fe72b98994a8e"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP059：從一個總監到一個首腦"]
+tag = ["Dec 19, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00056]
+name = "【呱吉直播】人生晚長EP056：我們的愛情是秘密不能成立 #3"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/ae0bf260-9e58-44a8-9400-253c810e4528/rssFileVip.mp3"
+image = "316cb68c5fc639046ad93ba259d348ed19c3abc61303df981bfe540fcdeea576"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP056：我們的愛情是秘密不能成立 #3"]
 tag = ["Dec 19, 2019", "Dec 2019", "2019"]
 category = []
 
@@ -6031,6 +6031,15 @@ tag = ["Dec 03, 2019", "Dec 2019", "2019"]
 category = []
 
 [fnf00054]
+name = "【呱吉直播】人生晚長EP049：好傻好天真"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/10b3d261-d53e-4907-94d8-323a1811301c/rssFileVip.mp3"
+image = "9e1795b4181f619b87a91a0a2e035f77e9a25f6b610b48fa083e1ae95a0aa980"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP049：好傻好天真"]
+tag = ["Dec 03, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00053]
 name = "【呱吉直播】人生晚長EP047：孤獨的美食廢人直播版 - 大俠愛吃漢堡包"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/cb010bcf-66ba-4b7b-a35d-31cf2dfb64dd/rssFileVip.mp3"
 image = "2424c060cde01d1f60ff263fd947921da5888494091da93278399056f7a3495d"
@@ -6039,30 +6048,21 @@ names = ["【呱吉直播】人生晚長EP047：孤獨的美食廢人直播版 -
 tag = ["Dec 03, 2019", "Dec 2019", "2019"]
 category = []
 
-[fnf00053]
-name = "【呱吉直播】人生晚長EP046：老師帶你看Youtuber經濟學Pt2"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/56313941-d770-4230-b8f3-e1c78d45d55e/rssFileVip.mp3"
-image = "3905c52e9b8a188e9228fbbf5f96f011880b4ed95a99f74e053cd303ebe1e05f"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP046：老師帶你看Youtuber經濟學Pt2"]
-tag = ["Dec 03, 2019", "Dec 2019", "2019"]
-category = []
-
 [fnf00052]
-name = "【呱吉直播】人生晚長EP048：你把我灌醉你讓我流淚 Feat. MC Jeng"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/7f6a5813-1ecc-46e2-a50c-643eed7976fc/rssFileVip.mp3"
-image = "50750aa9c536dd145395acf69da29873c618bdb4d97c698e01ec697bbcc65531"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP048：你把我灌醉你讓我流淚 Feat. MC Jeng"]
-tag = ["Dec 03, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00051]
 name = "【呱吉直播】人生晚長EP050：地獄哏有道德底線嗎"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/1e01e533-2560-4ed4-86c2-de4500fca4ed/rssFileVip.mp3"
 image = "7fa49fe8021426c61666b17cb25859eb7b277cbf0e9d9264ba28ca6c2ff2759a"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP050：地獄哏有道德底線嗎"]
+tag = ["Dec 03, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00051]
+name = "【呱吉直播】人生晚長EP045：精裝追女仔2018 Feat. 苗博雅"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c7286b42-3068-4f6f-9358-b42f0d1ead0f/rssFileVip.mp3"
+image = "f7ac8b75866f2a86a9d8303c2a3e34a4db3dd0133ffdd6f8dfb4e9346c165b38"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP045：精裝追女仔2018 Feat. 苗博雅"]
 tag = ["Dec 03, 2019", "Dec 2019", "2019"]
 category = []
 
@@ -6076,33 +6076,6 @@ tag = ["Dec 03, 2019", "Dec 2019", "2019"]
 category = []
 
 [fnf00049]
-name = "【呱吉直播】人生晚長EP045：精裝追女仔2018 Feat. 苗博雅"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c7286b42-3068-4f6f-9358-b42f0d1ead0f/rssFileVip.mp3"
-image = "f7ac8b75866f2a86a9d8303c2a3e34a4db3dd0133ffdd6f8dfb4e9346c165b38"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP045：精裝追女仔2018 Feat. 苗博雅"]
-tag = ["Dec 03, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00048]
-name = "【呱吉直播】人生晚長EP052：辣到我不要不要的"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/af624d8a-b55e-4b35-b969-45a7a29101cb/rssFileVip.mp3"
-image = "8fe80a310ee6c911b53085b3620a1c815c0e8e038f21803f870fb7d55f7b497c"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP052：辣到我不要不要的"]
-tag = ["Dec 03, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00047]
-name = "【呱吉直播】人生晚長EP049：好傻好天真"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/10b3d261-d53e-4907-94d8-323a1811301c/rssFileVip.mp3"
-image = "9e1795b4181f619b87a91a0a2e035f77e9a25f6b610b48fa083e1ae95a0aa980"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP049：好傻好天真"]
-tag = ["Dec 03, 2019", "Dec 2019", "2019"]
-category = []
-
-[fnf00046]
 name = "【呱吉直播】人生晚長EP051：不要看我羞恥的地方"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/37ba1fdc-a6e3-4fd1-8a6d-ce2eb4dc522c/rssFileVip.mp3"
 image = "bfca3bc13590e9e831233f0019ef78cd8f9d3045f4927099f144e2910a6ca54f"
@@ -6111,12 +6084,39 @@ names = ["【呱吉直播】人生晚長EP051：不要看我羞恥的地方"]
 tag = ["Dec 03, 2019", "Dec 2019", "2019"]
 category = []
 
-[fnf00045]
-name = "【呱吉直播】人生晚長EP043：從永遠的藍到甜心戰士"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b6615a40-80e3-4d4a-ada9-81b829ddd80a/rssFileVip.mp3"
-image = "ee179c159e8f811a09fc2a5901e5dff2f41b83f3bda44ce360853c95375f3a1b"
+[fnf00048]
+name = "【呱吉直播】人生晚長EP046：老師帶你看Youtuber經濟學Pt2"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/56313941-d770-4230-b8f3-e1c78d45d55e/rssFileVip.mp3"
+image = "3905c52e9b8a188e9228fbbf5f96f011880b4ed95a99f74e053cd303ebe1e05f"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP043：從永遠的藍到甜心戰士"]
+names = ["【呱吉直播】人生晚長EP046：老師帶你看Youtuber經濟學Pt2"]
+tag = ["Dec 03, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00047]
+name = "【呱吉直播】人生晚長EP052：辣到我不要不要的"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/af624d8a-b55e-4b35-b969-45a7a29101cb/rssFileVip.mp3"
+image = "8fe80a310ee6c911b53085b3620a1c815c0e8e038f21803f870fb7d55f7b497c"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP052：辣到我不要不要的"]
+tag = ["Dec 03, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00046]
+name = "【呱吉直播】人生晚長EP048：你把我灌醉你讓我流淚 Feat. MC Jeng"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/7f6a5813-1ecc-46e2-a50c-643eed7976fc/rssFileVip.mp3"
+image = "50750aa9c536dd145395acf69da29873c618bdb4d97c698e01ec697bbcc65531"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP048：你把我灌醉你讓我流淚 Feat. MC Jeng"]
+tag = ["Dec 03, 2019", "Dec 2019", "2019"]
+category = []
+
+[fnf00045]
+name = "【呱吉直播】人生晚長EP037：Metal Spirit Feat. XXX"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c46c3360-7f96-40dc-aa36-5577209c9ff0/rssFileVip.mp3"
+image = "023fa87705cd426001d8a946eb129edcba7f651c64db391a02e035aeebae581a"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP037：Metal Spirit Feat. XXX"]
 tag = ["Nov 06, 2019", "Nov 2019", "2019"]
 category = []
 
@@ -6130,24 +6130,6 @@ tag = ["Nov 06, 2019", "Nov 2019", "2019"]
 category = []
 
 [fnf00043]
-name = "EP038【呱吉直播】人生晚長：想一個人就好"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b38fbe6a-96af-490a-b2b7-e44197d776eb/rssFileVip.mp3"
-image = "6ff9f42bed83abc0486a4a3786bdffa468f191883df3c2d0d7524faf62c03daf"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["EP038【呱吉直播】人生晚長：想一個人就好"]
-tag = ["Nov 06, 2019", "Nov 2019", "2019"]
-category = []
-
-[fnf00042]
-name = "【呱吉直播】人生晚長EP037：Metal Spirit Feat. XXX"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c46c3360-7f96-40dc-aa36-5577209c9ff0/rssFileVip.mp3"
-image = "023fa87705cd426001d8a946eb129edcba7f651c64db391a02e035aeebae581a"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP037：Metal Spirit Feat. XXX"]
-tag = ["Nov 06, 2019", "Nov 2019", "2019"]
-category = []
-
-[fnf00041]
 name = "【呱吉直播】人生晚長EP036：一個吃了誠實豆沙包的人生（feat. 柯文哲）"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/15113a4e-4f82-433a-b125-1373b81df0a6/rssFileVip.mp3"
 image = "a7021dbf1128908b7f7899fdcb679b0d15bbbe9d45c5cb6cf9761cd6df8db74a"
@@ -6156,12 +6138,30 @@ names = ["【呱吉直播】人生晚長EP036：一個吃了誠實豆沙包的�
 tag = ["Nov 06, 2019", "Nov 2019", "2019"]
 category = []
 
-[fnf00040]
+[fnf00042]
 name = "【呱吉直播】人生晚長EP035：和呱吉一起去看夜景"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/6791c49c-d9bb-4c56-b6b3-2dd5cc891605/rssFileVip.mp3"
 image = "b6a806515a98b22ce6127019f5c9c3a9294a03b4299cb7c072f1fb1182c1521b"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP035：和呱吉一起去看夜景"]
+tag = ["Nov 06, 2019", "Nov 2019", "2019"]
+category = []
+
+[fnf00041]
+name = "【呱吉直播】人生晚長EP042：懷舊星期四 - 小壽星們"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/4ff24ec6-2d80-4489-a2a6-e71e8cdd0066/rssFileVip.mp3"
+image = "03e93dddace5ebdc0820ec30f17d6d97a262c6acb7e60f27115f1ffb62524301"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP042：懷舊星期四 - 小壽星們"]
+tag = ["Nov 06, 2019", "Nov 2019", "2019"]
+category = []
+
+[fnf00040]
+name = "【呱吉直播】人生晚長EP043：從永遠的藍到甜心戰士"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b6615a40-80e3-4d4a-ada9-81b829ddd80a/rssFileVip.mp3"
+image = "ee179c159e8f811a09fc2a5901e5dff2f41b83f3bda44ce360853c95375f3a1b"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP043：從永遠的藍到甜心戰士"]
 tag = ["Nov 06, 2019", "Nov 2019", "2019"]
 category = []
 
@@ -6175,20 +6175,20 @@ tag = ["Nov 06, 2019", "Nov 2019", "2019"]
 category = []
 
 [fnf00038]
-name = "【呱吉直播】人生晚長EP042：懷舊星期四 - 小壽星們"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/4ff24ec6-2d80-4489-a2a6-e71e8cdd0066/rssFileVip.mp3"
-image = "03e93dddace5ebdc0820ec30f17d6d97a262c6acb7e60f27115f1ffb62524301"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP042：懷舊星期四 - 小壽星們"]
-tag = ["Nov 06, 2019", "Nov 2019", "2019"]
-category = []
-
-[fnf00037]
 name = "【呱吉直播】人生晚長EP044：破爛少年在草原"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/550c5df5-3406-4925-aaef-cc0842e6c8dd/rssFileVip.mp3"
 image = "9155d82a513f87c2c5f11915d56cdb86ee05073314275cc578620fb44da2250d"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP044：破爛少年在草原"]
+tag = ["Nov 06, 2019", "Nov 2019", "2019"]
+category = []
+
+[fnf00037]
+name = "EP038【呱吉直播】人生晚長：想一個人就好"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b38fbe6a-96af-490a-b2b7-e44197d776eb/rssFileVip.mp3"
+image = "6ff9f42bed83abc0486a4a3786bdffa468f191883df3c2d0d7524faf62c03daf"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["EP038【呱吉直播】人生晚長：想一個人就好"]
 tag = ["Nov 06, 2019", "Nov 2019", "2019"]
 category = []
 
@@ -6202,24 +6202,15 @@ tag = ["Oct 17, 2019", "Oct 2019", "2019"]
 category = []
 
 [fnf00035]
-name = "【呱吉直播】人生晚長EP030：那些2017年離開人世的英雄們（換不了封面覺得很煩躁）"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/987de922-a8ce-45b1-b49c-70a8389b272a/rssFileVip.mp3"
-image = "456477a30e96169bd5b9eadd941c75728ebf4c0649b526c371b6e438344f31a3"
+name = "【呱吉直播】人生晚長EP025：這個機會不是屬於我的"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/971fe0ec-793a-4671-817d-b550f3f7fc01/rssFileVip.mp3"
+image = "dc8e865e77a946227e5885e19f8d0bd1105f52ec36d88df9b04162fbee4a3f78"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP030：那些2017年離開人世的英雄們（換不了封面覺得很煩躁）"]
+names = ["【呱吉直播】人生晚長EP025：這個機會不是屬於我的"]
 tag = ["Oct 17, 2019", "Oct 2019", "2019"]
 category = []
 
 [fnf00034]
-name = "【呱吉直播】人生晚長EP029：同情我就給我五百塊"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/12af1477-af3d-431f-833a-98c8f3dcb3dd/rssFileVip.mp3"
-image = "5bcba8d08dfcaf4fd7704e65f7371e201a5da62ea8a45123a740982296e1d6e7"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP029：同情我就給我五百塊"]
-tag = ["Oct 17, 2019", "Oct 2019", "2019"]
-category = []
-
-[fnf00033]
 name = "【呱吉直播】人生晚長EP032：都42歲的人了還能當超級英雄嗎"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/60f0c1c3-37ca-40e6-83ce-01f290b370a1/rssFileVip.mp3"
 image = "de468036ea7a8ecefd37964efd0b409b6dc1876bd97f07e4714c53935577f835"
@@ -6228,7 +6219,7 @@ names = ["【呱吉直播】人生晚長EP032：都42歲的人了還能當超級
 tag = ["Oct 17, 2019", "Oct 2019", "2019"]
 category = []
 
-[fnf00032]
+[fnf00033]
 name = "【呱吉直播】人生晚長EP026：十萬訂閱的Call In之夜"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/73e56670-0ccf-40da-94d0-83850ac3135e/rssFileVip.mp3"
 image = "ba6c71695ea9e636bc7b79d64dce2b72d4c032770f22363dbea6293b8d581458"
@@ -6237,7 +6228,7 @@ names = ["【呱吉直播】人生晚長EP026：十萬訂閱的Call In之夜"]
 tag = ["Oct 17, 2019", "Oct 2019", "2019"]
 category = []
 
-[fnf00031]
+[fnf00032]
 name = "【呱吉直播】人生晚長EP023：幹爆這個世界"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/497437c1-b84d-4851-aedf-44ced2108540/rssFileVip.mp3"
 image = "30eb668b6690e3300f1a361453422f259e6aa8ee102b4bd7844c62c59422f759"
@@ -6246,12 +6237,21 @@ names = ["【呱吉直播】人生晚長EP023：幹爆這個世界"]
 tag = ["Oct 17, 2019", "Oct 2019", "2019"]
 category = []
 
-[fnf00030]
-name = "【呱吉直播】人生晚長EP025：這個機會不是屬於我的"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/971fe0ec-793a-4671-817d-b550f3f7fc01/rssFileVip.mp3"
-image = "dc8e865e77a946227e5885e19f8d0bd1105f52ec36d88df9b04162fbee4a3f78"
+[fnf00031]
+name = "【呱吉直播】人生晚長EP024：愛愛的時候不要提呱吉"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/e1b1cf41-ecc7-45a8-9539-6088f0407760/rssFileVip.mp3"
+image = "816bcbb56bb9fa173c8e009fd596578bf3db05fce01cfa8d31fd707e3793e891"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP025：這個機會不是屬於我的"]
+names = ["【呱吉直播】人生晚長EP024：愛愛的時候不要提呱吉"]
+tag = ["Oct 17, 2019", "Oct 2019", "2019"]
+category = []
+
+[fnf00030]
+name = "【呱吉直播】人生晚長EP029：同情我就給我五百塊"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/12af1477-af3d-431f-833a-98c8f3dcb3dd/rssFileVip.mp3"
+image = "5bcba8d08dfcaf4fd7704e65f7371e201a5da62ea8a45123a740982296e1d6e7"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP029：同情我就給我五百塊"]
 tag = ["Oct 17, 2019", "Oct 2019", "2019"]
 category = []
 
@@ -6274,11 +6274,11 @@ tag = ["Oct 17, 2019", "Oct 2019", "2019"]
 category = []
 
 [fnf00027]
-name = "【呱吉直播】人生晚長EP024：愛愛的時候不要提呱吉"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/e1b1cf41-ecc7-45a8-9539-6088f0407760/rssFileVip.mp3"
-image = "816bcbb56bb9fa173c8e009fd596578bf3db05fce01cfa8d31fd707e3793e891"
+name = "【呱吉直播】人生晚長EP030：那些2017年離開人世的英雄們（換不了封面覺得很煩躁）"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/987de922-a8ce-45b1-b49c-70a8389b272a/rssFileVip.mp3"
+image = "456477a30e96169bd5b9eadd941c75728ebf4c0649b526c371b6e438344f31a3"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP024：愛愛的時候不要提呱吉"]
+names = ["【呱吉直播】人生晚長EP030：那些2017年離開人世的英雄們（換不了封面覺得很煩躁）"]
 tag = ["Oct 17, 2019", "Oct 2019", "2019"]
 category = []
 
@@ -6301,33 +6301,6 @@ tag = ["Sep 18, 2019", "Sep 2019", "2019"]
 category = []
 
 [fnf00024]
-name = "【呱吉直播】人生晚長EP022：流浪、補遺、Facebook經濟學的騙子"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f090d393-43bb-40c4-a78b-c6d56e7a9615/rssFileVip.mp3"
-image = "8cdbcada45ef5d587673d48db13b74611ec16c5ef927c3135b2e523b7c82dc46"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP022：流浪、補遺、Facebook經濟學的騙子"]
-tag = ["Sep 18, 2019", "Sep 2019", "2019"]
-category = []
-
-[fnf00023]
-name = "【呱吉直播】人生晚長EP016：去你的傳統道德"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/ee31b7c0-e700-462d-8956-3d7ccae91c23/rssFileVip.mp3"
-image = "7b637ea04741c40df31e1827e9b32061de2eeb1f7d120e9f9d9d2adaf913e166"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP016：去你的傳統道德"]
-tag = ["Sep 18, 2019", "Sep 2019", "2019"]
-category = []
-
-[fnf00022]
-name = "【呱吉直播】人生晚長EP015：史上最秘密的告白"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/126a0c25-5dd8-4526-ba3f-8956eaf9861b/rssFileVip.mp3"
-image = "fb95944e2792e9f6d4ff67b9fd44f34ded7d457a64d6765f94bdefe32db4c424"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP015：史上最秘密的告白"]
-tag = ["Sep 18, 2019", "Sep 2019", "2019"]
-category = []
-
-[fnf00021]
 name = "【呱吉直播】人生晚長EP014：我在迪士尼的日子"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/32f506dd-c27b-43be-963b-b8c0284df90f/rssFileVip.mp3"
 image = "f1a072af5ec5fe4b3c2c6dc1c8ba5dc31db243005c8d0b76efda8d96f345603d"
@@ -6336,7 +6309,16 @@ names = ["【呱吉直播】人生晚長EP014：我在迪士尼的日子"]
 tag = ["Sep 18, 2019", "Sep 2019", "2019"]
 category = []
 
-[fnf00020]
+[fnf00023]
+name = "【呱吉直播】人生晚長EP017：完美的約會"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/793ebeb4-80d8-48e5-be93-6a2ae65d13a0/rssFileVip.mp3"
+image = "488c6fbfc11616b5dc2dd35c430fc4786df9365ba46ebe70bcde0451788491d2"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP017：完美的約會"]
+tag = ["Sep 18, 2019", "Sep 2019", "2019"]
+category = []
+
+[fnf00022]
 name = "【呱吉直播】人生晚長EP021：跟著老師看Youtuber經濟學"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/888a964a-be49-4ed7-b10b-aeb18d699c60/rssFileVip.mp3"
 image = "28876bfd1550074a8bc9e622fc162e69b454eca2c7343e534c493e64f9af64c4"
@@ -6345,21 +6327,39 @@ names = ["【呱吉直播】人生晚長EP021：跟著老師看Youtuber經濟學
 tag = ["Sep 18, 2019", "Sep 2019", "2019"]
 category = []
 
+[fnf00021]
+name = "【呱吉直播】人生晚長EP019：德國 奧索馬 打手槍"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/fd6e4429-6608-4ce1-852e-90c8a829e9aa/rssFileVip.mp3"
+image = "b3c7a8a109b5dab3dddf720d5f28ab0df2e54a894dfe6c82e427fa6028bf14a8"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP019：德國 奧索馬 打手槍"]
+tag = ["Sep 18, 2019", "Sep 2019", "2019"]
+category = []
+
+[fnf00020]
+name = "【呱吉直播】人生晚長EP016：去你的傳統道德"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/ee31b7c0-e700-462d-8956-3d7ccae91c23/rssFileVip.mp3"
+image = "7b637ea04741c40df31e1827e9b32061de2eeb1f7d120e9f9d9d2adaf913e166"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP016：去你的傳統道德"]
+tag = ["Sep 18, 2019", "Sep 2019", "2019"]
+category = []
+
 [fnf00019]
+name = "【呱吉直播】人生晚長EP015：史上最秘密的告白"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/126a0c25-5dd8-4526-ba3f-8956eaf9861b/rssFileVip.mp3"
+image = "fb95944e2792e9f6d4ff67b9fd44f34ded7d457a64d6765f94bdefe32db4c424"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP015：史上最秘密的告白"]
+tag = ["Sep 18, 2019", "Sep 2019", "2019"]
+category = []
+
+[fnf00018]
 name = "【呱吉直播】人生晚長EP011：日本綜藝與我（黑色餅乾、藤本敏史、與上島龍兵）"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/ff26e8bc-502a-4eb8-a1c4-3b81d5b82197/rssFileVip.mp3"
 image = "1547f645bd34b7321e4e3a6047a8a8722d93caae8e166e1bca10cd193fb4d5de"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP011：日本綜藝與我（黑色餅乾、藤本敏史、與上島龍兵）"]
-tag = ["Sep 18, 2019", "Sep 2019", "2019"]
-category = []
-
-[fnf00018]
-name = "【呱吉直播】人生晚長EP017：完美的約會"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/793ebeb4-80d8-48e5-be93-6a2ae65d13a0/rssFileVip.mp3"
-image = "488c6fbfc11616b5dc2dd35c430fc4786df9365ba46ebe70bcde0451788491d2"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP017：完美的約會"]
 tag = ["Sep 18, 2019", "Sep 2019", "2019"]
 category = []
 
@@ -6373,11 +6373,11 @@ tag = ["Sep 18, 2019", "Sep 2019", "2019"]
 category = []
 
 [fnf00016]
-name = "【呱吉直播】人生晚長EP019：德國 奧索馬 打手槍"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/fd6e4429-6608-4ce1-852e-90c8a829e9aa/rssFileVip.mp3"
-image = "b3c7a8a109b5dab3dddf720d5f28ab0df2e54a894dfe6c82e427fa6028bf14a8"
+name = "【呱吉直播】人生晚長EP022：流浪、補遺、Facebook經濟學的騙子"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f090d393-43bb-40c4-a78b-c6d56e7a9615/rssFileVip.mp3"
+image = "8cdbcada45ef5d587673d48db13b74611ec16c5ef927c3135b2e523b7c82dc46"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP019：德國 奧索馬 打手槍"]
+names = ["【呱吉直播】人生晚長EP022：流浪、補遺、Facebook經濟學的騙子"]
 tag = ["Sep 18, 2019", "Sep 2019", "2019"]
 category = []
 
@@ -6391,33 +6391,6 @@ tag = ["Sep 09, 2019", "Sep 2019", "2019"]
 category = []
 
 [fnf00014]
-name = "【呱吉直播】人生晚長007：什麼建中台大都是騙人的"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/e32607bd-deba-475d-b011-cc434ac395d0/rssFileVip.mp3"
-image = "5c1a15d02b99b4fe92cc2f7b221845d22c48b5ce26c3f1a71c04f67db72e19ce"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長007：什麼建中台大都是騙人的"]
-tag = ["Sep 02, 2019", "Sep 2019", "2019"]
-category = []
-
-[fnf00013]
-name = "【呱吉直播】人生晚長EP006：孤獨"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c8f130d4-1cf1-4586-afe6-66528abbbe36/rssFileVip.mp3"
-image = "f2690189f9b4fefe5fb69ca662315002d15d26ee027ef5ff41a04a9e0d9e2cd1"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP006：孤獨"]
-tag = ["Sep 02, 2019", "Sep 2019", "2019"]
-category = []
-
-[fnf00012]
-name = "【呱吉直播】人生晚長EP010：真・十萬訂閱FAQ"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/d5b1f61a-391c-465b-a2b7-605000481d0d/rssFileVip.mp3"
-image = "9c0ce54a42858bd90bac4b552389c44096e87be8521af79e3116271b4a7a62ef"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP010：真・十萬訂閱FAQ"]
-tag = ["Sep 02, 2019", "Sep 2019", "2019"]
-category = []
-
-[fnf00011]
 name = "【呱吉直播】人生晚長EP009：解嚴 音樂 奶頭對拳頭"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/b5e5e613-504c-4e68-b0b7-b7b9db7d2eef/rssFileVip.mp3"
 image = "68be27d1d445ebc94be09d2bb6a08c411c3918ff19e71e3861aab8342162682e"
@@ -6426,12 +6399,39 @@ names = ["【呱吉直播】人生晚長EP009：解嚴 音樂 奶頭對拳頭"]
 tag = ["Sep 02, 2019", "Sep 2019", "2019"]
 category = []
 
-[fnf00010]
+[fnf00013]
+name = "【呱吉直播】人生晚長EP010：真・十萬訂閱FAQ"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/d5b1f61a-391c-465b-a2b7-605000481d0d/rssFileVip.mp3"
+image = "9c0ce54a42858bd90bac4b552389c44096e87be8521af79e3116271b4a7a62ef"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP010：真・十萬訂閱FAQ"]
+tag = ["Sep 02, 2019", "Sep 2019", "2019"]
+category = []
+
+[fnf00012]
 name = "【呱吉直播】人生晚長EP008：黑道、裸體、洗屁股"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/e17948ba-4291-46d7-ad30-4fffd26765dd/rssFileVip.mp3"
 image = "34eb410e03c306aa7e1979a3ed1eee2ea1283524d59896b121afeecabd5f9e73"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP008：黑道、裸體、洗屁股"]
+tag = ["Sep 02, 2019", "Sep 2019", "2019"]
+category = []
+
+[fnf00011]
+name = "【呱吉直播】人生晚長007：什麼建中台大都是騙人的"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/e32607bd-deba-475d-b011-cc434ac395d0/rssFileVip.mp3"
+image = "5c1a15d02b99b4fe92cc2f7b221845d22c48b5ce26c3f1a71c04f67db72e19ce"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長007：什麼建中台大都是騙人的"]
+tag = ["Sep 02, 2019", "Sep 2019", "2019"]
+category = []
+
+[fnf00010]
+name = "【呱吉直播】人生晚長EP006：孤獨"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/c8f130d4-1cf1-4586-afe6-66528abbbe36/rssFileVip.mp3"
+image = "f2690189f9b4fefe5fb69ca662315002d15d26ee027ef5ff41a04a9e0d9e2cd1"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP006：孤獨"]
 tag = ["Sep 02, 2019", "Sep 2019", "2019"]
 category = []
 
@@ -6445,20 +6445,20 @@ tag = ["Aug 28, 2019", "Aug 2019", "2019"]
 category = []
 
 [fnf00008]
-name = "【呱吉直播】人生晚長EP002：Shalala、祁家威、與私心傾慕的人"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/73ec13aa-70d5-4c29-929c-569e88d2e1e5/rssFileVip.mp3"
-image = "32c1dd364639a9141ae3d3565dbef8c8b3120498cb530482b76713489b2178d0"
-description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP002：Shalala、祁家威、與私心傾慕的人"]
-tag = ["Aug 28, 2019", "Aug 2019", "2019"]
-category = []
-
-[fnf00007]
 name = "【呱吉直播】人生晚長EP028：跟童年說再見"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/0c6bc9db-f981-492e-b00d-d0737ad15d49/rssFileVip.mp3"
 image = "a638c2ca80aca61a70272319623387b81e94327947db87e5a2ec883964e5f63f"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
 names = ["【呱吉直播】人生晚長EP028：跟童年說再見"]
+tag = ["Aug 28, 2019", "Aug 2019", "2019"]
+category = []
+
+[fnf00007]
+name = "【呱吉直播】人生晚長EP004：龐克死的時候也要臉孔朝下"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f173b7c5-4b4f-4b5a-a83d-cd28fdf41009/rssFileVip.mp3"
+image = "07120f6ed38a097012d1f82eb9e3132683cffb65fa4cd867baa9169d8a8b25d5"
+description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP004：龐克死的時候也要臉孔朝下"]
 tag = ["Aug 28, 2019", "Aug 2019", "2019"]
 category = []
 
@@ -6472,11 +6472,11 @@ tag = ["Aug 28, 2019", "Aug 2019", "2019"]
 category = []
 
 [fnf00005]
-name = "【呱吉直播】人生晚長EP003：開箱、整老婆、與美食廢人"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/56659d87-5cd8-4859-bae4-a0d7b3676c26/rssFileVip.mp3"
-image = "2d81d22cbe31022e70efc2c06793298313bcdca9b5272c6d16f714162b389c51"
+name = "【呱吉直播】人生晚長EP002：Shalala、祁家威、與私心傾慕的人"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/73ec13aa-70d5-4c29-929c-569e88d2e1e5/rssFileVip.mp3"
+image = "32c1dd364639a9141ae3d3565dbef8c8b3120498cb530482b76713489b2178d0"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP003：開箱、整老婆、與美食廢人"]
+names = ["【呱吉直播】人生晚長EP002：Shalala、祁家威、與私心傾慕的人"]
 tag = ["Aug 28, 2019", "Aug 2019", "2019"]
 category = []
 
@@ -6490,11 +6490,11 @@ tag = ["Aug 28, 2019", "Aug 2019", "2019"]
 category = []
 
 [fnf00003]
-name = "【呱吉直播】人生晚長EP004：龐克死的時候也要臉孔朝下"
-feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/f173b7c5-4b4f-4b5a-a83d-cd28fdf41009/rssFileVip.mp3"
-image = "07120f6ed38a097012d1f82eb9e3132683cffb65fa4cd867baa9169d8a8b25d5"
+name = "【呱吉直播】人生晚長EP003：開箱、整老婆、與美食廢人"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/56659d87-5cd8-4859-bae4-a0d7b3676c26/rssFileVip.mp3"
+image = "2d81d22cbe31022e70efc2c06793298313bcdca9b5272c6d16f714162b389c51"
 description = "【呱吉直播】人生晚長系列 \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
-names = ["【呱吉直播】人生晚長EP004：龐克死的時候也要臉孔朝下"]
+names = ["【呱吉直播】人生晚長EP003：開箱、整老婆、與美食廢人"]
 tag = ["Aug 28, 2019", "Aug 2019", "2019"]
 category = []
 
