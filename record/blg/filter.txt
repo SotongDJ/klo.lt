@@ -8,7 +8,8 @@ Process: record/blg/keyword-4-professional.toml
 Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
-  found in: (362)
+  found in: (363)
+    blg00980
     blg00978
     blg00976
     blg00973
@@ -1297,6 +1298,12 @@ Process: record/blg/keyword-6-beta.toml
     blg00742
   Excluded: (0)
     
+[Jason Cheny]
+  found in: (2)
+    blg00980
+    blg00789
+  Excluded: (0)
+    
 [佳諭]
   found in: (2)
     blg00810
@@ -1655,7 +1662,8 @@ Process: record/blg/keyword-6-beta.toml
     blg00238
     blg00941
     blg00376
-  Excluded: (1)
+  Excluded: (2)
+    blg00980
     blg00789
 [小周@人渣文本]
   found in: (6)
