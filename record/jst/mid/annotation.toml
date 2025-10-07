@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00716]
+name = "【本週提醒】夠狠，就有機會重新開始"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmgfyokvn00b601vn1ryua4dc/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmgfyokvn00b701vnbrju25mg.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽10/6-10/12星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br /> <br />【累的】雙子 巨蟹 天秤 水瓶 <br /> <br />雙子：心力交瘁需休息保養，感情想默默沉澱 <br />巨蟹：重大事件先靜觀其變，感情需多觀察再調整 <br />天秤：卡住的局勢需耐心等待，感情別只想著自己 <br />水瓶：承接大挑戰勞心勞力，感情失言戳到對方 <br /> <br />【穩的】牡羊 金牛 天蠍 射手 <br /> <br />牡羊：長官要求難拒絕壓力大，感情渴望體貼支持 <br />金牛：情緒左右工作表現，感情男女待遇大不同 <br />天蠍：整理財務對結果滿意，感情相處需主動安排 <br />射手：與年輕世代互動增多，感情渴望被呵護照顧 <br /> <br />【讚的】獅子 處女 魔羯 雙魚 <br /> <br />獅子：專業表現亮眼突出，感情高冷路線更吸引人 <br />處女：有貴人提拔但囉嗦，感情長輩牽線介紹對象 <br />魔羯：會處理跟錢有關的事，感情肢體接觸更加分 <br />雙魚：工作表現被肯定讚賞，感情自信提升桃花旺</p>"
+names = ["【本週提醒】夠狠，就有機會重新開始"]
+tag = ["Oct 07, 2025", "Oct 2025", "2025", "本週提醒"]
+category = ["運勢"]
+
 [jst00715]
 name = "EP458 滿月一定會生氣？ ft.台通何a"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmgai3wj0004601xn9bdbcijj/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmgai3wj0004701xnej7kaio1.mp3"
