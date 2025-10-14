@@ -345,7 +345,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [木星]
-  found in: (9)
+  found in: (10)
+    jst00719
     jst00514
     jst00356
     jst00302
@@ -438,7 +439,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [巨蟹座]
-  found in: (5)
+  found in: (6)
+    jst00719
     jst00612
     jst00547
     jst00382
