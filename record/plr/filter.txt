@@ -2,7 +2,9 @@
 Start annotation
 Process: record/plr/keyword-0.toml
 [政治歸政治]
-  found in: (198)
+  found in: (200)
+    plr00722
+    plr00721
     plr00719
     plr00718
     plr00716
