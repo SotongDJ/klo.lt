@@ -396,7 +396,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (332)
+  found in: (333)
+    blg00986
     blg00984
     blg00981
     blg00979
@@ -1566,7 +1567,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [Kimberley陳芳語]
-  found in: (3)
+  found in: (4)
+    blg00986
     blg00824
     blg00475
     blg00423
