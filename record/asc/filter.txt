@@ -58,7 +58,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [許願]
-  found in: (2)
+  found in: (3)
+    asc00185
     asc00169
     asc00008
   Excluded: (0)
