@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00724]
+name = "【本週提醒】先把自己穩定好最重要"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmh8jft5u028301wzfcmfgosr/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmh8jft5u028401wz1vop3pth.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽10/27-11/02星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br /> <br />【累的】金牛 雙子 天秤 雙魚 <br /> <br />金牛：健康好壞是本週關鍵，感情不要太悲觀 <br />雙子：外部環境阻力多，感情磨合需自覺問題 <br />天秤：需一一擊破問題，感情爭執也是溝通 <br />雙魚：壓力大需發洩情緒，感情要提升正能量 <br /> <br />【穩的】牡羊 獅子 射手 魔羯 <br /> <br />牡羊：學著慢下來不要太衝，感情遇見理想男／女神 <br />獅子：出現新的機會值得把握，感情和另一半時間兜不上 <br />射手：合作洽談無法一步到位，感情要多關心對方 <br />魔羯：拋開計畫善用直覺，感情放輕鬆反而順利 <br /> <br />【讚的】巨蟹 處女 天蠍 水瓶 <br /> <br />巨蟹：表現亮眼受提拔，感情中展現自信魅力 <br />處女：長輩賞識但要求高，感情太強勢會硬碰硬 <br />天蠍：心想事成順風順水，感情可主動出擊 <br />水瓶：好消息連連喜事多，感情公開能得祝福</p>"
+names = ["【本週提醒】先把自己穩定好最重要"]
+tag = ["Oct 27, 2025", "Oct 2025", "2025", "本週提醒"]
+category = ["運勢"]
+
 [jst00723]
 name = "EP463 火星，你的性魅力🔥🔥（尺度有點大😂）"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmh4khcxl013h01w27532gmcb/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmh4khcxl013i01w226ov59nj.mp3"
