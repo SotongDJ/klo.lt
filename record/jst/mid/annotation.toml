@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00730]
+name = "【本週運勢】不急，慢慢做就好"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmhsl3yzx01e401rg38uug1ig/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmhsl3yzx01e501rggvrx7jva.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽11/10-11/16星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br />&nbsp; <br />【累的】金牛 天秤 魔羯 水瓶 <br /> <br />金牛：遇到反對意見要耐心磨合，感情爭執找中間人協調 <br />天秤：計畫突變先有心理準備，感情別向宇宙下錯訂單啊 <br />魔羯：找人合作比獨立作業好，感情可能收到朋友告白 <br />水瓶：自信之處出現變數，感情注意另一半哪裡變了 <br /> <br />【穩的】巨蟹 獅子 天蠍 射手 <br /> <br />巨蟹：找個假想敵激發自己，桃花就在職場中 <br />獅子：工作上多幫人會有好口碑，感情越貼心越有行情 <br />天蠍：工作這週低調一點準沒錯，感情可能有點黯淡沒勁 <br />射手：工作新舊任務通通湧來，感情別只顧表達也要傾聽喔 <br /> <br />【讚的】牡羊 雙子 處女 雙魚 <br /> <br />牡羊：人情互動是雙面刃，感情攻無不克適合告白 <br />雙子：這週睡飽一點是重點，感情多讓對方表達 <br />處女：工作開口拜託就有人幫忙，感情好惡分明心想事成 <br />雙魚：被長官看重而壓力不小，感情主導權在你手中</p>"
+names = ["【本週運勢】不急，慢慢做就好"]
+tag = ["Nov 10, 2025", "Nov 2025", "2025"]
+category = []
+
 [jst00729]
 name = "EP467 莉莉絲，你內心最羞愧的地方（為了講這集還做惡夢🤧）"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmhofyjqu004401w8bpu3c2vp/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmhofyjqu004501w8871b4zlk.mp3"
