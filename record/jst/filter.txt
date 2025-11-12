@@ -532,7 +532,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [一宮]
-  found in: (4)
+  found in: (5)
+    jst00731
     jst00200
     jst00192
     jst00189
