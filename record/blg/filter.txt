@@ -400,7 +400,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (337)
+  found in: (338)
+    blg00996
     blg00994
     blg00993
     blg00991
@@ -1672,7 +1673,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [Jason 劉致昕]
-  found in: (3)
+  found in: (4)
+    blg00996
     blg00238
     blg00941
     blg00376
