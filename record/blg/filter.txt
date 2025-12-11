@@ -1219,7 +1219,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [小孩限定]
-  found in: (33)
+  found in: (34)
+    blg01005
     blg00999
     blg00975
     blg00960
@@ -1523,6 +1524,12 @@ Process: record/blg/keyword-6-beta.toml
   found in: (2)
     blg00786
     blg00731
+  Excluded: (0)
+    
+[超認真少年]
+  found in: (2)
+    blg01005
+    blg00838
   Excluded: (0)
     
 [Peggy]
