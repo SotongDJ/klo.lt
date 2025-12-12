@@ -520,7 +520,8 @@ Process: record/jst/keyword-0.toml
   Excluded: (0)
     
 [雙魚座]
-  found in: (10)
+  found in: (11)
+    jst00744
     jst00639
     jst00473
     jst00472
