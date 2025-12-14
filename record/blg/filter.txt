@@ -8,7 +8,8 @@ Process: record/blg/keyword-4-professional.toml
 Process: record/blg/keyword-5-guest.toml
 Process: record/blg/keyword-6-beta.toml
 [百靈果 NEWS]
-  found in: (373)
+  found in: (374)
+    blg01006
     blg01003
     blg01001
     blg01000
@@ -1582,6 +1583,12 @@ Process: record/blg/keyword-6-beta.toml
   found in: (2)
     blg00598
     blg00714
+  Excluded: (0)
+    
+[娃娃]
+  found in: (2)
+    blg01006
+    blg00362
   Excluded: (0)
     
 [石巴朝]
