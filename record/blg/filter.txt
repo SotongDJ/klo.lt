@@ -1276,7 +1276,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [週二夜現場]
-  found in: (17)
+  found in: (18)
+    blg01008
     blg00715
     blg00708
     blg00697
