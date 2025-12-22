@@ -2,7 +2,8 @@
 Start annotation
 Process: record/tts/keyword-0.toml
 [週間節目]
-  found in: (46)
+  found in: (47)
+    tts00327
     tts00324
     tts00319
     tts00317
