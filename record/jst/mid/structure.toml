@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00751]
+name = "【本週運勢】該做就做，該休息就休息🌪️"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmjqj8elp02p401rhaaqletgc/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmjqj8elp02p501rh8ngs4btc.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽12/29-1/4星座運勢週報】 <br /> <br />★對十二星座的影響 <br />（太陽、上升皆可參考） <br /> <br />【累的】金牛 雙子 巨蟹 魔羯 <br /> <br />金牛：關係改變需重新適應，感情聚少離多需多聯繫 <br />雙子：期待落空先別失望，感情有壓力適合先分開 <br />巨蟹：外界干擾多須做應變，感情要勇敢說出想法 <br />魔羯：事情全擠在一起，感情因抱怨而影響氣氛 <br /> <br />【穩的】牡羊 天秤 射手 水瓶 <br /> <br />牡羊：應酬聚會佔滿時間，感情來的都不喜歡 <br />天秤：一舉一動成焦點，感情魅力大增吸引目光 <br />射手：細節瑣事要有耐心，感情在職場更有機會 <br />水瓶：需爭取資源壓力大，感情重視價值觀契合 <br /> <br />【讚的】獅子 處女 天蠍 雙魚 <br /> <br />獅子：工作忙碌成果亮眼，感情有魅力卻心思不在 <br />處女：狀況穩定卻迷惘，感情忽然變夯不習慣 <br />天蠍：事情緊接而來，感情因忙碌而疏忽對方 <br />雙魚：能見度高運勢強，感情告白成功人氣旺</p>"
+names = ["【本週運勢】該做就做，該休息就休息🌪️"]
+tag = ["Dec 29, 2025", "Dec 2025", "2025"]
+category = []
+
 [jst00750]
 name = "EP481 同為開創、固定、變動星座，卻不合的原因"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmjjiop2i000101xhhecx12hg/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmjjiop2i000201xhedf5ciac.mp3"
