@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[fnf00756]
+name = "【呱吉直播】人生晚長EP121：2025台灣十大重要事件回顧"
+feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/cbb5ce93-147a-401a-ad80-85e47cc02706/rssFileVip.mp3"
+image = "4cc41bd01fdc381a7213556838d424b3f1b110b6ec9b7a4df662b20e1d5aaa3b"
+description = "聖誕節說好話，不傷和氣，邁向美好的明天 \n  \n  \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["【呱吉直播】人生晚長EP121：2025台灣十大重要事件回顧"]
+tag = ["Dec 31, 2025", "Dec 2025", "2025"]
+category = []
+
 [fnf00755]
 name = "【呱吉】新資料夾(264)：燙手男人不賣腐"
 feed = "https://rss.soundon.fm/rssf/ecd31076-d12d-46dc-ba11-32d24b41cca5/feedurl/bb4de71b-893f-4534-9128-e5c58b2d5aaf/rssFileVip.mp3"
