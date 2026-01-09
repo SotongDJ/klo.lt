@@ -121,7 +121,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [夢]
-  found in: (9)
+  found in: (10)
+    asc00196
     asc00181
     asc00179
     asc00170
