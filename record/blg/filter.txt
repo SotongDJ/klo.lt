@@ -407,7 +407,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (345)
+  found in: (346)
+    blg01014
     blg01012
     blg01010
     blg01009
@@ -1673,6 +1674,12 @@ Process: record/blg/keyword-6-beta.toml
   found in: (2)
     blg00274
     blg00217
+  Excluded: (0)
+    
+[吳怡農]
+  found in: (2)
+    blg01014
+    blg00429
   Excluded: (0)
     
 [于北辰]
