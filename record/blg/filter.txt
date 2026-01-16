@@ -1227,7 +1227,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [小孩限定]
-  found in: (34)
+  found in: (35)
+    blg01015
     blg01005
     blg00999
     blg00975
@@ -1702,7 +1703,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [鄒宗翰 @德國之聲]
-  found in: (3)
+  found in: (4)
+    blg01015
     blg00660
     blg00623
     blg00819
