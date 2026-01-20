@@ -408,7 +408,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (0)
     
 [KK Show]
-  found in: (346)
+  found in: (347)
+    blg01017
     blg01014
     blg01012
     blg01010
@@ -1772,7 +1773,8 @@ Process: record/blg/keyword-6-beta.toml
   Excluded: (1)
     blg00164
 [Aaron]
-  found in: (2)
+  found in: (3)
+    blg01017
     blg00818
     blg00603
   Excluded: (0)
