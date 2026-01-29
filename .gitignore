@@ -6,6 +6,7 @@ static_files/f
 static_files/p
 temp
 *.7z
+CLAUDE.md
 
 # Exclude Requests
 */record/*Requests.*
