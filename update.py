@@ -59,13 +59,51 @@ def do_job(target_str,configing):
         description_path = f"record/{target_str}/record/description.toml"
         description_dict.update(rtoml.load(open(description_path,encoding="utf8")))
     try:
-        channel_cover_str = rss_feed.find("image").url.contents[0]  # type: ignore
+        channel_cover_str = str(rss_feed.find("image").url.contents[0])  # type: ignore
     except:
-        channel_cover_str = ""
+        # Fallback to itunes:image for anchor.fm feeds
+        try:
+            itunes_img = rss_feed.find("itunes:image")
+            if itunes_img and itunes_img.get("href"):
+                channel_cover_str = str(itunes_img["href"])
+            else:
+                channel_cover_str = ""
+        except:
+            channel_cover_str = ""
     if channel_cover_str == "":
         print("        Access Denied to the server")
         print("    Terminated collection: Feed")
     else:
+        # Download channel cover once
+        path_name_str = pathlib.Path(channel_cover_str).parent.name
+        file_name_str = pathlib.Path(channel_cover_str).name
+        safe_channel_cover = F"{path_name_str}-{file_name_str}"
+        if safe_channel_cover not in url_to_file_dict:
+            print(F"request channel cover: {channel_cover_str}")
+            cover_img_r = requests.get(channel_cover_str,stream=True,timeout=60,headers=headers)
+            sleep_time = random.uniform(1, 2)
+            print(f"        sleep: {sleep_time}")
+            time.sleep(sleep_time)
+            try:
+                cover_img_r.raw.decode_content = True
+                img_file = BytesIO(cover_img_r.content)
+                cover_img = Image.open(img_file)
+                h_name = hashlib.new('sha256')
+                h_name.update(cover_img.tobytes())
+                img_name = h_name.hexdigest()
+            except:
+                print("            Access Denied to the file")
+                print("            Use default img instead")
+                img_name = "bbd140bc8bd041b0f1a6a2fc204e6d1024efe2f0e99bf9d5ad052d540df0272b"
+            url_to_file_dict[safe_channel_cover] = img_name
+            if not pathlib.Path(F"docs/p/{img_name}/512.png").exists():
+                print(F"resize: docs/p/{img_name}")
+                for img_size in img_size_list:
+                    pathlib.Path(F"docs/p/{img_name}/").mkdir(parents=True,exist_ok=True)
+                    wpercent = img_size / float(cover_img.size[0])
+                    hsize = int((float(cover_img.size[1]) * float(wpercent)))
+                    cover_img_res = cover_img.resize((img_size, hsize), Image.Resampling.LANCZOS)
+                    cover_img_res.save(F"docs/p/{img_name}/{img_size}.png")
         for unit in rss_feed.find_all('item'):
             try:
                 name = unit.title.contents[0]
@@ -90,39 +128,7 @@ def do_job(target_str,configing):
                 mthfmt_str = "%a, %d %b %Y %H:%M:%S %z"
                 date_str = datetime.strptime(original_time_str,mthfmt_str).strftime("%b %d, %Y")
                 date_dict[name] = date_str
-                img_list = [ufa["href"] for ufa in unit.find_all('itunes:image')] + [channel_cover_str]
-                img_url = str(img_list[0])
-                name2url_dict[name] = img_url
-                path_name_str = pathlib.Path(img_url).parent.name
-                file_name_str = pathlib.Path(img_url).name
-                safe_img_url = F"{path_name_str}-{file_name_str}"
-                if safe_img_url not in url_to_file_dict:
-                    print(F"request: {img_url} for '{name}'")
-                    cover_img_r = requests.get(img_url,stream=True,timeout=60,headers=headers)
-                    # content_type = cover_img_r.headers.get('Content-Type')
-                    sleep_time = random.uniform(1, 2)
-                    print(f"        sleep: {sleep_time}")
-                    time.sleep(sleep_time)
-                    try:
-                        cover_img_r.raw.decode_content = True
-                        img_file = BytesIO(cover_img_r.content)
-                        cover_img = Image.open(img_file)
-                        h_name = hashlib.new('sha256')
-                        h_name.update(cover_img.tobytes())
-                        img_name = h_name.hexdigest()
-                    except:
-                        print("            Access Denied to the file")
-                        print("            Use default img instead")
-                        img_name = "bbd140bc8bd041b0f1a6a2fc204e6d1024efe2f0e99bf9d5ad052d540df0272b"
-                    url_to_file_dict[safe_img_url] = img_name
-                    if not pathlib.Path(F"docs/p/{img_name}/512.png").exists():
-                        print(F"resize: docs/p/{img_name}")
-                        for img_size in img_size_list:
-                            pathlib.Path(F"docs/p/{img_name}/").mkdir(parents=True,exist_ok=True)
-                            wpercent = img_size / float(cover_img.size[0])
-                            hsize = int((float(cover_img.size[1]) * float(wpercent)))
-                            cover_img_res = cover_img.resize((img_size, hsize), Image.Resampling.LANCZOS)
-                            cover_img_res.save(F"docs/p/{img_name}/{img_size}.png")
+                name2url_dict[name] = channel_cover_str
         result_dict["feed"] = rss_dict
         configing.xmlw(rss_req.text,"/record/feedPodcastRequests.xml")
         configing.toml(rss_dict,"/record/feedPodcast.toml")
