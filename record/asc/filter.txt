@@ -143,7 +143,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [東方靈數]
-  found in: (2)
+  found in: (3)
+    asc00199
     asc00142
     asc00091
   Excluded: (0)
