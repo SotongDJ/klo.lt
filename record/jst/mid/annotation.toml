@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00764]
+name = "【本週提醒】你已經跟以前不一樣了"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cml4l0h0f0lip012me7vrcj38/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcml4l0h0f0liq012m823id6b0.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽2/2-2/8星座運勢週報】 <br /> <br />★對十二星座的影響 （太陽、上升皆可參考） <br /> <br />【累的】獅子 天秤 射手 雙魚 <br /> <br />獅子：事業平常心別過度樂觀，感情缺少激情來點新火花 <br />天秤：職場反對聲浪多需忍耐，感情激烈溝通更進一步   <br />射手：工作挑戰需擬定策略，感情考驗在態度而非對錯 <br />雙魚：工作不符期待易自責，感情看清真相反而是解脫 <br /> <br />【穩的】金牛 雙子 處女 天蠍 <br /> <br />金牛：工作需處理檯面下因素，感情共同目標有助升溫 <br />雙子：選擇困難有小卡關，感情同樣陷入選擇難題 <br />處女：較關注內在內心的能量，感情與家的議題有關 <br />天蠍：有多嘗試但易偏離主軸，感情志同道合最來電 <br /> <br />【讚的】牡羊 巨蟹 魔羯 水瓶 <br /> <br />牡羊：事業互助合作更加分，感情告白順利兩情相悅 <br />巨蟹：事業機會多別太保守，感情桃花旺多點自信 <br />魔羯：工作軌道迎來上升期，感情太嚴肅魅力打折 <br />水瓶：事業受到高層關注，感情表達是成敗關鍵</p>"
+names = ["【本週提醒】你已經跟以前不一樣了"]
+tag = ["Feb 02, 2026", "Feb 2026", "2026", "本週提醒"]
+category = ["運勢"]
+
 [jst00763]
 name = "EP489 星盤有逆行的高階發展"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cml0mglho0fpt01202kwtgo68/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcml0mglho0fpu0120gamx7oxs.mp3"
