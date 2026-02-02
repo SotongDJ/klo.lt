@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00525]
+name = "EP523 全方位模型愛好者"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/114895039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F839ada1e-a302-e86a-8e31-a7fcb93e649a.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Kobo】贊助播出</p><p>Kobo Plus 全球超過250萬本電子書與30萬本有聲書，橫跨多種語系</p><p>📍每月$199 就能暢讀KoboPlus 中的所有電子書或有聲書</p><p>📍每月 $259 就能聽讀暢享，同時解鎖電子書與有聲書</p><p>立即加入享14天免費試用👉🏻</p><p><a href=\"https://koboaisa.com/8mkks6\"><u>https://koboaisa.com/8mkks6</u></a></p><p>2/3-2/8 台北國際書展</p><p>🍿 電子書優惠 </p><p>全站電子書結帳輸入優惠代碼 Decade 享75折優惠！單筆滿額天天再抽樂天點數</p><p>🍿 閱讀器優惠</p><p>熱銷款閱讀器通路優惠＋購書金74折起！書展現場更優惠，驚喜價等你來挖寶</p><p><a href=\"https://portaly.cc/kobotw/pages/commute_for_me_2026TIBE\"><u>https://portaly.cc/kobotw/pages/commute_for_me_2026TIBE</u></a></p><p><br></p>\n"
+names = ["EP523 全方位模型愛好者"]
+tag = ["Feb 02, 2026", "Feb 2026", "2026"]
+category = []
+
 [twc00524]
 name = "EP522 亞軍比賽第一名"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/114739918/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2Fc747fde6-16ac-78cf-97f8-68b060b0d281.mp3"
