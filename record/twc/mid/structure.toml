@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00526]
+name = "EP524 不知張公子意下如何"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/115052605/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-5%2Fc8a067f0-1b7d-8d50-53dd-82d73b6a3ca3.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【法國特福 Tefal】贊助播出</p><p>法國特福 IH 熱旋球釜電子鍋世界鍋具第一品牌製成最強電子鍋，就是要給你好口福！360度IH電磁加熱，超強火力炊煮</p><p>熱旋球釜內鍋，完美運用大火力，確保每一粒米均勻受熱智能控溫炊煮，多種米種行程選擇，電腦精準計算最佳炊煮程序</p><p>好鍋煮好米，好年從這一口開始：</p><p><a href=\"https://momo.dm/ai2zuQ\" target=\"_blank\" rel=\"ugc noopener noreferrer\">https://momo.dm/ai2zuQ</a></p><p>@Tefal (特福鍋具)</p><p>#Tefal #法國特福 #IH熱旋球釜電子鍋</p>\n"
+names = ["EP524 不知張公子意下如何"]
+tag = ["Feb 05, 2026", "Feb 2026", "2026"]
+category = []
+
 [twc00525]
 name = "EP523 全方位模型愛好者"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/114895039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F839ada1e-a302-e86a-8e31-a7fcb93e649a.mp3"
