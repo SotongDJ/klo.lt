@@ -86,7 +86,8 @@ Process: record/asc/keyword-1-guest.toml
   Excluded: (0)
     
 [擴大療癒法]
-  found in: (2)
+  found in: (3)
+    asc00200
     asc00075
     asc00030
   Excluded: (0)
