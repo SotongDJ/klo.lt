@@ -2,7 +2,9 @@
 Start annotation
 Process: record/plr/keyword-0.toml
 [政治歸政治]
-  found in: (219)
+  found in: (221)
+    plr00760
+    plr00759
     plr00756
     plr00755
     plr00752
@@ -383,7 +385,9 @@ Process: record/plr/keyword-0.toml
   Excluded: (0)
     
 [YO智事務所]
-  found in: (113)
+  found in: (115)
+    plr00761
+    plr00758
     plr00757
     plr00754
     plr00753

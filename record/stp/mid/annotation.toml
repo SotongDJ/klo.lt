@@ -1,5 +1,23 @@
 # Add your own tag to each episode
 
+[stp00321]
+name = "S6三尼聊#25｜你以為每天過年啊？"
+feed = "https://rss.soundon.fm/rssf/1ba1d999-c8b1-46ed-89b1-a093535d6570/feedurl/19aef54e-b3aa-4a48-8aac-ffe340f6ac8f/rssFileVip.mp3"
+image = "4a8f522ef3c008beb0d31d88a19d9a61612d6600cdbc24da9177f0acf7592720"
+description = "☕️歡迎請三尼喝杯咖啡啾：<a href=\"https://pse.is/5alwm9\">https://pse.is/5alwm9</a> \n. \n不知道大家會不會好奇我們過年都在做什麼 \n還是其實完全不會 \n  \n但我們過年遇到的事都荒謬荒謬好笑好笑的 \n這集很好聽 \n請像喝感冒熱飲一樣的慢慢服用 \n. \n⭐️幫偶們評分5星星加留言起來歐～ \n👂各式合作請寄來這兒：sunnythreepay@gmail.com \n  \nFB、IG、YT同時搜尋：三尼巴掌 \nIG：<a href=\"https://reurl.cc/NXL7yQ\">https://reurl.cc/NXL7yQ</a> \nFB：<a href=\"https://reurl.cc/yn436a\">https://reurl.cc/yn436a</a> \nYT：<a href=\"https://reurl.cc/yn436a\">https://reurl.cc/dVOZ88</a> \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["S6三尼聊#25｜你以為每天過年啊？"]
+tag = ["Feb 25, 2026", "Feb 2026", "2026"]
+category = []
+
+[stp00320]
+name = "S6怪新聞#41｜火山裡開轟趴，泣不成聲！"
+feed = "https://rss.soundon.fm/rssf/1ba1d999-c8b1-46ed-89b1-a093535d6570/feedurl/9b207097-0756-4db1-a610-31e334c4b1d1/rssFileVip.mp3"
+image = "4a8f522ef3c008beb0d31d88a19d9a61612d6600cdbc24da9177f0acf7592720"
+description = "惟元巴黎送急診！ \n原因竟然是可麗餅！ \n  \n🏆本集怪新聞 \n\n熊本火山墜機事件\n賣鍋少女泣不成聲\n巴黎轟趴地板崩塌\n\n\n  \n☕️歡迎請三尼喝杯咖啡啾：<a href=\"https://pse.is/5alwm9\">https://pse.is/5alwm9</a> \n. \n⭐️幫偶們評分5星星加留言起來歐～ \n👂各式合作請寄來這兒：sunnythreepay@gmail.com \n  \nFB、IG、YT同時搜尋：三尼巴掌 \nIG：<a href=\"https://reurl.cc/NXL7yQ\">https://reurl.cc/NXL7yQ</a> \nFB：<a href=\"https://reurl.cc/yn436a\">https://reurl.cc/yn436a</a> \nYT：<a href=\"https://reurl.cc/yn436a\">https://reurl.cc/dVOZ88</a> \n--\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> "
+names = ["S6怪新聞#41｜火山裡開轟趴，泣不成聲！"]
+tag = ["Feb 10, 2026", "Feb 2026", "2026", "S6怪新聞"]
+category = ["#節目系列"]
+
 [stp00319]
 name = "S6三尼聊#24｜終結憂鬱"
 feed = "https://rss.soundon.fm/rssf/1ba1d999-c8b1-46ed-89b1-a093535d6570/feedurl/3034ee64-6ed7-4aaf-88cd-6c9f4918356f/rssFileVip.mp3"
