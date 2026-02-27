@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00531]
+name = "EP529 出國吃冰絕不能咳嗽 ft. 畢恆達"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/116143128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2F452cfe65-5be1-e57a-221f-eda68616fd66.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【NordVPN】贊助播出</p><p>現在只要搜尋 </p><p><a href=\"https://nordvpn.com/commute\"><u>https://nordvpn.com/commute</u></a></p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p><br></p>\n"
+names = ["EP529 出國吃冰絕不能咳嗽 ft. 畢恆達"]
+tag = ["Feb 27, 2026", "Feb 2026", "2026"]
+category = []
+
 [twc00530]
 name = "EP528 過年還是不要聊體重啦"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/115918204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-23%2F3888e1a2-7b1c-7d16-4f37-97befd3114ba.mp3"
