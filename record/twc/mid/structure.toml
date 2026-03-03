@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00532]
+name = "EP530 一定是選最耐用的那個"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/116315298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2F3e8ee475-85b8-7107-4aa0-d702c71f261a.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【 Sony Taiwan】贊助播出</p><p><br /></p><p>有些安靜，試過就回不去了</p><p>全新的 Sony WF-1000XM6 讓降噪再次進化，配戴感輕盈到忘了它的存在</p><p>只留下最純淨的聲音陪伴</p><p>WH-1000XM6 也帶著絕美「沙粉色」優雅回歸！</p><p>讓聲音的儀式感，從踏出家門那一刻開始</p><p>即日起至 2026/4/19 有限時優惠活動，</p><p>全通路早鳥享好禮，買 WF-1000XM6 完成問卷註冊送好禮即享券 $500。</p><p>Sony Store 直營門市限定，舊換新活動，持 Sony 舊款或指定品牌耳機回收，最高限折 $1400。</p><p>點擊資訊欄連結了解更多：</p><p><br /><a href=\"https://go.sony.tw/itzqsn7n\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://go.sony.tw/itzqsn7n</a> </p>\n"
+names = ["EP530 一定是選最耐用的那個"]
+tag = ["Mar 03, 2026", "Mar 2026", "2026"]
+category = []
+
 [twc00531]
 name = "EP529 出國吃冰絕不能咳嗽 ft. 畢恆達"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/116143128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2F452cfe65-5be1-e57a-221f-eda68616fd66.mp3"
