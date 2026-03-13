@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00534]
+name = "EP532 我也是第一次玩雪球"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/116873534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-13%2F7bcd8ef5-288a-9e2e-0cf1-1be105e232bc.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【NordVPN】贊助播出</p><p>現在只要搜尋 <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fnordvpn.com%2Fcommute%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNllSRmlaYWpkMEVEdU5hRHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4_pGmJo7OWzA9ZcZoTmG3kJ9deT6fmBVAZ_-SujjalREh73T_yo9n-wdlS7w_aem_uB5SmHVXQ-GLNxUiZG9RfA&h=AT7YFCRij6XT5-XQVtee-YE5FQqy2GKV49iDPDUxlUjLWrdrmvTWqTEaa_-2rC2lj7yieW9XNkMwnU7nBSmAjs-U_XN5bhD56yqF1PbgUCPqHMhJ9o3nImWkezDdpcjDZwibOUdVbgyErkc6E_tfY-3PFELnTvIP&__tn__=-UK-R&c[0]=AT7ArQ4CWQRF1yJfQaCpZLpSUSJEZJtq6Zpm3J-yEbT128xXXHCEcUfmt5wbvJPGrmQHs1n-wv7M3tbCRXUDISyc5xAqAbAvaell3i2zOHP6hQM3MFtVFV702sHhY5BR5sxMgLGDov6Y7ku8Olkg4jl8T1g4q0D155M8mhpK7i7PnXeZDxeZi1CZw7rMT_-os5D0Q33ck6yLer8XNg33kmj1qg\" target=\"_blank\" rel=\"nofollow noreferrer\">https://nordvpn.com/commute</a></p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案</p><p> 享贈送4個月另有30天試用期，可以隨時取消</p>\n"
+names = ["EP532 我也是第一次玩雪球"]
+tag = ["Mar 13, 2026", "Mar 2026", "2026"]
+category = []
+
 [twc00533]
 name = "EP531 我行我先上"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/116435070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-5%2F371174bc-ce78-c828-6a7f-e5d0561ab72c.mp3"
