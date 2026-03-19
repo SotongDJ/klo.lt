@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00535]
+name = "EP533 繞著咱的愛"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/117161810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-19%2F5b1dfd45-fe07-e030-4130-b1bc7285d3ed.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【犀牛盾 RHINOSHIELD】贊助播出</p><p>還在找兼具功能與風格的水壺嗎？</p><p>犀牛盾 AquaStand 磁吸水壺 刷新你對水壺的想像！它不只是補水工具，更是你最可靠的手機支架；無論是居家工作看稿、健身房紀錄訓練過程、或是帶小孩出門想隨手自拍，犀牛盾比蘋果原廠還強的 MagSafe 磁吸力讓你隨手一貼，就能穩固吸附，解放雙手。而且 AquaStand 通過全球多個食品級認證，堅守 BPA Free 原則，給小朋友使用也很安心。</p><p>除了強大又實用的功能，你還能挑選超多 IP 的聯名圖款，像是葬送的芙莉蓮、怪奇物語、麵包超人，或是在犀牛盾客製化設計平台大展身手，上傳自己的圖片、文字，再搭配平台上超過百位創作者的貼圖，無論你是喜愛滿版設計還是極簡風格，都能輕鬆客製化，展現獨一無二的個人魅力！重點是印刷品質超級讚的啦！</p><p>專屬連結： <a href=\"https://url.rhinoshield.tw/commute-2026-AquaStand\"><u>https://url.rhinoshield.tw/commute-2026-AquaStand</u></a></p><p>限時優惠： 3/27 前，在犀牛盾官網購買 AquaStand 磁吸水壺</p><p>結帳輸入「commute」即可享有 9 折優惠</p><p>#RHINOSHIELD #犀牛盾 #AquaStand #磁吸水壺 #客製化水壺</p><p><br></p>\n"
+names = ["EP533 繞著咱的愛"]
+tag = ["Mar 19, 2026", "Mar 2026", "2026"]
+category = []
+
 [twc00534]
 name = "EP532 我也是第一次玩雪球"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/116873534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-13%2F7bcd8ef5-288a-9e2e-0cf1-1be105e232bc.mp3"
