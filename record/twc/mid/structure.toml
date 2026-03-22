@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00536]
+name = "EP534 限制 ft. 吳承澐"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/117303110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-22%2F0764086e-e1b6-66aa-7ebd-eca49ce4835b.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【Saily】贊助播出</p><p>現在前往 </p><p><a href=\"https://saily.com/commute\"><u>https://saily.com/commute</u></a></p><p>下載 Saily APP</p><p>並在結帳時使用優惠代碼 【commute】</p><p>立即享有專屬 eSIM 方案 85 折優惠！</p><p>#SailyeSIM</p><p><br></p>\n"
+names = ["EP534 限制 ft. 吳承澐"]
+tag = ["Mar 22, 2026", "Mar 2026", "2026"]
+category = []
+
 [twc00535]
 name = "EP533 繞著咱的愛"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/117161810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-19%2F5b1dfd45-fe07-e030-4130-b1bc7285d3ed.mp3"
