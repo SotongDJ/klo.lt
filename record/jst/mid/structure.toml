@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[jst00780]
+name = "【本週提醒】遇到反轉不要害怕！可能是轉機喔"
+feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmn2m088q005q01wy0p9tbvd5/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmn2m088q005r01wy2kudeu1t.mp3"
+image = "086d64f03266c9c1158c613d5da883542e29c12f12b53c16dfbf794b3c885853"
+description = "<p>【唐綺陽3/23-3/29星座運勢週報】 <br /> <br />★對十二星座的影響 （太陽、上升皆可參考） <br /> <br />【累的】金牛 天秤 射手 魔羯 <br /> <br />金牛：資源不足需主動爭取，感情固執會影響表現 <br />天秤：立場分歧需積極應對，感情忙碌或難搞會扣分 <br />射手：放慢腳步休息增運勢，感情溝通不足待改善 <br />魔羯：經驗考驗領導耐心，感情平淡互動累積進展 <br /> <br />【穩的】牡羊 雙子 處女 雙魚 <br /> <br />牡羊：適合獨立作業效率高，感情沉浸自我較為疏離 <br />雙子：高手過招競爭中成長，感情話多反而扣分 <br />處女：成果穩定別過度苛求，感情適合主動突破 <br />雙魚：做事要避免自作聰明，新感情容易產生誤會 <br /> <br />【讚的】巨蟹 獅子 天蠍 水瓶 <br /> <br />巨蟹：運勢強讓談判順利，感情魅力高主導權在手 <br />獅子：直覺決策更正確，感情自然不造作更吸引人 <br />天蠍：過去累積帶來新機會，感情偏好支持型伴侶 <br />水瓶：掌握專業穩定發展，感情太冷淡會錯失良機</p>"
+names = ["【本週提醒】遇到反轉不要害怕！可能是轉機喔"]
+tag = ["Mar 23, 2026", "Mar 2026", "2026"]
+category = []
+
 [jst00779]
 name = "EP499 三宮飛星，看你哪裡最聰明（上）"
 feed = "https://m.cdn.firstory.me/track/ckga7ibs77fgl0875bxwgl0y0/cmmykumuv008c01ysgo4xhffr/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fckga7ibs77fgl0875bxwgl0y0%2Fcmmykumuv008d01ysaxmjdge3.mp3"
