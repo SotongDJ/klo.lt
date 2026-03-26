@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00537]
+name = "EP535 高雄笛笛撞"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/117513046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-26%2Fb7da83fa-e3ac-3f15-12b8-29f95c40bbc2.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【奧拉之城】贊助播出</p><p>2026 高雄公共藝術祭【奧拉之城 III — 未來已讀】</p><p>不只是展覽，這是一段魔幻城市電之國的藝術體驗！十五件大型互動型藝術裝置，結合遊戲世界觀，在動靜之間創造電力與藝術的火花，放下手機，來奧拉之城一起踏上精采冒險旅程吧！</p><p>展覽期間到『奧拉之城』臉書的抽獎貼文回覆，就有機會獲得海豚刑警授權的奧拉之城限量故事購物包！展覽資訊詳情請上官方臉書。</p><p>✨</p><p>展覽期間｜2026.04.03 - 2026.06.07（每週一休展）</p><p>互動時間｜15：00 - 18：00</p><p>展覽地點｜高雄市立美術館</p><p>奧拉之城官方臉書｜</p><p><a href=\"https://www.facebook.com/city.electri/\"><u>https://www.facebook.com/city.electri/</u></a></p><p><br></p>\n"
+names = ["EP535 高雄笛笛撞"]
+tag = ["Mar 26, 2026", "Mar 2026", "2026"]
+category = []
+
 [twc00536]
 name = "EP534 限制 ft. 吳承澐"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/117303110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-22%2F0764086e-e1b6-66aa-7ebd-eca49ce4835b.mp3"
