@@ -1,5 +1,14 @@
 # Add your own tag to each episode
 
+[twc00538]
+name = "EP536 我也不想這樣 ft. 沈可尚"
+feed = "https://anchor.fm/s/1ea77470/podcast/play/117608390/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-28%2Fcc0b42bb-45e6-e43d-05f8-551cb85b88bf.mp3"
+image = "49490f6661118275a953ea9402b46b113c74a218bed58b3f5c9eb773d5e8e8ec"
+description = "<p>本集節目由【NordVPN】贊助播出</p><p>現在只要搜尋 </p><p><a href=\"https://nordvpn.com/commute\" rel=\"ugc noopener noreferrer\" target=\"_blank\">https://nordvpn.com/commute</a></p><p>或到NordVPN官網輸入台通的專屬優惠碼【commute】</p><p>現在購買獨家優惠方案 享贈送4個月</p><p>另有30天試用期，可以隨時取消</p><p><br /></p>\n"
+names = ["EP536 我也不想這樣 ft. 沈可尚"]
+tag = ["Mar 28, 2026", "Mar 2026", "2026"]
+category = []
+
 [twc00537]
 name = "EP535 高雄笛笛撞"
 feed = "https://anchor.fm/s/1ea77470/podcast/play/117513046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-26%2Fb7da83fa-e3ac-3f15-12b8-29f95c40bbc2.mp3"
